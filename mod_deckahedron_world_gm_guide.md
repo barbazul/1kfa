@@ -153,10 +153,10 @@ Give each player a Deckahedron.
 > card of your Deckahedron, and we'll see the result on the flipped-over
 > side. There are 4 possible results:
 >
-> * ✔✔ : this means you succeed at the thing you tried
-> * ✔ : this usually means something good happens, but maybe with a downside
-> * ✗ : this usually means something "ok", or not-so-good happens
-> * ✗✗ : this usually means that I get to say what happens and make my own move
+> * ✔✔✔  : this means you succeed at the thing you tried
+> * ✔✔  : this usually means something good happens, but maybe with a downside
+> * ✔  : this usually means something "ok", or not-so-good happens
+> * ✗ : this usually means that I get to say what happens and make my own move
 >
 > When I ask you to flip, I'm going to say something like "flip Anchors"
 > or "flip red" or "flip green". That means you find the result
