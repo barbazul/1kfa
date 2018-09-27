@@ -687,14 +687,13 @@ is *incapacitated* and can take no further actions.
 
 ##
 
-# Speed/Wealth/Pack
+# Encumberance
 
 Your character has a movement speed,
 a certain lightness-of-foot,
 they carry a certain amount of equipment and items,
 and they carry a certain amount of wealth.
-These attributes are tracked with the Speed/Wealth/Pack system.
-The more equipment and wealth carried, the lower their speed.
+All this is tracked with the Slot Cards.
 
 Daily-use amounts of money and food are not tracked. It is assumed
 your character will always be able to scrounge a meal somehow.
@@ -702,21 +701,22 @@ your character will always be able to scrounge a meal somehow.
 Movement speed is not an exact measurement in meters-per-second.
 It will matter when attempting moves where being laden with loot and gear
 matters. Particularly moves with the tag "UNENCUMBERED".
-When your speed goes below 4, you may not perform any "UNENCUMBERED" moves.
+When any of your Slot Cards is flipped over to the "ENCUMBERED" face,
+your character may not perform any "UNENCUMBERED" moves.
 
-You have 6 tokens that can be allocated between 3 slots on your
-character sheet (Speed, Pack, Wealth) and Item cards.
+You have 2 Slot Cards - one of them tracks your items, and the other
+tracks your Wealth and Pack. (Pack is a non-specific placeholder for
+all the miscelaneous gear your character is carrying)
 
-If you don't want to carry any items, equipment or wealth, you can
-put all 6 tokens on Speed.
+When you gain item cards, Wealth cards, or Pack cards, place them on
+the appropriate labeled slot of your Slot Cards. If the Unencumbered
+face of a Slot Card doesn't have room, flip it over to the ENCUMBERED
+face.
 
-Tokens represent weight or difficulty to carry, when they're not on speed.
+You can drop items, Wealth and Pack at any time during the game, as
+long as it makes sense in the fiction.
 
-Some Item cards require more than 1 token.
-
-Beyond the effects Speed has on certain moves, the number of tokens you
-have on Speed can have fictional effects. The GM may interpret a Speed of
-0 as limiting a character's gait.
+Some Item cards require more than 1 slot.
 
 
 # Moves - Good Thing I Brought, Do a Flashback, Critical Success, Take a Breather
@@ -882,15 +882,15 @@ After you choose your starting moves, Choose 2 items
    * Note, even without studying the Use A Magic Item move, it's still possible
      to use magic items.
 
-## Carrying Items Reduces Speed
+## Fitting the Fiction to Encumberance
 
 There are blanks on some item cards, and some items are designed starting
 from entirely blank cards. You get to give your items descriptive names
 and define what they are. But you do not get to change the rule that each
-item you carry reduces your speed.
+item you carry takes a slot.
 
 It is common for a player to ask why the magic amulet or ring they've created,
-a trinket that is normally a couple grams, reduces their speed. The GM didn't
+a trinket that is normally a couple grams, might encumber them. The GM didn't
 give the item its descriptive name, so an explanation isn't the GM's
 responsibility. The GM may even return the question, "Yes, why does it weigh
 you down? What about magic in this world, or what about your character makes
@@ -1100,7 +1100,7 @@ roll when you roll attack power. Higher power weapons should not be given
 out lightly. Generally players should seek weapon power increases from the
 Craft a Weapon and _ Mastery moves.
 
-The GM should decide how many Speed / Wealth / Pack tokens the weaponry
+The GM should decide how many item slots the weaponry
 requires. Is the item particularly heavy or large?
 
 Here are the weapons available to characters during character creation:
@@ -1133,7 +1133,7 @@ receive either:
  * 1 Harm token
  * or 1 Harm *or* Wound token
 
-The GM should decide how many Speed / Wealth / Pack tokens the armour
+The GM should decide how many item slots the armour
 requires. Better armour tends to be heavier and more impeding to graceful
 movement.
 
@@ -1535,7 +1535,7 @@ cards to the supply.
 
 ![Craft a Weapon card](images/move_craft_a_weapon.png){ width=2.5inch }
 
-The GM should decide how many Speed / Wealth / Pack tokens the weapon
+The GM should decide how many item slots the weapon
 requires. Is the item particularly heavy or large? The GM should weigh that
 cost against the weapon's other features.
 
