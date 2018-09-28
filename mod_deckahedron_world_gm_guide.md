@@ -1165,29 +1165,53 @@ After the draft is over, if someone doesn't have an A card, they may
 additionally choose any C card that wasn't chosen in the draft.
 
 
-### Name your character
-
-When players have finished picking cards, ask them what their character
-is called. Have them write the name on the top of their character sheet
-bold and large so that you can read it. Using large print with a felt-tipped
-marker is recommended.
-
-
 ### Choose Int / Str / Dex
 
 ![Point distributions](images/point_distributions.png){ width=7cm }
 
 Tell the players to choose how to distribute 6 points among the attributes.
-No attribute may have a rank of zero. They must all be at least Anchors.
+No attribute may have a rank of zero. They must all be at least Anchors,
+and there's no rank above Dart.
 
 Looking at which attributes get applied to their chosen move cards will
 help the players decide how to distribute these 6 points.
 
+> Now that you've got a few moves, you'll want to fill in your character's
+> attributes. There are three: Dexterity, Intelligence, and Strength,
+> shortened to "Dex", "Int", and "Str" on your character sheet.
+>
+> You have six points to distribute among them, and each attribute must
+> have at least one point -- you can't have an attribute of rank zero.
+>
+> Your attributes will affect the degree of success you enjoy when you
+> trigger the different moves. You can see what the moves depend on by
+> looking towards the upper left side of a move card. A move that depends
+> on Str is more likely to get a better result when your Str is really
+> high.
+>
+> If you're interested in the exact statistical breakdown, there's a page
+> at the end of your move booklet that lays it all out. For now though,
+> you should probably just go with your gut.
+
+
+### Name your character
+
+When players have finished picking cards, ask them what their character
+is called.
+
+> Ok, now think of a name for your character and write it down.
+> When you've got it written down, announce it to the table.
+
+Have them write the name on the top of their character sheet
+bold and large so that you can read it. Using large print with a felt-tipped
+marker is recommended.
+
 
 ### Add flesh
 
-As they are choosing cards, ask the questions on this list, one-at-a-time,
-and make notes from the players' answers. Don't ask each question to each
+Starting with the first player to announce their character's name, ask the
+questions on this list, one-at-a-time, and make notes of the players' answers.
+Don't ask each question to each
 player, address a question to just one player, then move on, asking the
 next question to the next player. This exercise gets the players thinking
 about their characters, and gets the table talking, so it's ok for players
@@ -1266,8 +1290,22 @@ card, the player takes the tokens.
 
 Risk Drivers help players with less experience in role-playing games
 decide what to do. If they are very useful at your table, you can do the
-risk driver procedure for a players after they finish a period of downtime
+risk driver procedure for players after they finish a period of downtime
 and head out again for adventure.
+
+
+### Alternative: Risk Takers
+
+If the players have all played 1kFA before, you can skip the Risk Driver
+cards and let the players describe their character's motivations in a more
+free-form manner.
+
+Ask this question to each player: What about your character's personality
+causes them to overreach?  What makes them take risks a normal person avoids?
+Are they brave, foolhardy, driven, greedy, curious, grieving? Caught between
+two worlds? Unsure of who they are? Do they have a deathwish?
+
+Write down the answers.
 
 
 ### Distribute Slot Cards
@@ -1420,16 +1458,6 @@ Use this information to get your first point in your *Good Bank*, by
 starting the story out in a place of normalcy, vitality, and comfort.
 Remember, it doesn't have to be a Hobbit hole.  Characters might be most at
 home in the middle of a bloody battle.
-
-
-### Risk Takers
-
-Ask this question to each player: What about your character's personality
-causes them to overreach?  What makes them take risks a normal person avoids?
-Are they brave, foolhardy, driven, greedy, curious, grieving? Caught between
-two worlds? Unsure of who they are? Do they have a deathwish?
-
-Write down the answers.
 
 
 ### How do you meet?
