@@ -1,6 +1,6 @@
 "The enemy gate is down". Ha!
 
-You descend, face-first into the fusion-gushing star to absorb enough energy for FTL
+You ship descends, face-first into the fusion-gushing star to absorb enough energy for FTL
 
 Your accelerational compensators whir into action to defend your soft bio-bodies
 against the trauma.
@@ -25,7 +25,7 @@ The blackness turns off and new constellations turn on.
 themselves "I" who pilot a mostly-liquid gene-dispersal system that evolved to *orient* itself
 on a spinning sphere so many stars away you've stopped counting.
 
-Every time, it feels like a dreams that tricks you into thinking you've just awoken,
+Every time, it feels like that dream that tricks you into thinking you've just awoken,
 while other-also-self screams at you to wake up again.  For real, this time.
 
 You move your hands. The procedure is always slow, every switch and setting feels like a
