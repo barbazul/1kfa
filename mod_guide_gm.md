@@ -3,8 +3,9 @@
 This guide is intended for a Game Master (GM).
 
 Read this guide if you are the volunteer among your friends to run the
-game of A Thousand Faces of Adventure (from here forward abbreviated to
-1kFA). Your responsibilities are:
+game of A Thousand Faces of Adventure (hereafter abbreviated to 1kFA).
+
+Your responsibilities are:
 
  * pitch the idea of playing 1kFA to your friends
  * know, teach, and follow the rules

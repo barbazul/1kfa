@@ -8,7 +8,7 @@ Welcome to A Thousand Faces of Adventure!
 
 # Welcome to Roleplaying
 
-A Thousand Faces of Adventure (from here forward abbreviated to 1kFA)
+A Thousand Faces of Adventure (hereafter abbreviated to 1kFA)
 is a framework for telling a story. The authors of the story
 are you and your friends, sitting around a table.
 
