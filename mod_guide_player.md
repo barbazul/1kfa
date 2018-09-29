@@ -1,21 +1,22 @@
-# Deckahedron World - Player's Guide
+# A Thousand Faces of Adventure: Player's Guide
 
 # Tagline
 
 Like board games? Remember Dungeons & Dragons? Want to try improv?
-Welcome to Deckahedron World!
+Welcome to A Thousand Faces of Adventure!
 
 
 # Welcome to Roleplaying
 
-Deckahedron World is a framework for telling a story. The authors of the story
+A Thousand Faces of Adventure (from here forward abbreviated to 1kFA)
+is a framework for telling a story. The authors of the story
 are you and your friends, sitting around a table.
 
 This story is improvisational, interactive, and collaborative.
 
 The rewards for playing are laughter and excitement while you play, and
 warm conversations for years afterwards that start with "Remember that time
-we were playing Deckahedron World and..."
+we were playing 1kFA and..."
 
 
 ## How to make a great story
@@ -35,7 +36,7 @@ Your inner child might giggle at the brothel scenes in HBO's Game of
 Thrones. If you don't know what topics your friends consider "off-limits",
 it is a good idea to ask and tell before you start playing.
 
-The story that emerges from Deckahedron World is not a precisely crafted
+The story that emerges from 1kFA is not a precisely crafted
 thing. That's ok. It doesn't have to be high art or even a cartoon on Adult
 Swim. It gets shaped by each player, and when your turn comes, you
 adapt, do your best improvisational
@@ -48,7 +49,7 @@ become.
 
 ## Specifically, What to do
 
-In a game of Deckahedron World, one person will take on the role of the
+In a game of 1kFA, one person will take on the role of the
 Game Master, or "GM".  The other people will be called simply "Players".
 
 ### The GM
@@ -71,7 +72,7 @@ Think about your character like a hero of a movie, and try playing as
 the writer of the movie, or the director, or immerse yourself like a method
 actor standing in the character's shoes and seeing with their eyes.
 
-Deckahedron World invites you to:
+1kFA invites you to:
 
  * Describe your character and their actions
    * Act out their dialogue
@@ -232,7 +233,7 @@ flip with two disadvantage cards.
 ![A green token card](images/component_card_green_token.png){ width=2.5inch }
 
 Resolving flips is the main way that players acquire green tokens in
-Deckahedron World. Green tokens are sometimes called "risk rewards" and
+1kFA. Green tokens are sometimes called "risk rewards" and
 they are a player's most important mechanical currency in the game.
 
 Some Deckahedron cards have a green token symbol in the middle.
@@ -344,7 +345,7 @@ A GM only calls for a flip when the situation is uncertain or risky for
 the character. If the outcome is certain, the GM may just narrate what
 happens. Or they may ask you some clarifying questions.
 
-Deckahedron World is a conversation between people, so there is variability
+1kFA is a conversation between people, so there is variability
 in how it plays out. Different GMs will draw their line of certainty at
 different places.
 
@@ -389,8 +390,7 @@ character does in a natural way.
 ### Fictional position *matters*
 
 Because uncertainty is a key requirement before a flip is called for,
-the fiction that you and your friends establish in Deckahedron World
-*matters*.
+the fiction that you and your friends establish in 1kFA *matters*.
 
 If a character threatens to punch a towering Mountain Giant in the shin, the
 GM will not call for a Parley flip. A wound to the arm or hand might be
@@ -550,7 +550,7 @@ When you are instructed to take a Harm token:
 ![Harm token](images/component_harm.png){ width=2.5inch }
 
 > Note, you will see this "1-2-bust" pattern repeated in many
-> of Deckahedron World's rules
+> of 1kFA's rules
 
 ### Receiving Harm in Longer Campaigns
 
@@ -730,12 +730,12 @@ they come prepared with adventuring gear. They have been known to carry
 50 feet of rope, smelling salts, books of racy poems, sometimes even a
 3-day-old pork chop to distract hounds or hungry goblins.
 
-It's a fact. You know this and Deckahedron World knows this, so it doesn't
+It's a fact. You know this and 1kFA knows this, so it doesn't
 ask you to keep fine-grained notes of every candle and spare button in your
 character's inventory.
 
 Reasonable daily-use items are presumed to be in your character's pack. If
-you're unsure, remember Deckahedron World is a conversation, so just ask
+you're unsure, remember 1kFA is a conversation, so just ask
 the table.
 
 But sometimes you will be in a situation where having that 50 feet of rope
@@ -896,11 +896,11 @@ responsibility. The GM may even return the question, "Yes, why does it weigh
 you down? What about magic in this world, or what about your character makes
 them especially burdened by magical items? Does your character even know?"
 
-The narrative of Deckahedron World is a collaboration.
+The narrative of 1kFA is a collaboration.
 
 ### Fitting the fiction
 
-One of the joys of Deckahedron World is **building** your character up from
+One of the joys of 1kFA is **building** your character up from
 a scrappy adventurer to a force to be reckoned with.
 
 Characters start out just a little bit more powerful than a common villager.
@@ -965,7 +965,7 @@ adventure-appropriate music when the Session Opener concludes.
 
 # More Moves - Rest, Seek Help
 
-Throughout Deckahedron World, players are asked to decide how their
+Throughout 1kFA, players are asked to decide how their
 characters get hurt, how they respond to being hurt, and how they recover
 from their injuries.
 
@@ -1071,14 +1071,14 @@ player's character doesn't meet.
 
 ### Mundane Items: Armor, weapons, etc
 
-There are mundane items in Deckahedron World, as well as magical ones.
-Deckahedron World has rules for weapons, shields, and armour. But characters
+There are mundane items in 1kFA, as well as magical ones.
+1kFA has rules for weapons, shields, and armour. But characters
 may have other items as well. Those other items may just be decorative
 or they may have narrative value (carrying around a small barrel of brandy
 may earn you a welcome from the thirsty dwarves you meet).
 
 You can even create rules of your own for certain classes of item.
-See the [Extending Deckahedron World](#extending) chapter for hints on how
+See the [Extending 1kFA](#extending) chapter for hints on how
 to do that.
 
 #### Item Damage
@@ -1183,7 +1183,7 @@ bracers their wrists would be "unarmed", doing just 1d2 attack power.
 
 ### Magic Items
 
-Deckahedron World supports stories involving magic. To avoid presuming too
+1kFA supports stories involving magic. To avoid presuming too
 much about the narrative, the rules do not dicate the nature of magic or
 the "how" of magic. That's for you to decide during play.
 
@@ -1243,10 +1243,9 @@ allegorical like in The Wheel of Time, and it can be linguistic and
 self-aware like in The Invisibles.
 
 To allow you and your table of friends to invent and explore the magical
-concepts that excite you most, Deckahedron World takes a light touch,
+concepts that excite you most, 1kFA takes a light touch,
 provides a mechanical foundation and some optional narrative paths.
-Deckahedron World invites you to play with and expand into a well-tested
-framework.
+1kFA invites you to play with and expand into a well-tested framework.
 
 One thing to keep in mind is that characters may attempt any move that
 resolves with Str / Dex / Int.
@@ -1256,7 +1255,7 @@ at character creation or gained via Study Under a Master, any character may
 attempt them.
 
 That said, using magic invokes some of the more complicated rules of
-Deckahedron World. Players are challenged with managing and balancing
+1kFA. Players are challenged with managing and balancing
 charges, capacity, stamina, requirements and narrative effect. This kind
 of play is ideal for players excited by complexity and the potential
 of explorable branches.
@@ -1365,7 +1364,7 @@ process again later, which would let you add 2 advantage cards when you flip.
 
 But what about the 2 "red" levels?
 
-In Deckahedron World, any character can attempt any move that is performed
+In 1kFA, any character can attempt any move that is performed
 by flipping Str, Dex, or Int -- even if the player doesn't have that move
 card!
 
@@ -1517,7 +1516,7 @@ all other symbols except for the "goat" symbol on the wound cards.
 
 ![Sharpen and Stitch card](images/move_sharpen__stitch.png){ width=2.5inch }
 
-Non-magical items can be damaged in Deckahedron World. Usually this happens
+Non-magical items can be damaged in 1kFA. Usually this happens
 narratively as the result of a GM move, but it can also be caused by player
 moves, eg. Armour Mastery.
 
@@ -1579,7 +1578,7 @@ and monsters.
 Fights among player characters can be great to introduce drama and increase
 tension in your narrative. But they are designed so that one player cannot
 force another player out of the decision making process. The narrative
-you create in Deckahedron World is a *shared* one.
+you create in 1kFA is a *shared* one.
 
 When a player's character attacks another player's character, moves are
 triggered as they would normally be, and costs are paid (eg, if the attacker

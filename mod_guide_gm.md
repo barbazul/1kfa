@@ -1,11 +1,12 @@
 # GM Guide
 
-This guide is intended for a Deckahedron World Game Master (GM).
+This guide is intended for a Game Master (GM).
 
 Read this guide if you are the volunteer among your friends to run the
-game. Your responsibilities are:
+game of A Thousand Faces of Adventure (from here forward abbreviated to
+1kFA). Your responsibilities are:
 
- * pitch the idea of playing Deckahedron World to your friends
+ * pitch the idea of playing 1kFA to your friends
  * know, teach, and follow the rules
  * give Non-Player Characters (NPCs) names, voices, motivations,
    and behaviour
@@ -38,9 +39,9 @@ is "Show, don't tell".
 
 In that spirit, you are invited to visit
 `https://www.deckahedron.com/world/examples`. There, you will see examples
-of Deckahedron World being played. For all the author's attempt to make this
+of 1kFA being played. For all the author's attempt to make this
 document clear, brief, and unambiguous, those examples may do a better job
-of conveying just what Deckahedron World is and how it is played.
+of conveying just what 1kFA is and how it is played.
 
 
 # First-time Players
@@ -50,13 +51,13 @@ World before, read the Start Script and play Sarukkan's Chamber.
 
 ## Start Script
 
-> Hi everyone! We're going to play Deckahedron World.  This is going
+> Hi everyone! We're going to play 1kFA.  This is going
 > to be really fun, I'm glad you could join me for this!  I'm reading
 > directly from a script that was designed to get us started fast, by
 > going over just enough of the rules for our first session, so please
 > pay attention now so we can get to the fun of the game quickly!
 > 
-> Deckahedron World is a *narrative* game.
+> 1kFA is a *narrative* game.
 > 
 > It's a storytelling game where we all collaborate and tell the story
 > together.
@@ -408,9 +409,9 @@ to react to.
 ### Goals for Sarrukan's Chamber
 
 Ideally, Sarukkan's Chamber should demonstrate what kind of game
-Deckahedron World is.
+1kFA is.
 
-Deckahedron World creates plot questions for players to answer:
+1kFA creates plot questions for players to answer:
 
  * Will the brother & sister who haven't seen each other in a
    decade discover each other's identities?
@@ -419,7 +420,7 @@ Deckahedron World creates plot questions for players to answer:
  * (3rd player variant) Will the reluctant guard choose to obey an
    evil master, or rebel?
 
-Deckahedron World creates tension and action:
+1kFA creates tension and action:
 
  * Potential combat against guards or kitchen staff or Sarukkan himself
  * Potential chases involving outsmarting or outmaneuvering pursuers
@@ -431,7 +432,7 @@ Deckahedron World creates tension and action:
 Your group's playing of Sarrukan's Chamber doesn't have to *all of this*,
 just give players a taste.
 
-It should also help teach the rules of Deckahedron World.
+It should also help teach the rules of 1kFA.
 
  * Get each player to have an opportunity to do a Deckahedron flip
  * If a player flips green token card, that's an opportunity
@@ -553,7 +554,7 @@ Here are 6 gems to come back to whenever you don't know what to say next.
 ## Portray the World of the Touchstone List
 
 Firstly, **portray the world of the Touchstone List**.
-Deckahedron World is about characters who have decided to take up an
+1kFA is about characters who have decided to take up an
 adventure in the hopes of some fulfilling a strong need. It's your job
 to participate in that by showing the players a world in which their
 characters can find that adventure.
@@ -586,7 +587,7 @@ players to create a world that's engaging and dynamic. Adventurers are
 always caught up in some dangerous situation or another -- encourage and
 foster that kind of action in the game.
 
-Deckahedron World adventures **never** presume player actions. A Deckahedron
+1kFA adventures **never** presume player actions. A Deckahedron
 World adventure portrays a setting in motion -- someplace significant with
 creatures big and small pursuing their own goals. As the players come into
 conflict with that setting and its denizens, action is inevitable. You’ll
@@ -627,7 +628,7 @@ But it may also just be general narration.
 
 ## Ask the Players Questions
 
-Deckahedron World is a conversation. The GM is the main storyteller, but not
+1kFA is a conversation. The GM is the main storyteller, but not
 the only storyteller. **Ask the players questions** and use the answers.
 Embrace your curiosity.
 
@@ -786,7 +787,7 @@ constrained to the fiction that engaged them.
 
 The last example does something even more strange. It talks about a
 disembodied "camera" and portrays a scene to the *players*, but not to the
-*characters*. This can be a fun style of play in Deckahedron World, but
+*characters*. This can be a fun style of play in 1kFA, but
 it may not please every group because it "breaks immersion". If you
 describe the world like a movie, you're asking players to be audience,
 not actors.
@@ -981,13 +982,13 @@ You may need to reiterate to the players that you're looking for *titles*.
 ### Step 2 - Narrow Titles
 
 Take a look through the titles for anything that may be in a setting that's
-not well-supported by the rules of Deckahedron World. If there is such a
-setting, remind the players that Deckahedron World has rules for swords and
+not well-supported by the rules of 1kFA. If there is such a
+setting, remind the players that 1kFA has rules for swords and
 limited magic, and no rules for machine guns or interstellar travel. So
 choosing sci-fi touchstones might help with themes and tone, but won't have
 much to offer for establishing setting.
 
-Deckahedron World works best with stories where characters start out
+1kFA works best with stories where characters start out
 "scrappy", that is to say, without extraordinary powers and privileges,
 characters who struggle, who chafe against their current limitations in the
 world. So superhero titles or stories where protagonists are genetically
@@ -1012,13 +1013,13 @@ finished.
 
 The GM, using their knowledge of the rules, should read the list and
 call out any potential conflicts between circled titles and the rules of
-Deckahedron World.
+1kFA.
 
 Will the players expect their characters to pull off the same feats
 and use the same powers of the chosen touchstones?
 
 *Die Hard* is a great touchstone for tone, themes, and relationships, but
-Deckahedron World doesn't have rules for helicopters or machine guns.
+1kFA doesn't have rules for helicopters or machine guns.
 
 The GM should not *reject* any circled titles, they should just address
 what's going to be possible.
@@ -1079,7 +1080,7 @@ Leave enough space to track the points under each of those headings.
 
 ### Set Expectations
 
-> Deckahedron World is a game about a group of scrappy adventurers who
+> 1kFA is a game about a group of scrappy adventurers who
 > grow in power as we play the game.
 >
 > Your character will start the game with skills and gifts beyond ordinary
@@ -1098,7 +1099,7 @@ Gather the move cards, and separate them into piles:
 
 If you are playing a One-Shot campaign, remove "Entreat the Blood-Bound"
 
-#### If any player is new to Deckahedron World
+#### If any player is new to A Thousand Faces of Adventure
 
 Lay out the A cards in front of your players.
 Then select and lay out 4 B cards.
@@ -1126,7 +1127,7 @@ Then select and lay out 4 C cards.
 > If you're the kind of person that really wants to optimize your character
 > you'll probably want to read and understand the rules in the Player's Guide,
 > plus all the text of the move cards, and now might not be the best time
-> for that. Deckahedron World is more about improvisation than perfection,
+> for that. 1kFA is more about improvisation than perfection,
 > so try to listen to your gut and just pick cards that look like fun.
 
 As players choose cards, there may be opportunities to explain some of the
@@ -1141,7 +1142,7 @@ When a player chooses a card with an IMMEDIATE tag, take that opportunity
 to explain that they can only use one IMMEDIATE move at a time, and that
 they don't risk a GM move if they flip ✅ or ✗.
 
-#### If every player has played Deckahedron World before
+#### If every player has played 1kFA before
 
 For experienced players, moves are chosen by drafting cards.
 
@@ -1243,11 +1244,11 @@ character is confronted with.
 
 As you're asking the players these questions, listen for how the answers
 signal the kind of fun the players want to have and also measure the
-expectations they have for the game. Deckahedron World is a game where
+expectations they have for the game. 1kFA is a game where
 characters start off as scrappy adventures.  If a player is telling you
 their character is a fire demon or a ten year old shoe-shine boy or a
 computer hacker, a conversation is needed to establish how that character
-can fit into the Deckahedron World rules.
+can fit into the 1kFA rules.
 
 If a player's character reads as way too exotic, that might be the player
 signaling that the fun they want to have is playing a different game.
@@ -1255,7 +1256,7 @@ signaling that the fun they want to have is playing a different game.
 
 ### Choose Risk Drivers
 
-> Since Deckahedron World is a game about taking risks, I'm going
+> Since 1kFA is a game about taking risks, I'm going
 > to give you an opportunity to get some bonuses when you get risky.
 > We're going to create what are called "Risk Driver" cards.
 >
@@ -1379,7 +1380,7 @@ and they know exactly what kind of item the character posesses.
 
 > Next, everyone gets to choose 2 item cards for your character, these can
 > be weapons, armour, or any other items that have mechanical significance.
-> Deckahedron World comes with some cards to get us started, but we can
+> 1kFA comes with some cards to get us started, but we can
 > also write stuff on blank cards.
 >
 > It's recommended that your character have some kind of weapon. Without
@@ -1429,7 +1430,7 @@ boots make it impossible to pick a pocket?
 
 The answer is: that's for them to decide.
 
-In Deckahedron World, there are two arenas: the fiction and the rules.
+In 1kFA, there are two arenas: the fiction and the rules.
 Playing means flowing between the two arenas. All the players create
 fiction, which triggers rules, then the rules produce mechanical results
 which the players are challenged to interpret into fiction. Sometimes that
@@ -1633,7 +1634,7 @@ responses in combat because flips are happening frequently. So, to relieve
 some of that pressure on the GM, here are some formats available to follow
 to get you through a fight scene.
 
-Deckahedron World doesn't have turns, but it's ok if moving the spotlight
+1kFA doesn't have turns, but it's ok if moving the spotlight
 during combat makes it feel that way.
 
 ### Format 1
@@ -1810,7 +1811,7 @@ statistics reference.  You'll see that if your players are mostly doing
 standard flips (flips without advantage), they are likely to feel the game
 is unfair.
 
-Explain to your players that getting good at playing Deckahedron World
+Explain to your players that getting good at playing 1kFA
 means *creating advantages*. There are built-in moves like Discern and
 Defend that can be used to create advantages. Explain
 each one of these moves.  Discern should be particularly encouraged if
@@ -1849,7 +1850,7 @@ to dole out green tokens. Give a new one to each player.
 
 ## The Core Game Loop
 
-Deckahedron World has 2 main types of activities, "downtime" activities,
+1kFA has 2 main types of activities, "downtime" activities,
 and "adventure" activities. The game transitions from downtime to
 adventure and back again to downtime, repeating in a "loop".
 
@@ -2319,7 +2320,7 @@ See LICENSE.txt
 > mean that their use of the Air Sculpting Staff is just wasted? I want to
 > connect their cool set-up with a rewarding outcome.
 
-This might cause some pause or confusion, because Deckahedron World tells
+This might cause some pause or confusion, because 1kFA tells
 GMs they can't just hand out advantages based on fiat or "the rule of cool".
 But there are a few options here for a GM.
 

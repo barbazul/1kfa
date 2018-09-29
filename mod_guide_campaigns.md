@@ -1,21 +1,22 @@
 # GM Guide - Campaigns
 
-In Deckahedron World, there are 3 different kinds of Campaigns:
+In A Thousand Faces of Adventure (hereafter abbreviated to 1kFA),
+there are 3 different kinds of Campaigns:
 
  * One-shot (usually 3 hours)
  * 9-hour
  * 30-hour
 
-The stories you will tell by playing Deckahedron World are told in 3 parts:
+The stories you will tell by playing 1kFA are told in 3 parts:
 beginning, middle, and end.
 
 If you've played other RPGs that *don't have endings*, ones that go on for
 months or even years, this might seem weird to you.
 Don't worry, try out a 9-hour campaign and see the results.
-You may find your doubts erased. And don't worry, Deckahedron World allows
+You may find your doubts erased. And don't worry, 1kFA allows
 you to stretch beyond 30 hours if you really want that.
 
-Deckahedron World is designed to tell a particular kind of story.
+1kFA is designed to tell a particular kind of story.
 It's called *The Hero's Journey* by people who study story structure.
 
 *The Hero's Journey* is a skeleton upon which many successful and popular
@@ -177,7 +178,7 @@ a "hook". Here are some things to think about to help you invent a hook:
    * How might the hunter become the hunted?
  * Rescue
    * Who or what was taken, and where does it rightfully belong?
-   * What power does the object posess?
+   * What power does the precious thing posess?
  * Re-order, rearrange, fortify
    * What is unbalanced, and what effect does that have on the world?
    * Who is not doing their job?
@@ -549,7 +550,7 @@ When the characters return back to the ordinary world, they will have to
 defeat the Threshold Guardian, or if that chapter was skipped, they will have
 to come to terms with where they've been and who they are now.
 
-A game of Deckahedron World can resolve in many ways. Where does their new
+A game of 1kFA can resolve in many ways. Where does their new
 power lie? Game mechanisms? Relationships? Knowledge? Something else?
 
 ### The Chapter 8 Move
@@ -598,7 +599,7 @@ Every thought, idea, action expressed in the narrative came from a player, one
 of your friends. Even the most ephemeral or small contribution is special
 because it was unique to that person in that context.
 
-If you want to make a game of Deckahedron World really great, pay attention to
+If you want to make a game of 1kFA really great, pay attention to
 *who* your friends are and guess at *why* they are expressing their character
 the way they do. Then use those guesses in the story.
 
