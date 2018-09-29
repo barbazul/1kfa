@@ -19,7 +19,7 @@ pandoc \
  --toc \
  -t html \
  --css=/tmp/markdown.css \
- mod_deckahedron_world.md -o /tmp/1kfa_playtest/guide_player.html
+ mod_guide_player.md -o /tmp/1kfa_playtest/guide_player.html
 
 pandoc \
  -s \
@@ -27,7 +27,7 @@ pandoc \
  --toc \
  -t html \
  --css=/tmp/markdown.css \
- mod_deckahedron_world_gm_guide.md -o /tmp/1kfa_playtest/guide_gm.html
+ mod_guide_gm.md -o /tmp/1kfa_playtest/guide_gm.html
 
 pandoc \
  -s \
@@ -35,13 +35,13 @@ pandoc \
  --toc \
  -t html \
  --css=/tmp/markdown.css \
- mod_deckahedron_world_campaigns.md -o /tmp/1kfa_playtest/guide_campaigns.html
+ mod_guide_campaigns.md -o /tmp/1kfa_playtest/guide_campaigns.html
 
 cp /tmp/1kfa_playtest/*.html $DECKAHEDRON_SITE_LOC/
 
-pandoc --reference-odt=custom_pandoc_reference.odt mod_deckahedron_world.md -o /tmp/guide_player.odt
-pandoc --reference-odt=custom_pandoc_reference.odt mod_deckahedron_world_gm_guide.md -o /tmp/guide_gm.odt
-pandoc --reference-odt=custom_pandoc_reference.odt mod_deckahedron_world_campaigns.md -o /tmp/guide_campaigns.odt
+pandoc --reference-odt=custom_pandoc_reference.odt mod_guide_player.md -o /tmp/guide_player.odt
+pandoc --reference-odt=custom_pandoc_reference.odt mod_guide_gm.md -o /tmp/guide_gm.odt
+pandoc --reference-odt=custom_pandoc_reference.odt mod_guide_campaigns.md -o /tmp/guide_campaigns.odt
 
 cd dist
 

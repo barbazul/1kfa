@@ -26,8 +26,8 @@ def markdown(player, gm, campaign):
         cc = '%s %s' % (c or ('',''))
         print '| `%s` | `%s` | `%s` |' % (pp, gg, cc)
 
-player = parse('mod_deckahedron_world.md')
-gm = parse('mod_deckahedron_world_gm_guide.md')
-campaign = parse('mod_deckahedron_world_campaigns.md')
+player = parse('mod_guide_player.md')
+gm = parse('mod_guide_gm.md')
+campaign = parse('mod_guide_campaigns.md')
 
 markdown(player, gm, campaign)

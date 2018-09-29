@@ -169,7 +169,7 @@ Give each player a Deckahedron.
 > Let's try it: everybody put your Deckahedron on the table and flip yellow.
 
 Step the players through "flipping yellow" using the instructions in the
-[Player's Guide](mod_deckahedron_world.md)
+[Player's Guide](mod_guide_player.md)
 
 Make sure each player understands how to execute a flip before you proceed.
 
@@ -649,7 +649,7 @@ their character live up to the promise of being powerful in this fantasy
 world.
 
 When you're stumped for what happens next, consider where you are in the
-[Campaign](mod_deckahedron_world_campaigns.md), and ask a leading question.
+[Campaign](mod_guide_campaigns.md), and ask a leading question.
 Use their answer to introduce the next challenge.
 
 | Chapter         | Question
@@ -931,7 +931,7 @@ When a GM has time in the spotlight, and the set-up has been established,
 they have an opportunity to earn themselves a point in the *Good Bank* by
 taking the plot to another milestone in the Hero's Journey.
 
-Look to the [Campaigns Guide](mod_deckahedron_world_campaigns.md) and
+Look to the [Campaigns Guide](mod_guide_campaigns.md) and
 decide which milestone the current fictional situation is well set-up
 for.
 
@@ -2242,7 +2242,7 @@ Some fundamentally simple desires:
 
 To get more ideas for desires, you can use the same **Hooks** section that
 is used to motivate player characters in the
-[Campaigns Guide](mod_deckahedron_world_campaigns.md).
+[Campaigns Guide](mod_guide_campaigns.md).
 
 Think about your villain as a full person. You will have to improvise their
 actions and decisions, so use empathy. Decide if they are driven by reason

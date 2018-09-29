@@ -56,7 +56,7 @@ must spend a Speed token to carry the item.
 ### Bravely Run Away!
 
 Here's an example from
-[Deckahedron World](mod_deckahedron_world.md)
+[Deckahedron World](mod_guide_player.md)
 of how Speed can work in a game.
 
 There is a move called "Bravely Run Away!". You can use this move to escape
