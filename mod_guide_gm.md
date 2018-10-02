@@ -435,7 +435,7 @@ just give players a taste.
 
 It should also help teach the rules of 1kFA.
 
- * Get each player to have an opportunity to do a Deckahedron flip
+ * Work in an opportunity for each player to do a Deckahedron flip
  * If a player flips green token card, that's an opportunity
    to explain how they earn green tokens
  * If a player flips the Critical Success card, that's an opportunity
@@ -449,6 +449,8 @@ It should also help teach the rules of 1kFA.
    Chamber itself.
  * If any player-versus-player combat happens, remember to use the PvP
    combat rules
+ * If a player's character faces an attack power roll of 3 or greater,
+   they will need to decide whether to take Harm
 
 It should also be a warm-up for your GM skills.
 
@@ -456,7 +458,7 @@ It should also be a warm-up for your GM skills.
  * Move the spotlight - be fair, let all players impact the narrative
  * Manage the pace. Let the PCs have some dialogue, but when it feels like
    they're hesitating, push quickly to the approaching dangers.
- * Get the guards into the room for a quick fight.
+ * Get some guards into the room for a quick fight.
  * As the PCs gain the upper hand, show signs of another threat (maybe
    the wizard himself approaches - it's ok to tell the story of what's
    happening *off-camera*)
@@ -1544,15 +1546,16 @@ a point in your Bad Bank.
 
 ## Balance
 
-Grab a piece of paper and write down the names of each opponent.
+On your GM worksheet or any piece of paper, write down the names of
+each foe.
 Beside their name, write their attack power die (d2, d4, d6, d10).
 Beside that, draw ticks for their Stamina points.
-Finally, draw boxes with "H" or "H/W" next to them to represent how
-if they can absorb Harm or Wounds.
+Finally, draw boxes next to the Stamina points to represent "armour"
+that will let them absorb Harm or Wounds.
 
 ![GM Worksheet](images/gm_worksheet_filled.png){ width=7cm }
 
-Opponents' Stamina and attack power should be realistically scaled
+Foes' Stamina and attack power should be realistically scaled
 to the "scrappy adventurer" level of the players. This table should help.
 
 |                   | Stamina points | Attack power
@@ -1561,6 +1564,8 @@ to the "scrappy adventurer" level of the players. This table should help.
 | Civilians         | 4              | 1d2 - 1d4
 | Bouncers, Guards  | 5-6            | 1d2 - 1d4
 | Trained Soldiers, Elite Guards  | 7-10 | 1d4 - 1d6
+| Monsters          | 5-20           | 1d4 - 1d10
+| Villains          | 5-10           | 1d4 - 1d10
 
 Generally, human opponents will have d2 attack power when unarmed and d4
 attack power when armed. Save greater attack powers for monsters and special
@@ -1586,13 +1591,13 @@ Use Party Power to give the foes:
 |------------------------------------------------|------------------
 | One stamina point                              | 1
 | A weapon that does 1d6 damage                  | 4
-| One armor slot that can absorb Harm            | 3
-| One armor slot that can absorb Harm or Wound   | 6
+| One armor box that can absorb Harm             | 3
+| One armor box that can absorb Harm or Wound    | 6
 
 You can also augment foes by
 [spending points from the *Bad Bank*](#using-the-bad-bank).
 
-Sometimes you just want to punctuate the plot with some action by throwing
+Sometimes you just want to punctuate the session with some action by throwing
 in a low-stakes, quick-and-easy fight. In that case, use half of the
 Party Power to create foes, but put something else in jeopardy (information,
 resources, social standing, risk of alarm)
