@@ -277,6 +277,29 @@ def custom_card_dom(card):
         return DOM(fpath)
     return None
 
+def component_type(card):
+    if card.get('component'):
+        return card.get('component')
+    elif card.get('equipment'):
+        return 'mundane_deck'
+    else:
+        return 'move_deck'
+
+def card_filenames(card, i):
+    dirpath = '%s/%s/' % (DIR, component_type(card))
+
+    # Create the svg file and export a PNG
+    number = card.get('custom_number', (i+1))
+    svg_filename = dirpath + 'face%02d_%s.svg' % (
+        number,
+        filenamify(card['title'])
+    )
+    png_filename = dirpath + 'face%02d_%s.png' % (
+        number,
+        filenamify(card['title'])
+    )
+    return svg_filename, png_filename
+
 def make_deck(cards):
     export_tall_png('tall_card_back2.svg', DIR + '/move_deck/back.png')
     export_tall_png('equipment_back1.svg', DIR + '/magic_deck/back.png')
@@ -307,23 +330,7 @@ def make_deck(cards):
             pprint(card)
             raise
 
-        if card.get('component'):
-            dirpath = '%s/%s/' % (DIR, card.get('component'))
-        elif card.get('equipment'):
-            dirpath = '%s/%s/' % (DIR, 'mundane_deck')
-        else:
-            dirpath = '%s/%s/' % (DIR, 'move_deck')
-
-        # Create the svg file and export a PNG
-        number = card.get('custom_number', (i+1))
-        svg_filename = dirpath + 'face%02d_%s.svg' % (
-            number,
-            filenamify(card['title'])
-        )
-        png_filename = dirpath + 'face%02d_%s.png' % (
-            number,
-            filenamify(card['title'])
-        )
+        svg_filename, png_filename = card_filenames(card, i)
 
         dom.write_file(svg_filename)
 
@@ -334,11 +341,12 @@ def make_documentation_images(cards):
     tmp_template_filename = DIR + '/move_card_template.svg'
     for i, card in enumerate(cards):
         slug = filenamify(card['title'])
-        png_filename = DIR + '/face%02d_%s.png' % ((i+1), slug)
+        _svg_filename, png_filename = card_filenames(card, i)
         doc_img_filename = '../images/move_%s.png' % slug
         template_filename = '../images/move_card_template.svg'
         if os.path.isfile(doc_img_filename):
             c = file(template_filename).read()
+            print 'linking', png_filename
             c = re.sub(
               'xlink:href="file://.*.png"',
               'xlink:href="file://%s"' % png_filename,
