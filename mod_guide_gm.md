@@ -1,5 +1,9 @@
 # GM Guide
 
+*playtest version*
+*find latest version at https://1kfa.com*
+*email sjb@ezide.com*
+
 This guide is intended for a Game Master (GM).
 
 Read this guide if you are the volunteer among your friends to run the

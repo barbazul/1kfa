@@ -1,5 +1,9 @@
 # A Thousand Faces of Adventure: Player's Guide
 
+*playtest version*
+*find latest version at https://1kfa.com*
+*email sjb@ezide.com*
+
 # Tagline
 
 Like board games? Remember Dungeons & Dragons? Want to try improv?
