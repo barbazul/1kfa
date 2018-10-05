@@ -877,6 +877,7 @@ character creation.
  * "Entreat the Blood-Bound" move gives you Blade of Echoes
 
 After you choose your starting moves, Choose 2 items
+
  * a weapon is a popular choice. Unarmed, your attack power will be 1d2
  * You may choose 1 magical item
    * Note, even without studying the Use A Magic Item move, it's still possible
@@ -1473,6 +1474,7 @@ There may also be a Stamina cost (or Stamina gain) depending on how weighed
 down the characters were by their equipment.
 
 The GM can resolve this move by:
+
  * putting the characters somewhere completely safe
  * putting the characters in a place where some (new or old) danger exists,
    but is, for the moment, not directly threatening the characters
