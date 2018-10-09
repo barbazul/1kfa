@@ -1318,7 +1318,7 @@ Write down the answers.
 
 ### Distribute Slot Cards
 
-`TODO: illustration of Slot Cards`
+![Slot Cards](images/component_slot_cards.png){ width=7cm }
 
 Give each player their 2 Slot Cards.
 
