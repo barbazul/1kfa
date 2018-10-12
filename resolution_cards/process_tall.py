@@ -12,7 +12,7 @@ from version import VERSION
 
 DIR = '/tmp/cards_v' + VERSION
 
-from svg_dom import DOM, export_png, export_tall_png
+from svg_dom import DOM, export_png, export_tall_png, ensure_dirs
 
 DEBUG = 1
 
@@ -221,6 +221,27 @@ def one_blank_3lines_front():
     export_tall_png(svg_filename, png_filename)
 
 
+def make_slot_cards():
+    for svg_filename in ['slot_card_wealth_pack.svg', 'slot_card_items.svg']:
+        domEnc = DOM(svg_filename)
+        domUn = DOM(svg_filename)
+        for key in domEnc.layers:
+            if 'un' in key:
+                domEnc.layer_hide(key)
+                domUn.layer_show(key)
+            elif 'encumb' in key:
+                domEnc.layer_show(key)
+                domUn.layer_hide(key)
+        enc_svg_filename = '%s/slot_cards/enc_%s' % (DIR, svg_filename)
+        enc_png_filename = '%s/slot_cards/enc_%s.png' % (DIR, svg_filename)
+        un_svg_filename = '%s/slot_cards/un_%s' % (DIR, svg_filename)
+        un_png_filename = '%s/slot_cards/un_%s.png' % (DIR, svg_filename)
+        ensure_dirs(enc_svg_filename)
+        domEnc.write_file(enc_svg_filename)
+        domUn.write_file(un_svg_filename)
+        export_tall_png(enc_svg_filename, enc_png_filename)
+        export_tall_png(un_svg_filename, un_png_filename)
+
 def make_card_dom(card):
     dom = DOM('tall_card_front.svg')
 
@@ -301,6 +322,8 @@ def card_filenames(card, i):
     return svg_filename, png_filename
 
 def make_deck(cards):
+    make_slot_cards()
+
     export_tall_png('tall_card_back2.svg', DIR + '/move_deck/back.png')
     export_tall_png('equipment_back1.svg', DIR + '/magic_deck/back.png')
     export_tall_png('equipment_back2.svg', DIR + '/mundane_deck/back.png')
