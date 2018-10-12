@@ -50,17 +50,81 @@ def process_subdir(subdirname, raw_svg):
         suffix = subdirname + '%02d' % counter
         write_pdf(suffix, raw_svg_copy)
 
+def process_slot_subdir():
+    fp = file('print_and_play_slot_template.svg')
+    raw_svg = fp.read()
+    fp.close()
+    dirpath = SRCDIR + '/slot_cards'
+
+    raw_svg_copy = str(raw_svg)
+    raw_svg_copy = raw_svg_copy.replace(
+        'cards_v0.86/1.png',
+        dirpath + '/un_slot_card_items.svg.png'
+    )
+    raw_svg_copy = raw_svg_copy.replace(
+        'cards_v0.86/2.png',
+        dirpath + '/enc_slot_card_items.svg.png'
+    )
+    raw_svg_copy = raw_svg_copy.replace(
+        'cards_v0.86/3.png',
+        dirpath + '/un_slot_card_wealth_pack.svg.png'
+    )
+    raw_svg_copy = raw_svg_copy.replace(
+        'cards_v0.86/4.png',
+        dirpath + '/enc_slot_card_wealth_pack.svg.png'
+    )
+    raw_svg_copy = raw_svg_copy.replace(
+        'cards_v0.86/5.png',
+        dirpath + '/un_slot_card_wealth_pack.svg.png'
+    )
+    raw_svg_copy = raw_svg_copy.replace(
+        'cards_v0.86/6.png',
+        dirpath + '/enc_slot_card_wealth_pack.svg.png'
+    )
+    write_pdf('slot_01', raw_svg_copy)
+
+    raw_svg_copy = str(raw_svg)
+    raw_svg_copy = raw_svg_copy.replace(
+        'cards_v0.86/1.png',
+        dirpath + '/un_slot_card_items.svg.png'
+    )
+    raw_svg_copy = raw_svg_copy.replace(
+        'cards_v0.86/2.png',
+        dirpath + '/enc_slot_card_items.svg.png'
+    )
+    raw_svg_copy = raw_svg_copy.replace(
+        'cards_v0.86/3.png',
+        dirpath + '/un_slot_card_items.svg.png'
+    )
+    raw_svg_copy = raw_svg_copy.replace(
+        'cards_v0.86/4.png',
+        dirpath + '/enc_slot_card_items.svg.png'
+    )
+    raw_svg_copy = raw_svg_copy.replace(
+        'cards_v0.86/5.png',
+        dirpath + '/un_slot_card_wealth_pack.svg.png'
+    )
+    raw_svg_copy = raw_svg_copy.replace(
+        'cards_v0.86/6.png',
+        dirpath + '/enc_slot_card_wealth_pack.svg.png'
+    )
+    write_pdf('slot_02', raw_svg_copy)
+
 
 if __name__ == '__main__':
     fp = file('print_and_play_move_template.svg')
     template = fp.read()
     fp.close()
-    counter = 1
 
     for name in os.listdir(SRCDIR):
         if not os.path.isdir(SRCDIR + '/' + name):
             continue
+        if 'slot' in name:
+            continue
         process_subdir(name, template)
+
+
+    process_slot_subdir()
 
     fname = 'print_and_play_deckahedron_template.svg'
     new_pdf_name = '/tmp/print_and_play_deckahedron.pdf'
