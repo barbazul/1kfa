@@ -169,17 +169,17 @@ in the *Good Bank*.
 A common way to get players to choose to go through the threshold is to create
 a "hook". Here are some things to think about to help you invent a hook:
 
- * Capture
+ * Capture, Obstruct, Prevent
    * What is "loose" and causing trouble?
    * What is in the wrong hands or needs to be brought back into the fold?
  * Chase or Race
    * Who else has already begun seeking out the prize?
    * How long until a threat arrives here?
    * How might the hunter become the hunted?
- * Rescue
+ * Rescue or Regain
    * Who or what was taken, and where does it rightfully belong?
    * What power does the precious thing posess?
- * Re-order, rearrange, fortify
+ * Re-order, Rearrange, Fortify
    * What is unbalanced, and what effect does that have on the world?
    * Who is not doing their job?
  * Forbidden Act

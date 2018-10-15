@@ -1485,6 +1485,29 @@ play. Some questions to consider:
  * If the characters are not natural allies, how will they come to trust
    each other enough to team up?
 
+### GM Prompt
+
+Similar to the "Choose Risk Drivers" process, the players will now help the
+GM create the first (maybe the *primary*) plot hook in the story.
+
+The players collectively decide on two of the following plot hooks, and the
+GM will decide which one of the two they want to focus on at the beginning
+of the campaign.
+
+ * Capture, obstruct, prevent
+ * Chase or race
+ * Rescue or regain
+ * Reorder, rearrange, fortify
+ * Forbidden act
+
+Look to [Hooks](mod_guide_campaign.md#hooks) for more details and
+inspiration on each one of these bullets.
+
+The GM does not have to tell the players which of the two was chosen.
+Have the players signalled that they want to be surprised by how the
+plot unfolds?
+Do the players need help getting their characters on the same page?
+The answers will help the GM decide whether to disclose the chosen hook.
 
 ### Begin
 
