@@ -569,7 +569,7 @@ Without the player characters in the world, calamity would ruin something
 precious.
 Maybe even the whole world would fall into chaos or destruction -- it might
 still, even with them.
-It's up to you to portray the fantastic and bizzare elements of that world.
+It's up to you to portray the fantastic and bizarre elements of that world.
 Show the players the wonders of the world they're in and encourage them to
 react to it.
 
@@ -1109,8 +1109,8 @@ If you are playing a One-Shot campaign, remove "Entreat the Blood-Bound"
 #### If any player is new to A Thousand Faces of Adventure
 
 Lay out the A cards in front of your players.
-Then select and lay out 4 B cards.
-Then select and lay out 4 C cards.
+Then select and lay out (`# of players + 1`) B cards.
+Then select and lay out (`# of players + 1`) C cards.
 
 > These are called move cards. You are going to take turns choosing, and
 > I'm here to explain how they work and answer questions.
