@@ -316,7 +316,7 @@ move card.
 Usually ✔✔✔ means an unfettered success, and ✔✔ means success,
 but with complication.
 
-When the result is a single ✅, it sometimes means the same as a ✔✔,
+When the result is a single ✅︎, it sometimes means the same as a ✔✔,
 but often it is slightly worse.
 
 Any time a flip results in a single ✔ the GM should add a point to
@@ -330,9 +330,9 @@ take the narrative where they like.
 See the GM Guide for explanations of the *Bad Bank* and for a list of moves
 the GM is allowed to make.
 
-### Exceptions on ✅ and ✗ flips
+### Exceptions on ✅︎ and ✗ flips
 
-Sometimes a card does not say how a ✅ should be interpreted. In that case,
+Sometimes a card does not say how a ✅︎ should be interpreted. In that case,
 the GM gets to make a move, just like ✗.
 
 Rarely, a card will have instructions for how to interpret a ✗ result.
@@ -784,7 +784,7 @@ Then the original flip is ignored, and a new flip is executed, using the same
 advantage or disadvantage as the original flip.
 
 The player may then spend additional green tokens to "bump up" the result.
-Each green token spent increases the result, from ✗ to ✅ to ✔✔ to ✔✔✔.
+Each green token spent increases the result, from ✗ to ✅︎ to ✔✔ to ✔✔✔.
 
 Technically, this flip is *resolved* only after the green tokens are spent,
 so if the card was a *green token card*, the player should receive the green
@@ -858,7 +858,7 @@ When combat or a pursuit ends, and it is appropriate for the narrative
 (e.g. when there's a scene transition and the characters reasonably have
 a few minutes to catch their breath), the players may **Take a Breather**
 using Str as an IMMEDIATE move (ie, no negative narrative consequences
-if the result is ✗ or ✅).
+if the result is ✗ or ✅︎).
 
 
 
@@ -1165,7 +1165,7 @@ Full Plate       | 3                 | 3 Harm/Wound
 Shields are a way to avoid Harm and Wound tokens, but they test your
 Dex in order to succeed. See the Bracers card for an example.
 
-To make a Shield card, first the GM chooses the ✔✔✔, ✔✔, and ✅ effects by
+To make a Shield card, first the GM chooses the ✔✔✔, ✔✔, and ✅︎ effects by
 choosing 3 sequential effects from this list:
 
  * Avoid the *x*
@@ -1277,7 +1277,7 @@ effects described on the magic item card happen.
 Using a magic item causes it to lose a charge. This loss can be avoided
 with moves like Entreat the Blood-Bound and Channel the Living Light.
 
-Following that, results of ✅ and ✔✔ cause a further cost to be incurred,
+Following that, results of ✅︎ and ✔✔ cause a further cost to be incurred,
 as chosen from the list by the GM or the player, respectively.
 
 **Note:** if the magic item being used is a magical weapon created via

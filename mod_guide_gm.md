@@ -625,7 +625,7 @@ Allow the players to naturally move the spotlight among themselves.
 
 As the GM, you may take a turn in the spotlight:
 
- * when someone flips ✗ (or sometimes just ✅)
+ * when someone flips ✗ (or sometimes just ✅︎)
  * as specifically instructed by a move a player is executing
  * when everyone looks to you to see what happens
  * when the players give you a golden opportunity
@@ -1147,7 +1147,7 @@ and be able to run away from threats.
 
 When a player chooses a card with an IMMEDIATE tag, take that opportunity
 to explain that they can only use one IMMEDIATE move at a time, and that
-they don't risk a GM move if they flip ✅ or ✗.
+they don't risk a GM move if they flip ✅︎ or ✗.
 
 #### If every player has played 1kFA before
 
@@ -1557,7 +1557,7 @@ to understand how moves interact with each other.
 
 ## Filling The *Bad Bank*
 
-When a player flips and *resolves a move* with a ✅, mark a point in
+When a player flips and *resolves a move* with a ✅︎, mark a point in
 the Bad Bank.
 
 ### Calling for flips during a GM move
@@ -1565,7 +1565,7 @@ the Bad Bank.
 Sometimes you will be making a GM move and want to use randomness to
 decide which direction to take the fiction, and call for a player to
 flip a card from their Deckahedron.  This is not considered *resolving
-a move* and thus if they get an ✅ as a result, you should *not* mark
+a move* and thus if they get an ✅︎ as a result, you should *not* mark
 a point in your Bad Bank.
 
 
@@ -1703,7 +1703,7 @@ This format makes the opponents more of a threat.
    the opponents' attack. You can calculate attack power thusly:
       * ✗ : one attack power die from the lead attacker,
         and add 1 attack power (not die) for each other attacker
-      * ✅ : no attack power die is rolled,
+      * ✅︎ : no attack power die is rolled,
         but 1 attack power per attacker (so 3 foes = 3 attack power)
 
 ### Format 3

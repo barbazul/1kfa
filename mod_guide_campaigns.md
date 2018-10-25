@@ -581,7 +581,7 @@ An "arc" of 3 9-hour campaigns
    * Chapter 7 should return them to a different "world"
  * Third Book - Start with 0 Good Bank points, carry over the Bad Bank points
    * Bad Bank points grow at double the rate.
-     - ✅ adds 2 points to the Bad Bank
+     - ✅︎ adds 2 points to the Bad Bank
      - on IMMEDIATE moves, ✗ adds 4 points to the Bad Bank
    * Challenge the character changes made earlier - what boons will the
      characters give up to achieve an even greater one
