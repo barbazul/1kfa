@@ -428,7 +428,7 @@ Ideally, Sarukkan's Chamber should demonstrate what kind of game
 1kFA creates tension and action:
 
  * Potential combat against guards or kitchen staff or Sarukkan himself
- * Potential chases involving outsmarting or outmaneuvering pursuers
+ * Potential pursuits involving outsmarting or outmaneuvering pursuers
  * Potential to hatch plans and use available resources to set traps or
    defy traps that been set for them
  * Potential to use stealth and social manipulation with guards and
