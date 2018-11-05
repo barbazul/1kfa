@@ -968,6 +968,9 @@ Take out a new blank sheet of player.
 > to it together when your characters are pushing the envelope, to answer
 > questions like "is that action even possible?"
 
+Note: if you want to use "adventure modules" from your library, this is the
+time to introduce and pitch them.
+
 
 ### Step 1 - Brainstorm Titles
 
