@@ -614,5 +614,5 @@ walled-off to cope with everyday life and behave harmoniously in society.
 Just like the fictional characters who cross over to a mysterious world,
 face the unknown, and return to the ordinary world, we players can choose to
 cross over and **play**, explore our unconsiousness, and find ourselves
-changed by what we set free, confronted, unchained or poked down there.
+changed by what we confronted, unchained, poked, or set free down there.
 
