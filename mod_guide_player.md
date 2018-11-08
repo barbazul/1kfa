@@ -74,7 +74,7 @@ Most of your time will be spent saying stuff. You are part of a conversation.
 Ask questions, use your imagination, chime in when someone inspires you.
 Think about your character like a hero of a movie, and try playing as
 the writer of the movie, or the director, or immerse yourself like a method
-actor standing in the character's shoes and seeing with their eyes.
+actor standing in the character's boots and seeing with their eyes.
 
 1kFA invites you to:
 
@@ -89,7 +89,6 @@ actor standing in the character's shoes and seeing with their eyes.
  * Tell parts of the story
    * Tell your character's backstory
    * Contribute ideas and assert facts when the GM asks questions
-   * Command your character's hirelings and animal companions
    * Refer to your **moves** to generate more ideas and see what boundaries you can push
 
 As the conversation unfolds, the rules will chime in as well.  When that
@@ -187,8 +186,8 @@ improvise what happens next:
 
 ## Other ways to flip: Advantage / Disadvantage
 
-Some flips are a little more complicated. Some moves in Deckahedron
-World instruct you to "take +1 advantage", "add an advantage card"
+Some flips are a little more complicated. Some moves in 1kFA
+instruct you to "take +1 advantage", "add an advantage card"
 or "flip with advantage". Sometimes you are given the opposite
 instruction, "add a disadvantage card" or "flip with disadvantage".
 
@@ -223,11 +222,10 @@ or **worst**, respectively.
 No flip may use more than 3 cards in total, so adding advantage cards
 beyond 2 is just ignored.
 
-Sometimes there's a situation where you are instructed to both
+It is possible a situation might arise where you are instructed to both
 "flip with advantage" and "flip with disadvantage".
-To resolve any of these combinations,
-simply add up all the advantages, and then subtract all the disadvantages
-to arrive at your sum of advantage or disadvantage.
+If this happens, simply add up all the advantages, and then subtract all
+the disadvantages to arrive at a "net advantage" or "net disadvantage".
 The maximum is still two extra cards, so if the sum is -3, you only
 flip with two disadvantage cards.
 
@@ -237,11 +235,11 @@ flip with two disadvantage cards.
 ![A green token card](images/component_card_green_token.png){ width=2.5inch }
 
 Resolving flips is the main way that players acquire green tokens in
-1kFA. Green tokens are sometimes called "risk rewards" and
+1kFA. Green tokens are sometimes called "experience points" and
 they are a player's most important mechanical currency in the game.
 
 Some Deckahedron cards have a green token symbol in the middle.
-After a flip is resolved by a card showing a green token symbol,
+After a flip is *resolved* by a card showing a green token symbol,
 take a green token from the supply.
 
 You may only do this when the card *resolves* a flip. (ie, when flipping
@@ -715,38 +713,28 @@ When a player first declares that they are going to Bravely Run Away
 
 
 
-##
+# Encumberance Penalties
 
-# Encumberance
-
-Your character has a movement speed,
-a certain lightness-of-foot,
+Your character has a movement speed, a certain lightness-of-foot,
 they carry a certain amount of equipment and items,
-and they carry a certain amount of wealth.
-All this is tracked with the Slot Cards.
+and perhaps even a certain amount of wealth or treasure.
 
 Daily-use amounts of money and food are not tracked. It is assumed
 your character will always be able to scrounge a meal somehow.
+Unless it is relevant to the drama of the fictional situation or
+inspired by the Touchstone List, small monetary transactions
+may be abridged or assumed.
 
-Movement speed is not an exact measurement in meters-per-second.
-It will matter when attempting moves where being laden with loot and gear
-matters. Particularly moves with the tag "UNENCUMBERED".
-When any of your Slot Cards is flipped over to the "ENCUMBERED" face,
-your character may not perform any "UNENCUMBERED" moves.
+It is not necessary to exactly measure movement speed or the sizes
+of all the gear carried or to track the bodily position on which the
+gear is born.
 
-You have 2 Slot Cards - one of them tracks your items, and the other
-tracks your Wealth and Pack. (Pack is a non-specific placeholder for
-all the miscelaneous gear your character is carrying)
+That said, there are some moves that are affected by how much *stuff*
+a character carries. These moves have the tag "UNENCUMBERED", and declare
+an encumberance penalty in their descriptions.
 
-When you gain item cards, Wealth cards, or Pack cards, place them on
-the appropriate labeled slot of your Slot Cards. If the Unencumbered
-face of a Slot Card doesn't have room, flip it over to the ENCUMBERED
-face.
-
-You can drop items, Wealth and Pack at any time during the game, as
-long as it makes sense in the fiction.
-
-Some Item cards require more than 1 slot.
+Note that your character can drop items, and equipment at any time during
+the game, as long as it makes sense in the fiction.
 
 
 # Moves - Good Thing I Brought, Do a Flashback, Critical Success, Take a Breather
@@ -760,13 +748,12 @@ they come prepared with adventuring gear. They have been known to carry
 50 feet of rope, smelling salts, books of racy poems, sometimes even a
 3-day-old pork chop to distract hounds or hungry goblins.
 
-It's a fact. You know this and 1kFA knows this, so it doesn't
-ask you to keep fine-grained notes of every candle and spare button in your
+It's a fact. You know this and 1kFA knows this, so you won't be asked
+to keep fine-grained notes of every candle and spare button in your
 character's inventory.
 
 Reasonable daily-use items are presumed to be in your character's pack. If
-you're unsure, remember 1kFA is a conversation, so just ask
-the table.
+you're unsure, remember 1kFA is a conversation, so just ask the table.
 
 But sometimes you will be in a situation where having that 50 feet of rope
 or an old pork chop would really *solve a problem* for your character.
@@ -776,16 +763,19 @@ solves their current problem or helps them overcome a challenge, just say
 what it is and execute the "Good Thing I Brought..." move.
 
 The Pack cards represent the adventuring gear a character has brought along.
-If that equipment is something that can be returned to the backpack after
-use, write its name down on a card and place that card onto the Pack slot
-of the Slot Card, taking the place of the 1 or 2 red cards that were the
-cost of "Good Thing I Brought...".
+But you do not need to declare exactly what that gear is until you're in
+a situation where you need something specific.
+
+If the "Good Thing I Brought..." move is executed and the newly "declared"
+equipment is something that can be returned to the backpack after
+use, write its name down on a blank card and exchange that card for the
+"anonymous" Pack card(s) that were the cost of "Good Thing I Brought...".
 
 If the equipment is something that gets consumed immediately when used,
-the 1 or 2 red cards just get discarded.
+the 1 or 2 Pack cards just get discarded.
 
 If 2 red cards are spent, and the character ends up with one card returning
-to their backpack, use the fiction to justify that.  Maybe they didn't have
+to their backpack, use the fiction to justify that. Maybe they didn't have
 *exactly* what they needed, so one piece of equipment had to be consumed
 to create the necessary tool, in a MacGuyver-esque fashion.
 
@@ -878,14 +868,13 @@ Regaining Stamina may be done either by taking cards from the
 or by returning Exhaustion tokens to the supply.
 
 When recovering cards from the *Exhaustion pile*, the player may choose any
-cards they want.
+cards they want, but may not flip them face-up if they are face-down.
 
 When combat or a pursuit ends, and it is appropriate for the narrative
 (e.g. when there's a scene transition and the characters reasonably have
 a few minutes to catch their breath), the players may **Take a Breather**
 using Str as an IMMEDIATE move (ie, no negative narrative consequences
 if the result is ✗ or ✅︎).
-
 
 
 
@@ -918,7 +907,7 @@ After you choose your starting moves, Choose 2 items
 There are blanks on some item cards, and some items are designed starting
 from entirely blank cards. You get to give your items descriptive names
 and define what they are. But you do not get to change the rule that each
-item you carry takes a slot.
+item you carry factors into encumberance penalties.
 
 It is common for a player to ask why the magic amulet or ring they've created,
 a trinket that is normally a couple grams, might encumber them. The GM didn't
@@ -1004,7 +993,7 @@ This is a small-scale echo of the whole story - the Hero's Journey itself.
 At the center of the Hero's Journey is a moment of pain that the hero
 must fully endure before finding relief - either through their own action or
 with the help of their friends. The Hero's Journey is a myth that teaches
-us how to take care of ourselves, so this game holds a puzzle where the
+us how to take care of ourselves, and so this game holds a puzzle where the
 players to learn how to take care of their characters.
 
 
@@ -1131,8 +1120,8 @@ roll when you roll attack power. Higher power weapons should not be given
 out lightly. Generally players should seek weapon power increases from the
 Craft a Weapon and _ Mastery moves.
 
-The GM should decide how many item slots the weaponry
-requires. Is the item particularly heavy or large?
+The GM should decide if the weaponry incurs any additional costs when
+calculating encumberance penalties. Is the item particularly heavy or large?
 
 Here are the weapons available to characters during character creation:
 
@@ -1164,9 +1153,9 @@ receive either:
  * 1 Harm token
  * or 1 Harm *or* Wound token
 
-The GM should decide how many item slots the armour
-requires. Better armour tends to be heavier and more impeding to graceful
-movement.
+The GM should decide if the armour incurs any additional costs when
+calculating encumberance penalties.
+Better armour tends to be heavier and impedes graceful movement.
 
 The GM and player should agree on a descriptive name for the armour like
 "Padded" or "Chainmail" or "Full plate" and write that at the top of a card.
@@ -1274,9 +1263,10 @@ allegorical like in The Wheel of Time, and it can be linguistic and
 self-aware like in The Invisibles.
 
 To allow you and your table of friends to invent and explore the magical
-concepts that excite you most, 1kFA takes a light touch,
-provides a mechanical foundation and some optional narrative paths.
-1kFA invites you to play with and expand into a well-tested framework.
+concepts that excite you most, 1kFA takes a light touch.
+The rules provide a mechanical foundation and some optional narrative paths.
+You are invited to take this well-tested framework, play with it, and expand
+into it.
 
 One thing to keep in mind is that characters may attempt any move that
 resolves with Str / Dex / Int.
@@ -1508,6 +1498,7 @@ The GM can resolve this move by:
  * putting the characters somewhere completely safe
  * putting the characters in a place where some (new or old) danger exists,
    but is, for the moment, not directly threatening the characters
+ * spending a point from the *Bad Bank* and starting the Pursuit Mini-game
  * spending a point from the *Bad Bank* and putting the characters in a place
    where they must directly confront or defy a new danger
 
@@ -1562,12 +1553,13 @@ cards to the supply.
 
 ## More Power
 
-### Craft a Weapon
+### Tales of a Weapon
 
-![Craft a Weapon card](images/move_craft_a_weapon.png){ width=2.5inch }
+![Tales of a Weapon card](images/move_tales_of_a_weapon.png){ width=2.5inch }
 
-The GM should decide how many item slots the weapon
-requires. Is the item particularly heavy or large? The GM should weigh that
+The GM should decide whether the weapon will incur any extra cost when
+calculating an encumberance penalty.
+Is the item particularly heavy or large? The GM should weigh that
 cost against the weapon's other features.
 
 ### Weapon Mastery
@@ -1614,7 +1606,7 @@ you create in 1kFA is a *shared* one.
 
 When a player's character attacks another player's character, moves are
 triggered as they would normally be, and costs are paid (eg, if the attacker
-uses a magic item, they may lose a charge), but there are two differences:
+uses a magic item, they may lose a charge), but there are differences:
 
  * Green token cards do not generate a green token if they resolve a flip
  * Critical Success cards cannot be used to go up levels in moves
