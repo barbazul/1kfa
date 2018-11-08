@@ -490,14 +490,11 @@ Ask the table if they want to keep going with this scenario. If not, just
 skip forward to the Touchstone List. But if they do want to continue, add in
 the next layer of rules before jumping back into the action.
 
- * Give them each their 2 Slot Cards.
- * Tell the players how the Slot Card rules work.
- * The characters do not get any Pack cards, as they were just prisoners
  * Any character still wearing their elaborate costume should get a card
-   entitled "Costume". This is an item, so it should be put on a item slot.
+   entitled "Costume". This is an item.
  * If the characters have aquired any significant items during their
-   adventure so far, make a card for that and if the item is heavy or
-   unwieldy, put it on an item slot.
+   adventure so far, make a card for that.
+ * The characters do not get any Pack cards, as they were just prisoners
 
 
 ### Sarrukan's Chamber 3rd PC variant - The imprisoned guard
@@ -1319,69 +1316,22 @@ two worlds? Unsure of who they are? Do they have a deathwish?
 Write down the answers.
 
 
-### Distribute Slot Cards
-
-![Slot Cards](images/component_slot_cards.png){ width=7cm }
-
-Give each player their 2 Slot Cards.
-
-> Here are your Slot Cards. I'll explain how they work. Notice that they
-> have a face that says "ENCUMBERED" and one that doesn't. Place them in
-> front of you with the "unencumbered" face up.
->
-> Right now all your slots are empty, which basically means your character
-> is not carrying anything that would slow them down or trip them up. If they
-> need to dive through a window, sprint away from a foe, or move lightly
-> through a crowded room, they'll have no problem. As long as you don't flip
-> a Slot Card over to the "ENCUMBERED" face, any such maneuvers will be easy.
->
-> But when you flip a Slot Card over, your character starts having trouble
-> doing those things. Any time the word "ENCUMBERED" is visible, your
-> character is considered encumbered, and this affects their ability to
-> perform certain moves. Sometimes, like with the move "Bravely Run Away",
-> there's an added cost, and other times, like with "Pick Pockets", the move
-> is just impossible.
->
-> One Slot Card is for your items, it has the word "Item" printed in each
-> slot ("slots" are just areas with a dashed outline).
-> The other Slot Card is for your Wealth and Pack.
->
-> When your character carries weapons, armour, and some other items, you're
-> going to take an item card, and place it so that it fits on an item slot.
-> If there are no open slots on the
-> "unencumbered" face of the Slot Card, you will need to either flip over
-> the Slot Card to the "ENCUMBERED" face, or decide which other item
-> your character is going to drop or store away.
->
-> (in the case of armour, the item card might occupy more than one open slot)
->
-> One Slot Card is for items, and the other is for "Wealth" and "Pack".
-> Cards placed on the Wealth and Pack slots can be used
-> with moves like "Good Thing I Brought..." and "Shop / Procure". These moves
-> aren't relevant until later on in the game, so have a look at the Player's
-> Guide if you're curious, but for now just take two Pack cards and we'll
-> move on to items.
-
-Give each player 2 Pack cards. Pack cards are just white-side red cards,
-but when they're slotted into the Slot Card, they're understood to be Pack
-cards.
-
 
 ### Choose Items and Weapons
 
 > Now lets give your characters some equipment.
 >
-> We'll start with the mandatory stuff, does anyone have a Move Card that
-> has a "RECEIVE CARDS" tag on it?
+> We'll start with the mandatory stuff, first of all, everyone gets 2
+> Pack cards.  You can use these with the "Good Thing I Brought..." move.
+
+Give each player 2 Pack cards. Pack cards are just white-side red cards.
+
+> Next, does anyone have a Move Card that has a "RECEIVE CARDS" tag on it?
 
 #### RECEIVE CARDS phase
 
 Help them identify the tags on their move cards then give them the items
 or the choice of items specified in the rules for those cards.
-
-During this phase, as they choose each card, instruct them to place it on
-a slot on their Slot Card (unless the rules on the specific card
-instruct otherwise).
 
 Also, indicate that they get to fill in the blank on the card, so that you
 and they know exactly what kind of item the character posesses.
@@ -1434,14 +1384,14 @@ at the "wild" level.
 #### Aside: A feather can make you slower
 
 Often during this phase, a player might bring up the issue of why an item
-they've called a ring or a pair of boots reduces the tokens in their Speed
-stack. How can sliding on a ring make it harder to run away? How can wearing
-boots make it impossible to pick a pocket?
+they've called a ring or a pair of boots can have an encumberance penalty.
+How can sliding on a ring make it harder to run away?
+How can wearing boots make it impossible to pick a pocket?
 
 The answer is: that's for them to decide.
 
 In 1kFA, there are two arenas: the fiction and the rules.
-Playing means flowing between the two arenas. All the players create
+Play flows between the two arenas. All the players create
 fiction, which triggers rules, then the rules produce mechanical results
 which the players are challenged to interpret into fiction. Sometimes that
 means the GM interprets an attack power roll, and sometimes it means that
@@ -1449,13 +1399,15 @@ a player explains that though their ring looks small, it weighs more than
 anyone expects, or that the magical attunement of the boots sends a
 tingling sensation up the nerves of the wearer's legs.
 
-The player that writes on the card should already know that it will take
-a S/W/P token, so it will be up to them to justify what they wrote.
+The player that writes on the card should already know that item cards
+incur encumberance penalties so it will be up to them to justify what
+they wrote.
 
-This doesn't mean that every item reduces your speed. After the adventure
-begins, the fiction may produce a letter from the king, or the eggs of a
-cursed salamander -- things that can be tracked by writing them on a card,
-but that don't require a S/W/P token.
+This doesn't mean that every described fictional object reduces a
+character's speed.
+After the adventure begins, the fiction may produce a letter from the king,
+or the eggs of a cursed salamander -- things that can be tracked by writing
+them on a card or piece of paper.
 
 
 ### Home / Comfort
@@ -1573,6 +1525,8 @@ a point in your Bad Bank.
 
 
 # Creating A Combat Encounter
+
+`TODO: example encounters, move balance section to an appendix`
 
 ## Balance
 
