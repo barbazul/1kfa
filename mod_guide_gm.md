@@ -843,7 +843,7 @@ in front of a player:
  * Place white-side red cards on magic items for temporary charge loss
  * Place black-side red cards on magic items for permanent charge loss
  * Place black-side red cards on mundane items for damage
- * Take away Wealth or Pack tokens/cards
+ * Take away Pack cards
  * Tell them to turn a card sideways because they dropped it
  * Take away item cards (careful with this one - use only when appropriate)
  * Take away marker tokens (ie, those created by Defend, Where It Hurts, etc.)
@@ -1140,10 +1140,8 @@ Then select and lay out (`# of players + 1`) C cards.
 As players choose cards, there may be opportunities to explain some of the
 deeper rules.
 
-When a player chooses a card with an UNENCUMBERED or RECEIVE CARDS tag,
-take that opportunity to explain how Speed / Wealth / Pack works
-and point out how it will impact their ability to choose other equipment
-and be able to run away from threats.
+When a player chooses a card with an UNENCUMBERED tag, take that opportunity
+to explain how Item and Pack cards impact those types of moves.
 
 When a player chooses a card with an IMMEDIATE tag, take that opportunity
 to explain that they can only use one IMMEDIATE move at a time, and that
@@ -1698,19 +1696,22 @@ struggle, but succeed.
 
 After combat, the players may propose that their characters sift through
 the battlefield looking for valuables. Let the characters find whatever you
-think would be most fun.
+think would be most fun, or something inspired by the Touchstone List, or
+ask them questions to figure out what boons or treasure were won from
+their adversaries.
 
-Sometimes you don't know what loot is appropriate.
+Sometimes nobody will have a concrete idea of what the loot was, and that's
+okay too.
 
-If the characters slay a pack of werewolves, and ask to search the bodies,
-and you don't immediately have a great idea about what kind of beneficial
-gear could be found on nearly naked bodies, you can write "What we found
-on the werewolves" on a blank card, and give it to one of the players.
-Tell them to place a token from their SPEED pile on the card.
+If the characters slay a pack of werewolves, and then search the bodies,
+and the table can't immediately come up with an idea for what beneficial
+gear was dropped by feral, nearly naked humanoids, you can write
+"What we found on the werewolves" on a blank card, and give that to one
+of the players.
 
-Later in the game, when the rules demand either a WEALTH or PACK to be
-spent, the "What we found on the werewolves" card may be spent, if the
-players can justify it.
+Later in the game, when the rules demand Pack cards be spent, the
+"What we found on the werewolves" card may be spent, if the players can
+justify it.
 
 
 ---
