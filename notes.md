@@ -554,6 +554,11 @@ going to your body.  A couple examples:
 
 ----
 
+Use pre-existing knowledge of Dungeon World and D&D to front-load game
+information.
+
+----
+
 Deckahedron World mixes elements from 3 different families of games,
 RPGs, contemporary board games, and mad libs.
 
