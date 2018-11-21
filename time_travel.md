@@ -1,4 +1,5 @@
 
+# Time Travel Convention
 
 Lookup "Continuum"
 
@@ -6,12 +7,12 @@ A time travel LARP
  * This LARP *is* the screening process for the time travel society
  * Just as Continuum was
    * That's possible because time travel is a force that transcends boundaries like "capitalism"
- * The reason you're reading this is because someone playing this game will become a time traveller, and either you're one of them, or it was necessary for them to play with *you* to create the specific universe where they became that time traveller.
- * Their future selves (me! hello!) made sure of that. When you're a time traveller, you can kinda do what you want in these realms.
+ * The reason you're reading this is because someone playing this game will become a time traveller, and either you're one of them, or it was necessary for them to play with *you* to create the specific timeline where they became that time traveller.
+ * Their future selves (me! hello!) made sure of that. When time isn't a boundary, you can kinda do what you want in these realms.
  * Confused? It only really makes sense when you consider the "meta-fractal" of information.
- * There is a font of ever-generating information. It *birthed* time.  When you become a time traveller, you are free to move in the time dimension, but you still exist inside the boundaries of the meta-fractal.
- * The meta-fractal is like an infinitely growing tree. Sometimes a branch on a tree dies, but the whole tree keeps on growing. You don't want to be one of thosebranches destined to die, because unlike time (you'll understand this later), the meta tree goes on forever, and nobody wants to be dying forever.
- * One known ways that branches die is by "paradoxes" \*\*. So, we don't "create paradoxes". That's another reason why you're finding out this way, because it was one of the ways that didn't create a paradox.
+ * Reality is a fountain of ever-generating information.  It "tries" everything that's possible, and information configurations that self-perpetuate, do so. A branch containing the time dimension was one of these configurations. It *birthed* time. When you become a time traveller, you are free to move in the time dimension, but you still exist inside the boundaries of the meta-fractal.
+ * The meta-fractal is like an infinitely growing tree. Sometimes a branch on a tree dies, but the whole tree keeps on growing. You don't want to be one of those branches destined to die, because unlike time (you'll understand this later), the meta tree goes on forever, and nobody wants to be dying forever.
+ * One known way that branches die is by "paradoxes" \*\*. So, we don't "create paradoxes". That's another reason why you're finding out this way, because it was one of the ways that didn't create a paradox.
  * Ugh, it is so aggrivating to say "create paradox" - it's a poor abstraction - don't learn that too deeply.  The actual truth will be explained later.
  * This is in the form of a LARP because 1. that's what we were into at the time, and 2. the game teaches the basic skills I'll need to build the "time machine"\*
  * I'm being vague about who I am because it's important that I not know I'm a time traveller at this point, otherwise I wouldn't have become one.
