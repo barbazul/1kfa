@@ -1,6 +1,8 @@
 
 # Time Traveller's Convention
 
+**REMINDER: Always check the lemma**
+
 This game is about everything that's really important -- being honest, lonliness, and having friends you can tell the truth to. And not creating any fucking time paradoxes.
 
 A time travel LARP
@@ -17,6 +19,7 @@ A time travel LARP
  * Here's the rub - you can never prove if you're on a branch that's dying, because, on the meta-fractal, that proof's existence - to be very hand-wavy about it - would be information from which a choice could be made, which would create a branching, which, for a time traveller, would allow you to escape the dying branch, which would prove you're not on a dying branch - and that contradicts the original proof, which, on the meta-fractal is not impossible, but it does make your higher-order branch die.
  * There's even a theory that a sufficiently survival-minded time traveler could perpetuate their escape from death in a way that made the whole meta-fractal collapse.
  * Listen, that's not going to make much sense yet, but the good news is that once we figured out the "time machine" a resulting lemma let us *approximate* whether we are approaching dying branches. With that tool it's possible to practice safe time-travelling.
+ * Every time you write or talk about time travelling, at least once, remind everyone to **always check the lemma**. That might not seem like an important rule, and omitting it doesn't cause dying branches *by logical consequence*, but it's a rule that makes your brain into a brain with strong lemma-checking reinforcement, and that actually does prevent dying branches.
  * This is in the form of a LARP because
    1. that's what we were interested in at the time, and
    2. the game teaches the basic skills I'll need to build the "time machine"\*
