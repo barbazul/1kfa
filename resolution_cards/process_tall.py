@@ -50,6 +50,8 @@ def filter_dom_elements(dom, card):
                     card.get('two_check'), card.get('three_check')]
         if x not in (None, '')
     ]
+    dom.layer_hide('template')
+    dom.layer_show('std_heading')
     print 'Checks: ', checks
     print 'Has card spots: ', has_card_spots
     if has_card_spots:
@@ -182,6 +184,7 @@ def filter_dom_elements(dom, card):
         cut_these.remove(keep)
     else:
         cut_these.append('mod_shield')
+        cut_these.append('flip')
 
     for x in cut_these:
         dom.cut_element(x)
@@ -221,26 +224,6 @@ def one_blank_3lines_front():
     export_tall_png(svg_filename, png_filename)
 
 
-def make_slot_cards():
-    for svg_filename in ['slot_card_wealth_pack.svg', 'slot_card_items.svg']:
-        domEnc = DOM(svg_filename)
-        domUn = DOM(svg_filename)
-        for key in domEnc.layers:
-            if 'un' in key:
-                domEnc.layer_hide(key)
-                domUn.layer_show(key)
-            elif 'encumb' in key:
-                domEnc.layer_show(key)
-                domUn.layer_hide(key)
-        enc_svg_filename = '%s/slot_cards/enc_%s' % (DIR, svg_filename)
-        enc_png_filename = '%s/slot_cards/enc_%s.png' % (DIR, svg_filename)
-        un_svg_filename = '%s/slot_cards/un_%s' % (DIR, svg_filename)
-        un_png_filename = '%s/slot_cards/un_%s.png' % (DIR, svg_filename)
-        ensure_dirs(enc_svg_filename)
-        domEnc.write_file(enc_svg_filename)
-        domUn.write_file(un_svg_filename)
-        export_tall_png(enc_svg_filename, enc_png_filename)
-        export_tall_png(un_svg_filename, un_png_filename)
 
 def make_card_dom(card):
     dom = DOM('tall_card_front.svg')
@@ -322,8 +305,6 @@ def card_filenames(card, i):
     return svg_filename, png_filename
 
 def make_deck(cards):
-    make_slot_cards()
-
     export_tall_png('tall_card_back2.svg', DIR + '/move_deck/back.png')
     export_tall_png('equipment_back1.svg', DIR + '/magic_deck/back.png')
     export_tall_png('equipment_back2.svg', DIR + '/mundane_deck/back.png')
