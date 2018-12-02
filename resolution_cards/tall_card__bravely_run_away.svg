@@ -32,8 +32,8 @@
      id="namedview726"
      showgrid="false"
      inkscape:zoom="2.2589286"
-     inkscape:cx="123.5"
-     inkscape:cy="168"
+     inkscape:cx="55.803716"
+     inkscape:cy="170.72761"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -522,7 +522,7 @@
          sodipodi:role="line"
          id="tspan5766"
          x="216.41949"
-         y="256.04059">v0.85</tspan></text>
+         y="256.04059">VERSION</tspan></text>
 </g><g
      inkscape:groupmode="layer"
      id="layer45"
@@ -1082,7 +1082,7 @@
            height="100%" /></flowRegion><flowPara
          id="flowPara5153">As long as you're not cornered or surrounded, escape your foes. </flowPara><flowPara
          id="flowPara411" /><flowPara
-         id="flowPara7689">Encumberance penalty: Lose Stamina points from mental exhaustion. Count up all your Item and Pack cards.</flowPara><flowPara
+         id="flowPara7689">Encumberance penalty: lose Stamina points from mental exhaustion. Count up all your Item and Pack cards.</flowPara><flowPara
          id="flowPara7695"> ✷ If you have 3-4, lose 1 Stamina point</flowPara><flowPara
          id="flowPara7697"> ✷ If you have 5-6, lose 2</flowPara><flowPara
          id="flowPara5042"> ✷ If you have more than 6, lose 3</flowPara><flowPara

@@ -31,13 +31,13 @@
      inkscape:window-height="876"
      id="namedview726"
      showgrid="false"
-     inkscape:zoom="1.5973037"
-     inkscape:cx="240.40797"
-     inkscape:cy="175.76465"
+     inkscape:zoom="3.1946074"
+     inkscape:cx="194.61184"
+     inkscape:cy="89.178927"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer4"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:object-nodes="true"
@@ -522,7 +522,7 @@
          sodipodi:role="line"
          id="tspan5766"
          x="216.41949"
-         y="256.04059">v0.85</tspan></text>
+         y="256.04059">VERSION</tspan></text>
 </g><g
      inkscape:groupmode="layer"
      id="layer45"
