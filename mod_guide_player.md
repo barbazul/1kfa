@@ -119,9 +119,10 @@ Shuffle your Deckahedron and place it face-down in front of you.
 Whenever your character attempts something risky, where the outcome is
 not certain, the GM calls for you to use your Deckahedron and "flip".
 
-First, the GM names the move you're attempting and which of your
-character's attributes -- Strength, Dexterity, or Intelligence -- you
-use to resolve the flip.
+In conversation with GM and the rest of the table, you'll decide what
+move (or moves) your character is triggering and which of your
+character's attributes -- Str, Dex, or Int -- will be used to resolve
+the flip.
 
     GM Note: The attributes used to resolve a move are listed at the top
     of each card.  Sometimes a card gives the option of several
@@ -133,15 +134,14 @@ use to resolve the flip.
 Look at the attribute on your character sheet -- what suit is it, Anchor,
 Bulb, Crescent, or Dart?
 Take the top card and flip it face up.
-Put it down so that the GM can read the result.
-(Saying "Bam!" or making some other sound effect is optional.)
 
 ![Illustration of flipping a card](images/component_flip.png){ width=2.5inch }
 
 The top of the flipped card shows ✗ or ✔s.
 These tell you the result of the move.
-When you flip, be consistent with how you orient the card so the GM can easily
-read it. This helps simplify the GM's bookkeeping and keeps the game fast-paced.
+When you flip, keep in mind that the GM may need to read the result. Being
+consistent with how you orient the card will help simplify the GM's
+bookkeeping and keep up the pace of the game.
 
 ![Illustration of reading a card](images/component_read.png){ width=2.5inch }
 
@@ -339,6 +339,29 @@ GM's move -- the GM gets to decide if they have more to add.
 
 When the move card has the tag *IMMEDIATE*, the GM does not get to make a
 move on a ✗. Instead, the GM should just add 2 points to the *Bad Bank*.
+
+
+## Cards tagged IMMEDIATE
+
+Some of your move cards have the tag *IMMEDIATE*. This indicates they can
+be used in conjunction with another move during your character's moment in
+the spotlight. When players take turns in the spotlight, if they trigger
+moves, it is expected that they trigger at most one *IMMEDIATE* move.
+Otherwise the pace of the game can slow down, and other players may feel
+like they aren't getting a fair share of time in the spotlight.
+
+Examples of cards tagged *IMMEDIATE* include Good Cardio,
+Where It Hurts, and Unknown Benefactor
+
+A moment in the spotlight might see your swordsman character triggering
+the move Mix It Up, causing damage to a foe, and then you might also trigger
+Where It Hurts as you describe the sword delivering a stunning blow,
+clanging loud and hard against the foe's helmet.
+
+Or, your professor of alchemy character might trigger Defy Danger as they
+jump out of the way of a toppling bookcase. After you flip an ✗, the GM
+may start enumerating the damage your character must suffer, to which you
+could respond by invoking Unknown Benefactor to cancel the damage.
 
 
 ## Flips only happen when the situation is uncertain or risky
@@ -1436,7 +1459,26 @@ If you want to take a move card that another player already has or one that
 was scribbled over in a previous campaign, or just has been ruined by spilled
 beer, you can copy the text onto a new card.
 
+#### The RECEIVE CARDS tag
+
+Sometimes when you Study Under a Master, you are given study aids.
+
+When you Study Under a Master to gain...  | You also take...
+------------------------------------------|------------------------------
+Channel The Living Light                  | Sigil of the Living Light
+Entreat The Blood-Bound                   | Blade of Echoes
+Use a Magic Item                          | Any magic item card
+
+You use the RECEIVE CARDS tag only during character creation and when you
+gain a move card via Study Under a Master. You do not use it when you gain
+competence with the skill by flipping Critical Success cards.
+
+#### 30-hour Campaign rule: REQUIRES
+
 ![requirements](images/move_requirements.png){ width=2.5inch }
+
+If you are playing the 3-hour or 9-hour campaigns, you can ignore the
+*REQUIRES* tag.
 
 Some moves have requirements. These are illustrated as green rings,
 sometimes with a letter inside -- *R*, *F*, or *W*. Requirements are
@@ -1460,23 +1502,9 @@ If your card arrangement had the cards Pick Pockets and Not On My Turf
 next to each other, you could complete an *R* ring. If you had
 the Scent of Blood card instead of the Not On My Turf card, you could
 arrange it next to Pick Pockets to complete a ring, but it would not
-be an *R* ring or an *F* ring, it would just be a regular green ring.
+be an *R* ring or an *F* ring, it would be considered a solid green ring.
 
-You do not have to keep your cards in this arrangement while you play,
-
-#### The RECEIVE CARDS tag
-
-Sometimes when you Study Under a Master, you are given study aids.
-
-When you Study Under a Master to gain...  | You also take...
-------------------------------------------|------------------------------
-Channel The Living Light                  | Sigil of the Living Light
-Entreat The Blood-Bound                   | Blade of Echoes
-Use a Magic Item                          | Any magic item card
-
-You use the RECEIVE CARDS tag only during character creation and when you
-gain a move card via Study Under a Master. You do not use it when you gain
-competence with the skill by flipping Critical Success cards.
+You do not have to keep your cards in this arrangement while you play.
 
 
 # More Moves - Bravely Run Away
@@ -1592,6 +1620,14 @@ Here are some examples:
 
 ## Player vs Player
 
+This game is a tool for telling stories about a group of characters that
+work together to overcome some danger that threatens them all. The details
+of their alliance are discovered through play, and those details can include
+tension and disagreement. This section provides rules for the tensions to
+be exhibited in the narrative, but also tries to guide the resolution of
+those tensions to a state where the characters are afterward unified
+against their common, non-player, foes.
+
 ### Combat
 
 When a player asserts their character violently against another player's
@@ -1641,7 +1677,18 @@ Green token cards do not generate green tokens, Critical Success cards cannot
 be used to go up levels, and the *defender* gets to say what the result was.
 
 
-# Addenda
+# Appendix - Notes on moves
+
+## Good Cardio
+
+This card makes a character an especially resilient fighter and athlete.
+
+In a combat encounter, a player will usually trigger an aggressive move like
+Mix It Up or Volley.  In addition, players often trigger at most one
+*IMMEDIATE* move. If they haven't chosen an different *IMMEDIATE* move, they
+can always trigger Good Cardio, and regain some of their lost Stamina points.
+
+## Tool Twisting
 
 If you add a 2nd magical effect to a weapon with Tool Twisting, it still only
 has 1 maximum charge, no matter which effect you use.

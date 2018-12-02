@@ -153,6 +153,10 @@ Distribute a character sheet to each player.
 Give each player a Deckahedron.
 
 > Here's a stack of 20 cards, it's called a Deckahedron.
+> You'll use this to see how successful your character is when moves are
+> triggered. It also represents your character's Stamina points, which
+> we'll discuss later.
+>
 > Notice the 4 different colored symbols on the edges.  They're named
 > Anchor (red), Bulb (yellow), Crescent (green), and Dart (blue).
 > When you *trigger a move*, I'm going to instruct you to flip the top
@@ -447,6 +451,8 @@ It should also help teach the rules of 1kFA.
  * Ideally there will be a combat scene.
    (see the [Combat guidelines](#creating-a-combat-encounter))
    Try to get the PCs to attempt *Mix It Up* or *Volley*
+ * When a PC loses Stamina, explain that losing 10 Stamina points
+   will mean the character is incapacitated
  * The brother & sister may trigger *Discern* and *I Know This* moves
    when they try to reveal each others' identities
  * The *Discern* move often comes up when having a look around Sarukkan's
@@ -1085,6 +1091,13 @@ Leave enough space to track the points under each of those headings.
 
 ![GM Worksheet](images/gm_worksheet.png){ width=7cm }
 
+When a player flips and *resolves a move* with a ✅︎, mark a point in
+the *Bad Bank*. When a move with the *IMMEDIATE* tag is resolved with
+a ✗, mark two points in the *Bad Bank*.
+
+See the Campaign Guide for rules on when to mark points in the *Good Bank*.
+
+
 ### Set Expectations
 
 > 1kFA is a game about a group of scrappy adventurers who
@@ -1507,42 +1520,35 @@ to understand how moves interact with each other.
 
 
 
-
-## Filling The *Bad Bank*
-
-When a player flips and *resolves a move* with a ✅︎, mark a point in
-the Bad Bank.
-
-### Calling for flips during a GM move
-
-Sometimes you will be making a GM move and want to use randomness to
-decide which direction to take the fiction, and call for a player to
-flip a card from their Deckahedron.  This is not considered *resolving
-a move* and thus if they get an ✅︎ as a result, you should *not* mark
-a point in your Bad Bank.
-
-
 # Creating A Combat Encounter
 
-`TODO: example encounters, move balance section to an appendix`
+As the narrative develops, the PCs will be faced with challenges and conflicts.
+Sometimes they will be confronted with NPCs or monsters who mean to do them
+harm. Nonviolent options like negotiation or escape may still be valid in
+these situations, but players will often choose to confront their antagonists
+with steel.
 
-## Balance
+Combat encounters don't have to be simple zero-sum games. Think about the
+narrative stakes as well. When swords are drawn, put something besides life
+and limb in jeopardy -- information, resources, social standing, risk of alarm.
 
-On your GM worksheet or any piece of paper, write down the names of
-each foe.
-Beside their name, write their attack power die (d2, d4, d6, d10).
+When a scene breaks out in violence, you'll need to get your GM worksheet
+and write down a few stats for the party's foes.
+
+First, write down the names of each foe.
+Beside each name, write the foe's attack power die (d2, d4, d6, d10).
 Beside that, draw ticks for their Stamina points.
-Finally, draw boxes next to the Stamina points to represent "armour"
-that will let them absorb Harm or Wounds.
 
 ![GM Worksheet](images/gm_worksheet_filled.png){ width=7cm }
 
 Foes' Stamina and attack power should be realistically scaled
-to the "scrappy adventurer" level of the players. This table should help.
+to the "scrappy adventurer" level of the players.
+
+This table should help.
 
 |                   | Stamina points | Attack power
 |-------------------|----------------|-------------
-| Dotards, Children | 2              | 1d2
+| Children          | 2              | 1d2
 | Civilians         | 4              | 1d2 - 1d4
 | Bouncers, Guards  | 5-6            | 1d2 - 1d4
 | Trained Soldiers, Elite Guards  | 7-10 | 1d4 - 1d6
@@ -1553,58 +1559,34 @@ Generally, human opponents will have d2 attack power when unarmed and d4
 attack power when armed. Save greater attack powers for monsters and special
 villains.
 
-### Calculate party power
+Remember that antagonists' power can be exerted in more ways than just their
+Stamina and attack power. Challenges may arise from the antagonist's superior
+knowledge of the environment, magical abilities, political connections,
+or other types of fictional positioning.
 
-Party Power is an easy number to calculate, based on each Player Character
-(PC) in the scene.
+As you spend more time playing 1kFA, you will find it faster and easier to
+create these encounters and write up the stats in the GM Worksheet. If the
+players at your table are signaling that they enjoy the challenge of combat
+encounters and mastering the combat mechanisms embodied by their characters,
+then you can use the appendix
+[Mathematical Combat Balance](#mathematical_combat_balance)
+to create encounters that are more objectively balanced and satisfy the type
+of player that delights in system mastery.
 
-` Party power = (10 ✕ (# of PCs)) + (# of green tokens the PCs have) `
+However that may be a little too "gamey" for some tables. In which case,
+just wing it. Create encounters as demanded by the established fiction, or
+take the following pre-balanced examples as a starting point, and adjust as
+you please.
 
-### Create your foes
+## Example combat encounters
 
-Create set of enemies that challenge them to the desired degree.
-
-A **challenging fight** for new players is made by creating foes
-balanced against the Party Power.
-
-Use Party Power to give the foes:
-
-|                                                | Party Power cost
-|------------------------------------------------|------------------
-| One stamina point                              | 1
-| A weapon that does 1d6 damage                  | 4
-| One armor box that can absorb Harm             | 3
-| One armor box that can absorb Harm or Wound    | 6
-
-You can also augment foes by
-[spending points from the *Bad Bank*](#using-the-bad-bank).
-
-Sometimes you just want to punctuate the session with some action by throwing
-in a low-stakes, quick-and-easy fight. In that case, use half of the
-Party Power to create foes, but put something else in jeopardy (information,
-resources, social standing, risk of alarm)
-
-### Give hints
-
-Players will perceive the game as either "fair" or "unfair" partly based
-on how the foes are described by the GM before the combat begins. Always
-describe the confrontation in a way that hints at the difficulty.
-
- * The two guards *exchange an unsure look and step forward*
- * The salty pirate flashes his blade, but *simultaneously takes a step
-   backwards towards his ship*
-
- * The golem is *gargantuan and covered in scars from many battles*
- * The *horde* of undead wolves stare at you with *unrelenting hunger*
- * The old man with the walking stick is *unfazed by your threats* and,
-   *after looking you up and down, turns away with an air of dismissal*
-
+`TODO`
 
 ## The feel of combat
 
-In combat, it's ok if play gets more formulaic.  Some players enjoy
+In combat, it's ok if play gets more formulaic. Some players enjoy
 the "abnegation" of a tit-for-tat combat scene that lasts tens of minutes.
-This can be a combination of exciting and relaxing.  Give your players
+This can be a combination of exciting and relaxing. Give your players
 opportunities to press their favourite buttons.
 
 That said, some players don't seek abnegation. What kinds of signals are
@@ -1619,8 +1601,8 @@ or set piece needs to be safe or sacred.
 Combat can play out in whatever way feels natural and follows from the
 fiction. That said, it can be taxing on a GM to come up with new, creative
 responses in combat because flips are happening frequently. So, to relieve
-some of that pressure on the GM, here are some formats available to follow
-to get you through a fight scene.
+some of that pressure, here are some formats to follow that guide the
+table through a combat encounter.
 
 1kFA doesn't have turns, but it's ok if moving the spotlight
 during combat makes it feel that way.
@@ -1709,9 +1691,9 @@ gear was dropped by feral, nearly naked humanoids, you can write
 "What we found on the werewolves" on a blank card, and give that to one
 of the players.
 
-Later in the game, when the rules demand Pack cards be spent, the
+Later in the game, when the rules demand Item or Pack cards be spent, the
 "What we found on the werewolves" card may be spent, if the players can
-justify it.
+justify it. It can even be considered *precious* if the fiction supports it.
 
 
 ---
@@ -1850,8 +1832,8 @@ Adventuring will incur costs on the characters in the form of injury,
 damage to items, and lost charges to magic items, but it will also
 let the players build up resources like green tokens and wealth.
 
-Downtime activities are about decisions where the costs and benefits
-are known upfront, like shopping, healing, and studying.
+Downtime activities are less risky. In these activities, the costs and
+benefits are known upfront, like shopping, healing, and studying.
 When injuries and treasures have built up, the players will seek a
 steading to salve their hurts and exchange their loot for new, exciting
 gear, and learn new skills.
@@ -2099,12 +2081,6 @@ Here are some things to think about when presenting a puzzle in your game.
 
 ## Monsters
 
-For every monster the characters interact with, spend 1 point from
-the *Bad Bank*.
-
-Monsters are puzzles that can be brute-forced with violence.
-
-Monsters have one or two *special moves*.
 
 ### Monsters are part of the fiction
 
@@ -2122,6 +2098,8 @@ hellscape where the only currency is suffering.
 
 ### Monsters are puzzles
 
+Monsters are puzzles that can be brute-forced with violence.
+
 Get ideas from the [Puzzles](#puzzles) section
 
 Monsters have a weakness or a preferred strategy. For a threshold guardian
@@ -2130,6 +2108,9 @@ by the heroes.
 
 ### Monsters can be fought
 
+For every monster the characters interact with, spend 1 point from
+the *Bad Bank*.
+
 Monsters have 1-20 stamina points and 1-5 wound squares
 
  * Spend 1 Bad Bank point if 11-15 stamina
@@ -2137,6 +2118,8 @@ Monsters have 1-20 stamina points and 1-5 wound squares
  * Spend 1 Bad Bank point for every wound square
 
 Monsters have special attacks
+
+Monsters have one or two *special moves*.
 
  * The special attacks should be telegraphed somehow
  * 1 Bad Bank point per special attack
@@ -2280,6 +2263,57 @@ constant, rejecting the change that a hero must accept to truly be a hero.
  * What do kids find when turning over stones in a garden?
  * Name something people believe in that isn't real.
 
+---
+
+# Appendix 2
+
+## Mathematical Combat Balance
+
+### Calculate party power
+
+Party Power is an easy number to calculate, based on each PC in the scene.
+
+` Party power = (10 ✕ (# of PCs)) + (# of green tokens the PCs have) `
+
+### Create your foes
+
+Create set of enemies that challenge them to the desired degree.
+
+A **challenging fight** for new players is made by creating foes
+balanced against the Party Power.
+
+Use Party Power to give the foes:
+
+|                                                | Party Power cost
+|------------------------------------------------|------------------
+| One stamina point                              | 1
+| A weapon that does 1d6 damage                  | 4
+| One armor box that can absorb Harm             | 3
+| One armor box that can absorb Harm or Wound    | 6
+
+Represent "armour" (or just tough hide) by drawing boxes next to the foe's
+Stamina points on the GM worksheet.
+
+You can also augment foes by
+[spending points from the *Bad Bank*](#using-the-bad-bank).
+
+### Give hints
+
+Players will perceive the game as either "fair" or "unfair" partly based
+on how the foes are described by the GM before the combat begins. Always
+describe the confrontation in a way that hints at the difficulty.
+
+ * The two guards *exchange an unsure look and step forward*
+ * The salty pirate flashes his blade, but *simultaneously takes a step
+   backwards towards his ship*
+
+ * The golem is *gargantuan and covered in scars from many battles*
+ * The *horde* of undead wolves stare at you with *unrelenting hunger*
+ * The old woman with the walking stick is *unfazed by your threats* and,
+   *after looking you up and down, turns away with an air of dismissal*
+
+
+---
 
 # Attribution
 
