@@ -226,7 +226,7 @@ and give yourself a point in your *Good Bank*.
 
 This is the chapter of the game where characters are most at risk to lose all
 of their Stamina points. In other chapters of the story, the GM may choose to
-narrate this as unconciousness, imprisonment, or something else that
+narrate this as unconsciousness, imprisonment, or something else that
 the character will naturally recover from.
 
 But not in this chapter.
@@ -613,6 +613,6 @@ walled-off to cope with everyday life and behave harmoniously in society.
 
 Just like the fictional characters who cross over to a mysterious world,
 face the unknown, and return to the ordinary world, we players can choose to
-cross over and **play**, explore our unconsiousness, and find ourselves
+cross over and **play**, explore our unconsciousness, and find ourselves
 changed by what we confronted, unchained, poked, or set free down there.
 

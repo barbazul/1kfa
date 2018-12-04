@@ -2192,14 +2192,14 @@ Also: bestiaries! See:
 
 ## Villains (aka "Bosses", aka "The Big Bad")
 
-A villian or arch-enemy is not necessary, but can be a very useful tool.
+A villain or arch-enemy is not necessary, but can be a very useful tool.
 Having one "mastermind" behind all the badness in an adventure creates a
 very focused point of attention when the characters make decisions about
 what to do next.
 
 Villains have desires. Usually a desire is fundamentally simple, but a story
 is interesting (and provides more interaction options for the players) if the
-*means to acheive* the desire is *complicated*.
+*means to achieve* the desire is *complicated*.
 
 Voldemort wants *control*, but doesn't run for office, instead he hides 7
 horcruxes behind monsters and puzzles, then buries himself as a parasite
