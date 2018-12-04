@@ -230,25 +230,26 @@ The maximum is still two extra cards, so if the sum is -3, you only
 flip with two disadvantage cards.
 
 
-## Other flip complications: Green token cards
+## Other flip complications: XP cards
 
-![A green token card](images/component_card_green_token.png){ width=2.5inch }
+![An XP card](images/component_card_green_token.png){ width=2.5inch }
 
-Resolving flips is the main way that players acquire green tokens in
-1kFA. Green tokens are sometimes called "experience points" and
-they are a player's most important mechanical currency in the game.
+Resolving flips is the main way that players acquire experience points in
+1kFA. Experience points are a player's most important mechanical currency
+in the game.
 
-Some Deckahedron cards have a green token symbol in the middle.
-After a flip is *resolved* by a card showing a green token symbol,
-take a green token from the supply.
+Some Deckahedron cards show an experience point symbol in the middle.
+These are XP cards.
+After a flip is *resolved* by an XP card, take a experience point
+from the supply.
 
 You may only do this when the card *resolves* a flip. (ie, when flipping
-multiple cards, only if the *green token card* was the one from which
+multiple cards, only if the *XP card* was the one from which
 the ✗ or ✔ symbols were used to interpret the result of the move)
 
-Green tokens are a currency you spend to activate "meta" parts of the game.
-See below for moves that let you "break" or "bend" rules, or partially take
-control of the narrative.
+Experience points are a currency you spend to activate "meta" parts of the
+game. See below for moves that let you "break" or "bend" rules, or partially
+take control of the narrative.
 
 
 ## Other flip complications: Wound cards
@@ -280,12 +281,12 @@ say how they are helping and flip one Anchor.
 The players choose the best result to resolve the flip.
 
 <!--
-Only the spotlighted player can possibly receive green tokens from this
+Only the spotlighted player can possibly receive experience points from this
 flip, and only with their own card. If the card that resolves the flip
-wasn't the spotlighted player's, nobody receives a green token.
+wasn't the spotlighted player's, nobody receives a experience point.
 -->
 
-Only the card that resolved the flip can generate a green token, and only
+Only the card that resolved the flip can generate a experience point, and only
 for the player who played it.
 
 If there are any negative consequences (damage, danger, etc) from the
@@ -815,19 +816,19 @@ provides a way to develop your character's backstory and personality.
 After a player makes a flip, and before the GM describes the consequence of
 the flip, the player can declare they're going to `do a flashback`.
 
-The player spends 1 green token. Then they describe how something
+The player spends 1 experience point. Then they describe how something
 that happened in the past particularly prepared their character for
 this situation.
 
 Then the original flip is ignored, and a new flip is executed, using the same
 advantage or disadvantage as the original flip.
 
-The player may then spend additional green tokens to "bump up" the result.
-Each green token spent increases the result, from ✗ to ✅︎ to ✔✔ to ✔✔✔.
+The player may then spend additional experience points to "bump up" the result.
+Each experience point spent increases the result, from ✗ to ✅︎ to ✔✔ to ✔✔✔.
 
-Technically, this flip is *resolved* only after the green tokens are spent,
-so if the card was a *green token card*, the player should receive the green
-token it grants only after they finished spending their green tokens to
+Technically, this flip is *resolved* only after the experience points are
+spent, so if the card was a *XP card*, the player should receive the experience
+point it grants only after they finished spending their experience points to
 "bump up" the results.
 
 ### Mercy Flashbacks
@@ -841,11 +842,11 @@ As long as the player and the GM both agree that the player had the necessary
 resources when the action was available, the GM may allow the player to
 spend those resources and effect that action now, as a "Mercy Flashback".
 
-The player must spend a green token, in addition to whatever cost the action
+The player must spend an experience point, in addition to whatever cost the action
 incurs.
 
 Even the most conscientious of us sometimes loses track of small details,
-so the cost is kept "cheap" at only one green token. But there must be a cost.
+so the cost is kept "cheap" at only one experience point. But there must be a cost.
 It is necessary to keep the flow of the game going. This is a game of improv
 storytelling, and improv means rolling with the punches sometimes.
 
@@ -860,9 +861,9 @@ has a ✔✔✔ symbol on every edge and a circular green symbol in the middle.
 If you *resolve a flip* with the Critical Success card, you can do two things:
 
  * Say how your character's practice has finally paid off, or how they had
-   an insight or epiphany about the move they just accomplished. Spend green
-   tokens 1-for-1 to go up levels in the move that was just resolved.
- * Spend 1 green token to make another move, right now, and get an
+   an insight or epiphany about the move they just accomplished. Spend
+   experience points 1-for-1 to go up levels in the move that was just resolved.
+ * Spend 1 experience point to make another move, right now, and get an
    advantage card on that move.
 
 If you choose to Critical Flip, the spotlight stays on you for a little bit
@@ -971,7 +972,7 @@ currently at a "scrappy adventurer" level.
 
 Every session after the first session, there is a special move to execute
 at the very beginning, **The Session Opener**. It is a player's opportunity
-to generate an extra green token.
+to generate an extra experience point.
 
 ## Ask for notes
 
@@ -996,7 +997,7 @@ correctly. Just take a deep breath and move on.
 ## Reward Yourselves
 
 If every player is satisfied with their opportunity to receive feedback,
-each player gets a green token.
+each player gets an experience point.
 
 If your gaming session includes food or drink, the Session Opener can be
 ceremonialized by refraining from the first bite or the first sip until
@@ -1430,7 +1431,8 @@ disadvantage.
  * ![1 red symbol](images/move_level_1_red.png){ width=0.5inch } flip with 1 level of disadvantage
 
 If you perform a "wild" level move, and you resolve that flip with a
-*Critical Success card*, you can spend 1 green token to graduate to "novice" level.
+*Critical Success card*, you can spend 1 experience point to graduate to
+"novice" level.
 
 ![Red card](images/red_card_black.png){ width=2.5inch }
 
@@ -1448,8 +1450,8 @@ This is the move by which your character becomes a powerful force in
 the world.
 
 When your character is in a steading (a villiage, city, etc. -- any safe
-place where resources and commerce present themselves), you can spend 2 green
-tokens to either:
+place where resources and commerce present themselves), you can spend 2
+experience points to either:
 
  * Increase the level of a move you already have
    (See [Move Levels](#move_levels)
@@ -1644,7 +1646,7 @@ When a player's character attacks another player's character, moves are
 triggered as they would normally be, and costs are paid (eg, if the attacker
 uses a magic item, they may lose a charge), but there are differences:
 
- * Green token cards do not generate a green token if they resolve a flip
+ * XP cards do not generate an experience point if they resolve a flip
  * Critical Success cards cannot be used to go up levels in moves
  * Attack power is not rolled
 
@@ -1673,7 +1675,7 @@ Just as in PvP combat, when one player tries to:
  * use a move to dictate another player's character's action
    - eg, by using mind control magic
 
-Green token cards do not generate green tokens, Critical Success cards cannot
+XP cards do not generate experience points, Critical Success cards cannot
 be used to go up levels, and the *defender* gets to say what the result was.
 
 

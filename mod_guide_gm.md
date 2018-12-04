@@ -444,8 +444,8 @@ just give players a taste.
 It should also help teach the rules of 1kFA.
 
  * Work in an opportunity for each player to do a Deckahedron flip
- * If a player flips green token card, that's an opportunity
-   to explain how they earn green tokens
+ * If a player flips an XP card, that's an opportunity
+   to explain how they earn experience points
  * If a player flips the Critical Success card, that's an opportunity
    to explain the Critical Flip move
  * Ideally there will be a combat scene.
@@ -703,8 +703,8 @@ uncomfortable. Ask them what is the most immediate fictional goal their
 character would have.
 
 If they're enjoying the mechanical game, ask them what resource they're
-after: green tokens? wealth? item cards? move cards? Then ask what they think
-the shortest path is to get the thing they're after. Help them see the
+after: experience points? wealth? item cards? move cards? Then ask what they
+think the shortest path is to get the thing they're after. Help them see the
 necessary steps to get what they want.
 
 In either case, you're nudging them towards making a decision to accomplish
@@ -854,8 +854,8 @@ in front of a player:
  * Take away item cards (careful with this one - use only when appropriate)
  * Take away marker tokens (ie, those created by Defend, Where It Hurts, etc.)
 
-Note, **a GM cannot take green tokens from a player**. Use of green tokens
-should always be a player choice.
+Note, **a GM cannot take experience points from a player**. Use of experience
+points should always be a player choice.
 
 ### Turn Their Move Back On Them
 
@@ -1279,10 +1279,10 @@ signaling that the fun they want to have is playing a different game.
 > We're going to create what are called "Risk Driver" cards.
 >
 > On your Risk Driver will be written some goal for your character to
-> achieve in the story. Then I'm going to put 2 green tokens on the card.
+> achieve in the story. Then I'm going to put 2 experience points on the card.
 >
 > When your character *takes a big risk* to achieve this goal, you get
-> to take the 2 green tokens.
+> to take the 2 experience points.
 >
 > The player on your left is going to look at this list of goals then
 > present you with 2 goals.  You must choose 1 of them. That goal gets
@@ -1303,7 +1303,7 @@ signaling that the fun they want to have is playing a different game.
  * Get called out on your boasting
 
 Write the chosen phrase on a blank card and hand it to the player. Place
-two green tokens on each player's Risk Driver card. When their character
+two experience points on each player's Risk Driver card. When their character
 first *takes a big risk* by the method or for the reason written on their
 card, the player takes the tokens.
 
@@ -1635,7 +1635,7 @@ This format makes the opponents more of a threat.
  * Describe how all of those opponents team up on one of the player's
    characters, and call for one Defy Danger flip.
    (move the "danger" spotlight fairly, but also try to put pressure on any
-   players with more than 3 green tokens)
+   players with more than 3 unspent experience points)
  * Failing the Defy Danger flip results in the player's character suffering
    the opponents' attack. You can calculate attack power thusly:
       * ✗ : one attack power die from the lead attacker,
@@ -1818,7 +1818,7 @@ Collaborate. Get consent.
 ### Reward Yourselves
 
 If every player has had a chance to get satisfactory feedback it's time
-to dole out green tokens. Give a new one to each player.
+to dole out experience points. Give a new one to each player.
 
 
 ## The Core Game Loop
@@ -1830,7 +1830,7 @@ adventure and back again to downtime, repeating in a "loop".
 Adventure activities involve risk, exploration, and confrontation.
 Adventuring will incur costs on the characters in the form of injury,
 damage to items, and lost charges to magic items, but it will also
-let the players build up resources like green tokens and wealth.
+let the players build up resources like experience points and wealth.
 
 Downtime activities are less risky. In these activities, the costs and
 benefits are known upfront, like shopping, healing, and studying.
@@ -2273,7 +2273,7 @@ constant, rejecting the change that a hero must accept to truly be a hero.
 
 Party Power is an easy number to calculate, based on each PC in the scene.
 
-` Party power = (10 ✕ (# of PCs)) + (# of green tokens the PCs have) `
+` Party power = (10 ✕ (# of PCs)) + (# of experience points the PCs have) `
 
 ### Create your foes
 
