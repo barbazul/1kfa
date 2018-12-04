@@ -737,7 +737,7 @@ When a player first declares that they are going to Bravely Run Away
 
 
 
-# Encumberance Penalties
+# Encumbrance Penalties
 
 Your character has a movement speed, a certain lightness-of-foot,
 they carry a certain amount of equipment and items,
@@ -755,7 +755,7 @@ gear is born.
 
 That said, there are some moves that are affected by how much *stuff*
 a character carries. These moves have the tag "UNENCUMBERED", and declare
-an encumberance penalty in their descriptions.
+an encumbrance penalty in their descriptions.
 
 Note that your character can drop items, and equipment at any time during
 the game, as long as it makes sense in the fiction.
@@ -926,12 +926,12 @@ After you choose your starting moves, Choose 2 items
    * Note, even without studying the Use A Magic Item move, it's still possible
      to use magic items.
 
-## Fitting the Fiction to Encumberance
+## Fitting the Fiction to Encumbrance
 
 There are blanks on some item cards, and some items are designed starting
 from entirely blank cards. You get to give your items descriptive names
 and define what they are. But you do not get to change the rule that each
-item you carry factors into encumberance penalties.
+item you carry factors into encumbrance penalties.
 
 It is common for a player to ask why the magic amulet or ring they've created,
 a trinket that is normally a couple grams, might encumber them. The GM didn't
@@ -1145,7 +1145,7 @@ out lightly. Generally players should seek weapon power increases from the
 Craft a Weapon and _ Mastery moves.
 
 The GM should decide if the weaponry incurs any additional costs when
-calculating encumberance penalties. Is the item particularly heavy or large?
+calculating encumbrance penalties. Is the item particularly heavy or large?
 
 Here are the weapons available to characters during character creation:
 
@@ -1178,7 +1178,7 @@ receive either:
  * or 1 Harm *or* Wound token
 
 The GM should decide if the armour incurs any additional costs when
-calculating encumberance penalties.
+calculating encumbrance penalties.
 Better armour tends to be heavier and impedes graceful movement.
 
 The GM and player should agree on a descriptive name for the armour like
@@ -1228,7 +1228,7 @@ bracers their wrists would be "unarmed", doing just 1d2 attack power.
 ### Magic Items
 
 1kFA supports stories involving magic. To avoid presuming too
-much about the narrative, the rules do not dicate the nature of magic or
+much about the narrative, the rules do not dictate the nature of magic or
 the "how" of magic. That's for you to decide during play.
 
 Is magic woven from subtle threads that pervade the universe? Is it based
@@ -1237,7 +1237,7 @@ by alien benefactors? Is it copied exactly from a concept in your Touchstone
 List? You decide.
 
 The rules give you a way to have scrappy adventurers begin with magic items.
-These artifacts have 3 charges, and are rechargable during Rest.
+These artifacts have 3 charges, and are rechargeable during Rest.
 Your character can eventually build themselves up in power to a point where
 they can cast magic spells without needing the items.
 
@@ -1588,7 +1588,7 @@ cards to the supply.
 ![Tales of a Weapon card](images/move_tales_of_a_weapon.png){ width=2.5inch }
 
 The GM should decide whether the weapon will incur any extra cost when
-calculating an encumberance penalty.
+calculating an encumbrance penalty.
 Is the item particularly heavy or large? The GM should weigh that
 cost against the weapon's other features.
 

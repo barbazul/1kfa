@@ -43,7 +43,7 @@ One piece of advice frequently given to anyone trying to convey information
 is "Show, don't tell".
 
 In that spirit, you are invited to visit
-`https://www.deckahedron.com/world/examples`. There, you will see examples
+`https://www.1kfa.com/world/examples`. There, you will see examples
 of 1kFA being played. For all the author's attempt to make this
 document clear, brief, and unambiguous, those examples may do a better job
 of conveying just what 1kFA is and how it is played.
@@ -51,8 +51,8 @@ of conveying just what 1kFA is and how it is played.
 
 # First-time Players
 
-If there is a player at the table who has never played Deckahedron
-World before, read the Start Script and play Sarukkan's Chamber.
+If there is a player at the table who has never played 1kFA
+before, read the Start Script and play Sarukkan's Chamber.
 
 ## Start Script
 
@@ -597,8 +597,8 @@ players to create a world that's engaging and dynamic. Adventurers are
 always caught up in some dangerous situation or another -- encourage and
 foster that kind of action in the game.
 
-1kFA adventures **never** presume player actions. A Deckahedron
-World adventure portrays a setting in motion -- someplace significant with
+1kFA adventures **never** presume player actions. A 1kFA
+adventure portrays a setting in motion -- someplace significant with
 creatures big and small pursuing their own goals. As the players come into
 conflict with that setting and its denizens, action is inevitable. You’ll
 honestly portray the repercussions of that action.
@@ -1395,7 +1395,7 @@ at the "wild" level.
 #### Aside: A feather can make you slower
 
 Often during this phase, a player might bring up the issue of why an item
-they've called a ring or a pair of boots can have an encumberance penalty.
+they've called a ring or a pair of boots can have an encumbrance penalty.
 How can sliding on a ring make it harder to run away?
 How can wearing boots make it impossible to pick a pocket?
 
@@ -1411,7 +1411,7 @@ anyone expects, or that the magical attunement of the boots sends a
 tingling sensation up the nerves of the wearer's legs.
 
 The player that writes on the card should already know that item cards
-incur encumberance penalties so it will be up to them to justify what
+incur encumbrance penalties so it will be up to them to justify what
 they wrote.
 
 This doesn't mean that every described fictional object reduces a
@@ -1595,6 +1595,9 @@ so, when you make your moves, you can think cinematically. Continually raise
 the stakes for both sides during the scene. Think dangerous. No character
 or set piece needs to be safe or sacred.
 
+## Melee or ranged?
+
+`TODO`
 
 ## The Combat Spotlight
 

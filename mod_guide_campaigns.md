@@ -22,8 +22,8 @@ It's called *The Hero's Journey* by people who study story structure.
 *The Hero's Journey* is a skeleton upon which many successful and popular
 movies and books are arranged: Star Wars, Lord of the Rings, The Breakfast
 Club, Die Hard, Beowulf, Forgetting Sarah Marshall, the list goes on.
-To help you execute a successful and popular *campaign*, Deckahedron
-World gives the GM a *Good Bank* and a *Bad Bank* and specific rules for
+To help you execute a successful and popular *campaign*, 1kFA
+gives the GM a *Good Bank* and a *Bad Bank* and specific rules for
 using them.
 
 The main premise of *The Hero's Journey* is, characters start out in
