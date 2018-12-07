@@ -1,8 +1,12 @@
 # GM Guide
 
 *playtest version*
+
 *find latest version at https://1kfa.com*
+
 *email sjb@ezide.com*
+
+----
 
 This guide is intended for a Game Master (GM).
 
@@ -13,11 +17,11 @@ Your responsibilities are:
 
  * pitch the idea of playing 1kFA to your friends
  * know, teach, and follow the rules
- * give Non-Player Characters (NPCs) names, voices, motivations,
-   and behaviour
- * describe scenes
  * confront the players with challenges and dangers
  * move the story to plot points
+ * describe scenes
+ * give Non-Player Characters (NPCs) names, voices, motivations,
+   and behaviour
  * take some notes
  * and...
 
@@ -47,6 +51,23 @@ In that spirit, you are invited to visit
 of 1kFA being played. For all the author's attempt to make this
 document clear, brief, and unambiguous, those examples may do a better job
 of conveying just what 1kFA is and how it is played.
+
+
+# The Pitch
+
+What's the best way to pitch 1kFA to your friends? Well, you know them
+better than I do. I'm just a book. But here are some things that 1kFA does
+that make it special. Think about what your friends like and dislike
+and what they're seeking in their gaming experience.
+
+ * The Hero's Journey - like the stories told in blockbuster movies, your
+   friends will play protagonists who must face adversity to transform
+   themselves and their world.
+ * Paper not required - players only need to interact with cards and tokens
+ * Play your favourite universe - use the setting of your favourite
+   swords-and-magic universe from pop culture, 1kFA will support it!
+ * Layered mechanisms - choices in 1kFA move game resources and probabilities
+   around - there's depth for players to explore and skill to build
 
 
 # First-time Players
