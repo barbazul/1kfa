@@ -700,41 +700,38 @@ is *incapacitated* and can take no further actions.
 
 # The Pursuit Mini-game
 
- * Int
-   * Hiding
-   * Using words to influence a crowd
- * Str
-   * Climbing a wall
-   * Making a great leap
- * Dex
-   * Sliding / tumbling down an embankment
-   * Dancing across a precarious rooftop
-   * Jumping from the second floor onto a waiting horse
-
-When dangerous foes are chasing the players' characters, use these rules
+When dangerous foes are chasing the PCs, use these rules
 to determine what happens.
 
 When a player first declares that they are going to Bravely Run Away
 
  * Starting player declares
  * Other players declare whether their character joins
- * One character - the one with the most Items + WEALTH + PACK is declared
+ * One character - the one with the most Items + PACK is declared
    the "rabbit"
  * Best 3 of 5 rounds
  * Rabbit flips Anchors, solo
    * One level of disadvantage if they have > 2 Item cards
-   * One level of disadvantage if they have > 2 WEALTH cards
    * One level of disadvantage if they have > 2 PACK cards
  * For the next 3 rounds, the rabbit flips anchors (with disadvantage), but
-   can be helped by any of the other joining players' characters, each one
-   of the rounds can be helped by Int, Str, or Dex, without repeating. The
-   help must be justified by the attribute. The best result between the
-   rabbit's flip and the helper's resolves the round.
+   can be helped by any of the other joining PCs.
+   The best result between the rabbit's flip and the helper's resolves the round.
+   Each one of the rounds can be helped by Int, Str, or Dex, without repeating.
+   The help must be justified by the attribute.
+   * Int
+     * Hiding
+     * Using words to influence a crowd
+   * Str
+     * Climbing a wall
+     * Making a great leap
+   * Dex
+     * Sliding / tumbling down an embankment
+     * Dancing across a precarious rooftop
+     * Jumping from the second floor onto a waiting horse
  * The last flip must be made by the rabbit alone.
- * If the pursuers win 2 flips in a row, they can make a move in the middle
+ * If the pursuers ever win 2 flips in a row, they can make a move in the middle
    of the pursuit if appropriate, like firing a volley of arrows or sounding
    some kind of alarm
-
 
 
 # Encumbrance Penalties
