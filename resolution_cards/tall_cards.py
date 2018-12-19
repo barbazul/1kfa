@@ -269,8 +269,9 @@ class Seek_Help(Card):
     * Step 3: Return all Harm tokens to the supply
     * Step 4: Count the Wound tokens on your Exhaustion pile
     * Step 5: Keep that many cards in your Exhaustion pile, put the rest into your discard pile
-    * Step 6: Return 1 Wound token and 1 Wound card to the supply
-    * Step 7: Say who you are closer to forgiving
+    * Step 6: Return all Wound cards to the supply
+    * Step 7: If you are at The Hearth, return all Wound tokens to the supply
+    * Step 8: Say who you are closer to forgiving
     |
     |
     Idle magic items regain their charges. Gird all your armour.
