@@ -668,21 +668,22 @@ end with "What do you do?". You don't even have to ask the person you made
 the move against. Take that chance to shift focus elsewhere.
 
 The questions that gave the characters flesh during character creation are
-examples of asking questions and using the answers. You can always revisit
+examples of asking questions and using the answers. You can always go back
 and pull more buckets up from that well. If a character is religious, ask
 them what their gods would have to say. If there's a halfling in the party,
 ask how hungry the current scene makes them.
 
-The GM may ask the players to describe outcomes. For example, if a player's
+Try asking the players to describe outcomes. For example, if a player's
 character is in a fight with a goblin and the player rolls *attack power*
 of 10, the GM might ask the player to "Describe how your character kills
 the goblin". This gives the player license to get flowery and really see
 their character live up to the promise of being powerful in this fantasy
 world.
 
-When you're stumped for what happens next, consider where you are in the
+When you're stumped for what happens next, ask a player to fill in the details.
+Consider where you are in the
 [Campaign](mod_guide_campaigns.md), and ask a leading question.
-Use their answer to introduce the next challenge.
+Use their answer to describe the next scene or introduce the next challenge.
 
 | Chapter         | Question
 |-----------------|------------------------------------------------------
@@ -710,7 +711,7 @@ to inspire you:
 
 Sometimes when you ask a player a question, they will simply respond
 "I don't know". This can be a signal that the player isn't having fun, and
-might need some direction.  It can be difficult to just make stuff up about
+might need some direction. It can be difficult to just make stuff up about
 a character that doesn't really exist moving around in a purely
 imagined world.
 
@@ -1442,35 +1443,38 @@ or the eggs of a cursed salamander -- things that can be tracked by writing
 them on a card or piece of paper.
 
 
-### Home / Comfort
-
-Before the game begins, ask *every* player where their character feels most
-at home, or what their favourite activity is -- what they're already good at.
-
-Write down the answers.
-
-Use this information to get your first point in your *Good Bank*, by
-starting the story out in a place of normalcy, vitality, and comfort.
-Remember, it doesn't have to be a Hobbit hole.  Characters might be most at
-home in the middle of a bloody battle.
-
-
-### How do you meet?
+### The Hearth
 
 This is a game where the players play together on the same team.
 
-Ask the players if their characters already know each other. If so, how?
-If not, **as players** (ie, before they start roleplaying their characters),
-establish the broad strokes of how they will meet and what will make them
-decide to team up. Don't leave anyone out. Get consensus on this set-up.
+Before the game begins, establish for *every* PC, what makes them feel most
+at home, and how they characters already know each other.
 
-They should be committed to a shared goal within the first 30 minutes of
-play. Some questions to consider:
+Ask the group to choose by consensus one of these things that they all
+have in common, and ask them to describe why this common thing bonds them
+together and why it makes them comrades that would risk their lives for
+each other.
 
- * Will it be an uneasy alliance?
- * What are the stakes?
- * If the characters are not natural allies, how will they come to trust
-   each other enough to team up?
+ * Specific People
+ * Food
+ * Song
+ * Environmental feature
+ * Ritual or festival
+ * Group activity
+
+This answer will be known as The Hearth.  Write it down on the same sheet
+as the Touchstone List and label it "The Hearth".
+
+The Hearth is something that will be made inaccessible to the party when
+the first threshold is crossed, and be made available again when the second
+threshold is crossed. For details on thresholds, see the
+[Campaign Guide](mod_guide_campaigns.md).
+
+Use what the players describe to get your first point in your *Good Bank*,
+by starting the story out in a place of normalcy, vitality, and comfort.
+Remember, it doesn't have to be a Hobbit hole.  Characters might be most at
+home in the middle of a bloody battle.
+
 
 ### GM Prompt
 
