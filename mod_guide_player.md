@@ -1692,3 +1692,23 @@ can always trigger Good Cardio, and regain some of their lost Stamina points.
 If you add a 2nd magical effect to a weapon with Tool Twisting, it still only
 has 1 maximum charge, no matter which effect you use.
 
+
+# Appendix - Glossary
+
+ * 1d4, 1d6, 1d10
+   * This is notation that means "one four-sided die", "one six-sided
+     die", etc.
+ * attack power
+   * the number representing how powerful an attack is
+ * halve
+   * When you roll dice and *halve* the value, divide by 2 and then round up
+     to the nearest whole number. 4 becomes 2, 3 becomes 2, 2 becomes 1, etc.
+ * melee
+   * When the details of the fiction put two combatants close enough to each
+     other such that their handheld weapons might connect
+ * More Power
+   * Permanently changing the kind of dice that are rolled when certain Item
+     cards are used
+ * ranged (or "at range")
+   * When the details of the fiction put two combatants far enough apart that
+     their handheld weapons could not connect
