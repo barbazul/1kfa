@@ -2139,7 +2139,7 @@ by the heroes.
 For every monster the characters interact with, spend 1 point from
 the *Bad Bank*.
 
-Monsters have 1-20 stamina points and 1-5 wound squares
+Monsters have 1-20 stamina points and 1-3 wound squares
 
  * Spend 1 Bad Bank point if 11-15 stamina
  * Spend 2 Bad Bank points if 16-20 stamina
@@ -2196,7 +2196,7 @@ Any animal, but especially ones humans are instinctively afraid of
  * lizards, dinosaurs
 
 For a "classical" effect, mix up two or three of the animals - eg, a snake
-with the head of a bird, an octopus with scorpion tails for tentacles.
+with the wings of a bird, an octopus with scorpion tails for tentacles.
 
 Some monsters add on an aspect of goodness, nobility, or innocence. This can
 emphasize corruption, be used as a trap or a trick, or just create contrast.
@@ -2226,10 +2226,12 @@ Villains have desires. Usually a desire is fundamentally simple, but a story
 is interesting (and provides more interaction options for the players) if the
 *means to achieve* the desire is *complicated*.
 
+<!-- TODO: remove trademarked references -->
 Voldemort wants *control*, but doesn't run for office, instead he hides 7
 horcruxes behind monsters and puzzles, then buries himself as a parasite
 underneath his sycophant's turban.
 
+<!-- TODO: remove trademarked references -->
 Darth Vader wants *order*, so must build a moon-sized laser beam, blow up
 all the rebellious planets, promote and demote military subordinates, and
 convince his estranged son on the value of theocratic rule.
@@ -2248,8 +2250,8 @@ is used to motivate player characters in the
 [Campaigns Guide](mod_guide_campaigns.md).
 
 Think about your villain as a full person. You will have to improvise their
-actions and decisions, so use empathy. Decide if they are driven by reason
-or if they're irrationaly compulsive. When you know who they are, and how
+actions and decisions, so use empathy. Are they driven by reason, dangerously
+erratic, or myopic and compulsive? When you know who they are, and how
 they make decisions, you will be able to quickly make calls about how they
 react to the player-characters' actions.
 
