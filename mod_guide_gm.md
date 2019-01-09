@@ -1763,24 +1763,51 @@ Have some cinnamon and sugar ready, but also have some salt and chili powder.
 Wait until you play to find out the details of what happens.
 
 
-# Start of Session
-
 ## Special Move: The Session Opener
 
 From the second session onward, there is a special move that happens once
 everyone has sat down to play.
 
-### Recap Questions
+### Story Recap
 
 First make sure everyone is on the same page. Remind the table of the
-details of the setting and the characters. Ask each player for either a
-thing they learned about the world or a way they expressed their
-character's personality from the last session.
+details of the setting and the characters. Ask the players about what
+they learned about the world or to remind the table of a way their
+character's expressed their personality in the last session. Give your
+recounting of the events that happened in the story so far.
 
 ### Ask for Notes
 
 Lead each player through a quick check-in. Everyone, including the GM will
 ask if there's any way they could improve their style of play.
+
+```
+Each time we start a new session, there's going to be an opportunity for
+players to ask the table how they can make a bigger contribution to the
+fun.
+
+I'm going to give each of you a turn, and if you'd like, you can "ask for
+notes".  You are free to skip it, but this is a great opportunity before
+you get into character to see if there's anything about your play-style or
+any choices your character could make that would amplify the experience
+for everyone.
+
+When asked to give someone feedback, answer honestly and gently. We are
+giving suggestions for improvement, and these suggestions can be taken to
+heart or completely ignored. No response is ever required of the person
+asking for notes.
+
+Never say "you are having fun wrong". It's better to say "There are more
+fun parts over here if you want to take a look".
+
+After everyone, including myself, has had a turn, all the players get a
+free experience point for participating in this exercise.
+```
+
+This move's purpose is to practice an open dialogue and help everyone
+*improve* their play. If it feels like bargaining, argumentation,
+excuse-creation, litanizing of sins, the move has not been executed
+correctly. Just take a deep breath and move on.
 
 GMs should particularly try to improve their ability to listen for signals.
 Tell players about the content you added last session in response
@@ -1842,6 +1869,15 @@ you need to have a conversation with your players.
 
 This is a shared narrative, so it's allowed to retroactively edit.
 Collaborate. Get consent.
+
+### Ceremonialize
+
+If your gaming session includes food or drink, the Session Opener can be
+ceremonialized by refraining from the first bite or the first sip until
+the Session Opener has been completed.
+
+Another idea to add some ritual is to start some exciting,
+adventure-appropriate music when the Session Opener concludes.
 
 ### Reward Yourselves
 

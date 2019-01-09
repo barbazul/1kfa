@@ -971,37 +971,15 @@ Every session after the first session, there is a special move to execute
 at the very beginning, **The Session Opener**. It is a player's opportunity
 to generate an extra experience point.
 
-## Ask for notes
+Your GM will lead you through a story recap and pose some questions about
+your character.  Then you will be given the opportunity to **Ask for
+notes** and **Give notes** to your fellow players.
 
-Take turns and ask your friends sitting around you at the table if there's
-anything about your own play-style you should keep in mind to improve the
-fun had by everyone (this includes the GM's fun too!).
+After this exercise, all participating players will receive an experience
+point.
 
-## Give notes
-
-When your fellow players ask you the same, answer them honestly and gently.
-This is a suggestion for improvement, given in a take-it-or-leave-it manner.
-Never say "You are having fun wrong". Just say "There are more fun parts
-over here if you want to take a look".
-
-No response is ever required of the person asking for notes.
-
-This move's purpose is to practice an open dialogue and help everyone
-*improve* their play. If it feels like bargaining, argumentation,
-excuse-creation, litanizing of sins, the move has not been executed
-correctly. Just take a deep breath and move on.
-
-## Reward Yourselves
-
-If every player is satisfied with their opportunity to receive feedback,
-each player gets an experience point.
-
-If your gaming session includes food or drink, the Session Opener can be
-ceremonialized by refraining from the first bite or the first sip until
-the Session Opener has been completed.
-
-Another idea to add some ritual is to start some exciting,
-adventure-appropriate music when the Session Opener concludes.
+The details of the Session Opener are described in
+[the GM Guide](mod_guide_gm.md).
 
 
 # More Moves - Rest, Seek Help
