@@ -1836,8 +1836,8 @@ what a player can do to improve them.
 Some psychological studies have shown that odds feel "fair" only
 when players get wins 60% of the time. Now look at the Deckahedron
 statistics reference.  You'll see that if your players are mostly doing
-standard flips (flips without advantage), they are likely to feel the game
-is unfair.
+standard flips (flips without advantage), they are likely to feel the
+game is unfair.
 
 Explain to your players that getting good at playing 1kFA
 means *creating advantages*. There are built-in moves like Discern and
@@ -1849,8 +1849,8 @@ NPCs that you're creating.
 #### Frequently Given Note: Try Wild Moves
 
 When you begin your 3rd session with new players it might be a good time
-to remind them that they can literally try any of the moves whose success
-is governed by Str/Dex/Int.
+to remind them that they can literally try any of the moves that have
+Dex, Int, or Str printed at the top of the card.
 
 Even if they don't have the card, they can trigger a move by describing
 their character taking that kind of action.
@@ -1859,6 +1859,19 @@ They might even discover their character is good at it (via a Critical Flip).
 
 Another good hint for your players is that a good time to try moves wild is
 when they've built up a +2 advantage.
+
+#### Other Frequently Given Notes
+
+Generally, the Session Opener can be used to help the players absorb more
+of the rules. As the game progresses, their characters will open up new
+ways to be more competent and have a stronger impact on the game world.
+
+Examples:
+
+ * Gaining new moves
+ * Increasing move levels
+ * Getting items with More Power
+ * Collecting green rings to earn Level Cards
 
 ### Apologia
 
