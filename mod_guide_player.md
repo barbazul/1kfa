@@ -742,22 +742,22 @@ Your character has a movement speed, a certain lightness-of-foot,
 they carry a certain amount of equipment and items,
 and perhaps even a certain amount of wealth or treasure.
 
+There are some moves that are affected by how much *stuff*
+a character carries. These moves have the tag "UNENCUMBERED", and declare
+an encumbrance penalty in their descriptions.
+
+At any time that it makes sense in the fiction, a character can drop items
+and equipment.
+
 Daily-use amounts of money and food are not tracked. It is assumed
 your character will always be able to scrounge a meal somehow.
 Unless it is relevant to the drama of the fictional situation or
 inspired by the Touchstone List, small monetary transactions
 may be abridged or assumed.
 
-It is not necessary to exactly measure movement speed or the sizes
-of all the gear carried or to track the bodily position on which the
-gear is born.
-
-That said, there are some moves that are affected by how much *stuff*
-a character carries. These moves have the tag "UNENCUMBERED", and declare
-an encumbrance penalty in their descriptions.
-
-Note that your character can drop items, and equipment at any time during
-the game, as long as it makes sense in the fiction.
+It is also not necessary to exactly measure movement speed or the sizes
+of all the gear carried or to track the body part to which the gear
+is strapped.
 
 
 # Moves - Good Thing I Brought, Do a Flashback, Critical Success, Take a Breather
@@ -862,11 +862,7 @@ If you *resolve a flip* with the Critical Success card, you can do two things:
  * Say how your character's practice has finally paid off, or how they had
    an insight or epiphany about the move they just accomplished. Spend
    experience points 1-for-1 to go up levels in the move that was just resolved.
- * Spend 1 experience point to make another move, right now, and get an
-   advantage card on that move.
-
-If you choose to Critical Flip, the spotlight stays on you for a little bit
-longer while you make your bonus move.
+ * Take a blessing card from the supply and put it in their discard pile.
 
 
 ## Taking a Breather
@@ -925,12 +921,12 @@ After you choose your starting moves, Choose 2 items
    * Note, even without studying the Use A Magic Item move, it's still possible
      to use magic items.
 
-## Fitting the Fiction to Encumbrance
+## Item Encumbrance
 
 There are blanks on some item cards, and some items are designed starting
-from entirely blank cards. You get to give your items descriptive names
-and define what they are. But you do not get to change the rule that each
-item you carry factors into encumbrance penalties.
+from entirely blank cards. Players get to give your items descriptive names
+and dream them into existence, but do not get to change the rule that each
+item carried factors into encumbrance penalties.
 
 It is common for a player to ask why the magic amulet or ring they've created,
 a trinket that is normally a couple grams, might encumber them. The GM didn't
@@ -939,7 +935,7 @@ responsibility. The GM may even return the question, "Yes, why does it weigh
 you down? What about magic in this world, or what about your character makes
 them especially burdened by magical items? Does your character even know?"
 
-The narrative of 1kFA is a collaboration.
+Remember, the narrative of 1kFA is a collaboration.
 
 ### Fitting the fiction
 
