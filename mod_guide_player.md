@@ -109,10 +109,10 @@ backs of the cards:
 
 Name      | suit                                    | odds                              | color  | rank
 ----------|-----------------------------------------|-----------------------------------|--------|-------
-Anchor    | ![anchor suit](images/anchor.png){ width=0.5inch }     | indicates the weakest odds        | red    | rank 1
-Bulb      | ![bulb suit](images/bulb.png){ width=0.5inch }         | indicates below average odds      | yellow | rank 2
-Crescent  | ![crescent suit](images/crescent.png){ width=0.5inch } | indicates above average odds      | green  | rank 3
-Dart      | ![dart suit](images/dart.png){ width=0.5inch }         | indicates the best odds           | blue   | rank 4
+Anvil     | ![anvil suit](images/anvil.png){ width=0.5inch }     | indicates the weakest odds        | red    | rank 1
+Blade     | ![blade suit](images/blade.png){ width=0.5inch }         | indicates below average odds      | yellow | rank 2
+Crown     | ![crown suit](images/crown.png){ width=0.5inch } | indicates above average odds      | green  | rank 3
+Dragon    | ![dragon suit](images/dragon.png){ width=0.5inch }         | indicates the best odds           | blue   | rank 4
 
 Shuffle your Deckahedron and place it face-down in front of you.
 
@@ -131,8 +131,8 @@ the flip.
 
 ![Illustration of your Deckahedron](images/component_layout.png){ width=2.5inch }
 
-Look at the attribute on your character sheet -- what suit is it, Anchor,
-Bulb, Crescent, or Dart?
+Look at the attribute on your character sheet -- what suit is it, Anvil,
+Blade, Crown, or Dragon?
 Take the top card and flip it face up.
 
 ![Illustration of flipping a card](images/component_flip.png){ width=2.5inch }
@@ -170,8 +170,8 @@ The GM might say to you:
 > Please flip Defy Danger with your Strength.
 
 Look over at the character sheet and see that Kresk has rank 3
-(Crescent) Strength. Flip over the top card of your Deckahedron and
-look for that Crescent suit.
+(Crown) Strength. Flip over the top card of your Deckahedron and
+look for that Crown suit.
 
 Let's say you get ✔✔. The GM uses the instructions on the
 Defy Danger card ("You do it, but there's a new complication") to
@@ -273,7 +273,7 @@ is taking the lead?". That player is the spotlighted player, and the other
 players are supporting.
 
 The spotlighted player flips as they normally would, the supporting players
-say how they are helping and flip one Anchor.
+say how they are helping and flip one Anvil.
 
 The players choose the best result to resolve the flip.
 
@@ -731,9 +731,9 @@ When a player first declares that they are going to Bravely Run Away
    of the pursuit if appropriate, like firing a volley of arrows or sounding
    some kind of alarm
 
-Sum:  | ≤ -1       |   0        |   1    |   2    |   3    |   4     |   5         |   6
-----------------------------------------------------------------------------------------
-Flip: | Anvils 2xD | Anvils 1xD | Anvils | Blades | Crowns | Dragons | Dragons 1xA | Dragons 2xA
+| (Str + Dex) - Enc  | < 0                    |   0                      |   1    |   2    |   3    |   4     |   5         |
+| ------------------ | ---------------------- | ------------------------ | ------ | ------ | ------ | ------- | ----------- |
+| Flip:              | Anvils 2x disadvantage | Anvils with disadvantage | Anvils | Blades | Crowns | Dragons | Dragons with advantage |
 
 
 # Encumbrance Penalties
