@@ -451,20 +451,18 @@ they are incapacitated. After that, their fate is up to the GM.
 When your character gets attacked or falls victim to some other danger,
 you have choices about exactly how they are affected. They may dodge,
 and just lose Stamina, they may stand stubbornly against a blow,
-taking Harm to perhaps absorb the blow with their armour (or with their
-face), or they may be wounded by the attack.
+perhaps absorbing it with their armour, or they may be wounded by it.
 
 The **first phase** is rolling dice to arrive at a number. This number
 is called the *attack power*.
 
-The **second phase** is deciding how to split that number among 3
-categories, Stamina, Harm, or Wounds.
+The **second phase** is deciding whether to lose Stamina or take a Wound.
 
 The **third phase** is optional: absorbing some points using any relevant
 move cards and item cards.
 
-The **fourth phase** is losing Stamina points and receiving Exhaustion,
-Harm, and Wound tokens.
+The **fourth phase** is losing Stamina points and receiving Exhaustion
+and Wound tokens.
 
 Finally, the **fifth phase**: you interpret those results into the
 narrative.  Did your character dive into the dirt?  Did they take a punch
@@ -491,32 +489,20 @@ If you choose not to split up the *attack power*, you will simply lose that
 many Stamina points.
 
 Let's say your character was attacked with a sword and the dice were rolled
-and summed up to 7. You can either lose 7 Stamina points, or choose to split
-it up.
+and summed up to 7. You can either lose 7 Stamina points, or choose to take
+a Wound instead.
 
-Let's say you already lost 3 Stamina points earlier. You only have 7 Stamina
-points left, and you don't want your character to be incapacitated. You have
-the option to turn *attack power* into Harm tokens at a rate of 3-for-1.
+Let's further say your character had lost 3 Stamina points earlier. With
+only 7 Stamina points left, this might be a good time to take a Wound.
 
-For example, you may split the attack power of 7 into:
-
- * 4 Stamina points
- * 1 Harm token
-
-You may even do that twice, splitting the attack power of 7 into:
-
- * 1 Stamina point
- * 2 Harm tokens
-
-*Attack power* turns into Harm tokens at *exactly* a rate of 3-to-1. You
-cannot choose a Harm token when facing an attack power of 2.
+You can always choose to absorb the whole amount of *attack power* by taking
+a single Wound.
 
 ## Third Phase
 
 In the third phase, you can absorb Stamina and Harm with your armour,
 shield, or with moves like Good Cardio, Mystic Breathwork, Like A Second
 Skin, and Sangfroid.
-
 
 ## Fourth Phase: Stamina / Exhaustion
 
@@ -552,63 +538,10 @@ the character is dead, unconscious, or just unable to stand or move. The
 GM has rules for this, see the GM Guide.
 
 
-## Fourth Phase: Harm
-
-Think of that boxing match again.  If Stamina represents dancing, ducking,
-and dodging, then Harm represents landing a blow.
-These rules are also for representing mental strain that is so significant
-that the negative effects last for a while.
-
-### Receiving Harm in a One-Shot Campaign
-
-When you are instructed to take a Harm token:
-
- * **If you already have 2 Harm tokens on your Exhaustion pile**:
-   - the character is incapacitated
- * **Otherwise**:
-   1. Lose a Deckahedron card to your *Exhaustion pile* as you would when
-      you lose a Stamina point.
-   2. Place a *Harm token* on your *Exhaustion pile*
-
-![Harm token](images/component_harm.png){ width=2.5inch }
-
-> Note, you will see this "1-2-bust" pattern repeated in many
-> of 1kFA's rules
-
-### Receiving Harm in Longer Campaigns
-
-When you are instructed to take a Harm token:
-
- * **If you already have 2 Harm tokens on your Exhaustion pile**:
-   - Take a *Wound* instead
- * **Otherwise**:
-   1. Lose a Deckahedron card to your *Exhaustion pile* as you would when
-      you lose a Stamina point.
-   2. Place a *Harm token* on your *Exhaustion pile*
-
-
 ## Wounds
 
 Getting wounded sucks, and when wounded, all intelligent creatures seek
 to cure their condition as a very high priority.
-
-If you are playing the One-Shot Campaign, you can skip this section. The
-Wound rules are for the longer campaign formats.
-
-### Second Phase: Trading Attack Power for Wounds
-
-During the second phase of *attack power* resolution, you may choose to turn
-*attack power* into Wound tokens.
-
-You can choose to turn *attack power* into Wound tokens at a rate of 6-for-1
-
-For example, you may split the *attack power* of 7 into:
-
- * 1 Stamina point
- * 1 Wound token
-
-*Attack power* turns into Wound tokens at *exactly* a rate of 6-to-1. You
-cannot choose to take a Wound token when facing an *attack power* of 5.
 
 ### Fourth Phase: Receiving Wounds
 
@@ -626,6 +559,7 @@ When you are instructed to take a Wound token:
       and your *discard pile*.
 
 ![Wound token](images/component_wound.png){ width=2.5inch }
+
 
 ### A Wound Card
 
@@ -650,6 +584,54 @@ Note: some moves instruct you to match Chinese Zodiac symbols on the corners
 of cards. Wound cards' corners have the "goat" symbol which does not match
 any symbol.
 
+# Combat in the 9-hour and 30-hour Campaigns
+
+If you are playing the One-Shot Campaign, you can skip this section. The
+Harm token rules are for the longer campaign formats.
+
+In the 3-hour campaign, the second phase is a choice between just 2 things:
+losing Stamina or taking a Wound. In longer campaigns, the choice is
+more granular.
+
+## Second Phase
+
+During the second phase of resolving a combat action, players have the choice
+between losing Stamina or taking a Wound as explained before, and also
+a third choice: to turn any 3 Stamina points into Harm tokens instead.
+
+For example, you may split the attack power of 7 into:
+
+ * 4 Stamina points
+ * 1 Harm token
+
+You may even do that twice, splitting the attack power of 7 into:
+
+ * 1 Stamina point
+ * 2 Harm tokens
+
+## Fourth Phase
+
+Think of that boxing match again.  If Stamina represents dancing, ducking,
+and dodging, then Harm represents landing a blow.
+These rules are also for representing mental strain that is so significant
+that the negative effects last for a while.
+
+*Attack power* turns into Harm tokens at *exactly* a rate of 3-to-1. You
+cannot choose a Harm token when facing an attack power of 2.
+
+When you are instructed to take a Harm token:
+
+ * **If you already have 2 Harm tokens on your Exhaustion pile**:
+   - Take a *Wound* instead
+ * **Otherwise**:
+   1. Lose a Deckahedron card to your *Exhaustion pile* as you would when
+      you lose a Stamina point.
+   2. Place a *Harm token* on your *Exhaustion pile*
+
+> Note, you will see this "1-2-bust" pattern repeated in many
+> of 1kFA's rules
+
+![Harm token](images/component_harm.png){ width=2.5inch }
 
 ## Stamina - Heroic Mode
 
@@ -658,12 +640,12 @@ allow the players to lean on luck at the beginning of the game, because
 the "worse cards" of the Deckahedron might end up in the *Exhaustion pile*,
 shifting the odds to increase a player's chances to succeed at moves.
 
-During longer campaigns, players will have the choice to switch to "Heroic
-Mode", sacrificing their potential to get lucky for more knowledge and
-control over their outcomes.
+During the 9-hour and 30-hour campaigns, players will have the choice to
+switch to "Heroic Mode", sacrificing their potential to get lucky for more
+knowledge and control over their outcomes.
 
-In "Heroic Mode" characters have 10 Stamina points. These points are
-represented by cards in your Deckahedron with a Stamina symbol
+In "Heroic Mode" characters still have 10 Stamina points. But now, these
+points are represented only by cards in your Deckahedron with a Stamina symbol
 
 ![Cards with and without Stamina symbol](images/with_without_stamina.png){ width=2.5inch }
 
@@ -693,6 +675,13 @@ Deckahedron *before* searching for Stamina points.
 If there are no Stamina points in the Deckahedron *or* the *discard pile*,
 then all 10 must be in the *Exhaustion pile*. In this case, the character
 is *incapacitated* and can take no further actions.
+
+    GM Note: The switch to Heroic Mode is a way for the players to make
+    a choice that echoes Chapter 5 in the Hero's Journey. They themselves
+    become heroes.
+    By transcending randomness and meet the challenges of resposibility,
+    capability, and commitment, the players will have new power to get
+    the outcomes they desire.
 
 
 # The Pursuit Mini-game
@@ -1109,7 +1098,7 @@ it is instead destroyed. The card is returned to the supply.
 #### Weapons
 
 Weapons cards describe what the character has armed themself with. These
-cards might describe "weaponry" rather than a singualr item, as the Many
+cards might describe "weaponry" rather than a single item, as the Many
 Knives card demonstrates.
 
 Weapons have a "power level": d4, d6, or d10. This determines what die to
@@ -1135,12 +1124,12 @@ When an armour-clad character would normally take Harm or a Wound, the
 player may put the Harm or Would token into an appropriate empty slot on
 their Armour card.
 
-The armour available to characters during character creation is simply Leather
-Armour. This style of armour has 2 slots for Harm tokens and cannot absorb
-a Wound.
+The armour available to characters during character creation is the weakest
+kind. This kind of armour has 1 slot that can absorb Harm or a Wound.
 
 When a character goes shopping, goes a-thieving, discovers treasure, or loots
-a battlefield, the GM may offer new, more useful armour.
+a battlefield, the GM may offer new, more useful armour with more slots drawn
+on it.
 
 `TODO illustration of Harm / Wound slots`
 
@@ -1153,6 +1142,7 @@ receive either:
 The GM should decide if the armour incurs any additional costs when
 calculating encumbrance penalties.
 Better armour tends to be heavier and impedes graceful movement.
+Any increased encumberance penalty should be written on the card.
 
 The GM and player should agree on a descriptive name for the armour like
 "Padded" or "Chainmail" or "Full plate" and write that at the top of a card.
@@ -1167,7 +1157,7 @@ Here are some example armours:
 
 Suggested Name   | token requirement | slots
 -----------------|-------------------|----------------------
-Leather Armour   | 1                 | 2 Harm
+Leather Armour   | 1                 | 1 Harm/Wound
 Padded Armour    | 2                 | 2 Harm, 1 Harm/Wound
 Full Plate       | 3                 | 3 Harm/Wound
 
@@ -1197,6 +1187,10 @@ The fictional description of the "shield" has mechanical consequences. For
 example, the edge of steel shield could reasonably be used to attack a foe,
 so Mix It Up would do 1d4 attack power. But a character with only leather
 bracers their wrists would be "unarmed", doing just 1d2 attack power.
+
+Blocking damage with a shield should be considered an *IMMEDIATE* move, and
+the GM should try to keep to the guideline of not allowing players to make
+more than one move and one *IMMEDIATE* move per turn in the spotlight.
 
 ### Magic Items
 
@@ -1321,9 +1315,6 @@ Blood-Bound?"
     GM Note: this is a great way to stretch your improv muscles. Say "Yes,
     and..." no matter if they identify the Blood-Bound as tiny, parasitic
     insects or as monstrous, extradimensional dark gods.
-
-**Note:** Entreat the Blood-Bound is not available during a One-Shot Campaign, because
-it requires the use of Wounds.
 
 
 ## Channel the Living Light
