@@ -257,9 +257,6 @@ take control of the narrative.
 Sometimes you flip over a wound card and must lose a Stamina point. See the
 [Combat chapter](#combat).
 
-Wound cards are not used in the One-Shot Campaign, so you can skip these
-instructions when you start playing a longer campaign.
-
 
 ## Other flip complications: Teamwork Flip
 
@@ -710,14 +707,15 @@ When a player first declares that they are going to Bravely Run Away
  * One character - the one with the most Items + PACK is declared
    the "rabbit"
  * Best 3 of 5 rounds
- * Rabbit flips Anchors, solo
-   * One level of disadvantage if they have > 2 Item cards
-   * One level of disadvantage if they have > 2 PACK cards
- * For the next 3 rounds, the rabbit flips anchors (with disadvantage), but
-   can be helped by any of the other joining PCs.
-   The best result between the rabbit's flip and the helper's resolves the round.
-   Each one of the rounds can be helped by Int, Str, or Dex, without repeating.
-   The help must be justified by the attribute.
+ * Rabbit flips solo
+   * Add the rabbit's Str + Dex, then subtract their encumberance penalty (the
+     count of all their Item and Pack cards)
+   * Find their flip rank on the table below
+ * For the rounds 2 through 5, the rabbit flips, but can be helped by any of
+   the other joining PCs. The best result between the rabbit's flip and
+   the helper's resolves the round. Each one of the rounds can be helped
+   by Int, Str, or Dex, without repeating. The help must be justified by
+   the attribute.
    * Int
      * Hiding
      * Using words to influence a crowd
@@ -732,6 +730,10 @@ When a player first declares that they are going to Bravely Run Away
  * If the pursuers ever win 2 flips in a row, they can make a move in the middle
    of the pursuit if appropriate, like firing a volley of arrows or sounding
    some kind of alarm
+
+Sum:  | ≤ -1       |   0        |   1    |   2    |   3    |   4     |   5         |   6
+----------------------------------------------------------------------------------------
+Flip: | Anvils 2xD | Anvils 1xD | Anvils | Blades | Crowns | Dragons | Dragons 1xA | Dragons 2xA
 
 
 # Encumbrance Penalties
