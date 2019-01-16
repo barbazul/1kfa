@@ -252,6 +252,27 @@ game. See below for moves that let you "break" or "bend" rules, or partially
 take control of the narrative.
 
 
+## Other flip complications: Blessing cards
+
+![blessing cards](images/component_card_blessings.png){ width=2.5inch }
+
+Some cards will instruct you to take Blessing cards. When instructed
+to do so, draw one Blessing card at random from the supply, and place
+it in your discard pile.
+
+Blessing cards improve your Deckahedron by giving you better chances to
+succeed at moves.
+
+Whenever a move is *resolved* by a Blessing card, return the Blessing card
+to the supply rather than keeping it in your discard pile.
+
+Note: some moves instruct you to match Chinese Zodiac symbols on the corners
+of cards. The corners of Blessing cards have a "dragon" symbol, which matches
+all other symbols except for the "goat" symbol on the wound cards.
+
+
+
+
 ## Other flip complications: Wound cards
 
 Sometimes you flip over a wound card and must lose a Stamina point. See the
@@ -443,8 +464,8 @@ ring with as much vigor, and drop their guard more frequently. The contest
 is not always decided with a knockout punch, it often comes down to who can
 better endure the exertion.
 
-Your character has 10 Stamina points. When your character loses all 10,
-they are incapacitated. After that, their fate is up to the GM.
+Every PC has 10 Stamina points. When a PC loses all 10, they are
+incapacitated. After that, their fate is up to the GM.
 
 ## Phases
 
@@ -485,31 +506,30 @@ the *attack power*.
 
 ## Second Phase
 
-If you choose not to split up the *attack power*, you will simply lose that
-many Stamina points.
+After the *attack power* is calculated, you can choose to take a Wound
+rather than losing that many Stamina points.
+
+You can always choose to absorb the whole amount of *attack power* by taking
+a single Wound.
 
 Let's say your character was attacked with a sword and the dice were rolled
 and summed up to 7. You can either lose 7 Stamina points, or choose to take
 a Wound instead.
 
-Let's further say your character had lost 3 Stamina points earlier. With
-only 7 Stamina points left, this might be a good time to take a Wound.
-
-You can always choose to absorb the whole amount of *attack power* by taking
-a single Wound.
+Let's further say your character had lost 3 Stamina points earlier in the
+battle. With only 7 Stamina points left, it's a wise time to take a Wound.
 
 ## Third Phase
 
-In the third phase, you can absorb Stamina and Harm with your armour,
+In the third phase, you can absorb Stamina and Wounds with your armour,
 shield, or with moves like Good Cardio, Mystic Breathwork, Like A Second
 Skin, and Sangfroid.
 
 ## Fourth Phase: Stamina / Exhaustion
 
-Characters have 10 Stamina points.
-
-To win at combat, a character's foes must be subdued or pacified before the
-player loses 10 cards from their Deckahedron.
+Characters have 10 Stamina points. To win at combat, a character's
+foes must be subdued or pacified before 10 cards are lost from the
+Deckahedron.
 
 When you are instructed to lose a Stamina point:
 
@@ -851,7 +871,7 @@ If you *resolve a flip* with the Critical Success card, you can do two things:
  * Say how your character's practice has finally paid off, or how they had
    an insight or epiphany about the move they just accomplished. Spend
    experience points 1-for-1 to go up levels in the move that was just resolved.
- * Take a blessing card from the supply and put it in their discard pile.
+ * Take a Blessing card from the supply and put it in their discard pile.
 
 
 ## Taking a Breather
@@ -1501,7 +1521,10 @@ The GM can resolve this move by:
 # SESSION 3 RULES
 ---
 
-## Level cards and green rings
+## 30-hour Campaigns: Level cards and green rings
+
+If you are playing the One-Shot Campaign or 9-hour Campaign, you can skip
+this section. The level card rules are for the 30-hour campaign format.
 
 At the beginning of a session, players should arrange their move cards
 to count how many green rings they have. Usually, players will not have
@@ -1515,18 +1538,6 @@ can take one new level card.
 
 Like move cards, level cards may also have requirements. Some require that you
 have a certain amount of green rings to access them.
-
-![blessing cards](images/component_card_blessings.png){ width=2.5inch }
-
-Some level cards will instruct you to take blessing cards. When instructed
-to do so, draw one blessing card at random from the supply.
-
-Blessing cards improve your Deckahedron by giving you better chances to
-succeed at moves.
-
-Note: some moves instruct you to match Chinese Zodiac symbols on the corners
-of cards. The corners of blessing cards have a "dragon" symbol, which matches
-all other symbols except for the "goat" symbol on the wound cards.
 
 
 ### Sharpen and Stitch
@@ -1676,6 +1687,8 @@ has 1 maximum charge, no matter which effect you use.
  * More Power
    * Permanently changing the kind of dice that are rolled when certain Item
      cards are used
+ * PC
+   * Player Character (a character controlled by a player other than the GM)
  * ranged (or "at range")
    * When the details of the fiction put two combatants far enough apart that
      their handheld weapons could not connect
