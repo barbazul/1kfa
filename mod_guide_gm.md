@@ -1891,6 +1891,7 @@ the Session Opener has been completed.
 
 Another idea to add some ritual is to start some exciting,
 adventure-appropriate music when the Session Opener concludes.
+Video game soundtracks are great for this.
 
 ### Reward Yourselves
 

@@ -439,7 +439,7 @@ balance.
 Using dreamlike and mystical imagery in your exposition can be a great way
 to dress the stage.
 
-Taking a moment to put on a fitting music track can be especially effective
+Taking a moment to change the background music can be especially effective
 in Chapter 5.
 
 Tell your players how you interpret the plot so far. Revisit where they've
