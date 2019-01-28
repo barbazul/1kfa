@@ -154,26 +154,21 @@ class Defy_Danger(Card):
     On a ✅ / ✔✔, the GM may ask you a question, offer you a worse outcome, hard bargain, or ugly choice
   '''
 
-class Defend(Card):
+class Cower_S_Submit(Card):
+  title = 'Cower / Submit'
   custom_number = 6
-  attr = 'Str'
-  one_check = '''
-    Place 1 token on this card
-  '''
-  two_check = '''
-    Place 2 tokens on this card
-  '''
-  three_check = '''
-    Place 3 tokens on this card
-  '''
   desc = '''
-    Stand in defense of a person, item, or location, and you can interfere
-    with attacks against it.  So long as you stand in defense, when you or
-    the defended is attacked, you may spend card tokens, 1-for-1, to choose:
-    * Redirect an attack from the thing you defend to yourself
-    * Halve the attack's effect or damage
-    * Open up the attacker to an ally giving +1 advantage against the attacker
-    * Deal 1 attack power against the attacker
+    When you let fear take control or give up the struggle, all foes in the
+    scene will dismiss you as a threat and focus their agressions elsewhere.
+    ||
+    Cease taking actions until the end of this scene. If the first person
+    to reach you is one of your party members, the player may describe how
+    they rally your spirits and you can start taking actions again. If a
+    foe reaches you first, the GM will describe how you are subdued and/or
+    captured.
+    ||
+    If you are captured, one of the enemy's critical weaknesses will be
+    exposed to you.
   '''
 
 class Discern(Card):
