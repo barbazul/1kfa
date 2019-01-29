@@ -1927,27 +1927,28 @@ adventure and back again to downtime, repeating in a "loop".
 
 Adventure activities involve risk, exploration, and confrontation.
 Adventuring will incur costs on the characters in the form of injury,
-damage to items, and lost charges to magic items, but it will also
-let the players build up resources like experience points and wealth.
+damage to items, and spent magical charges, but it will also
+let the players build up resources like experience points and loot.
 
 Downtime activities are less risky. In these activities, the costs and
 benefits are known upfront, like shopping, healing, and studying.
 When injuries and treasures have built up, the players will seek a
-steading to salve their hurts and exchange their loot for new, exciting
+steading to salve their hurts, exchange their loot for exciting new
 gear, and learn new skills.
-With that done, the players should be excited to try out their new skills
-and gear, and thus head out again for adventure.
+With that done, the players should be hungry to put their new skills
+and gear to use, and thus head out again for adventure.
 
 Each transition gives the GM a lot of opportunity to shape the narrative,
-so transitions should be considered as a way to move towards earning a point
-in the *Good Bank*.
+so when possible, these transitions should be exploited to earn
+a point in the *Good Bank*.
 
 The core loop is not a rule, nor something a GM needs to enforce, it should
 happen naturally.
 
 ### Downtime
 
-If the characters are not in a steading, the available downtime moves are:
+If the characters are not in a steading, the moves available during
+downtime are:
 
  * Rest
  * Sharpen and Stitch
@@ -1955,7 +1956,7 @@ If the characters are not in a steading, the available downtime moves are:
  * _ Mastery
  * Craft a Weapon
 
-In a steading, the above moves are available as well as:
+In a steading, these moves are also available:
 
  * Study Under a Master
  * Shop / Procure
@@ -1992,7 +1993,7 @@ into conflicts. To get out of their literal comfort zone, they must have
 motivations.
 
 If the players at the table are not yet inventing their own motivations for
-their characters, Risk Driver cards can be created again.
+their characters, Risk Driver cards can be assigned again.
 
 When the transition from downtime to adventure happens, choose risk drivers
 using the procedure [described above](#choosing_risk_drivers).
@@ -2046,7 +2047,7 @@ results in a flip-3-take-best flip, even if the character is at the "wild"
 level in the move, even if the character is disadvantaged by some previous
 situation or effect.
 
-Flipping a wound card on these flips will still override the **Complete
+Flipping a Wound card on these flips will still override the **Complete
 flip rule**.
 
 ## An NPC to the Rescue
@@ -2116,66 +2117,100 @@ Because of the set-up, it makes sense that this will be more difficult than
 if the character could clearly see the creature and the cave floor they're
 diving into.
 
- * You can use 2 points from the *Challenge Bank* to create one level of disadvantage
+ * You can use 1 point from the *Challenge Bank* to create one level of disadvantage
 
 This level of disadvantage should now be applied *consistently* whenever any
-character attempts to avoid a swooping attack in a dark environment from a bat
-creature. No further expenditure from the Challenge Bank is needed.
+character attempts to avoid the creature's swooping attack in a dark
+environment. No further expenditure from the Challenge Bank is needed.
 
 Consistency prevents players from feeling the game is unfair or that you are
 especially aiming negative consequences at one player.
 
-## Creating Deadly Combat Encounters
+## Traps
+
+When the characters are investigating a set piece or entering a new
+area, it can be trapped to cause instant damage. Inflict damage equal to
+the amount of *Bad Bank* points spent.
+
+## The Enemy Strikes First
+
+When an enemy surprises or was otherwise ready for a PC, they can attack
+without giving the player an opportunity to Defy Danger. The attack power
+will be equal to the amount of *Bad Bank* points spent.
+
+## Deadly Pursuits
+
+When a player uses the Bravely Run Away move, spend 1 point from the *Challenge
+Bank* and either:
+
+ * land them in a situation where they are again in immediate danger
+ * start the Pursuit Mini-game
+
+## Deadly Combat Encounters
 
 `TODO`
 
  * Give a foe an extra starting Stamina point - 1 point
  * Increase a foe's attack power die - 2 points
- * Give a foe a spot for a wound - 3 points
-
-## Creating Traps and Deadly Pursuits
-
-`TODO`
-
- * When a player uses the Bravely Run Away move, you can spend 1 point
-   from the Challenge Bank to land them in a situation where they are again in
-   immediate danger
- * When the characters are investigating a set piece or entering a new
-   area, spend 1 point from the *Challenge Bank* to make it trapped in such a
-   way that it causes instant danger or damage
+ * Give a foe an armour square - 3 points
 
 
 # Creating Challenges for Players
 
 ## Puzzles
 
-Puzzles are obstacles that are described as part of the fiction that are
-overcome with cleverness. The cleverness can come from the players, by
-analyzing the facts of the situation out-of-character, or the cleverness
-can come from the characters, by their fictional actions and by using
-moves like *Discern* and *I Know This*.
+Puzzles are obstacles described in the fiction that are overcome with
+cleverness.
+The cleverness can come from the players, by analyzing the facts of the
+situation out-of-character, or the cleverness can come from the characters,
+by their fictional actions and by using moves like *Discern*
+and *I Know This*.
 
 Here are some things to think about when presenting a puzzle in your game.
 (with thanks to The Art of Game Design by Jesse Schell)
 
- * Goal - make the goal easy to understand
- * Ramp - make it easy to get started
-    * does it look like something they've seen before?
-    * does it look attractive & inviting to touch?
- * Progress
-    * riddle vs. 20 questions
-    * how is progress visible?
- * Parallel progress
-    * can you introduce sub-elements of the puzzle the players can act
-      on while their stumped on a larger element?
- * Pyramid
-    * pyramids have a point - final challenge
-    * do the smaller units build up to a satisfying point?
- * Stumps, Hints, Giveaways
-    * if you make a puzzle, you must be prepared for your players to
-      be stumped
-    * how will hints emerge?
-    * giving away the answer still lets players have "Aha!" moments
+### Goal
+
+The puzzle's goal should be easy to understand, and the players should
+be motivated to solve it. Use human instinct and familiar artifacts.
+
+ * an obvious symmetry is broken
+ * pieces that should line up are askew
+ * a pattern has an interruption
+ * a narritive cliche is slightly off
+
+### Ramp
+
+Make it easy to get started interacting with the puzzle. The players should
+want to examine and touch the mechanisms that solve it.
+
+Does it look inviting to touch? Does it look attractive? Does it look like
+something they've seen before? (This might be an opportunity for *I Know
+This*)
+
+Don't make it dangerous to interact with. The danger should be in *not*
+interacting with the puzzle.
+
+### Progress
+
+How is progress visible when they are interacting with the puzzle?  Consider
+the difference between a Sphinx-like riddle and the game of "20 Questions".
+
+What feedback is given when they are making positive versus negative
+progress?
+
+Can you introduce sub-elements of the puzzle the players can act on while
+they're stumped on a larger element?
+
+### Stumps, Hints, Giveaways
+
+If you make a puzzle, you must be prepared for your players to be stumped.
+
+Know beforehand a couple ways that hints will emerge.
+
+Lastly, be open to simply give away the solution. Giving away the answer
+still lets players have "Aha!" moments.
+
 
 ## Monsters
 
@@ -2206,21 +2241,16 @@ by the heroes.
 
 ### Monsters can be fought
 
-For every monster the characters interact with, spend 1 point from
-the *Challenge Bank*.
-
-Monsters have 1-20 stamina points and 1-3 wound squares
+Monsters have 1-20 stamina points and 1-3 armour squares
 
  * Spend 1 Challenge Bank point if 11-15 stamina
  * Spend 2 Challenge Bank points if 16-20 stamina
- * Spend 1 Challenge Bank point for every wound square
+ * Spend 1 Challenge Bank point for every armour square
 
 Monsters have special attacks
 
-Monsters have one or two *special moves*.
-
  * The special attacks should be telegraphed somehow
- * 1 Challenge Bank point per special attack
+ * Spend 1 Challenge Bank point per special attack
 
 ### Making monsters
 
@@ -2278,6 +2308,7 @@ emphasize corruption, be used as a trap or a trick, or just create contrast.
  * religious symbols
 
 
+`TODO`
 Also: bestiaries! See:
 
  * [Dungeon World](#link)
@@ -2388,8 +2419,7 @@ Use Party Power to give the foes:
 |------------------------------------------------|------------------
 | One stamina point                              | 1
 | A weapon that does 1d6 damage                  | 4
-| One armor box that can absorb Harm             | 3
-| One armor box that can absorb Harm or Wound    | 6
+| One armor square                               | 3
 
 Represent "armour" (or just tough hide) by drawing boxes next to the foe's
 Stamina points on the GM worksheet.
