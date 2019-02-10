@@ -80,6 +80,55 @@ def format_text_to_tspans(text, keywordFormats):
     allTspans.append(currentTspan)
     return allTspans
 
+def change_text_text(elem, newtext):
+    tspan = [x for x in elem.iterchildren()
+                if 'tspan' in x.tag][0]
+    tspan.text = newtext
+
+def change_flowroot_text(flowroot, newtext, style, ideal_num_chars):
+    flowpara = [x for x in flowroot.iterchildren()
+                if 'flowPara' in x.tag][0]
+    flowroot.remove(flowpara)
+    for i, line in enumerate(newtext.split('\n')):
+        paraclone = etree.fromstring(etree.tostring(flowpara))
+        paraclone.text = ''
+
+        #for tspan in format_text_to_tspans(line, keywordFormats):
+        for tspan in format_text_to_tspans(line, {
+                'Stamina': {'style': "text-decoration:underline;text-decoration-color:#e0e0e0", 'dx': '13.0 0 5' },
+                'Harm':    {'style': "text-decoration:underline;text-decoration-color:#c17cd5", 'dx': '4.0' },
+                'Wound':   {'style': "text-decoration:underline;text-decoration-color:#0f0000", 'dx': '4.0' },
+                'Str':   {'style': "font-family:OptimusPrinceps" },
+                'Int':   {'style': "font-family:OptimusPrinceps" },
+                'Dex':   {'style': "font-family:OptimusPrinceps" },
+                'SPEED':   {'fill': "#FF0000" },
+                'WEALTH':   {'style': "font-family:OptimusPrinceps" },
+                'EQUIP':   {'fill': "#FF0000" },
+                'PACK':   {'style': "font-family:OptimusPrinceps" },
+                'advantage':   {'fill': "#003a00" },
+                'Advantage':   {'fill': "#003a00" },
+                'disadvantage':   {'fill': "#3f0000" },
+                'Disadvantage':   {'fill': "#3f0000" },
+                '____':   {'fill': "#ffffff", 'style': "text-decoration:underline;text-decoration-color:#000000" },
+                'More Power':   {'style': "text-decoration:underline;text-decoration-color:#00a000" },
+                }):
+            paraclone.append(tspan)
+
+        flowroot.append(paraclone)
+    num_lines = i
+
+    if ideal_num_chars and len(newtext) < (ideal_num_chars / 1.5):
+        style.update({'font-size': '11px'})
+    if ideal_num_chars and len(newtext) > (ideal_num_chars - num_lines*20):
+        style.update({'font-size': '9px'})
+
+    if style:
+        for k,v in style.items():
+            flowroot.attrib['style'] = re.sub(
+              k+':[^;]+;',
+              k+':'+v+';',
+              flowroot.attrib['style']
+            )
 
 class DOM(object):
     def __init__(self, svg_file):
@@ -111,6 +160,11 @@ class DOM(object):
         for e in self.title_to_elements[title]:
             e.getparent().remove(e)
 
+    def cut_layer(self, layer_label):
+        e = self.layers[layer_label]
+        if e.getparent():
+            e.getparent().remove(e)
+
     def replace_text(
         self,
         title,
@@ -124,50 +178,13 @@ class DOM(object):
         if keywordFormats is None:
             keywordFormats = {}
 
-        for flowroot in self.title_to_elements[title]:
-            flowpara = [x for x in flowroot.iterchildren()
-                        if 'flowPara' in x.tag][0]
-            flowroot.remove(flowpara)
-            for i, line in enumerate(newtext.split('\n')):
-                paraclone = etree.fromstring(etree.tostring(flowpara))
-                paraclone.text = ''
-
-                #for tspan in format_text_to_tspans(line, keywordFormats):
-                for tspan in format_text_to_tspans(line, {
-                        'Stamina': {'style': "text-decoration:underline;text-decoration-color:#e0e0e0", 'dx': '13.0 0 5' },
-                        'Harm':    {'style': "text-decoration:underline;text-decoration-color:#c17cd5", 'dx': '4.0' },
-                        'Wound':   {'style': "text-decoration:underline;text-decoration-color:#0f0000", 'dx': '4.0' },
-                        'Str':   {'style': "font-family:OptimusPrinceps" },
-                        'Int':   {'style': "font-family:OptimusPrinceps" },
-                        'Dex':   {'style': "font-family:OptimusPrinceps" },
-                        'SPEED':   {'fill': "#FF0000" },
-                        'WEALTH':   {'style': "font-family:OptimusPrinceps" },
-                        'EQUIP':   {'fill': "#FF0000" },
-                        'PACK':   {'style': "font-family:OptimusPrinceps" },
-                        'advantage':   {'fill': "#003a00" },
-                        'Advantage':   {'fill': "#003a00" },
-                        'disadvantage':   {'fill': "#3f0000" },
-                        'Disadvantage':   {'fill': "#3f0000" },
-                        '____':   {'fill': "#ffffff", 'style': "text-decoration:underline;text-decoration-color:#000000" },
-                        'More Power':   {'style': "text-decoration:underline;text-decoration-color:#00a000" },
-                        }):
-                    paraclone.append(tspan)
-
-                flowroot.append(paraclone)
-            num_lines = i
-
-            if ideal_num_chars and len(newtext) < (ideal_num_chars / 1.5):
-                style.update({'font-size': '11px'})
-            if ideal_num_chars and len(newtext) > (ideal_num_chars - num_lines*20):
-                style.update({'font-size': '9px'})
-
-            if style:
-                for k,v in style.items():
-                    flowroot.attrib['style'] = re.sub(
-                      k+':[^;]+;',
-                      k+':'+v+';',
-                      flowroot.attrib['style']
-                    )
+        for elem in self.title_to_elements[title]:
+            if 'flowRoot' in elem.tag:
+                change_flowroot_text(elem, newtext, style, ideal_num_chars)
+            elif 'text' in elem.tag:
+                change_text_text(elem, newtext)
+            else:
+                raise Exception('what the fuc')
 
     def replace_h1(self, newtext):
         style = {}

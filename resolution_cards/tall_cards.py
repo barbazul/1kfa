@@ -137,7 +137,7 @@ class Defy_Danger(Card):
   one_check = '''
     Make progress, but stumble, hesitate, flinch
     |
-    or pay a small cost.
+    or pay a cost.
     '''
   three_check = '''
     Success
@@ -154,40 +154,43 @@ class Defy_Danger(Card):
     On a ✅ / ✔✔, the GM may ask you a question, offer you a worse outcome, hard bargain, or ugly choice
   '''
 
-class Cower_S_Submit(Card):
-  title = 'Cower / Submit'
+class Defend(Card):
   custom_number = 6
+  attr = 'Str'
+  slash_check = '''
+    Spend 1 XP
+    |
+    Choose 1
+  '''
+  three_check = '''
+    Spend 1 XP
+    |
+    Choose 2
+  '''
   desc = '''
-    When you let fear take control or give up the struggle, all foes in the
-    scene will dismiss you as a threat and focus their agressions elsewhere.
-    ||
-    Cease taking actions until the end of this scene. If the first person
-    to reach you is one of your party members, the player may describe how
-    they rally your spirits and you can start taking actions again. If a
-    foe reaches you first, the GM will describe how you are subdued and/or
-    captured.
-    ||
-    If you are captured, one of the enemy's critical weaknesses will be
-    exposed to you.
+    Stand in defense of a person, item, or location that is under attack.
+    The attack is redirected from the thing you defend to yourself. You
+    may spend XP to choose:
+    * Halve the attack's effect or damage
+    * Open up the attacker to an ally giving +1 advantage against the attacker
+    * Roll attack power against the attacker
+    |
+    |
+    This move can interrupt an attack against an ally if you are in
+    range and attack power has not yet been rolled.
   '''
 
 class Discern(Card):
   custom_number = 4
   attr = 'Int'
   one_check = '''
-    Ask the GM 1
-    question from
-    the list
+    Ask the GM 1 question from the list
     '''
   two_check = '''
-    Ask the GM 2
-    questions from
-    the list
+    Ask the GM 2 questions from the list
     '''
   three_check = '''
-    Ask the GM 3
-    questions from
-    the list
+    Ask the GM 3 questions from the list
     '''
   desc = '''
     Closely study a situation or person, ask the GM your question(s), and
@@ -265,15 +268,12 @@ class Seek_Help(Card):
     * Step 4: Count the Wound tokens on your Exhaustion pile
     * Step 5: Keep that many cards in your Exhaustion pile, put the rest into your discard pile
     * Step 6: Return all Wound cards to the supply
-    * Step 7: If you are at The Hearth, return all Wound tokens to the supply
-    * Step 8: Say who you are closer to forgiving
+    * Step 7: Say who you are closer to forgiving
+    * Step 8: If you are at The Hearth, return all Wound tokens to the supply
     |
     |
-    Idle magic items regain their charges. Gird all your armour.
-    |
-    |
-    As with Rest, time spent Seeking Help cannot also be used in
-    activities that take effort.
+    As with Rest, idle magic items regain their charges. Gird all your armour.
+    Seeking Help leaves no time for activities that take effort.
     '''
 
 

@@ -42,6 +42,7 @@ def filter_dom_elements(dom, card):
       'level_start_0', 'level_start_g1', 'level_start_g2',
       'spot_level_start_0', 'spot_level_start_g1', 'spot_level_start_g2',
       'C', 'CC/F', 'CC/W', 'CC/R',
+      'campaign',
     ]
     card_spots = card.get('spots') or {}
     has_card_spots = any(card_spots[x] for x in card_spots)
@@ -52,14 +53,22 @@ def filter_dom_elements(dom, card):
     ]
     dom.layer_hide('template')
     dom.layer_show('std_heading')
-    print 'Checks: ', checks
-    print 'Has card spots: ', has_card_spots
+    #print 'Checks: ', checks
+    #print 'Has card spots: ', has_card_spots
+
+    # first, turn on / off the 'flags'
+    for key in dom.layers:
+        if card.get('flags') and 'flags' in key:
+            dom.layer_show(key)
+        elif 'flags' in key:
+            dom.cut_layer(key)
+
     if has_card_spots:
         for key in dom.layers:
             if 'spot_' in key:
                 dom.layer_show(key)
             elif 'std_' in key:
-                dom.layer_hide(key)
+                dom.cut_layer(key)
 
         cut_these.remove('spot_level_0')
         cut_these.remove('spot_level_g1')
@@ -98,7 +107,7 @@ def filter_dom_elements(dom, card):
     else: # Not a 'spots' style card
         for key in dom.layers:
             if 'spot_' in key:
-                dom.layer_hide(key)
+                dom.cut_layer(key)
             elif 'std_' in key:
                 #print 'Showing', key
                 dom.layer_show(key)
@@ -126,6 +135,11 @@ def filter_dom_elements(dom, card):
             ]:
                 dom.layer_show(key)
 
+        if card.get('campaign') and 'campaign' in key:
+            dom.layer_show(key)
+        elif 'campaign' in key:
+            dom.layer_hide(key)
+
         if card.get('reqs') and 'reqs' in key:
             dom.layer_show(key)
         elif 'reqs' in key:
@@ -134,11 +148,6 @@ def filter_dom_elements(dom, card):
         if card.get('tags') and 'tags' in key:
             dom.layer_show(key)
         elif 'tags' in key:
-            dom.layer_hide(key)
-
-        if card.get('flags') and 'flags' in key:
-            dom.layer_show(key)
-        elif 'flags' in key:
             dom.layer_hide(key)
 
         if card.get('circles') and 'class_' in key:
@@ -153,13 +162,6 @@ def filter_dom_elements(dom, card):
         elif len(checks) == 3:
             if '_0lines' in key or '_2lines' in key:
                 dom.layer_hide(key)
-#
-#        if card.get('one_x'):
-#            if '_2lines' in key:
-#                dom.layer_hide(key)
-#        else:
-#            if '_3lines' in key:
-#                dom.layer_hide(key)
 
         if 'levels' in key and not card.get('level_start'):
             dom.layer_hide(key)
@@ -173,6 +175,9 @@ def filter_dom_elements(dom, card):
     if card.get('reqs'):
         cut_these.remove(card['reqs'])
 
+    if card.get('campaign'):
+        cut_these.remove('campaign')
+
     if card.get('levels'):
         [cut_these.remove('level_' + lvl) for lvl in card['levels']]
 
@@ -180,7 +185,6 @@ def filter_dom_elements(dom, card):
         [cut_these.remove(x) for x in card['circles']]
     if card.get('attr'):
         keep = 'mod_' + card['attr'].lower()
-        print keep
         cut_these.remove(keep)
     else:
         cut_these.append('mod_shield')
@@ -237,6 +241,12 @@ def make_card_dom(card):
         raise Exception("Levels only works with level_start")
 
     filter_dom_elements(dom, card)
+
+    if card.get('campaign'):
+        if card.get('campaign') == '9':
+            dom.replace_text('campaign_text', '9hr / 30hr Campaign')
+        else:
+            dom.replace_text('campaign_text', '30hr Campaign')
 
     if card.get('flags'):
         flags_text = ','.join(card['flags'])
@@ -350,7 +360,6 @@ def make_documentation_images(cards):
         template_filename = '../images/move_card_template.svg'
         if os.path.isfile(doc_img_filename):
             c = file(template_filename).read()
-            print 'linking', png_filename
             c = re.sub(
               'xlink:href="file://.*.png"',
               'xlink:href="file://%s"' % png_filename,

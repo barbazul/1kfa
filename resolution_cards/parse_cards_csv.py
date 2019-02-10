@@ -89,6 +89,9 @@ def parse_component(d2):
     if d2.get('magic') == 'yes':
         d2['component'] = 'magic_deck'
 
+def parse_campaign(d2):
+    d2['campaign'] = d2.get('campaign')
+
 def parse_flags(d2):
     possible_flags = [
       'IMMEDIATE',
@@ -201,6 +204,7 @@ def get_dicts_from_spreadsheet(fname, extra_fields=None, grep_filter=''):
         parse_flags(d2)
         parse_reqs(d2)
         parse_component(d2)
+        parse_campaign(d2)
         parse_custom_number(d2)
 
         l.append(d2)
