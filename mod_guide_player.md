@@ -94,11 +94,38 @@ actor standing in the character's boots and seeing with their eyes.
 As the conversation unfolds, the rules will chime in as well.  When that
 happens you will be called do things beyond just "saying stuff":
 
- * Flip your Deckahedron
+ * Flip cards from your Deckahedron
  * Move tokens around
  * Roll dice
 
 This guide will teach you how to do those things.
+
+### Character creation - Fitting the fiction
+
+1kFA is a game about **building** your character up from
+a **scrappy adventurer** to a force to be reckoned with.
+
+During character creation, you will get to determine all aspects of
+your character's history, social and economic circumstances, and personality.
+These are fictional aspects of the character. You will not get to determine
+all the *mechanical* aspects of the character though.
+
+Mechanically, characters start out just a little bit more powerful than a
+common villager.
+They've got an edge over regular folk, (their Stamina points and special moves)
+but the game puts them on nearly even footing in a fight.
+You can invent any backstory you like, but you may need to answer questions
+about how the backstory fits the character's game limitations.
+
+Nothing stops you from creating a hulking, 7 foot tall barbarian, with a rich
+history of warring and slaughtering enemies, but at the very beginning of
+the game, with a couple unlucky flips, that barbarian may suffer a sound
+drubbing at the hands of a farmer with a shovel and his overprotective goat.
+
+This doesn't mean you shouldn't create the barbarian character. You should.
+That sounds awesome! But if you do, be prepared to find some narrative
+justification (drunkard? battle-worn? magically cursed?) that they're
+currently at a "scrappy adventurer" level.
 
 
 # The Deckahedron
@@ -126,7 +153,7 @@ the flip.
 
     GM Note: The attributes used to resolve a move are listed at the top
     of each card.  Sometimes a card gives the option of several
-    attributes, like "Str / Dex".  You may need to ask the player for more
+    attributes, like "Flip Str / Dex".  You may need to ask the player for more
     detail about what they are attempting before calling for a flip.
 
 ![Illustration of your Deckahedron](images/component_layout.png){ width=2.5inch }
@@ -170,7 +197,7 @@ The GM might say to you:
 > Please flip Defy Danger with your Strength.
 
 Look over at the character sheet and see that Kresk has rank 3
-(Crown) Strength. Flip over the top card of your Deckahedron and
+(Crown) Str. Flip over the top card of your Deckahedron and
 look for that Crown suit.
 
 Let's say you get ✔✔. The GM uses the instructions on the
@@ -187,9 +214,9 @@ improvise what happens next:
 ## Other ways to flip: Advantage / Disadvantage
 
 Some flips are a little more complicated. Some moves in 1kFA
-instruct you to "take +1 advantage", "add an advantage card"
-or "flip with advantage". Sometimes you are given the opposite
-instruction, "add a disadvantage card" or "flip with disadvantage".
+instruct you to "take +1 advantage" or "flip with advantage".
+Sometimes you are given the opposite
+instruction "flip with disadvantage" or "your foe gets advantage".
 
 ### Advantage
 
@@ -212,15 +239,18 @@ card shows ✔✔✔.
 
 With a disadvantage, do the same thing, but use the **worst** result.
 
+Acting against a foe that has advantage is mechanically identical to your
+character having disadvantage.
+
 ### Multiple Advantages / Disadvantages
 
-For a given flip, you may be instructed to add two advantage cards or two
-disadvantage cards.
+Advantage or disadvantage can stack. Flips can accumulate up to 2
+advantage or 2 disadvantage.
 This means you flip **3 cards in total** and take the **best**
 or **worst**, respectively.
 
-No flip may use more than 3 cards in total, so adding advantage cards
-beyond 2 is just ignored.
+No flip may use more than 3 cards in total, so adding advantage beyond
+2 is just ignored.
 
 It is possible a situation might arise where you are instructed to both
 "flip with advantage" and "flip with disadvantage".
@@ -234,20 +264,19 @@ flip with two disadvantage cards.
 
 ![An XP card](images/component_card_green_token.png){ width=2.5inch }
 
-Resolving flips is the main way that players acquire experience points in
-1kFA. Experience points are a player's most important mechanical currency
+Resolving flips is how players acquire experience points (XP) in
+1kFA. XP are a player's most important mechanical currency
 in the game.
 
 Some Deckahedron cards show an experience point symbol in the middle.
 These are XP cards.
-After a flip is *resolved* by an XP card, take a experience point
-from the supply.
+After a flip is *resolved* by an XP card, take one XP from the supply.
 
 You may only do this when the card *resolves* a flip. (ie, when flipping
 multiple cards, only if the *XP card* was the one from which
 the ✗ or ✔ symbols were used to interpret the result of the move)
 
-Experience points are a currency you spend to activate "meta" parts of the
+XP are a currency you spend to activate "meta" parts of the
 game. See below for moves that let you "break" or "bend" rules, or partially
 take control of the narrative.
 
@@ -267,10 +296,9 @@ Whenever a move is *resolved* by a Blessing card, return the Blessing card
 to the supply rather than keeping it in your discard pile.
 
 Note: some moves instruct you to match Chinese Zodiac symbols on the corners
-of cards. The corners of Blessing cards have a "dragon" symbol, which matches
-all other symbols except for the "goat" symbol on the wound cards.
-
-
+of cards. The corners of Blessing cards have a "dragon" symbol, which is *wild*.
+The "dragon" symbol matches all other symbols except for the "goat" symbol
+on the wound cards.
 
 
 ## Other flip complications: Wound cards
@@ -288,7 +316,7 @@ preventing it, those other players may choose to have their characters
 say how their character helps out.
 
 Another time the Teamwork Flip is triggered is when the characters are
-all bound together in success or failure. (ie, Defying Danger in a canoe
+all bound together in success or failure. (eg, Defying Danger in a canoe
 travelling over whitewater) In that case, the GM asks the players "who
 is taking the lead?". That player is the spotlighted player, and the other
 players are supporting.
@@ -304,7 +332,7 @@ flip, and only with their own card. If the card that resolves the flip
 wasn't the spotlighted player's, nobody receives a experience point.
 -->
 
-Only the card that resolved the flip can generate a experience point, and only
+Only the card that resolved the flip can generate XP, and only
 for the player who played it.
 
 If there are any negative consequences (damage, danger, etc) from the
@@ -325,8 +353,8 @@ your *discard pile* and shuffle it back into your Deckahedron.
 ## Interpreting the result of a flip
 
 When a player's character performs a move, the player executes a flip,
-and the GM interprets the narrative result, based on the text of the
-move card.
+and the GM leads the table interpreting the narrative result, based on the
+text of the move card.
 
 ![flip results](images/flip_results.png){ width=2.5inch }
 
@@ -336,16 +364,16 @@ but with complication.
 When the result is a single ✅︎, it sometimes means the same as a ✔✔,
 but often it is slightly worse.
 
-Any time a flip results in a single ✔ the GM should add a point to
-the *Bad Bank*  -- even when the move card says it has the same narrative
+Any time a flip results in a single ✅︎ the GM should add a point to
+the *Challenge Bank*  -- even when the move card says it has the same narrative
 effect as a ✔✔.
 
 When the result is ✗, it is the GM's turn to make a move. The GM narrates
 the consequences of the move the player just attempted and has license to
 take the narrative where they like.
 
-See the GM Guide for explanations of the *Bad Bank* and for a list of moves
-the GM is allowed to make.
+See the GM Guide for explanations of the *Challenge Bank* and for a list
+of moves the GM is allowed to make.
 
 ### Exceptions on ✅︎ and ✗ flips
 
@@ -357,7 +385,7 @@ These instructions should be executed, but might only be *part* of the
 GM's move -- the GM gets to decide if they have more to add.
 
 When the move card has the tag *IMMEDIATE*, the GM does not get to make a
-move on a ✗. Instead, the GM should just add 2 points to the *Bad Bank*.
+move on a ✗. Instead, the GM just adds 2 points to the *Challenge Bank*.
 
 
 ## Cards tagged IMMEDIATE
@@ -365,7 +393,7 @@ move on a ✗. Instead, the GM should just add 2 points to the *Bad Bank*.
 Some of your move cards have the tag *IMMEDIATE*. This indicates they can
 be used in conjunction with another move during your character's moment in
 the spotlight. When players take turns in the spotlight, if they trigger
-moves, it is expected that they trigger at most one *IMMEDIATE* move.
+moves, it is expected that they trigger **at most one** *IMMEDIATE* move.
 Otherwise the pace of the game can slow down, and other players may feel
 like they aren't getting a fair share of time in the spotlight.
 
@@ -403,7 +431,7 @@ You might respond by saying,
 
 It would be bizarre, but completely within the rules for the GM to write
 up some stats for the squirrel (1 Stamina, 1 attack power), and begin a
-melee combat between Kresk and the squirrel, and ask you to flip Strength
+melee combat between Kresk and the squirrel, and ask you to flip Str
 to resolve the Mix It Up move.
 
 But the GM will more likely interpret your action, as described, as having
@@ -426,7 +454,7 @@ signals.
 If you enjoy playing in a style where things flow like a conversation or
 a story, from question to answer, from description to dialogue and back
 around again, rather than pushing a limited set of buttons laid out in
-front of you, try playing without naming the moves. Just describe what your
+front of you, try playing without *naming* the moves. Just describe what your
 character does in a natural way.
 
 "Kresk wants that acorn! I slam my fist down on the squirrel!"
@@ -436,8 +464,8 @@ character does in a natural way.
 Because uncertainty is a key requirement before a flip is called for,
 the fiction that you and your friends establish in 1kFA *matters*.
 
-If a character threatens to punch a towering Mountain Giant in the shin, the
-GM will not call for a Parley flip. A wound to the arm or hand might be
+If a character threatens a towering Mountain Giant with a punch in the shin,
+the GM will not call for a Parley flip. A wound to the arm or hand might be
 described in such a way that would clearly make using a bow for Volley or
 Called Shot impossible. Or successful application of an Amulet of Amiability
 might mean that Pick Pockets can be skipped - the affected NPC might just offer
@@ -464,7 +492,7 @@ ring with as much vigor, and drop their guard more frequently. The contest
 is not always decided with a knockout punch, it often comes down to who can
 better endure the exertion.
 
-Every PC has 10 Stamina points. When a PC loses all 10, they are
+**Every PC has 10 Stamina points.** When a PC loses all 10, they are
 incapacitated. After that, their fate is up to the GM.
 
 ## Phases
@@ -492,7 +520,7 @@ off their steel breastplate?
 
     GM Note: The act of taking a risk, deciding how to get hurt, and then
     later, deciding when and how to heal, with each stage having its
-    sacrifices and benefits, is intended to echo the overall structure of
+    sacrifices and benefits, is a miniature echo of the overall structure of
     the Hero's Journey campaign. Starting in comfort, choosing to cross a
     threshold, deciding which fork to take in a road of trials,
     then returning.
@@ -521,7 +549,7 @@ battle. With only 7 Stamina points left, it's a wise time to take a Wound.
 
 ## Third Phase
 
-In the third phase, you can absorb Stamina and Wounds with your armour,
+In the third phase, you may absorb Stamina and Wounds with your armour,
 shield, or with moves like Good Cardio, Mystic Breathwork, Like A Second
 Skin, and Sangfroid.
 
@@ -554,8 +582,7 @@ Deckahedron *before* moving cards onto their *Exhaustion pile*.
 Once the *Exhaustion pile* grows to 10 cards, the character is
 *incapacitated* and can take no further actions.
 It is up to the GM to decide what this incapacitation means - whether
-the character is dead, unconscious, or just unable to stand or move. The
-GM has rules for this, see the GM Guide.
+the character is dead, unconscious, or just unable to stand or move.
 
 
 ## Wounds
@@ -604,146 +631,6 @@ Note: some moves instruct you to match Chinese Zodiac symbols on the corners
 of cards. Wound cards' corners have the "goat" symbol which does not match
 any symbol.
 
-# Combat in the 9-hour and 30-hour Campaigns
-
-If you are playing the One-Shot Campaign, you can skip this section. The
-Harm token rules are for the longer campaign formats.
-
-In the 3-hour campaign, the second phase is a choice between just 2 things:
-losing Stamina or taking a Wound. In longer campaigns, the choice is
-more granular.
-
-## Second Phase
-
-During the second phase of resolving a combat action, players have the choice
-between losing Stamina or taking a Wound as explained before, and also
-a third choice: to turn any 3 Stamina points into Harm tokens instead.
-
-For example, you may split the attack power of 7 into:
-
- * 4 Stamina points
- * 1 Harm token
-
-You may even do that twice, splitting the attack power of 7 into:
-
- * 1 Stamina point
- * 2 Harm tokens
-
-## Fourth Phase
-
-Think of that boxing match again.  If Stamina represents dancing, ducking,
-and dodging, then Harm represents landing a blow.
-These rules are also for representing mental strain that is so significant
-that the negative effects last for a while.
-
-*Attack power* turns into Harm tokens at *exactly* a rate of 3-to-1. You
-cannot choose a Harm token when facing an attack power of 2.
-
-When you are instructed to take a Harm token:
-
- * **If you already have 2 Harm tokens on your Exhaustion pile**:
-   - Take a *Wound* instead
- * **Otherwise**:
-   1. Lose a Deckahedron card to your *Exhaustion pile* as you would when
-      you lose a Stamina point.
-   2. Place a *Harm token* on your *Exhaustion pile*
-
-> Note, you will see this "1-2-bust" pattern repeated in many
-> of 1kFA's rules
-
-![Harm token](images/component_harm.png){ width=2.5inch }
-
-## Stamina - Heroic Mode
-
-The Stamina rules described above are known as "Lucky Mode". Those rules
-allow the players to lean on luck at the beginning of the game, because
-the "worse cards" of the Deckahedron might end up in the *Exhaustion pile*,
-shifting the odds to increase a player's chances to succeed at moves.
-
-During the 9-hour and 30-hour campaigns, players will have the choice to
-switch to "Heroic Mode", sacrificing their potential to get lucky for more
-knowledge and control over their outcomes.
-
-In "Heroic Mode" characters still have 10 Stamina points. But now, these
-points are represented only by cards in your Deckahedron with a Stamina symbol
-
-![Cards with and without Stamina symbol](images/with_without_stamina.png){ width=2.5inch }
-
-To win at combat, a character's foes must be subdued or pacified before the
-player's Deckahedron has been emptied of Stamina points.
-
-When you are instructed to lose a Stamina point, you may absorb it
-using any relevant move cards and item cards, otherwise:
-
- 1. Reveal cards in your Deckahedron until you find a card with a Stamina symbol
- 2. Put that card aside, face-up in your *Exhaustion pile*
- 3. Place an Exhaustion token on your *Exhaustion pile*
- 4. The other revealed cards go into your *discard pile*
-
-![Exhaustion token](images/component_exhaustion_heroic.png){ width=2.5inch }
-
-(So, if you were instructed to lose 3 Stamina points, you add 3 cards
-with Stamina symbols onto your Exhaustion pile)
-
-If searching through their Deckahedron does not yield a card with a Stamina
-symbol, the player **must** reshuffle their *discard pile* into the
-Deckahedron and continue searching.
-
-Note: Players *may* choose to reshuffle their *discard pile* back into the
-Deckahedron *before* searching for Stamina points.
-
-If there are no Stamina points in the Deckahedron *or* the *discard pile*,
-then all 10 must be in the *Exhaustion pile*. In this case, the character
-is *incapacitated* and can take no further actions.
-
-    GM Note: The switch to Heroic Mode is a way for the players to make
-    a choice that echoes Chapter 5 in the Hero's Journey. They themselves
-    become heroes.
-    By transcending randomness and meet the challenges of resposibility,
-    capability, and commitment, the players will have new power to get
-    the outcomes they desire.
-
-
-# The Pursuit Mini-game
-
-When dangerous foes are chasing the PCs, use these rules
-to determine what happens.
-
-When a player first declares that they are going to Bravely Run Away
-
- * Starting player declares
- * Other players declare whether their character joins
- * One character - the one with the most Items + PACK is declared
-   the "rabbit"
- * Best 3 of 5 rounds
- * Rabbit flips solo
-   * Add the rabbit's Str + Dex, then subtract their encumberance penalty (the
-     count of all their Item and Pack cards)
-   * Find their flip rank on the table below
- * For the rounds 2 through 5, the rabbit flips, but can be helped by any of
-   the other joining PCs. The best result between the rabbit's flip and
-   the helper's resolves the round. Each one of the rounds can be helped
-   by Int, Str, or Dex, without repeating. The help must be justified by
-   the attribute.
-   * Int
-     * Hiding
-     * Using words to influence a crowd
-   * Str
-     * Climbing a wall
-     * Making a great leap
-   * Dex
-     * Sliding / tumbling down an embankment
-     * Dancing across a precarious rooftop
-     * Jumping from the second floor onto a waiting horse
- * The last flip must be made by the rabbit alone.
- * If the pursuers ever win 2 flips in a row, they can make a move in the middle
-   of the pursuit if appropriate, like firing a volley of arrows or sounding
-   some kind of alarm
-
-| (Str + Dex) - Enc  | < 0                    |   0                      |   1    |   2    |   3    |   4     |   5         |
-| ------------------ | ---------------------- | ------------------------ | ------ | ------ | ------ | ------- | ----------- |
-| Flip:              | Anvils 2x disadvantage | Anvils with disadvantage | Anvils | Blades | Crowns | Dragons | Dragons with advantage |
-
 
 # Encumbrance Penalties
 
@@ -769,7 +656,7 @@ of all the gear carried or to track the body part to which the gear
 is strapped.
 
 
-# Moves - Good Thing I Brought, Do a Flashback, Critical Success, Take a Breather
+# Notes on Moves
 
 ## Good Thing I Brought...
 
@@ -824,20 +711,19 @@ provides a way to develop your character's backstory and personality.
 After a player makes a flip, and before the GM describes the consequence of
 the flip, the player can declare they're going to `do a flashback`.
 
-The player spends 1 experience point. Then they describe how something
+The player spends 1 XP. Then they describe how something
 that happened in the past particularly prepared their character for
 this situation.
 
 Then the original flip is ignored, and a new flip is executed, using the same
 advantage or disadvantage as the original flip.
 
-The player may then spend additional experience points to "bump up" the result.
-Each experience point spent increases the result, from ✗ to ✅︎ to ✔✔ to ✔✔✔.
+The player may then spend additional XP to "bump up" the result.
+Each XP spent increases the result, from ✗ to ✅︎ to ✔✔ to ✔✔✔.
 
-Technically, this flip is *resolved* only after the experience points are
-spent, so if the card was a *XP card*, the player should receive the experience
-point it grants only after they finished spending their experience points to
-"bump up" the results.
+Technically, this flip is *resolved* only after the XP are spent, so if the
+new card was an *XP card*, the player should take an XP from the supply only
+*after* they finished spending their XP to "bump up" the results.
 
 ### Mercy Flashbacks
 
@@ -850,11 +736,10 @@ As long as the player and the GM both agree that the player had the necessary
 resources when the action was available, the GM may allow the player to
 spend those resources and effect that action now, as a "Mercy Flashback".
 
-The player must spend an experience point, in addition to whatever cost the action
-incurs.
+The player must spend one XP, in addition to whatever cost the action incurs.
 
 Even the most conscientious of us sometimes loses track of small details,
-so the cost is kept "cheap" at only one experience point. But there must be a cost.
+so the cost is kept "cheap" at only one XP. But there must be a cost.
 It is necessary to keep the flow of the game going. This is a game of improv
 storytelling, and improv means rolling with the punches sometimes.
 
@@ -870,7 +755,7 @@ If you *resolve a flip* with the Critical Success card, you can do two things:
 
  * Say how your character's practice has finally paid off, or how they had
    an insight or epiphany about the move they just accomplished. Spend
-   experience points 1-for-1 to go up levels in the move that was just resolved.
+   XP 1-for-1 to go up levels in the move that was just resolved.
  * Take a Blessing card from the supply and put it in their discard pile.
 
 
@@ -905,91 +790,41 @@ using Str as an IMMEDIATE move (ie, no negative narrative consequences
 if the result is ✗ or ✅︎).
 
 
+## Good Cardio
 
-# Making your own character
+This card makes a character an especially resilient fighter and athlete.
 
-The GM has rules to guide you through creating your character in the
-GM Guide.
+In a combat encounter, a player will usually trigger an aggressive move like
+Mix It Up or Volley.  In addition, players often trigger at most one
+*IMMEDIATE* move. If they haven't chosen an different *IMMEDIATE* move, they
+can always trigger Good Cardio, and regain some of their lost Stamina points.
 
-Take turns picking your starting moves. During character creation, you
-can't pick a move another player has already picked, but your character can
-become skilled in those moves later. See the Move Levels and Study Under a
-Master sections below.
-
-Moves with the *RECEIVE CARDS* tag allow you to get some item cards during
-character creation.
-
- * "Use a Magic Item" move gives you 1 magic item of your choice
- * "Channel the Living Light" move gives you Sigil of the Living Light
- * "Entreat the Blood-Bound" move gives you Blade of Echoes
-
-After you choose your starting moves, Choose 2 items
-
- * a weapon is a popular choice. Unarmed, your attack power will be 1d2
- * You may choose 1 magical item
-   * Note, even without studying the Use A Magic Item move, it's still possible
-     to use magic items.
-
-## Item Encumbrance
-
-There are blanks on some item cards, and some items are designed starting
-from entirely blank cards. Players get to give your items descriptive names
-and dream them into existence, but do not get to change the rule that each
-item carried factors into encumbrance penalties.
-
-It is common for a player to ask why the magic amulet or ring they've created,
-a trinket that is normally a couple grams, might encumber them. The GM didn't
-give the item its descriptive name, so an explanation isn't the GM's
-responsibility. The GM may even return the question, "Yes, why does it weigh
-you down? What about magic in this world, or what about your character makes
-them especially burdened by magical items? Does your character even know?"
-
-Remember, the narrative of 1kFA is a collaboration.
-
-### Fitting the fiction
-
-One of the joys of 1kFA is **building** your character up from
-a scrappy adventurer to a force to be reckoned with.
-
-Characters start out just a little bit more powerful than a common villager.
-They've got an edge over regular folk, (their Stamina and special abilities)
-but the game mechanics put them on nearly even footing in a fight.
-You can invent any backstory you like, but you may need to answer questions
-about how the backstory fits where the characters is, mechanically.
-
-Nothing stops you from creating a hulking, 7 foot tall barbarian, with a rich
-history of warring and slaughtering enemies, but at the very beginning of
-the game, with a couple unlucky flips, that barbarian may suffer a sound
-drubbing at the hands of a farmer with a shovel and his overprotective goat.
-
-This doesn't mean you shouldn't create the barbarian character. You should.
-That sounds awesome! But if you do, be prepared to find some narrative
-justification (drunkard? battle-worn? magically cursed?) that they're
-currently at a "scrappy adventurer" level.
+This is a highly recommended strategy for any character who has lost Stamina.
 
 
 ---
+
 # SESSION 2 RULES
+
 ---
 
 # The Session Opener
 
 Every session after the first session, there is a special move to execute
 at the very beginning, **The Session Opener**. It is a player's opportunity
-to generate an extra experience point.
+to generate an extra XP.
 
 Your GM will lead you through a story recap and pose some questions about
 your character.  Then you will be given the opportunity to **Ask for
 notes** and **Give notes** to your fellow players.
 
-After this exercise, all participating players will receive an experience
-point.
+After this exercise, all participating players will receive an XP.
 
 The details of the Session Opener are described in
 [the GM Guide](mod_guide_gm.md).
 
 
-# More Moves - Rest, Seek Help
+# Notes on Moves - Healing
 
 Throughout 1kFA, players are asked to decide how their
 characters get hurt, how they respond to being hurt, and how they recover
@@ -1072,9 +907,18 @@ You may gird all your armour, where applicable.
 Remove all Harm and Wound tokens from your armour cards.
 
 
-# Shopping, Equipment, and Items
+# Notes on Moves - Item-related
 
-## The Shop / Procure Move
+## Item Damage
+
+`TODO item damage diagram`
+
+Damage to items is represented as black-side red cards. When an item is
+damaged a third time -- when it already has 2 black-side red cards --
+it is instead destroyed. The card is returned to the supply.
+
+
+## Shop / Procure
 
 ![Shop / Procure card](images/move_shop__procure.png){ width=2.5inch }
 
@@ -1103,17 +947,11 @@ may have other items as well. Those other items may just be decorative
 or they may have narrative value (carrying around a small barrel of brandy
 may earn you a welcome from the thirsty dwarves you meet).
 
+<!--
 You can even create rules of your own for certain classes of item.
 See the [Extending 1kFA](#extending) chapter for hints on how
 to do that.
-
-#### Item Damage
-
-`TODO item damage diagram`
-
-Damage to items is represented as black-side red cards. When an item is
-damaged a third time -- when it would take a 3rd black-side red card --
-it is instead destroyed. The card is returned to the supply.
+-->
 
 #### Weapons
 
@@ -1170,7 +1008,7 @@ The GM may use the name to create implications in the narrative -- it's hard
 to sneak or swim in full plate armour.
 
 If a GM writes narrative circumstances that cause a disadvantage on the
-armour card when it is created, no points need to be spent from *Bad Bank*
+armour card when it is created, no points need to be spent from *Challenge Bank*
 to create the disadvantage later.
 
 Here are some example armours:
@@ -1212,11 +1050,21 @@ Blocking damage with a shield should be considered an *IMMEDIATE* move, and
 the GM should try to keep to the guideline of not allowing players to make
 more than one move and one *IMMEDIATE* move per turn in the spotlight.
 
-### Magic Items
 
-1kFA supports stories involving magic. To avoid presuming too
-much about the narrative, the rules do not dictate the nature of magic or
-the "how" of magic. That's for you to decide during play.
+# Notes on Moves - Magic-related
+
+<!-- TODO remove trademarked references -->
+Magic is an element that pervades stories of fantasy. It can be obscure
+and stemming from nature like in Lord of the Rings, it can be elemental and
+allegorical like in The Wheel of Time, and it can be linguistic and
+self-aware like in The Invisibles.
+
+To avoid presuming too much about the narrative, the rules do not dictate
+the nature of magic or the "how" of magic. That's for you to decide during
+play.
+The rules provide a mechanical foundation and some optional narrative paths.
+You are invited to take this well-tested framework, play with it, and expand
+into it.
 
 Is magic woven from subtle threads that pervade the universe? Is it based
 on words of power? Is it high technology hidden in the planet's crust
@@ -1231,6 +1079,19 @@ they can cast magic spells without needing the items.
 The rules also give names for two sources of magical power, "The Living
 Light" and "The Blood-Bound". It's up to you to give these names narrative
 meaning, if you want.
+
+One thing to keep in mind is that characters may attempt any move that
+resolves with Str / Dex / Int.
+(See [Move Levels](#move_levels)
+So even if moves like Use a Magic Item or Fundamental Magic were not chosen
+at character creation or gained via Study Under a Master, any character may
+attempt them.
+
+That said, using magic invokes some of the more complicated rules of
+1kFA. Players are challenged with managing and balancing
+charges, capacity, stamina, requirements and narrative effect. This kind
+of play is ideal for players excited by complexity and the potential
+of explorable branches.
 
 #### Charges and Capacity
 
@@ -1248,8 +1109,6 @@ card.
 
 Magic items cannot be damaged.
 
-(Weapons granted magical effects via Tool Twisting *can* be damaged)
-
 #### The ONGOING tag
 
 When you Use a Magic Item, you are "flowing magical energy" into it. Then
@@ -1264,33 +1123,6 @@ Some magical effects persist only if you continue to flow magical energy
 into the item. These items are identified by the ONGOING tag. While you
 are flowing energy into such an item, you may not regain Stamina points
 while using the Rest or Seek Help moves.
-
-
-# More Moves - Using Magic Items
-
-Magic is an element that pervades stories of fantasy. It can be obscure
-and stemming from nature like in Lord of the Rings, it can be elemental and
-allegorical like in The Wheel of Time, and it can be linguistic and
-self-aware like in The Invisibles.
-
-To allow you and your table of friends to invent and explore the magical
-concepts that excite you most, 1kFA takes a light touch.
-The rules provide a mechanical foundation and some optional narrative paths.
-You are invited to take this well-tested framework, play with it, and expand
-into it.
-
-One thing to keep in mind is that characters may attempt any move that
-resolves with Str / Dex / Int.
-(See [Move Levels](#move_levels)
-So even if moves like Use a Magic Item or Fundamental Magic were not chosen
-at character creation or gained via Study Under a Master, any character may
-attempt them.
-
-That said, using magic invokes some of the more complicated rules of
-1kFA. Players are challenged with managing and balancing
-charges, capacity, stamina, requirements and narrative effect. This kind
-of play is ideal for players excited by complexity and the potential
-of explorable branches.
 
 
 ## Use a Magic Item
@@ -1324,6 +1156,10 @@ If the magic item has the *ONGOING* tag, magical energy continues
 to flow into the item. This has mechanical interactions with the Rest
 and Sever-Pulse Shield moves and might also have narrative consequences.
 
+When a player chooses this card during character creation or Study Under a
+Master, they also recieve 1 magic item of their choice.
+
+
 ## Entreat the Blood-Bound
 
 ![Entreat the Blood-Bound](images/move_entreat_the_blood_bound.png){ width=2.5inch }
@@ -1336,6 +1172,8 @@ Blood-Bound?"
     and..." no matter if they identify the Blood-Bound as tiny, parasitic
     insects or as monstrous, extradimensional dark gods.
 
+When a player chooses this card during character creation or Study Under a
+Master, they also recieve the item Blade of Echoes.
 
 ## Channel the Living Light
 
@@ -1343,6 +1181,10 @@ Blood-Bound?"
 
 If it has not yet been established, when a player first uses this move, it's
 a great time for the GM to ask them: "Who or what is the Living Light?"
+
+When a player chooses this card during character creation or Study Under a
+Master, they also recieve the item Sigil of the Living Light.
+
 
 
 # Move Levels
@@ -1415,8 +1257,7 @@ disadvantage.
  * ![1 red symbol](images/move_level_1_red.png){ width=0.5inch } flip with 1 level of disadvantage
 
 If you perform a "wild" level move, and you resolve that flip with a
-*Critical Success card*, you can spend 1 experience point to graduate to
-"novice" level.
+*Critical Success card*, you can spend 1 XP to graduate to "novice" level.
 
 ![Red card](images/red_card_black.png){ width=2.5inch }
 
@@ -1424,7 +1265,7 @@ If you choose to do so, take the move card and a red card. Place the red card
 on top of the move card, black-side-up.
 
 
-## More Moves - Study Under a Master
+# Notes on Moves
 
 ### Study Under a Master
 
@@ -1434,8 +1275,8 @@ This is the move by which your character becomes a powerful force in
 the world.
 
 When your character is in a steading (a villiage, city, etc. -- any safe
-place where resources and commerce present themselves), you can spend 2
-experience points to either:
+place where resources and commerce present themselves), you can spend 2 XP
+to either:
 
  * Increase the level of a move you already have
    (See [Move Levels](#move_levels)
@@ -1445,55 +1286,8 @@ If you want to take a move card that another player already has or one that
 was scribbled over in a previous campaign, or just has been ruined by spilled
 beer, you can copy the text onto a new card.
 
-#### The RECEIVE CARDS tag
 
-Sometimes when you Study Under a Master, you are given study aids.
-
-When you Study Under a Master to gain...  | You also take...
-------------------------------------------|------------------------------
-Channel The Living Light                  | Sigil of the Living Light
-Entreat The Blood-Bound                   | Blade of Echoes
-Use a Magic Item                          | Any magic item card
-
-You use the RECEIVE CARDS tag only during character creation and when you
-gain a move card via Study Under a Master. You do not use it when you gain
-competence with the skill by flipping Critical Success cards.
-
-#### 30-hour Campaign rule: REQUIRES
-
-![requirements](images/move_requirements.png){ width=2.5inch }
-
-If you are playing the 3-hour or 9-hour campaigns, you can ignore the
-*REQUIRES* tag.
-
-Some moves have requirements. These are illustrated as green rings,
-sometimes with a letter inside -- *R*, *F*, or *W*. Requirements are
-sometimes separated by a slash, **/**, which means "or".
-
-For example, using the Study Under a Master move can gain you the card
-Fundamental Magic only if you have two green rings or one *W* ring.
-
-What, then, are these rings?
-
-Take a look through the move cards and see that there are partial rings
-printed on them - either in the corners or on the sides.
-
-When you can arrange your own move cards together in such a way that a
-ring is completed, you "have" a ring. If your cards can arrange to
-show 2 rings, then you "have" 2 rings.
-
-![ring arrangements](images/ring_arrangements.png){ width=2.5inch }
-
-If your card arrangement had the cards Pick Pockets and Not On My Turf
-next to each other, you could complete an *R* ring. If you had
-the Scent of Blood card instead of the Not On My Turf card, you could
-arrange it next to Pick Pockets to complete a ring, but it would not
-be an *R* ring or an *F* ring, it would be considered a solid green ring.
-
-You do not have to keep your cards in this arrangement while you play.
-
-
-# More Moves - Bravely Run Away
+### Bravely Run Away
 
 ![Bravely Run Away card](images/move_bravely_run_away.png){ width=2.5inch }
 
@@ -1512,33 +1306,16 @@ The GM can resolve this move by:
  * putting the characters somewhere completely safe
  * putting the characters in a place where some (new or old) danger exists,
    but is, for the moment, not directly threatening the characters
- * spending a point from the *Bad Bank* and starting the Pursuit Mini-game
- * spending a point from the *Bad Bank* and putting the characters in a place
-   where they must directly confront or defy a new danger
+ * spending a point from the *Challenge Bank* and starting the Pursuit Mini-game
+ * spending a point from the *Challenge Bank* and putting the characters in
+   a place where they must directly confront or defy a new danger
 
 
 ---
+
 # SESSION 3 RULES
+
 ---
-
-## 30-hour Campaigns: Level cards and green rings
-
-If you are playing the One-Shot Campaign or 9-hour Campaign, you can skip
-this section. The level card rules are for the 30-hour campaign format.
-
-At the beginning of a session, players should arrange their move cards
-to count how many green rings they have. Usually, players will not have
-any green rings at the beginning of session 2 -- session 3 tends to be
-the first session where this rule matters.
-
-![level cards](images/component_card_level.png){ width=2.5inch }
-
-Once per session, if you have more green rings than *level cards*, you
-can take one new level card.
-
-Like move cards, level cards may also have requirements. Some require that you
-have a certain amount of green rings to access them.
-
 
 ### Sharpen and Stitch
 
@@ -1595,7 +1372,212 @@ Here are some examples:
  * _ of Vitality
 
 
-## Player vs Player
+----
+
+# Advanced and Optional Rules
+
+----
+
+# Combat in the 9-hour and 30-hour Campaigns
+
+If you are playing the One-Shot Campaign, you can skip this section. The
+Harm token rules are for the longer campaign formats.
+
+In the 3-hour campaign, the second phase is a choice between just 2 things:
+losing Stamina or taking a Wound. In longer campaigns, the choice is
+more granular.
+
+## Second Phase
+
+During the second phase of resolving a combat action, players have the choice
+between losing Stamina or taking a Wound as explained before, and also
+a third choice: to turn any 3 *attack power* into Harm tokens instead.
+
+For example, you may split the attack power of 7 into:
+
+ * 4 Stamina points
+ * 1 Harm token
+
+You may even do that twice, splitting the attack power of 7 into:
+
+ * 1 Stamina point
+ * 2 Harm tokens
+
+## Fourth Phase
+
+Think of that boxing match again.  If Stamina represents dancing, ducking,
+and dodging, then Harm represents landing a blow.
+These rules are also for representing mental strain that is so significant
+that the negative effects last for a while.
+
+*Attack power* turns into Harm tokens at *exactly* a rate of 3-to-1. You
+cannot choose a Harm token when facing an attack power of 2.
+
+When you are instructed to take a Harm token:
+
+ * **If you already have 2 Harm tokens on your Exhaustion pile**:
+   - Take a *Wound* instead
+ * **Otherwise**:
+   1. Lose a Deckahedron card to your *Exhaustion pile* as you would when
+      you lose a Stamina point.
+   2. Place a *Harm token* on your *Exhaustion pile*
+
+> Note, you will see this "1-2-bust" pattern repeated in many
+> of 1kFA's rules
+
+![Harm token](images/component_harm.png){ width=2.5inch }
+
+## Stamina - Heroic Mode
+
+The Stamina rules described above are known as "Lucky Mode". Those rules
+allow the players to lean on luck at the beginning of the game, because
+the "worse cards" of the Deckahedron might end up in the *Exhaustion pile*,
+shifting the odds to increase a player's chances to succeed at moves.
+
+During the 9-hour and 30-hour campaigns, players will have the choice to
+switch to "Heroic Mode", sacrificing their potential to get lucky for more
+knowledge and control over their outcomes.
+
+In "Heroic Mode" characters still have 10 Stamina points. But now, these
+points are represented only by cards in your Deckahedron with a Stamina symbol
+
+![Cards with and without Stamina symbol](images/with_without_stamina.png){ width=2.5inch }
+
+When you are instructed to lose a Stamina point, you may absorb it
+using any relevant move cards and item cards, otherwise:
+
+ 1. Reveal cards in your Deckahedron until you find a card with a Stamina symbol
+ 2. Put that card aside, *face-up* in your *Exhaustion pile*
+ 3. Place an Exhaustion token on your *Exhaustion pile*
+ 4. The other revealed cards go into your *discard pile*
+
+![Exhaustion token](images/component_exhaustion_heroic.png){ width=2.5inch }
+
+(So, if you were instructed to lose 3 Stamina points, you add 3 cards
+with Stamina symbols onto your Exhaustion pile)
+
+If searching through their Deckahedron does not yield a card with a Stamina
+symbol, the player **must** reshuffle their *discard pile* into the
+Deckahedron and continue searching.
+
+Note: Players *may* choose to reshuffle their *discard pile* back into the
+Deckahedron *before* searching for Stamina points.
+
+If there are no Stamina points in the Deckahedron *or* the *discard pile*,
+then all 10 must be in the *Exhaustion pile*. In this case, the character
+is *incapacitated* and can take no further actions.
+
+    GM Note: The switch to Heroic Mode is a way for the players to make
+    a choice that echoes Chapter 5 in the Hero's Journey. They themselves
+    become heroes.
+    By transcending randomness and meet the challenges of resposibility,
+    capability, and commitment, the players will have new power to get
+    the outcomes they desire.
+
+When playing in Heroic Mode, you may look through the cards of your
+*exhaustion pile* at any time.
+
+# The Pursuit Mini-game
+
+When dangerous foes are chasing the PCs, use these rules
+to determine what happens.
+
+When a player first declares that they are going to Bravely Run Away
+
+ * Starting player declares
+ * Other players declare whether their character joins
+ * One character - the one with the most Items + PACK is declared
+   the "rabbit"
+ * Best 3 of 5 rounds
+ * Rabbit flips solo
+   * Add the rabbit's Str + Dex, then subtract their encumberance penalty (the
+     count of all their Item and Pack cards)
+   * Find their flip rank on the table below
+ * For the rounds 2 through 5, the rabbit flips, but can be helped by any of
+   the other joining PCs. The best result between the rabbit's flip and
+   the helper's resolves the round. Each one of the rounds can be helped
+   by Int, Str, or Dex, without repeating. The help must be justified by
+   the attribute.
+   * Int
+     * Hiding
+     * Using words to influence a crowd
+   * Str
+     * Climbing a wall
+     * Making a great leap
+   * Dex
+     * Sliding / tumbling down an embankment
+     * Dancing across a precarious rooftop
+     * Jumping from the second floor onto a waiting horse
+ * The last flip must be made by the rabbit alone.
+ * If the pursuers ever win 2 flips in a row, they can make a move in the middle
+   of the pursuit if appropriate, like firing a volley of arrows or sounding
+   some kind of alarm
+
+| (Str + Dex) - Enc  | < 0                    |   0                      |   1    |   2    |   3    |   4     |   5         |
+| ------------------ | ---------------------- | ------------------------ | ------ | ------ | ------ | ------- | ----------- |
+| Flip:              | Anvils 2x disadvantage | Anvils with disadvantage | Anvils | Blades | Crowns | Dragons | Dragons with advantage |
+
+
+# 30-hour Campaigns: Level cards and green rings
+
+If you are playing the One-Shot Campaign or 9-hour Campaign, you can skip
+this section.
+
+## Green rings / REQUIRES
+
+![requirements](images/move_requirements.png){ width=2.5inch }
+
+<!-- Summary -->
+When you Study Under a Master, the cards available to choose from are limited
+by the REQUIRES tag. If you cannot arrange your move cards to form the number
+of rings shown in the REQUIRES tag, you cannot choose that move.
+<!-- /Summary -->
+
+Some moves have requirements. These are illustrated as green rings,
+sometimes with a letter inside -- *R*, *F*, or *W*. Requirements are
+sometimes separated by a slash, **/**, which means "or".
+
+For example, using the Study Under a Master move can gain you the card
+Fundamental Magic only if you have two green rings or one *W* ring.
+
+What, then, are these rings?
+
+Take a look through the move cards and see that there are partial rings
+printed on them - either in the corners or on the sides.
+
+When you can arrange your own move cards together in such a way that a
+ring is completed, you "have" a ring. If your cards can arrange to
+show 2 rings, then you "have" 2 rings.
+
+![ring arrangements](images/ring_arrangements.png){ width=2.5inch }
+
+If your card arrangement had the cards Pick Pockets and Not On My Turf
+next to each other, you could complete an *R* ring. If you had
+the Scent of Blood card instead of the Not On My Turf card, you could
+arrange it next to Pick Pockets to complete a ring, but it would not
+be an *R* ring or an *F* ring, it would be considered a solid green ring.
+
+You do not have to keep your cards in this arrangement while you play.
+
+
+## Level cards
+
+At the beginning of each session, players should arrange their move cards
+to count how many green rings they have. Usually, players will not have
+any green rings at the beginning of session 2 -- session 3 tends to be
+the first session where this rule matters.
+
+![level cards](images/component_card_level.png){ width=2.5inch }
+
+Once per session, if you have more green rings than *level cards*, you
+can choose one new level card.
+
+Like move cards, level cards may also have requirements. Some require that you
+have a certain amount of green rings to access them.
+
+
+
+# Player vs Player
 
 This game is a tool for telling stories about a group of characters that
 work together to overcome some danger that threatens them all. The details
@@ -1605,7 +1587,7 @@ be exhibited in the narrative, but also tries to guide the resolution of
 those tensions to a state where the characters are afterward unified
 against their common, non-player, foes.
 
-### Combat
+## Combat
 
 When a player asserts their character violently against another player's
 character, the rules are special. In general, negative consequences are only
@@ -1621,7 +1603,7 @@ When a player's character attacks another player's character, moves are
 triggered as they would normally be, and costs are paid (eg, if the attacker
 uses a magic item, they may lose a charge), but there are differences:
 
- * XP cards do not generate an experience point if they resolve a flip
+ * XP cards do not generate XP if they resolve a flip
  * Critical Success cards cannot be used to go up levels in moves
  * Attack power is not rolled
 
@@ -1641,7 +1623,7 @@ Inter-party conflict can provide some of the most interesting and dramatic
 moments of a campaign. Those moments arise from a group of friends at the
 table collaborating together.
 
-### Theft, persuasion, mind-control
+## Theft, persuasion, mind-control
 
 Just as in PvP combat, when one player tries to:
 
@@ -1650,28 +1632,17 @@ Just as in PvP combat, when one player tries to:
  * use a move to dictate another player's character's action
    - eg, by using mind control magic
 
-XP cards do not generate experience points, Critical Success cards cannot
+XP cards do not generate XP, Critical Success cards cannot
 be used to go up levels, and the *defender* gets to say what the result was.
 
 
-# Appendix - Notes on moves
+----
 
-## Good Cardio
+# Appendicies
 
-This card makes a character an especially resilient fighter and athlete.
+----
 
-In a combat encounter, a player will usually trigger an aggressive move like
-Mix It Up or Volley.  In addition, players often trigger at most one
-*IMMEDIATE* move. If they haven't chosen an different *IMMEDIATE* move, they
-can always trigger Good Cardio, and regain some of their lost Stamina points.
-
-## Tool Twisting
-
-If you add a 2nd magical effect to a weapon with Tool Twisting, it still only
-has 1 maximum charge, no matter which effect you use.
-
-
-# Appendix - Glossary
+# Glossary
 
  * 1d4, 1d6, 1d10
    * This is notation that means "one four-sided die", "one six-sided
@@ -1692,3 +1663,8 @@ has 1 maximum charge, no matter which effect you use.
  * ranged (or "at range")
    * When the details of the fiction put two combatants far enough apart that
      their handheld weapons could not connect
+ * session
+   * The contiguous period of time that you're sitting at the table, playing
+     the game
+ * XP
+   * "experience point" or "experience points"

@@ -23,7 +23,7 @@ It's called *The Hero's Journey* by people who study story structure.
 movies and books are arranged: Star Wars, Lord of the Rings, The Breakfast
 Club, Die Hard, Beowulf, Forgetting Sarah Marshall, the list goes on.
 To help you execute a successful and popular *campaign*, 1kFA
-gives the GM a *Good Bank* and a *Bad Bank* and specific rules for
+gives the GM a *Good Bank* and a *Challenge Bank* and specific rules for
 using them.
 
 The main premise of *The Hero's Journey* is, characters start out in
@@ -212,14 +212,14 @@ It could be at the end of a road of trials, or inside the cave where they
 must conquer their greatest fear, or in the clutches of their most powerful
 adversary.
 
-### Alot Bad Bank Points
+### Alot Challenge Bank Points
 
 Whatever the fictional set-up, when you're ready, set up a challenge in
 the narrative, then draw a circle around **all** of the points currently in
-your *Bad Bank* and use them all before the characters get a chance to Rest.
+your *Challenge Bank* and use them all before the characters get a chance to Rest.
 
 If you can do this, when they complete the challenge that used up the last of
-the set-aside *Bad Bank* points, give them the prize of this mysterious world,
+the set-aside *Challenge Bank* points, give them the prize of this mysterious world,
 and give yourself a point in your *Good Bank*.
 
 ### Death Is Real Here
@@ -387,12 +387,12 @@ your Touchstone List and ask yourself some questions. What is the "juice" here?
 What spectacle, what adventure might the players have been fantasizing about
 when they chose the titles you see on this list? Don't be shy about copying.
 
-### Alot Bad Bank Points
+### Alot Challenge Bank Points
 
 To begin the **Search** chapter of the story, circle **half** of the points
-currently in your *Bad Bank*.
+currently in your *Challenge Bank*.
 
-This new mysterious is dangerous. Use your *Bad Bank* points to represent
+This new mysterious is dangerous. Use your *Challenge Bank* points to represent
 this. Show the players that they might need to be smarter now. Problems are
 not solved here as easily as in the place of comfort.
 
@@ -417,7 +417,7 @@ You achieve your GM goal in the **Search** phase if
  * you gave each player a chance to "level up" their character and use their
    new skills or items
  * and you used at least one *Good Bank* point
- * and you used all the *Bad Bank* points you circled at the beginning
+ * and you used all the *Challenge Bank* points you circled at the beginning
 
 If you do this, give yourself a point in your *Good Bank* and aim to move the
 plot to the next phase.
@@ -487,10 +487,10 @@ through dragon's hide.
 
 This is the thing that will answer the **Need**.
 
-### Alot Bad Bank Points
+### Alot Challenge Bank Points
 
 When you're ready, set up a challenge in the narrative, then draw a circle
-around **all** of the points currently in your *Bad Bank*. To earn the current
+around **all** of the points currently in your *Challenge Bank*. To earn the current
 *Good Bank* point, use them all before the characters get a chance to Rest.
 
 ### Death Is Real Here
@@ -555,7 +555,7 @@ power lie? Game mechanisms? Relationships? Knowledge? Something else?
 
 ### The Chapter 8 Move
 
-The first time any player's character:
+The first time any PC:
 
  * employs skills or treasures the they attained during their adventure
    to defeat the Threshold Guardian
@@ -566,8 +566,16 @@ The first time any player's character:
  * wishes for something left behind on the other side of the threshold
  * presumes they are doomed, but chooses to defy death and struggle on
 
-Use a point from the *Good Bank* to assist them. If they succeed, give yourself
-another point in the *Good Bank*.
+Use a point from the *Good Bank* to Reveal The Hearth. The Hearth was the
+specific people, food, song, environmental feature, ritual or festival,
+or group activity that was identified at the beginning of the game.
+
+Describe how The Hearth which has been inaccessible, snuffed out, or hidden
+since the characters crossed the first threshold is now rekindled, reborn,
+reimagined or its inheritor is revealed. All the PCs now have a chance to
+heal their wounds.
+
+For every wound healed, give yourself another point in the *Good Bank*.
 
 
 # 30-hour Campaign
@@ -577,12 +585,12 @@ another point in the *Good Bank*.
 An "arc" of 3 9-hour campaigns
 
  * First Book - just the same as the 9-Hour Campaign
- * Second Book - Carry over all Good Bank and Bad Bank points
+ * Second Book - Carry over all Good Bank and Challenge Bank points
    * Chapter 7 should return them to a different "world"
- * Third Book - Start with 0 Good Bank points, carry over the Bad Bank points
-   * Bad Bank points grow at double the rate.
-     - ✅︎ adds 2 points to the Bad Bank
-     - on IMMEDIATE moves, ✗ adds 4 points to the Bad Bank
+ * Third Book - Start with 0 Good Bank points, carry over the Challenge Bank points
+   * Challenge Bank points grow at double the rate.
+     - ✅︎ adds 2 points to the Challenge Bank
+     - on IMMEDIATE moves, ✗ adds 4 points to the Challenge Bank
    * Challenge the character changes made earlier - what boons will the
      characters give up to achieve an even greater one
 

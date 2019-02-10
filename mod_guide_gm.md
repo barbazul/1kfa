@@ -955,7 +955,7 @@ to the characters, not just the players.
 
 This can also be a good move to underscore particularly tricky dangers. Let
 the players know that if they attempt to dive between the giant clockwork
-gears, you're going to spend points from the *Bad Bank* to increase the
+gears, you're going to spend points from the *Challenge Bank* to increase the
 difficulty.
 
 ## Drive Towards Your Next Point In The *Good Bank*
@@ -1108,14 +1108,14 @@ to the GM the kind of fun they want to have.
 
 The GM needs a sheet of paper to make notes and track information.
 
-At the top of the sheet write the headings "Good Bank" and "Bad Bank".
+At the top of the sheet write the headings "Good Bank" and "Challenge Bank".
 Leave enough space to track the points under each of those headings.
 
 ![GM Worksheet](images/gm_worksheet.png){ width=7cm }
 
 When a player flips and *resolves a move* with a ✅︎, mark a point in
-the *Bad Bank*. When a move with the *IMMEDIATE* tag is resolved with
-a ✗, mark two points in the *Bad Bank*.
+the *Challenge Bank*. When a move with the *IMMEDIATE* tag is resolved with
+a ✗, mark two points in the *Challenge Bank*.
 
 See the Campaign Guide for rules on when to mark points in the *Good Bank*.
 
@@ -1156,9 +1156,9 @@ Then select and lay out (`# of players + 1`) C cards.
 > cards in total.
 >
 > To differentiate the characters, you don't get to choose a card that
-> someone else has already picked. But later on in the game, you'll have
-> opportunities to learn new moves and even choose moves that someone
-> else has.
+> someone else has already picked. But later on in the game, you can
+> "Study Under a Master" to learn new moves and even choose moves that
+> someone else has.
 >
 > There's a lot of choices here, so don't get overwhelmed. You don't have
 > to read all of the instructions on each card, just focus on the titles
@@ -1366,8 +1366,9 @@ Give each player 2 Pack cards. Pack cards are just white-side red cards.
 Help them identify the tags on their move cards then give them the items
 or the choice of items specified in the rules for those cards.
 
-Also, indicate that they get to fill in the blank on the card, so that you
-and they know exactly what kind of item the character posesses.
+ * The "Use a Magic Item" card lets them take 1 magic item of their choice
+ * The "Channel the Living Light" card lets them take Sigil of the Living Light
+ * The "Entreat the Blood Bound" card lets them take Blade of Echoes
 
 #### 2 Item Cards phase
 
@@ -1377,7 +1378,7 @@ and they know exactly what kind of item the character posesses.
 > also write stuff on blank cards.
 >
 > It's recommended that your character have some kind of weapon. Without
-> a weapon, their "attack power" will only be 1d2. Here are the weapon cards
+> a weapon, their "attack power" will only be 1. Here are the weapon cards
 > that come with the game, but we can also use blank cards and create
 > weapons that would be reasonable for a "scrappy adventurer" to have in
 > the universe we've imagined in our Touchstone List.
@@ -1410,6 +1411,10 @@ the "Use A Magic Item" move card, but if they so choose, make sure they
 understand the difficulty and cost of attempting "Use A Magic Item"
 at the "wild" level.
 
+Any time there is a blank on a card, the player should fill it in, so
+that you and they know exactly what kind of item the character posesses.
+
+
 `TODO: link to weapon and armor lists`
 
 
@@ -1430,11 +1435,14 @@ which the players are challenged to interpret into fiction. Sometimes that
 means the GM interprets an attack power roll, and sometimes it means that
 a player explains that though their ring looks small, it weighs more than
 anyone expects, or that the magical attunement of the boots sends a
-tingling sensation up the nerves of the wearer's legs.
+chronic tingling sensation up the nerves of the wearer's legs.
 
-The player that writes on the card should already know that item cards
-incur encumbrance penalties so it will be up to them to justify what
-they wrote.
+Players get to give items descriptive names and dream them into existence,
+but do not get to change the rule that each item carried factors into
+encumbrance penalties.
+
+Remember, the narrative of 1kFA is a collaboration, so the whole table can
+offer ideas justifying the names of the cards.
 
 This doesn't mean that every described fictional object reduces a
 character's speed.
@@ -1476,6 +1484,7 @@ Remember, it doesn't have to be a Hobbit hole.  Characters might be most at
 home in the middle of a bloody battle.
 
 
+<!--
 ### GM Prompt
 
 Similar to the "Choose Risk Drivers" process, the players will now help the
@@ -1499,10 +1508,16 @@ Have the players signalled that they want to be surprised by how the
 plot unfolds?
 Do the players need help getting their characters on the same page?
 The answers will help the GM decide whether to disclose the chosen hook.
+-->
 
 ### Begin
 
 After establishing all the details about the characters, it's time to begin.
+
+Shuffle the blessing cards and place them face down in a deck.
+Shuffle the wound cards and place them face down in a deck.
+Put a wound token next to the wound deck so you can tell the difference
+between the wound and blessing decks.
 
 There are many ways to start the narration, so check out the
 [examples](#show-dont-tell) to see some.
@@ -1514,6 +1529,11 @@ begins:
  * Where can I go?
  * Who else is here that I can interact with?
  * How do I start using my special move cards?
+
+Asking the players questions is a tool that's *always* available to the GM.
+Might establishing more details about the world spark some plot ideas?
+Go around the table and start asking the players for a detail about
+their character or their role in the world of the Touchstone List.
 
 One classic way is to start like some movies start, with an establishing
 shot that gives us a sense of setting. You could narrate a typical
@@ -2079,7 +2099,7 @@ Resurrection can have many forms.
 Resurrection can come at a high cost.
 
 
-# Using the *Bad Bank*
+# Using the *Challenge Bank*
 
 ## Fictional Disadvantages
 
@@ -2096,11 +2116,11 @@ Because of the set-up, it makes sense that this will be more difficult than
 if the character could clearly see the creature and the cave floor they're
 diving into.
 
- * You can use 2 points from the *Bad Bank* to create one level of disadvantage
+ * You can use 2 points from the *Challenge Bank* to create one level of disadvantage
 
 This level of disadvantage should now be applied *consistently* whenever any
 character attempts to avoid a swooping attack in a dark environment from a bat
-creature. No further expenditure from the Bad Bank is needed.
+creature. No further expenditure from the Challenge Bank is needed.
 
 Consistency prevents players from feeling the game is unfair or that you are
 especially aiming negative consequences at one player.
@@ -2118,10 +2138,10 @@ especially aiming negative consequences at one player.
 `TODO`
 
  * When a player uses the Bravely Run Away move, you can spend 1 point
-   from the Bad Bank to land them in a situation where they are again in
+   from the Challenge Bank to land them in a situation where they are again in
    immediate danger
  * When the characters are investigating a set piece or entering a new
-   area, spend 1 point from the *Bad Bank* to make it trapped in such a
+   area, spend 1 point from the *Challenge Bank* to make it trapped in such a
    way that it causes instant danger or damage
 
 
@@ -2187,20 +2207,20 @@ by the heroes.
 ### Monsters can be fought
 
 For every monster the characters interact with, spend 1 point from
-the *Bad Bank*.
+the *Challenge Bank*.
 
 Monsters have 1-20 stamina points and 1-3 wound squares
 
- * Spend 1 Bad Bank point if 11-15 stamina
- * Spend 2 Bad Bank points if 16-20 stamina
- * Spend 1 Bad Bank point for every wound square
+ * Spend 1 Challenge Bank point if 11-15 stamina
+ * Spend 2 Challenge Bank points if 16-20 stamina
+ * Spend 1 Challenge Bank point for every wound square
 
 Monsters have special attacks
 
 Monsters have one or two *special moves*.
 
  * The special attacks should be telegraphed somehow
- * 1 Bad Bank point per special attack
+ * 1 Challenge Bank point per special attack
 
 ### Making monsters
 
@@ -2375,7 +2395,7 @@ Represent "armour" (or just tough hide) by drawing boxes next to the foe's
 Stamina points on the GM worksheet.
 
 You can also augment foes by
-[spending points from the *Bad Bank*](#using-the-bad-bank).
+[spending points from the *Challenge Bank*](#using-the-challenge-bank).
 
 ### Give hints
 
