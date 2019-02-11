@@ -102,8 +102,9 @@ This guide will teach you how to do those things.
 
 ### Character creation - Fitting the fiction
 
-1kFA is a game about **building** your character up from
-a **scrappy adventurer** to a force to be reckoned with.
+1kFA is a game about **building** up a character, who starts as
+a **scrappy adventurer** and grows to become someone who can make
+the most meaningful change in the world.
 
 During character creation, you will get to determine all aspects of
 your character's history, social and economic circumstances, and personality.
@@ -112,7 +113,7 @@ all the *mechanical* aspects of the character though.
 
 Mechanically, characters start out just a little bit more powerful than a
 common villager.
-They've got an edge over regular folk, (their Stamina points and special moves)
+They've got an edge over regular folk, (with special moves and 10 Stamina points)
 but the game puts them on nearly even footing in a fight.
 You can invent any backstory you like, but you may need to answer questions
 about how the backstory fits the character's game limitations.
@@ -658,6 +659,29 @@ is strapped.
 
 # Notes on Moves
 
+## Pack - Precious and regular
+
+Throughout the game, your character will gain, lose, and spend equipment
+and supplies that are worth tracking. These items don't need to be specified
+until they actually get used. Instead they are tracked with anonymous Pack
+cards.
+
+`TODO: illustration of Pack and Precious Pack cards`
+
+Red cards represent "regular" Pack and green cards represent "precious" Pack.
+Precious Pack is something that is found precious by *someone*. It may be
+something made of a rare metal like gold, or it may be simply a full
+waterskin offered to a parched NPC in the desert.
+
+If the specifics of a Pack card get concretely established in the fiction,
+and the card is not immediately spent, the Pack card should be returned to
+the supply and a blank card should be taken to replace it, with the name
+or details of the item written on it.
+
+Your character starts off with 2 Pack cards, enabling the move Good Thing
+I Brought...
+
+
 ## Good Thing I Brought...
 
 ![Good Thing I Brought card](images/move_good_thing_i_brought.png){ width=2.5inch }
@@ -1025,7 +1049,7 @@ receive either:
 The GM should decide if the armour incurs any additional costs when
 calculating encumbrance penalties.
 Better armour tends to be heavier and impedes graceful movement.
-Any increased encumberance penalty should be written on the card.
+Any increased encumbrance penalty should be written on the card.
 
 The GM and player should agree on a descriptive name for the armour like
 "Padded" or "Chainmail" or "Full plate" and write that at the top of a card.
@@ -1242,16 +1266,12 @@ From left to right, these icons are called:
 
  * ![2 red symbol](images/move_level_2_red.png){ width=0.5inch } wild or "2 red"
  * ![1 red symbol](images/move_level_1_red.png){ width=0.5inch } novice or "1 red"
- * ![base level](images/move_level_base_level.png){ width=0.5inch } "base level"
+ * ![base level](images/move_level_base_level.png){ width=0.5inch } "studied" or "base level"
  * ![1 green symbol](images/move_level_1_green.png){ width=0.5inch } expert or "1 green"
  * ![2 green symbol](images/move_level_2_green.png){ width=0.5inch } master or "2 green"
 
 If you chose Pick Pockets during character creation, you would receive
 the card and your character would be "studied" in the skill.
-The word "STUDY" is over "base level", so that's the level you would
-start at.
-
-Note: some moves, like Void Transfusion, don't start you off at the base level.
 
 ## Increased Move Levels
 
@@ -1489,7 +1509,7 @@ When a player first declares that they are going to Bravely Run Away
    the "rabbit"
  * Best 3 of 5 rounds
  * Rabbit flips solo
-   * Add the rabbit's Str + Dex, then subtract their encumberance penalty (the
+   * Add the rabbit's Str + Dex, then subtract their encumbrance penalty (the
      count of all their Item and Pack cards)
    * Find their flip rank on the table below
  * For the rounds 2 through 5, the rabbit flips, but can be helped by any of
@@ -1515,65 +1535,6 @@ When a player first declares that they are going to Bravely Run Away
 | (Str + Dex) - Enc  | < 0                    |   0                      |   1    |   2    |   3    |   4     |   5         |
 | ------------------ | ---------------------- | ------------------------ | ------ | ------ | ------ | ------- | ----------- |
 | Flip:              | Anvils 2x disadvantage | Anvils with disadvantage | Anvils | Blades | Crowns | Dragons | Dragons with advantage |
-
-
-# 30-hour Campaigns: Level cards and green rings
-
-If you are playing the One-Shot Campaign or 9-hour Campaign, you can skip
-this section.
-
-## Green rings / REQUIRES
-
-![requirements](images/move_requirements.png){ width=2.5inch }
-
-<!-- Summary -->
-When you Study Under a Master, the cards available to choose from are limited
-by the REQUIRES tag. If you cannot arrange your move cards to form the number
-of rings shown in the REQUIRES tag, you cannot choose that move.
-<!-- /Summary -->
-
-Some moves have requirements. These are illustrated as green rings,
-sometimes with a letter inside -- *R*, *F*, or *W*. Requirements are
-sometimes separated by a slash, **/**, which means "or".
-
-For example, using the Study Under a Master move can gain you the card
-Fundamental Magic only if you have two green rings or one *W* ring.
-
-What, then, are these rings?
-
-Take a look through the move cards and see that there are partial rings
-printed on them - either in the corners or on the sides.
-
-When you can arrange your own move cards together in such a way that a
-ring is completed, you "have" a ring. If your cards can arrange to
-show 2 rings, then you "have" 2 rings.
-
-![ring arrangements](images/ring_arrangements.png){ width=2.5inch }
-
-If your card arrangement had the cards Pick Pockets and Not On My Turf
-next to each other, you could complete an *R* ring. If you had
-the Scent of Blood card instead of the Not On My Turf card, you could
-arrange it next to Pick Pockets to complete a ring, but it would not
-be an *R* ring or an *F* ring, it would be considered a solid green ring.
-
-You do not have to keep your cards in this arrangement while you play.
-
-
-## Level cards
-
-At the beginning of each session, players should arrange their move cards
-to count how many green rings they have. Usually, players will not have
-any green rings at the beginning of session 2 -- session 3 tends to be
-the first session where this rule matters.
-
-![level cards](images/component_card_level.png){ width=2.5inch }
-
-Once per session, if you have more green rings than *level cards*, you
-can choose one new level card.
-
-Like move cards, level cards may also have requirements. Some require that you
-have a certain amount of green rings to access them.
-
 
 
 # Player vs Player
@@ -1635,6 +1596,65 @@ XP cards do not generate XP, Critical Success cards cannot
 be used to go up levels, and the *defender* gets to say what the result was.
 
 
+# 30-hour Campaigns: Level cards and green rings
+
+If you are playing the One-Shot Campaign or 9-hour Campaign, you can skip
+this section.
+
+## Green rings / REQUIRES
+
+![requirements](images/move_requirements.png){ width=2.5inch }
+
+<!-- Summary -->
+When you Study Under a Master, the cards available to choose from are limited
+by the REQUIRES tag. If you cannot arrange your move cards to form the number
+of rings shown in the REQUIRES tag, you cannot choose that move.
+<!-- /Summary -->
+
+Some moves have requirements. These are illustrated as green rings,
+sometimes with a letter inside -- *R*, *F*, or *W*. Requirements are
+sometimes separated by a slash, **/**, which means "or".
+
+For example, using the Study Under a Master move can gain you the card
+Fundamental Magic only if you have two green rings or one *W* ring.
+
+What, then, are these rings?
+
+Take a look through the move cards and see that there are partial rings
+printed on them - either in the corners or on the sides.
+
+When you can arrange your own move cards together in such a way that a
+ring is completed, you "have" a ring. If your cards can arrange to
+show 2 rings, then you "have" 2 rings.
+
+![ring arrangements](images/ring_arrangements.png){ width=2.5inch }
+
+If your card arrangement had the cards Pick Pockets and Not On My Turf
+next to each other, you could complete an *R* ring. If you had
+the Scent of Blood card instead of the Not On My Turf card, you could
+arrange it next to Pick Pockets to complete a ring, but it would not
+be an *R* ring or an *F* ring, it would be considered a solid green ring.
+
+You do not have to keep your cards in this arrangement while you play.
+
+
+## Level cards
+
+At the beginning of each session, players should arrange their move cards
+to count how many green rings they have. Usually, players will not have
+any green rings at the beginning of session 2 -- session 3 tends to be
+the first session where this rule matters.
+
+![level cards](images/component_card_level.png){ width=2.5inch }
+
+Once per session, if you have more green rings than *level cards*, you
+can choose one new level card.
+
+Like move cards, level cards may also have requirements. Some require that you
+have a certain amount of green rings to access them.
+
+
+
 ----
 
 # Appendicies
@@ -1664,14 +1684,20 @@ be used to go up levels, and the *defender* gets to say what the result was.
  * More Power
    * Permanently changing the kind of dice that are rolled when certain Item
      cards are used
+ * NPC
+   * Non-Player Character (a character controlled by the GM)
  * PC
-   * Player Character (a character controlled by a player other than the GM)
+   * Player Character (a character controlled by a non-GM player)
  * ranged (or "at range")
    * When the details of the fiction put two combatants far enough apart that
      their handheld weapons could not connect
  * session
-   * The contiguous period of time that you're sitting at the table, playing
-     the game
+   * The contiguous period of time that you're at the table, playing the game
+ * the supply
+   * The area on the table where all the cards and tokens are kept
  * XP
    * "experience point" or "experience points"
 
+# Components
+
+`TODO illustration of all components and their names`
