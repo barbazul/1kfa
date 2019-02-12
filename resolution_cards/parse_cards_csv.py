@@ -117,6 +117,7 @@ def parse_desc(d2):
     if bulleted:
         bulleted = ['\n' + u'✷' + x.strip() for x in bulleted]
     desc_detail = preamble + ''.join(bulleted)
+    desc_detail = desc_detail.replace('STAR', u'✷')
 
     desc_detail = parse_text(desc_detail)
     d2['desc_detail'] = desc_detail
