@@ -824,6 +824,32 @@ The details of the Session Opener are described in
 [the GM Guide](mod_guide_gm.md).
 
 
+# Notes on Moves
+
+### Bravely Run Away
+
+![Bravely Run Away card](images/move_bravely_run_away.png){ width=2.5inch }
+
+When players find themselves on the losing side of a battle, or want to
+avoid a daunting threat, they may choose to run away. If their characters
+are positioned in a way that their escape is possible, according to the
+established fiction, the GM will allow them to escape, but there is a cost.
+The players temporarily lose narrative control and the GM gets to say
+where the players' characters end up.
+
+There may also be a Stamina cost (or Stamina gain) depending on how weighed
+down the characters were by their equipment.
+
+The GM can resolve this move by:
+
+ * putting the characters somewhere completely safe
+ * putting the characters in a place where some (new or old) danger exists,
+   but is, for the moment, not directly threatening the characters
+ * spending a point from the *Challenge Bank* and starting the Pursuit Mini-game
+ * spending a point from the *Challenge Bank* and putting the characters in
+   a place where they must directly confront or defy a new danger
+
+
 # Notes on Moves - Healing
 
 Throughout 1kFA, players are asked to decide how their
@@ -936,8 +962,8 @@ player to outright say what they want to go shopping for.
 The GM should be honest with the narrative, stay true to their goals and
 try to provide the kind of fun the player has signaled they want to have.
 
-The GM shall not hand a player a card with mechanical requirements the
-player's character doesn't meet.
+The GM shall not present a player a card the character is unable to
+use.
 
 ### Mundane Items: Armor, weapons, etc
 
@@ -959,37 +985,36 @@ Weapons cards describe what the character has armed themself with. These
 cards might describe "weaponry" rather than a single item, as the Many
 Knives card demonstrates.
 
-Weapons have a "power level": d4, d6, or d10. This determines what die to
-roll when you roll attack power. Higher power weapons should not be given
-out lightly. Generally players should seek weapon power increases from the
-Craft a Weapon and _ Mastery moves.
+Weapons have "power": d4, d6, or d10. This determines what die to
+roll when you roll attack power. Generally players can increase
+weapon power with the Tales of a Weapon and _ Mastery moves.
 
 The GM should decide if the weaponry incurs any additional costs when
 calculating encumbrance penalties. Is the item particularly heavy or large?
 
-Here are the weapons available to characters during character creation:
+Here are the defaul weapons available to characters:
 
-Name             | S/W/P token requirement | notes
------------------|-------------------------|--------------
-_ Sword          | 1                       |
-Many Knives      | 1                       | At close range, can be thrown
-_ Bow            | 1                       | Long range
+Name             |  notes
+-----------------|--------------
+_ Sword          |
+Many Knives      | At close range, can be thrown. Maximum power is d6
+_ Bow            | Long range, not usable at melee range
 
 
 #### Armour
 
 When an armour-clad character would normally take Harm or a Wound, the
-player may put the Harm or Would token into an appropriate empty slot on
+player may put the Harm or Wound token into an appropriate empty slot on
 their Armour card.
 
+`TODO illustration of Harm / Wound slots`
+
 The armour available to characters during character creation is the weakest
-kind. This kind of armour has 1 slot that can absorb Harm or a Wound.
+kind. This kind of armour has 1 slot that can absorb a Harm or a Wound.
 
 When a character goes shopping, goes a-thieving, discovers treasure, or loots
 a battlefield, the GM may offer new, more useful armour with more slots drawn
 on it.
-
-`TODO illustration of Harm / Wound slots`
 
 The GM should draw up to 3 slots on the card. A slot shall be designated to
 receive either:
@@ -1008,22 +1033,22 @@ The GM may use the name to create implications in the narrative -- it's hard
 to sneak or swim in full plate armour.
 
 If a GM writes narrative circumstances that cause a disadvantage on the
-armour card when it is created, no points need to be spent from *Challenge Bank*
-to create the disadvantage later.
+armour card when it is created, no points need to be spent from the
+*Challenge Bank* to create the disadvantage later.
 
 Here are some example armours:
 
-Suggested Name   | token requirement | slots
------------------|-------------------|----------------------
-Leather Armour   | 1                 | 1 Harm/Wound
-Padded Armour    | 2                 | 2 Harm, 1 Harm/Wound
-Full Plate       | 3                 | 3 Harm/Wound
+Suggested Name   | slots                | encumbrance modifier
+-----------------|----------------------|----------------------
+Leather Armour   | 1 Harm/Wound         |
+Padded Armour    | 2 Harm, 1 Harm/Wound | counts as 2 items
+Full Plate       | 3 Harm/Wound         | counts as 4 items
 
 
 #### Shields
 
-Shields are a way to avoid Harm and Wound tokens, but they test your
-Dex in order to succeed. See the Bracers card for an example.
+Shields provide a way to avoid Harm and Wound tokens, but they test a
+character's Dex to do so.
 
 To make a Shield card, first the GM chooses the ✔✔✔, ✔✔, and ✅︎ effects by
 choosing 3 sequential effects from this list:
@@ -1043,8 +1068,9 @@ using the same rules as the Armour name-creation above.
 
 The fictional description of the "shield" has mechanical consequences. For
 example, the edge of steel shield could reasonably be used to attack a foe,
-so Mix It Up would do 1d4 attack power. But a character with only leather
-bracers their wrists would be "unarmed", doing just 1d2 attack power.
+so the character would have 1d4 attack power with Mix It Up. But a character
+with no weapon and only leather bracers on their wrists, the character would
+be "unarmed", doing just 1 attack power.
 
 Blocking damage with a shield should be considered an *IMMEDIATE* move, and
 the GM should try to keep to the guideline of not allowing players to make
@@ -1089,14 +1115,36 @@ attempt them.
 
 That said, using magic invokes some of the more complicated rules of
 1kFA. Players are challenged with managing and balancing
-charges, capacity, stamina, requirements and narrative effect. This kind
+charges, capacity, stamina, requirements, and narrative effect. This kind
 of play is ideal for players excited by complexity and the potential
 of explorable branches.
 
+#### The ONGOING tag
+
+When a character executes Use a Magic Item, they are considered to be
+"flowing magical energy" into the item. Then the magical effects happen.
+
+Some magic effects happen immediately.
+
+Some magic effects persist even after you have finished flowing magical
+energy into the item. (eg, `_` of Light, Reaching `_`)
+
+Some magical effects persist only if you continue to flow magical energy
+into the item. It is up to the player to declare when their character
+ceases the flow of magical energy.
+If the flow of magical energy continues, they are not considered *idle*
+for the purposes of the Rest and Seek Help moves.
+
+
 #### Charges and Capacity
 
-By default magic items have capacity for 3 charges. When a charge is used
-from a magic item, place a red card on it, white-side-up.
+By default, magic items have capacity for 3 charges.
+An item is considered "depleted" when all its charges are used.
+The term used for a card's maximum number of charges is "capacity"
+or "charge capacity".
+
+When a magic item loses a charge, take a red card from the supply and
+place it white-side-up on top of the magic item card.
 
 Sometimes charges are lost *permanently*. This means it loses a charge and
 its capacity for charges decreases by 1. When this happens, place a red
@@ -1108,21 +1156,6 @@ aren't any black-side red cards on it, write down its new capacity on the
 card.
 
 Magic items cannot be damaged.
-
-#### The ONGOING tag
-
-When you Use a Magic Item, you are "flowing magical energy" into it. Then
-the magical effects happen.
-
-Some magic effects happen immediately.
-
-Some magic effects persist even after you have finished flowing magical
-energy into the item. (eg, `_` of Light, Reaching `_`)
-
-Some magical effects persist only if you continue to flow magical energy
-into the item. These items are identified by the ONGOING tag. While you
-are flowing energy into such an item, you may not regain Stamina points
-while using the Rest or Seek Help moves.
 
 
 ## Use a Magic Item
@@ -1139,25 +1172,12 @@ with moves like Entreat the Blood-Bound and Channel the Living Light.
 Following that, results of ✅︎ and ✔✔ cause a further cost to be incurred,
 as chosen from the list by the GM or the player, respectively.
 
-**Note:** if the magic item being used is a magical weapon created via
-Tool Twisting, another choice is available: "the weapon is damaged"
+**Note:** if the magic item being used is a magical weapon,
+another choice is available: "the weapon is damaged".
 
-An item has 3 charges by default, and is considered "depleted" when they
-are all used. The term used for this maximum number of charges is
-"capacity" or "charge capacity".
-
-When a magic item loses a charge, take a red card and place it white-side-up
-on top of the magic item card.
-
-When a magic item **permanently loses** a charge, take a red card and
-place it **black-side-up** on top of the magic item card.
-
-If the magic item has the *ONGOING* tag, magical energy continues
-to flow into the item. This has mechanical interactions with the Rest
-and Sever-Pulse Shield moves and might also have narrative consequences.
-
-When a player chooses this card during character creation or Study Under a
-Master, they also recieve 1 magic item of their choice.
+The RECEIVE CARDS tag: when a player chooses this card during character
+creation or Study Under a Master, they also recieve 1 magic item of their
+choice.
 
 
 ## Entreat the Blood-Bound
@@ -1184,6 +1204,28 @@ a great time for the GM to ask them: "Who or what is the Living Light?"
 
 When a player chooses this card during character creation or Study Under a
 Master, they also recieve the item Sigil of the Living Light.
+
+
+# Notes on Moves
+
+## Study Under a Master
+
+![SUaM card](images/move_study_under_a_master.png){ width=2.5inch }
+
+This is the move by which your character becomes a powerful force in
+the world.
+
+When your character is in a steading (a villiage, city, etc. -- any safe
+place where resources and commerce present themselves), you can spend 2 XP
+to either:
+
+ * Increase the level of a move you already have
+   (See [Move Levels](#move_levels)
+ * Take a new move card from the supply
+
+If you want to take a move card that another player already has or one that
+was scribbled over in a previous campaign, or just has been ruined by spilled
+beer, you can copy the text onto a new card.
 
 
 
@@ -1265,59 +1307,15 @@ If you choose to do so, take the move card and a red card. Place the red card
 on top of the move card, black-side-up.
 
 
-# Notes on Moves
-
-### Study Under a Master
-
-![SUaM card](images/move_study_under_a_master.png){ width=2.5inch }
-
-This is the move by which your character becomes a powerful force in
-the world.
-
-When your character is in a steading (a villiage, city, etc. -- any safe
-place where resources and commerce present themselves), you can spend 2 XP
-to either:
-
- * Increase the level of a move you already have
-   (See [Move Levels](#move_levels)
- * Take a new move card from the supply
-
-If you want to take a move card that another player already has or one that
-was scribbled over in a previous campaign, or just has been ruined by spilled
-beer, you can copy the text onto a new card.
-
-
-### Bravely Run Away
-
-![Bravely Run Away card](images/move_bravely_run_away.png){ width=2.5inch }
-
-When players find themselves on the losing side of a battle, or want to
-avoid a daunting threat, they may choose to run away. If their characters
-are positioned in a way that their escape is possible, according to the
-established fiction, the GM will allow them to escape, but there is a cost.
-The players temporarily lose narrative control and the GM gets to say
-where the players' characters end up.
-
-There may also be a Stamina cost (or Stamina gain) depending on how weighed
-down the characters were by their equipment.
-
-The GM can resolve this move by:
-
- * putting the characters somewhere completely safe
- * putting the characters in a place where some (new or old) danger exists,
-   but is, for the moment, not directly threatening the characters
- * spending a point from the *Challenge Bank* and starting the Pursuit Mini-game
- * spending a point from the *Challenge Bank* and putting the characters in
-   a place where they must directly confront or defy a new danger
-
-
 ---
 
 # SESSION 3 RULES
 
 ---
 
-### Sharpen and Stitch
+# Notes on Moves
+
+## Sharpen and Stitch
 
 ![Sharpen and Stitch card](images/move_sharpen__stitch.png){ width=2.5inch }
 
@@ -1333,9 +1331,10 @@ black-side-up.
 The third time an item is damaged, it is destroyed. Return it and the red
 cards to the supply.
 
-## More Power
 
-### Tales of a Weapon
+# Notes on Moves - More Power
+
+## Tales of a Weapon
 
 ![Tales of a Weapon card](images/move_tales_of_a_weapon.png){ width=2.5inch }
 
@@ -1344,7 +1343,7 @@ calculating an encumbrance penalty.
 Is the item particularly heavy or large? The GM should weigh that
 cost against the weapon's other features.
 
-### Weapon Mastery
+## Weapon Mastery
 
 ![Weapon Mastery card](images/move__mastery.png){ width=2.5inch }
 
@@ -1366,7 +1365,7 @@ Here are some examples:
  * "Blunt weapon" Mastery: only effective in open spaces
  * "Fist" Mastery: "close range" position must first be fictionally established
 
-### Magic Items
+## Obsessive Contemplation
 
  * _ of Unerring Dispatch
  * _ of Vitality
@@ -1649,9 +1648,16 @@ be used to go up levels, and the *defender* gets to say what the result was.
      die", etc.
  * attack power
    * the number representing how powerful an attack is
+ * charge capacity
+   * the maximum amount of charges a magic item card has
+ * depleted
+   * the state of a magic item without any remaining charges
  * halve
    * When you roll dice and *halve* the value, divide by 2 and then round up
      to the nearest whole number. 4 becomes 2, 3 becomes 2, 2 becomes 1, etc.
+ * idle
+   * A magic item is idle only if magical energy is no longer flowing
+     through it
  * melee
    * When the details of the fiction put two combatants close enough to each
      other such that their handheld weapons might connect
@@ -1668,3 +1674,4 @@ be used to go up levels, and the *defender* gets to say what the result was.
      the game
  * XP
    * "experience point" or "experience points"
+
