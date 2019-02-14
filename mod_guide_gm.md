@@ -179,7 +179,7 @@ Give each player a Deckahedron.
 > we'll discuss later.
 >
 > Notice the 4 different colored symbols on the edges.  They're named
-> Anchor (red), Bulb (yellow), Crescent (green), and Dart (blue).
+> Anvil (red), Blades (yellow), Crown (green), and Dragon (blue).
 > When you *trigger a move*, I'm going to instruct you to flip the top
 > card of your Deckahedron, and we'll see the result on the flipped-over
 > side. There are 4 possible results:
@@ -189,7 +189,7 @@ Give each player a Deckahedron.
 > * ✔  : this usually means something "ok", or not-so-good happens
 > * ✗ : this usually means that I get to say what happens and make my own move
 >
-> When I ask you to flip, I'm going to say something like "flip Anchors"
+> When I ask you to flip, I'm going to say something like "flip Anvils"
 > or "flip red" or "flip green". That means you find the result
 > on the edge that has that color or symbol.
 > 
@@ -225,8 +225,8 @@ Give each player a Move Booklet
 > decided, we would look at your character sheet to see what value that
 > attribute is.  Let's say they were diving to the ground to avod a spear
 > that was thrown at them. That's Dex. Let's say their Dex was rank 3, or
-> "Crescent". So that's the side of the card we're going to look at.
-> Flip your top card.  What result do you see on the "Crescent" side?
+> "Crown". So that's the side of the card we're going to look at.
+> Flip your top card.  What result do you see on the "Crown" side?
 
 ## Sarukkan's Chamber
 
@@ -263,9 +263,9 @@ character sheet.
 Next, instruct the players to fill out the attribute boxes on their
 character sheet like so:
 
- * Both characters have 1 Intelligence (Anchor)
- * The female protagonist has 3 Dexterity (Crescent) and 2 Strength (Bulb)
- * The male protagonist has 2 Dexterity (Bulb) and 3 Strength (Crescent)
+ * Both characters have 1 Intelligence (Anvil)
+ * The female protagonist has 3 Dexterity (Crown) and 2 Strength (Blades)
+ * The male protagonist has 2 Dexterity (Blades) and 3 Strength (Crown)
 
 ### Introduce Sarrukan's Chamber
 
@@ -1211,8 +1211,8 @@ additionally choose any C card that wasn't chosen in the draft.
 ![Point distributions](images/point_distributions.png){ width=7cm }
 
 Tell the players to choose how to distribute 6 points among the attributes.
-No attribute may have a rank of zero. They must all be at least Anchors,
-and there's no rank above Dart.
+No attribute may have a rank of zero. They must all be at least Anvils,
+and there's no rank above Dragon.
 
 Looking at which attributes get applied to their chosen move cards will
 help the players decide how to distribute these 6 points.
