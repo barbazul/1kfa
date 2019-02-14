@@ -243,7 +243,9 @@ def make_card_dom(card):
     filter_dom_elements(dom, card)
 
     if card.get('campaign'):
-        if card.get('campaign') == '9':
+        if card.get('campaign') == '3':
+            dom.replace_text('campaign_text', 'One-Shot Campaign')
+        elif card.get('campaign') == '9':
             dom.replace_text('campaign_text', '9hr / 30hr Campaign')
         else:
             dom.replace_text('campaign_text', '30hr Campaign')
@@ -400,3 +402,5 @@ if __name__ == '__main__':
 
     make_deck(filtered)
     make_documentation_images(filtered)
+
+    print('now cd /a/work/deckahedron_site; bin/copy_cards.sh; git add assets; git commit')
