@@ -408,8 +408,8 @@ clanging loud and hard against the foe's helmet.
 
 Or, your professor of alchemy character might trigger Defy Danger as they
 jump out of the way of a toppling bookcase. After you flip an ✗, the GM
-may start enumerating the damage your character must suffer, to which you
-could respond by invoking Unknown Benefactor to cancel the damage.
+may start enumerating the attack power your character must suffer, to which you
+could respond by invoking Unknown Benefactor to cancel the attack's effects.
 
 
 ## Flips only happen when the situation is uncertain or risky
@@ -963,9 +963,28 @@ Remove all Harm and Wound tokens from your armour cards.
 
 `TODO item damage diagram`
 
-Damage to items is represented as black-side red cards. When an item is
-damaged a third time -- when it already has 2 black-side red cards --
-it is instead destroyed. The card is returned to the supply.
+Damage to items is represented as black-side red cards.
+
+The "1-2-bust" mechanism is used to represent damage.
+
+The first two times an item is damaged, place a red card on the Item card,
+black-side-up.
+
+The third time an item is damaged, it is destroyed. Return it and the red
+cards to the supply.
+
+Non-magical items can be damaged in 1kFA. Usually this happens
+narratively as the result of a GM move, but it can also be caused by player
+moves, eg. Armour Mastery.
+
+
+## Sharpen and Stitch
+
+![Sharpen and Stitch card](images/move_sharpen__stitch.png){ width=2.5inch }
+
+Sharpen and Stitch is a way to repair damaged items by spending Pack cards.
+
+This move must be executed alongside the Rest move.
 
 
 ## Shop / Procure
@@ -1096,9 +1115,9 @@ so the character would have 1d4 attack power with Mix It Up. But a character
 with no weapon and only leather bracers on their wrists, the character would
 be "unarmed", doing just 1 attack power.
 
-Blocking damage with a shield should be considered an *IMMEDIATE* move, and
-the GM should try to keep to the guideline of not allowing players to make
-more than one move and one *IMMEDIATE* move per turn in the spotlight.
+Blocking attack power with a shield should be considered an *IMMEDIATE* move,
+and the GM should try to keep to the guideline of not allowing players to
+make more than one move and one *IMMEDIATE* move per turn in the spotlight.
 
 
 # Notes on Moves - Magic-related
@@ -1333,26 +1352,11 @@ on top of the move card, black-side-up.
 
 ---
 
-# Notes on Moves
-
-## Sharpen and Stitch
-
-![Sharpen and Stitch card](images/move_sharpen__stitch.png){ width=2.5inch }
-
-Non-magical items can be damaged in 1kFA. Usually this happens
-narratively as the result of a GM move, but it can also be caused by player
-moves, eg. Armour Mastery.
-
-The "1-2-bust" mechanism is used to represent damage.
-
-The first two times an item is damaged, place a red card on the Item card,
-black-side-up.
-
-The third time an item is damaged, it is destroyed. Return it and the red
-cards to the supply.
-
-
 # Notes on Moves - More Power
+
+After character creation, an armed PC will be rolling 1d4 for their attack
+power. This can be increased later on in the game via the moves Tales of a
+Weapon, Obsessive Contemplation, and _ Mastery.
 
 ## Tales of a Weapon
 
@@ -1383,12 +1387,7 @@ Here are some examples:
  * "Blades" Mastery: only applies to one-on-one combat
  * "Staff" Mastery: the GM can say staff breaks if max attack power is rolled
  * "Blunt weapon" Mastery: only effective in open spaces
- * "Fist" Mastery: "close range" position must first be fictionally established
-
-## Obsessive Contemplation
-
- * _ of Unerring Dispatch
- * _ of Vitality
+ * "Fist" Mastery: foes with long weapons can negate this Mastery
 
 
 ----
@@ -1660,6 +1659,28 @@ have a certain amount of green rings to access them.
 # Appendicies
 
 ----
+
+# Diceless Play
+
+Rolling dice is a fun, tactile experience, but not every table has
+the dice that 1kFA asks for.
+In that case, it is possible to play 1kFA without owning the physical
+dice.  Each Deckahedron card has symbols that can be used in their place.
+
+To roll a 1d4 or 1d6 with the Deckahedron, flip over a card from the top
+of your deck, and look for the d4 or d6 symbol on the face side, and count
+up the pips (the dots) inside the respective symbol.
+
+`TODO: illustration of d4 and d6 symbols`
+
+If the count of pips is zero, that card doesn't count.  Just re-flip and
+use the next card.
+
+To roll a 1d10, follow the same process, but add up all the pips of
+*both* the d4 and d6 symbols.  This does not produce results uniformly
+between 1 and 10, but instead produces results along a specially-designed
+"2-to-10 curve", which has been chosen to provide statistical results
+that create a pleasing and dramatic experience.
 
 # Glossary
 
