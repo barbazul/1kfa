@@ -17,7 +17,7 @@ You may find your doubts erased. And don't worry, 1kFA allows
 you to stretch beyond 30 hours if you really want that.
 
 1kFA is designed to tell a particular kind of story.
-It's called *The Hero's Journey* by people who study story structure.
+It's called *The Hero's Journey*.
 
 *The Hero's Journey* is a skeleton upon which many successful and popular
 movies and books are arranged: Star Wars, Lord of the Rings, The Breakfast
@@ -32,7 +32,7 @@ they return.
 
 As you and your players create the narrative, you will have opportunities to
 shape events. You decide how the world and the NPCs react to the actions of
-the players' characters, and you have the freedom to describe the "meanwhile"
+the PCs, and you have the freedom to describe the "meanwhile"
 -- all the goings-on "offscreen". Use these powers to pull the narrative into
 a multi-chapter structure, and in each chapter, try to earn points in the
 *Good Bank*.
