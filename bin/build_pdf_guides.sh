@@ -2,9 +2,12 @@
 
 # https://stackoverflow.com/questions/2013547/assigning-default-values-to-shell
 : "${DECKAHEDRON_SITE_LOC=/home/sjbrown/work/deckahedron_site/playtest_files}"
+: "${KFAREPO=/home/sjbrown/work/1kfa}"
 
 echo "DSITE"
 echo $DECKAHEDRON_SITE_LOC
+
+cd $KFAREPO
 
 cp ./markdown.css /tmp/markdown.css
 
@@ -43,11 +46,6 @@ pandoc --reference-odt=custom_pandoc_reference.odt mod_guide_player.md -o /tmp/g
 pandoc --reference-odt=custom_pandoc_reference.odt mod_guide_gm.md -o /tmp/guide_gm.odt
 pandoc --reference-odt=custom_pandoc_reference.odt mod_guide_campaigns.md -o /tmp/guide_campaigns.odt
 
-# Google Docs template
-pandoc --reference-odt=custom_pandoc_gdoc_reference.odt mod_guide_player.md -o /tmp/guide_player_gdoc.odt
-pandoc --reference-odt=custom_pandoc_gdoc_reference.odt mod_guide_gm.md -o /tmp/guide_gm_gdoc.odt
-pandoc --reference-odt=custom_pandoc_gdoc_reference.odt mod_guide_campaigns.md -o /tmp/guide_campaigns_gdoc.odt
-
 cd dist
 
 lowriter --headless --convert-to pdf /tmp/guide*.odt
@@ -60,3 +58,11 @@ cd /tmp/
 tar -cvf 1kfa_playtest.tar 1kfa_playtest/
 gzip 1kfa_playtest.tar
 mv 1kfa_playtest.tar.gz $DECKAHEDRON_SITE_LOC/1kfa_playtest.tgz
+
+
+cd $KFAREPO
+# Google Docs template
+pandoc --reference-odt=custom_pandoc_gdoc_reference.odt mod_guide_player.md -o /tmp/guide_player_gdoc.odt
+pandoc --reference-odt=custom_pandoc_gdoc_reference.odt mod_guide_gm.md -o /tmp/guide_gm_gdoc.odt
+pandoc --reference-odt=custom_pandoc_gdoc_reference.odt mod_guide_campaigns.md -o /tmp/guide_campaigns_gdoc.odt
+
