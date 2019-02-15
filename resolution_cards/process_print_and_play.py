@@ -35,7 +35,7 @@ def process_subdir(subdirname, raw_svg):
             raw_svg_copy = str(raw_svg)
 
         raw_svg_copy = raw_svg_copy.replace(
-            'cards_v' + VERSION +'/%d' % ((i%9)+1) + '.png',
+            'cards_vVERSION/%d' % ((i%9)+1) + '.png',
             dirpath + '/' + fname
         )
 
@@ -46,7 +46,7 @@ def process_subdir(subdirname, raw_svg):
 
     if (i % 9) != 8:
         # Remove all remaining links
-        raw_svg_copy = re.sub('xlink:href="cards_v' + VERSION + '/..png"', '', raw_svg_copy)
+        raw_svg_copy = re.sub('xlink:href="cards_vVERSION/..png"', '', raw_svg_copy)
         suffix = subdirname + '%02d' % counter
         write_pdf(suffix, raw_svg_copy)
 
@@ -58,8 +58,6 @@ if __name__ == '__main__':
 
     for name in os.listdir(SRCDIR):
         if not os.path.isdir(SRCDIR + '/' + name):
-            continue
-        if 'slot' in name:
             continue
         process_subdir(name, template)
 
