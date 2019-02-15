@@ -101,9 +101,6 @@ def change_flowroot_text(flowroot, newtext, style, ideal_num_chars):
                 'Str':   {'style': "font-family:OptimusPrinceps" },
                 'Int':   {'style': "font-family:OptimusPrinceps" },
                 'Dex':   {'style': "font-family:OptimusPrinceps" },
-                'SPEED':   {'fill': "#FF0000" },
-                'WEALTH':   {'style': "font-family:OptimusPrinceps" },
-                'EQUIP':   {'fill': "#FF0000" },
                 'PACK':   {'style': "font-family:OptimusPrinceps" },
                 'advantage':   {'fill': "#003a00" },
                 'Advantage':   {'fill': "#003a00" },
@@ -118,8 +115,10 @@ def change_flowroot_text(flowroot, newtext, style, ideal_num_chars):
     num_lines = i
 
     if ideal_num_chars and len(newtext) < (ideal_num_chars / 1.5):
+        # Make it bigger
         style.update({'font-size': '11px'})
     if ideal_num_chars and len(newtext) > (ideal_num_chars - num_lines*20):
+        # Make it smaller
         style.update({'font-size': '9px'})
 
     if style:
@@ -182,6 +181,7 @@ class DOM(object):
             if 'flowRoot' in elem.tag:
                 change_flowroot_text(elem, newtext, style, ideal_num_chars)
             elif 'text' in elem.tag:
+                print ' changing text', newtext
                 change_text_text(elem, newtext)
             else:
                 raise Exception('what the fuc')
