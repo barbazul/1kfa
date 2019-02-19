@@ -173,6 +173,8 @@ Distribute a character sheet to each player.
 
 Give each player a Deckahedron.
 
+(Print-and-play and mobile app versions are available at www.1kFA.com)
+
 > Here's a stack of 20 cards, it's called a Deckahedron.
 > You'll use this to see how successful your character is when moves are
 > triggered. It also represents your character's Stamina points, which
