@@ -1571,7 +1571,7 @@ When a scene breaks out in violence, you'll need to get your GM worksheet
 and write down a few stats for the party's foes.
 
 First, write down the names of each foe.
-Beside each name, write the foe's attack power die (d2, d4, d6, d10).
+Beside each name, write the foe's attack power (d4, d6, d10).
 Beside that, draw ticks for their Stamina points.
 
 ![GM Worksheet](images/gm_worksheet_filled.png){ width=7cm }
@@ -1583,15 +1583,15 @@ This table should help.
 
 |                   | Stamina points | Attack power
 |-------------------|----------------|-------------
-| Children          | 2              | 1d2
-| Civilians         | 4              | 1d2 - 1d4
-| Bouncers, Guards  | 5-6            | 1d2 - 1d4
+| Children          | 2              | 1
+| Civilians         | 4              | 1 - 1d4
+| Bouncers, Guards  | 5-6            | 1d4
 | Trained Soldiers, Elite Guards  | 7-10 | 1d4 - 1d6
 | Monsters          | 5-20           | 1d4 - 1d10
 | Villains          | 5-10           | 1d4 - 1d10
 
-Generally, human opponents will have d2 attack power when unarmed and d4
-attack power when armed. Save greater attack powers for monsters and special
+Generally, human opponents will have 1 attack power when unarmed and 1d4
+attack power when armed. Save greater attack power for monsters and special
 villains.
 
 Remember that antagonists' power can be exerted in more ways than just their
