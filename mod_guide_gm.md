@@ -977,7 +977,25 @@ when things to go sideways. You can always skip it or try again.
 
 # Begin a Campaign
 
-## Establish Touchstones
+## Universe Creation
+
+### 1. Create a GM sheet
+
+The GM needs a sheet of paper to make notes and track information.
+
+At the top of the sheet write the headings "Good Bank" and "Challenge Bank".
+Leave enough space to track the points under each of those headings.
+
+![GM Worksheet](images/gm_worksheet.png){ width=7cm }
+
+When a player flips and *resolves a move* with a ✅︎, mark a point in
+the *Challenge Bank*. When a move with the *IMMEDIATE* tag is resolved with
+a ✗, mark two points in the *Challenge Bank*.
+
+See the Campaign Guide for rules on when to mark points in the *Good Bank*.
+
+
+### 2. Establish Touchstones
 
 First, the table needs to get on the same page about the adventure's setting,
 themes, and tone. Give the players an overview of the steps in creating a
@@ -998,8 +1016,7 @@ Take out a new blank sheet of player.
 Note: if you want to use "adventure modules" from your library, this is the
 time to introduce and pitch them.
 
-
-### Step 1 - Brainstorm Titles
+#### Brainstorm Titles
 
 > The first step is for everyone to grab a pen or pencil and write a few titles
 > from pop culture on this piece of paper. Think of books, movies, games,
@@ -1016,7 +1033,7 @@ You may need to reiterate to the players that you're looking for *titles*.
 
 ![Touchstone List](images/touchstone_list_1.png){ width=7cm }
 
-### Step 2 - Narrow Titles
+#### Narrow it down
 
 Take a look through the titles for anything that may be in a setting that's
 not well-supported by the rules of 1kFA. If there is such a
@@ -1044,7 +1061,26 @@ finished.
 
 ![Touchstone List](images/touchstone_list_2.png){ width=7cm }
 
-### Step 3 - Set Expectations
+The "Touchstone List" may be consulted when the table needs to make a
+judgment about whether facts being proposed make sense in the shared universe
+you're creating. It can also be used to simply make calls on whether a
+character's attempt at something is uncertain (remember, the GM
+only calls for flips when the outcome is uncertain).
+
+You can ask the question "Did any character accomplish a similar feat
+in _ ?" (fill in the name of one of the titles in your Touchstone List).
+
+It's also something to consult for what's *not* special. If the titles on your
+list never talk about how their heroes acquire horses or boats, and instead
+just spontaneously present the characters on horseback or sailing at sea,
+then maybe your game should gloss over questions like "How did you get
+that horse?".
+
+The Touchstone List is also an early way that the players can signal
+to the GM the kind of fun they want to have.
+
+
+### 3. Set Expectations
 
 > This is our "Touchstone List": [read the circled titles]
 
@@ -1082,48 +1118,7 @@ It's not necessary for anyone to answer these questions, they are mostly to
 provoke the imagination. But if the table does start imagining out-loud, keep
 that discussion going for as long as it is productive.
 
-
-### Using The Touchstone List
-
-The "Touchstone List" may be consulted when the table needs to make a
-judgment about whether facts being proposed make sense in the shared universe
-you're creating. It can also be used to simply make calls on whether a
-character's attempt at something is uncertain (remember, the GM
-only calls for flips when the outcome is uncertain).
-
-You can ask the question "Did any character accomplish a similar feat
-in _ ?" (fill in the name of one of the titles in your Touchstone List).
-
-It's also something to consult for what's *not* special. If the titles on your
-list never talk about how their heroes acquire horses or boats, and instead
-just spontaneously present the characters on horseback or sailing at sea,
-then maybe your game should gloss over questions like "How did you get
-that horse?".
-
-The Touchstone List is also an early way that the players can signal
-to the GM the kind of fun they want to have.
-
-
-## Character Creation
-
-### Create a GM sheet
-
-The GM needs a sheet of paper to make notes and track information.
-
-At the top of the sheet write the headings "Good Bank" and "Challenge Bank".
-Leave enough space to track the points under each of those headings.
-
-![GM Worksheet](images/gm_worksheet.png){ width=7cm }
-
-When a player flips and *resolves a move* with a ✅︎, mark a point in
-the *Challenge Bank*. When a move with the *IMMEDIATE* tag is resolved with
-a ✗, mark two points in the *Challenge Bank*.
-
-See the Campaign Guide for rules on when to mark points in the *Good Bank*.
-
-
-### Set Expectations
-
+> Finally, who will *you* be in this world?
 > 1kFA is a game about a group of scrappy adventurers who
 > grow in power as we play the game.
 >
@@ -1132,7 +1127,9 @@ See the Campaign Guide for rules on when to mark points in the *Good Bank*.
 > become really powerful.
 
 
-### Choose cards
+## Character Creation
+
+### 4. Choose cards
 
 Gather the move cards, and separate them into piles:
 
@@ -1208,7 +1205,7 @@ After the draft is over, if someone doesn't have an A card, they may
 additionally choose any C card that wasn't chosen in the draft.
 
 
-### Choose Int / Str / Dex
+### 5. Choose Int / Str / Dex
 
 ![Point distributions](images/point_distributions.png){ width=7cm }
 
@@ -1237,7 +1234,7 @@ help the players decide how to distribute these 6 points.
 > you should probably just go with your gut.
 
 
-### Name your character
+### 6. Name your character
 
 When players have finished picking cards, ask them what their character
 is called.
@@ -1250,15 +1247,20 @@ bold and large so that you can read it. Using large print with a felt-tipped
 marker is recommended.
 
 
-### Add flesh
+### 7. Add flesh
 
 Starting with the first player to announce their character's name, ask the
-questions on this list, one-at-a-time, and make notes of the players' answers.
-Don't ask each question to each
-player, address a question to just one player, then move on, asking the
-next question to the next player. This exercise gets the players thinking
-about their characters, and gets the table talking, so it's ok for players
-to blurt out responses out of turn.
+questions on this list, one-at-a-time, and make notes of the players'
+answers. Don't ask each question to each player, address a question to just
+one player, then move on, asking the next question to the next player. This
+exercise gets the players thinking about their characters, and gets the table
+talking, so it's ok for players to blurt out responses out of turn.
+
+For each bulleted question, add a follow-up question of your own. How do the
+players' responses relate to the established Touchstone List? What further
+detail would you like to know?  Follow your curiosity. This will warm up
+your improvisational energy and spark ideas for the opening scene of your
+story.
 
 This conversation might also add details to the world, like
 what kinds of species and religions exist.
@@ -1292,25 +1294,25 @@ their character is a fire demon or a ten year old shoe-shine boy or a
 computer hacker, a conversation is needed to establish how that character
 can fit into the 1kFA rules.
 
-If a player's character reads as way too exotic, that might be the player
+If a player's character reads as too exotic, that might be the player
 signaling that the fun they want to have is playing a different game.
 
 
-### Choose Risk Drivers
+### 8. Choose Fateful Moments
 
 > Since 1kFA is a game about taking risks, I'm going
 > to give you an opportunity to get some bonuses when you get risky.
-> We're going to create what are called "Risk Driver" cards.
+> We're going to create what are called "Fateful Moment" cards.
 >
-> On your Risk Driver will be written some goal for your character to
+> On your Fateful Moment will be written some goal for your character to
 > achieve in the story. Then I'm going to put 2 experience points on the card.
 >
 > When your character *takes a big risk* to achieve this goal, you get
 > to take the 2 experience points.
 >
 > The player on your left is going to look at this list of goals then
-> present you with 2 goals.  You must choose 1 of them. That goal gets
-> written on your Risk Driver.
+> present you with 2 options. You must choose 1 of them. That goal gets
+> written on your Fateful Moment.
 
  * Expose an embarrassment
  * Locate a prize
@@ -1327,32 +1329,18 @@ signaling that the fun they want to have is playing a different game.
  * Get called out on your boasting
 
 Write the chosen phrase on a blank card and hand it to the player. Place
-two experience points on each player's Risk Driver card. When their character
+two experience points on each player's Fateful Moment card. When their character
 first *takes a big risk* by the method or for the reason written on their
 card, the player takes the tokens.
 
-Risk Drivers help players with less experience in role-playing games
+Fateful Moments help players with less experience in role-playing games
 decide what to do. If they are very useful at your table, you can do the
-risk driver procedure for players after they finish a period of downtime
+Fateful Moment procedure for players after they finish a period of downtime
 and head out again for adventure.
 
 
-### Alternative: Risk Takers
 
-If the players have all played 1kFA before, you can skip the Risk Driver
-cards and let the players describe their character's motivations in a more
-free-form manner.
-
-Ask this question to each player: What about your character's personality
-causes them to overreach?  What makes them take risks a normal person avoids?
-Are they brave, foolhardy, driven, greedy, curious, grieving? Caught between
-two worlds? Unsure of who they are? Do they have a deathwish?
-
-Write down the answers.
-
-
-
-### Choose Items and Weapons
+### 9. Choose Items and Weapons
 
 > Now lets give your characters some equipment.
 >
@@ -1453,7 +1441,7 @@ or the eggs of a cursed salamander -- things that can be tracked by writing
 them on a card or piece of paper.
 
 
-### The Hearth
+### 10. The Hearth
 
 This is a game where the players play together on the same team.
 
@@ -1489,7 +1477,7 @@ home in the middle of a bloody battle.
 <!--
 ### GM Prompt
 
-Similar to the "Choose Risk Drivers" process, the players will now help the
+Similar to the "Choose Fateful Moments" process, the players will now help the
 GM create the first (maybe the *primary*) plot hook in the story.
 
 The players collectively decide on two of the following plot hooks, and the
@@ -1995,11 +1983,11 @@ into conflicts. To get out of their literal comfort zone, they must have
 motivations.
 
 If the players at the table are not yet inventing their own motivations for
-their characters, Risk Driver cards can be assigned again.
+their characters, Fateful Moment cards can be assigned again.
 
-When the transition from downtime to adventure happens, choose risk drivers
+When the transition from downtime to adventure happens, choose Fateful Moments
 using the procedure [described above](#choosing_risk_drivers).
-(If they still had a risk driver, the new risk driver replaces the old)
+(If they still had a Fateful Moment, the new Fateful Moment replaces the old)
 
 
 # Using the Good Bank
