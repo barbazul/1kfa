@@ -62,10 +62,13 @@ and what they're seeking in their gaming experience.
 
  * The Hero's Journey - like the stories told in blockbuster movies, your
    friends will play protagonists who must face adversity to transform
-   themselves and their world.
+   themselves and their world
  * Paper not required - players only need to interact with cards and tokens
  * Play your favourite universe - use the setting of your favourite
    swords-and-magic universe from pop culture, 1kFA will support it!
+ * The "surprise moment" happens for all players simultaneously - at the
+   moment a card is flipped, the boldly printed result is immediately visible
+   to everyone at the table
  * Layered mechanisms - choices in 1kFA move game resources and probabilities
    around - there's depth for players to explore and skill to build
 
