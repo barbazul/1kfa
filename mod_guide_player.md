@@ -320,7 +320,7 @@ say how their character helps out.
 
 Another time the Teamwork Flip is triggered is when the characters are
 all bound together in success or failure. (eg, Defying Danger in a canoe
-travelling over whitewater) In that case, the GM asks the players "who
+traveling over whitewater) In that case, the GM asks the players "who
 is taking the lead?". That player is the spotlighted player, and the other
 players are supporting.
 
@@ -755,7 +755,7 @@ new card was an *XP card*, the player should take an XP from the supply only
 
 Players may find themselves in a situation where they forgot to do something
 when they had the chance, like use healing magic while they were resting,
-or leveling up a move before they left a steading, or getting some key
+or leveling up a move before they left a town, or getting some key
 information from an NPC before that NPC died.
 
 As long as the player and the GM both agree that the player had the necessary
@@ -895,11 +895,11 @@ players to learn how to take care of their characters.
 ![Rest card](images/move_rest.png){ width=2.5inch }
 
 *Resting* is an action that a character may take when they are out of combat,
-not travelling, and have several hours to devote to rest (sleeping qualifies).
+not traveling, and have several hours to devote to rest (sleeping qualifies).
 
  * Step 1: Return all *Exhaustion* tokens to the supply
  * Step 2: Count the *Harm* and *Wound* tokens on your *Exhaustion pile*
- * Step 3: Keep that many cards (player choses which ones) in your
+ * Step 3: Keep that many cards (player chooses which ones) in your
    *Exhaustion pile*, put the rest into your *discard pile*
  * Step 4: Return one *Harm* token to the supply
  * Step 5: Say who you blame for your injuries
@@ -930,7 +930,7 @@ themself.
 peaceful environment where external resources with healing powers are
 available.
 
-Eg, if they are in a primitive camp posessing medicine men or a
+Eg, if they are in a primitive camp possessing medicine men or a
 contemporary city with doctors and hospitals or a tranquil oasis infused
 with healing magic.
 
@@ -944,7 +944,7 @@ When you spend a day healing:
  * Step 2: Return all *Exhaustion* tokens to the supply
  * Step 3: Return all *Harm* tokens to the supply
  * Step 4: Count the *Wound* tokens on your *Exhaustion pile*
- * Step 5: Keep that many cards (player choses which ones) in your
+ * Step 5: Keep that many cards (player chooses which ones) in your
    *Exhaustion pile*, put the rest into your *discard pile*
  * Step 6: Return one *Wound* token and one *wound card* to the supply
  * Step 7: Say who you are closer to forgiving
@@ -994,7 +994,7 @@ This move must be executed alongside the Rest move.
 ![Shop / Procure card](images/move_shop__procure.png){ width=2.5inch }
 
 When the Shop / Procure move is used, the scene can be described as an
-everyday shopping trip or a theiving and bribery escapade, or anything
+everyday shopping trip or a thieving and bribery escapade, or anything
 else that makes sense in the narrative, so long as the mechanical
 outcome would be certain.
 
@@ -1037,7 +1037,7 @@ weapon power with the Tales of a Weapon and _ Mastery moves.
 The GM should decide if the weaponry incurs any additional costs when
 calculating encumbrance penalties. Is the item particularly heavy or large?
 
-Here are the defaul weapons available to characters:
+Here are the default weapons available to characters:
 
 Name             |  notes
 -----------------|--------------
@@ -1221,7 +1221,7 @@ as chosen from the list by the GM or the player, respectively.
 another choice is available: "the weapon is damaged".
 
 The RECEIVE CARDS tag: when a player chooses this card during character
-creation or Study Under a Master, they also recieve 1 magic item of their
+creation or Study Under a Master, they also receive 1 magic item of their
 choice.
 
 
@@ -1235,10 +1235,10 @@ Blood-Bound?"
 
     GM Note: this is a great way to stretch your improv muscles. Say "Yes,
     and..." no matter if they identify the Blood-Bound as tiny, parasitic
-    insects or as monstrous, extradimensional dark gods.
+    insects or as monstrous, extra-dimensional dark gods.
 
 When a player chooses this card during character creation or Study Under a
-Master, they also recieve the item Blade of Echoes.
+Master, they also receive the item Blade of Echoes.
 
 ## Channel the Living Light
 
@@ -1248,7 +1248,7 @@ If it has not yet been established, when a player first uses this move, it's
 a great time for the GM to ask them: "Who or what is the Living Light?"
 
 When a player chooses this card during character creation or Study Under a
-Master, they also recieve the item Sigil of the Living Light.
+Master, they also receive the item Sigil of the Living Light.
 
 
 # Notes on Moves
@@ -1260,7 +1260,7 @@ Master, they also recieve the item Sigil of the Living Light.
 This is the move by which your character becomes a powerful force in
 the world.
 
-When your character is in a steading (a villiage, city, etc. -- any safe
+When your character is in a town (a village, city, etc. -- any safe
 place where resources and commerce present themselves), you can spend 2 XP
 to either:
 
@@ -1490,7 +1490,7 @@ is *incapacitated* and can take no further actions.
     GM Note: The switch to Heroic Mode is a way for the players to make
     a choice that echoes Chapter 5 in the Hero's Journey. They themselves
     become heroes.
-    By transcending randomness and meet the challenges of resposibility,
+    By transcending randomness and meet the challenges of responsibility,
     capability, and commitment, the players will have new power to get
     the outcomes they desire.
 
@@ -1658,7 +1658,7 @@ have a certain amount of green rings to access them.
 
 ----
 
-# Appendicies
+# Appendices
 
 ----
 
@@ -1718,6 +1718,9 @@ that create a pleasing and dramatic experience.
    * The contiguous period of time that you're at the table, playing the game
  * the supply
    * The area on the table where all the cards and tokens are kept
+ * town
+   * Any place that offers food, shelter, exchange of goods, and the company
+     of others. It could be a primitive circle of huts or a sprawling city
  * XP
    * "experience point" or "experience points"
 
