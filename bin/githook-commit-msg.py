@@ -27,7 +27,6 @@ echo "PWD is $PWD"
 
 
 c = open(sys.argv[1]).read()
-print 'got a file of length', len(c)
 
 lines = [
     l for l in c.split('\n')
@@ -37,7 +36,7 @@ message = ' '.join(lines)
 print 'message was', message
 tweet = (
     'https://twitter.com/home?status='
-    + '%23ttrpg %23gamedesign New update to https://www.1kfa.com/table - '
+    + '%23ttrpg %23gamedesign New update to https://www.1kfa.com - '
     + message
 ).replace(' ', '+')
 
