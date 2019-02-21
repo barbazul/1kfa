@@ -125,7 +125,7 @@ in-character.
 Perhaps they have some interactions with NPCs familiar to them.
 Perhaps they describe their character moving through the environment and
 pointing out specific details.
-Perhaps the charcters get into conflict: social, or physical.
+Perhaps the characters get into conflict: social, or physical.
 
 As you are playing this out, you should be looking out for two things:
 
@@ -178,7 +178,7 @@ a "hook". Here are some things to think about to help you invent a hook:
    * How might the hunter become the hunted?
  * Rescue or Regain
    * Who or what was taken, and where does it rightfully belong?
-   * What power does the precious thing posess?
+   * What power does the precious thing posses?
  * Re-order, Rearrange, Fortify
    * What is unbalanced, and what effect does that have on the world?
    * Who is not doing their job?
@@ -190,7 +190,7 @@ a "hook". Here are some things to think about to help you invent a hook:
 ## Chapter 3: Take a thing and pay its (mortal?) price
 
 Give the players an opportunity to earn something *epic* for their characters.
-It can be a great treasure, it can be fame and reknown, it can be weaponry, a
+It can be a great treasure, it can be fame and renown, it can be weaponry, a
 magical boon, the elusive respect of an NPC, it can even be self confidence.
 It can be an appreciation for the power of friendship. (Pixar and Disney have
 some *incredibly* well-done Hero's Journey stories. Don't discount them
@@ -212,7 +212,7 @@ It could be at the end of a road of trials, or inside the cave where they
 must conquer their greatest fear, or in the clutches of their most powerful
 adversary.
 
-### Alot Challenge Bank Points
+### Allot Challenge Bank Points
 
 Whatever the fictional set-up, when you're ready, set up a challenge in
 the narrative, then draw a circle around **all** of the points currently in
@@ -256,7 +256,7 @@ something related to game mechanisms, you may remove one cost or condition
 for any move.
 
 So, for example, you may declare that the characters do not have to be
-"in a steading" to execute the Study Under a Master move.
+"in a town" to execute the Study Under a Master move.
 
 This relaxation of the rules only applies to Chapter 3, and should be
 narratively justified.
@@ -387,7 +387,7 @@ your Touchstone List and ask yourself some questions. What is the "juice" here?
 What spectacle, what adventure might the players have been fantasizing about
 when they chose the titles you see on this list? Don't be shy about copying.
 
-### Alot Challenge Bank Points
+### Allot Challenge Bank Points
 
 To begin the **Search** chapter of the story, circle **half** of the points
 currently in your *Challenge Bank*.
@@ -487,7 +487,7 @@ through dragon's hide.
 
 This is the thing that will answer the **Need**.
 
-### Alot Challenge Bank Points
+### Allot Challenge Bank Points
 
 When you're ready, set up a challenge in the narrative, then draw a circle
 around **all** of the points currently in your *Challenge Bank*. To earn the current
@@ -572,7 +572,7 @@ or group activity that was identified at the beginning of the game.
 
 Describe how The Hearth which has been inaccessible, snuffed out, or hidden
 since the characters crossed the first threshold is now rekindled, reborn,
-reimagined or its inheritor is revealed. All the PCs now have a chance to
+re-imagined or its inheritor is revealed. All the PCs now have a chance to
 heal their wounds.
 
 For every wound healed, give yourself another point in the *Good Bank*.
