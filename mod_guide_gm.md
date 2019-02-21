@@ -160,7 +160,7 @@ Distribute a character sheet to each player.
 > This first session will need about 40 minutes of preparation, though.
 > Ten minutes has already gone by with this speech (it's almost over).
 >
-> Next, we're going to play Sarrukan's Chamber, a pre-made adventure for
+> Next, we're going to play Sarukkan's Chamber, a pre-made adventure for
 > you to get the hang of the rules. It will be short. I'll set a timer
 > for 10 minutes and end Sarukkan's Chamber when it goes off.
 >
@@ -228,7 +228,7 @@ Give each player a Move Booklet
 > top to bottom. First we would establish in the fiction how your character
 > is defying danger, are they using their Str, Dex, or Int? Once that's
 > decided, we would look at your character sheet to see what value that
-> attribute is.  Let's say they were diving to the ground to avod a spear
+> attribute is.  Let's say they were diving to the ground to avoid a spear
 > that was thrown at them. That's Dex. Let's say their Dex was rank 3, or
 > "Crown". So that's the side of the card we're going to look at.
 > Flip your top card.  What result do you see on the "Crown" side?
@@ -272,7 +272,7 @@ character sheet like so:
  * The female protagonist has 3 Dexterity (Crown) and 2 Strength (Blades)
  * The male protagonist has 2 Dexterity (Blades) and 3 Strength (Crown)
 
-### Introduce Sarrukan's Chamber
+### Introduce Sarukkan's Chamber
 
 Begin narrating the set-up.
 
@@ -292,7 +292,7 @@ Begin narrating the set-up.
 > What was Gwendolyn's role in the troupe?
 >
 > In the chaos, you remember one phrase uttered by the marauders,
-> "Deliver them to Sarrukan."
+> "Deliver them to Sarukkan's."
 >
 > You endured days of travel shackled in a box, Gwendolyn tried to
 > comfort you both by singing a song from her past,
@@ -334,7 +334,7 @@ Begin narrating the set-up.
 > breakfast food to paint the picture]
 > 
 > Following the trail of clues, you came to the locked gate to the yard
-> behind Sarrukan's estate. Sarrukan was a powerful player in _ 's (city name)
+> behind Sarukkan's estate. Sarukkan was a powerful player in _ 's (city name)
 > noble circles, but not much was known of him.
 > 
 > After jumping the wall, you didn't get much farther before you were
@@ -358,7 +358,7 @@ Begin narrating the set-up.
 > From different doors, you simultaneously enter an empty bedchamber.
 
 At this point, take out a blank sheet of paper and draw this
-incomplete map of Sarrukan's Chamber. Then drop a couple tokens
+incomplete map of Sarukkan's Chamber. Then drop a couple tokens
 representing the players' characters on the paper. If you don't have
 tokens, you can use coins or nuts or glass beads, anything handy.
 
@@ -441,7 +441,7 @@ to react to.
  * A trap-door under the bed - where does it lead?
 
 
-### Goals for Sarrukan's Chamber
+### Goals for Sarukkan's Chamber
 
 Ideally, Sarukkan's Chamber should demonstrate what kind of game
 1kFA is.
@@ -464,7 +464,7 @@ Ideally, Sarukkan's Chamber should demonstrate what kind of game
  * Potential to use stealth and social manipulation with guards and
    party guests
 
-Your group's playing of Sarrukan's Chamber doesn't have to *all of this*,
+Your group's playing of Sarukkan's Chamber doesn't have to *all of this*,
 just give players a taste.
 
 It should also help teach the rules of 1kFA.
@@ -524,12 +524,12 @@ the next layer of rules before jumping back into the action.
 
  * Any character still wearing their elaborate costume should get a card
    entitled "Costume". This is an item.
- * If the characters have aquired any significant items during their
+ * If the characters have acquired any significant items during their
    adventure so far, make a card for that.
  * The characters do not get any Pack cards, as they were just prisoners
 
 
-### Sarrukan's Chamber 3rd PC variant - The imprisoned guard
+### Sarukkan's Chamber 3rd PC variant - The imprisoned guard
 
 If you've got a 3rd player at the table, add a guard character.
 
@@ -720,7 +720,7 @@ might need some direction. It can be difficult to just make stuff up about
 a character that doesn't really exist moving around in a purely
 imagined world.
 
-Think about how this player has signalled what they've found fun. Do they
+Think about how this player has signaled what they've found fun. Do they
 seem to enjoy the fictional parts of the game, or the mechanical parts?
 
 If they're enjoying the fiction, ask them what would happen to this character
@@ -912,7 +912,7 @@ Present an opportunity that plays into one character's domain.
 
 It doesn't have to be a character that's in the current scene though.
 Sometimes a locked door stands between you and treasure and there's no
-lockpicking expert in sight. This is an invitation for invention, bargaining,
+lock-picking expert in sight. This is an invitation for invention, bargaining,
 and creativity.
 
 Traps, ambushes, and locked doors are great examples.
@@ -1405,7 +1405,7 @@ understand the difficulty and cost of attempting "Use A Magic Item"
 at the "wild" level.
 
 Any time there is a blank on a card, the player should fill it in, so
-that you and they know exactly what kind of item the character posesses.
+that you and they know exactly what kind of item the character possesses.
 
 
 `TODO: link to weapon and armor lists`
@@ -1497,7 +1497,7 @@ Look to [Hooks](mod_guide_campaign.md#hooks) for more details and
 inspiration on each one of these bullets.
 
 The GM does not have to tell the players which of the two was chosen.
-Have the players signalled that they want to be surprised by how the
+Have the players signaled that they want to be surprised by how the
 plot unfolds?
 Do the players need help getting their characters on the same page?
 The answers will help the GM decide whether to disclose the chosen hook.
@@ -1926,7 +1926,7 @@ let the players build up resources like experience points and loot.
 Downtime activities are less risky. In these activities, the costs and
 benefits are known upfront, like shopping, healing, and studying.
 When injuries and treasures have built up, the players will seek a
-steading to salve their hurts, exchange their loot for exciting new
+town to salve their hurts, exchange their loot for exciting new
 gear, and learn new skills.
 With that done, the players should be hungry to put their new skills
 and gear to use, and thus head out again for adventure.
@@ -1940,7 +1940,7 @@ happen naturally.
 
 ### Downtime
 
-If the characters are not in a steading, the moves available during
+If the characters are not in a town, the moves available during
 downtime are:
 
  * Rest
@@ -1949,7 +1949,7 @@ downtime are:
  * _ Mastery
  * Craft a Weapon
 
-In a steading, these moves are also available:
+In a town, these moves are also available:
 
  * Study Under a Master
  * Shop / Procure
@@ -2014,7 +2014,7 @@ it in the direction of success.
 As a GM, you will usually only have a few points in the *Good Bank*, so
 make sure it's worth it.
 
- * The GM can storytell to resolve the situation. Maybe the guards run away.
+ * The GM can story-tell to resolve the situation. Maybe the guards run away.
    Make sure your storytelling honest for the narrative and is fun for the
    player. It seems like this player has indicated their fun is in the fight.
  * The GM interprets this as a Mix It Up with Goreography added on
@@ -2073,7 +2073,7 @@ to act as often as each player does.
 ## A Second Day of Peace
 
 In order to give the players' characters a second day of peace and quiet
-in a steading, so that multiple time-consuming downtime actions can be
+in a town, so that multiple time-consuming downtime actions can be
 made in a row without any bad consequences happening in the narrative,
 a point from the *Good Bank* must be spent.
 
@@ -2170,7 +2170,7 @@ be motivated to solve it. Use human instinct and familiar artifacts.
  * an obvious symmetry is broken
  * pieces that should line up are askew
  * a pattern has an interruption
- * a narritive cliche is slightly off
+ * a narrative cliche is slightly off
 
 ### Ramp
 
@@ -2278,7 +2278,7 @@ of those concepts invokes fear.
 
 Any animal, but especially ones humans are instinctively afraid of
 
- * scorpions, spiders, mosquitos, wasps
+ * scorpions, spiders, mosquitoes, wasps
  * wolves, jackals, big cats
  * elephants, rhinos, hippos
  * birds, bats
@@ -2367,7 +2367,7 @@ constant, rejecting the change that a hero must accept to truly be a hero.
  * body language - smiling, how animated they get
  * when they take a long time to make one decision
    - usually a good sign, but also gauge others' reactions to delay
- * when they argue amongst each other - and the degree to which they argue
+ * when they argue among each other - and the degree to which they argue
    - this one is a tricky balance
  * the tone they take when acting out player dialogue
    - bored? excited?
@@ -2463,7 +2463,7 @@ See LICENSE.txt
 # FAQ
 
 > A player narrated a really cool use of their Air Sculpting Staff to
-> dyamically dance up magical stair steps and pounce down on an orc with their
+> dynamically dance up magical stair steps and pounce down on an orc with their
 > dagger. Will that just trigger a regular Mix It Up? If so, doesn't that
 > mean that their use of the Air Sculpting Staff is just wasted? I want to
 > connect their cool set-up with a rewarding outcome.
