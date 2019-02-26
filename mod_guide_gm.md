@@ -736,7 +736,8 @@ necessary steps to get what they want.
 
 In either case, you're nudging them towards making a decision to accomplish
 a goal. They might need to accept that getting what they want means taking
-a risk.
+a risk. The game is designed to reward more XP to riskier choices (triggering
+lower-level moves is more likely to generate XP than higher-level moves).
 
 Use this as an opportunity to take feedback as well. Have you made the
 situation *clear*? It's ok to have a conversation about the conversation.
