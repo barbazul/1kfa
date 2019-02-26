@@ -318,6 +318,7 @@ def card_filenames(card, i):
 
 def make_deck(cards):
     export_tall_png('tall_card_back2.svg', DIR + '/move_deck/back.png')
+    export_tall_png('tall_card_back2.svg', DIR + '/starter/back.png')
     export_tall_png('equipment_back1.svg', DIR + '/magic_deck/back.png')
     export_tall_png('equipment_back2.svg', DIR + '/mundane_deck/back.png')
 

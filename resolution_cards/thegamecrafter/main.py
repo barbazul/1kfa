@@ -17,6 +17,7 @@ def main():
     game = objects.Game(user, 'Game-%s' % now_str)
 
     game.make_poker_deck('/tmp/cards_v%s/move_deck' % VERSION)
+    game.make_poker_deck('/tmp/cards_v%s/starter' % VERSION)
     game.make_poker_deck('/tmp/cards_v%s/level_deck' % VERSION)
     game.make_poker_deck('/tmp/cards_v%s/mundane_deck' % VERSION)
     game.make_poker_deck('/tmp/cards_v%s/magic_deck' % VERSION)
