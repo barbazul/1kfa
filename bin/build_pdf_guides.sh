@@ -65,6 +65,8 @@ mv x_guide_campaigns.pdf guide_campaigns.pdf
 cp *pdf /tmp/1kfa_playtest/
 cp *pdf $DECKAHEDRON_SITE_LOC
 
+cp /tmp/print_and_play*pdf /tmp/1kfa_playtest/
+
 cd /tmp/
 #zip -r 1kfa_playtest 1kfa_playtest
 tar -cvf 1kfa_playtest.tar 1kfa_playtest/
