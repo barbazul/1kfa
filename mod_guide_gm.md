@@ -1506,7 +1506,7 @@ The answers will help the GM decide whether to disclose the chosen hook.
 
 ### Begin
 
-After establishing all the details about the characters, it's time to begin.
+Now that the table has established the initial details, it's time to begin.
 
 Shuffle the blessing cards and place them face down in a deck.
 Shuffle the wound cards and place them face down in a deck.
