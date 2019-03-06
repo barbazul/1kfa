@@ -9,7 +9,7 @@ echo $DECKAHEDRON_SITE_LOC
 
 cd $KFAREPO
 
-cp ./markdown.css /tmp/markdown.css
+cp publish/markdown.css /tmp/markdown.css
 
 rm -rf /tmp/1kfa_playtest
 mkdir /tmp/1kfa_playtest
@@ -20,6 +20,7 @@ mkdir /tmp/1kfa_playtest
 pandoc \
  -s \
  --self-contained \
+ --include-in-header=publish/tracking.html \
  --toc \
  -t html \
  --css=/tmp/markdown.css \
@@ -28,6 +29,7 @@ pandoc \
 pandoc \
  -s \
  --self-contained \
+ --include-in-header=publish/tracking.html \
  --toc \
  -t html \
  --css=/tmp/markdown.css \
@@ -36,6 +38,7 @@ pandoc \
 pandoc \
  -s \
  --self-contained \
+ --include-in-header=publish/tracking.html \
  --toc \
  -t html \
  --css=/tmp/markdown.css \
