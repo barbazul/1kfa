@@ -855,9 +855,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.67943627"
-     inkscape:cx="47.02106"
-     inkscape:cy="590.4629"
+     inkscape:zoom="0.96086799"
+     inkscape:cx="316.96251"
+     inkscape:cy="524.4751"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -1154,7 +1154,7 @@
            y="385.27594"
            x="675.16895"
            id="tspan52203"
-           sodipodi:role="line">Is the outcome risky</tspan><tspan
+           sodipodi:role="line">Is the action risky</tspan><tspan
            id="tspan7360"
            y="404.02594"
            x="675.16895"
@@ -1890,30 +1890,6 @@
        id="path18703-1-0"
        inkscape:connector-curvature="0" />
     <g
-       id="g29626"
-       transform="matrix(0.46570015,0,0,0.46570015,-100.71115,77.598547)"
-       style="display:inline">
-      <rect
-         style="display:inline;opacity:1;fill:#ffe680;fill-opacity:1;stroke:#000000;stroke-width:3.4120934;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect29628"
-         width="132.44844"
-         height="70.320984"
-         x="863.60406"
-         y="1252.3308"
-         transform="matrix(1,0,-0.3363364,0.94174191,0,0)" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text29630"
-         y="1218.0765"
-         x="497.25586"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           id="tspan29634"
-           y="1218.0765"
-           x="497.25586"
-           sodipodi:role="line">XP card</tspan></text>
-    </g>
-    <g
        id="g52209-4"
        transform="matrix(0.46570015,0,0,0.46570015,-234.27266,493.18197)"
        style="display:inline">
@@ -1923,8 +1899,7 @@
          width="132.44844"
          height="66.22422"
          x="717.37109"
-         y="458.77261"
-         ry="30" />
+         y="458.77261" />
       <text
          sodipodi:linespacing="125%"
          id="text52213-1"
@@ -2117,6 +2092,34 @@
            y="998.38123"
            x="86.096931"
            sodipodi:role="line">Anvils</tspan></text>
+    </g>
+    <g
+       id="g52411-3-3"
+       transform="matrix(0.46570015,0,0,0.46570015,-30.574935,41.010231)"
+       style="display:inline">
+      <rect
+         style="display:inline;opacity:1;fill:#ffe680;fill-opacity:1;stroke:#000000;stroke-width:2.70357966;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect52413-2-6"
+         width="79.400421"
+         height="79.400421"
+         x="1268.5461"
+         y="835.77417"
+         transform="matrix(0.79999026,0.60001298,-0.79999026,0.60001298,0,0)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text52415-0-7"
+         y="1306.2471"
+         x="346.32687"
+         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan17679-5"
+           y="1306.2471"
+           x="346.32687"
+           sodipodi:role="line">XP</tspan><tspan
+           y="1324.9971"
+           x="346.32687"
+           sodipodi:role="line"
+           id="tspan4826">card?</tspan></text>
     </g>
   </g>
 </svg>
