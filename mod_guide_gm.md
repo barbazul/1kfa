@@ -38,7 +38,8 @@ To make your job of teaching the rules easier, this guide has
 at the table.
 
 Before sitting down with your group of players, you should read all
-the rules. Your players will have questions, you will need to answer them.
+the rules. Your players will have questions, and will look to you you
+to answer them.
 
 
 ## Show, Don't Tell
@@ -55,15 +56,20 @@ of conveying just what 1kFA is and how it is played.
 
 # The Pitch
 
-What's the best way to pitch 1kFA to your friends? Well, you know them
-better than I do. I'm just a book. But here are some things that 1kFA does
-that make it special. Think about what your friends like and dislike
-and what they're seeking in their gaming experience.
+If you're reading this, then you likely want to play 1kFA with your friends,
+but there's lots of other games out there, so what can you say to bring
+your friends to the table around *this* game?
+
+Here are some things that make 1kFA special. You know your friends best, so,
+as you look at this list, think about what they like and dislike and what
+they seek from their gaming experience.
 
  * The Hero's Journey - like the stories told in blockbuster movies, your
    friends will play protagonists who must face adversity to transform
    themselves and their world
- * Paper not required - players only need to interact with cards and tokens
+ * Players interact with cards and tokens more than sheets of paper,
+   which gives a certain tactile pleasure and feels familiar to board game
+   players
  * Play your favourite universe - use the setting of your favourite
    swords-and-magic universe from pop culture, 1kFA will support it!
  * The "surprise moment" happens for all players simultaneously - at the
@@ -419,9 +425,9 @@ get back on track after a great joke: tell them what the situation is in
 concrete terms.
 
 Use detail and *senses* to draw them in. The situation isn't just an orc
-charging you, it's an orc painted in blood swinging a hammer and yelling
-bloody murder. You can leverage a lack of information, too. The sound of
-clattering armor and shuffling feet, for instance.
+charging you, it's an orc painted in blood swinging a hammer and screaming
+orcish battle prayers. You can leverage a lack of information, too. The
+sound of clattering armor and shuffling feet, for instance.
 
 The situation around the players is rarely "everything's great, nothing to
 worry about". They're adventurers going on adventures -- give them something
@@ -465,13 +471,15 @@ Ideally, Sarukkan's Chamber should demonstrate what kind of game
    party guests
 
 Your group's playing of Sarukkan's Chamber doesn't have to *all of this*,
-just give players a taste.
+the players will make choices that surprise you. If they surprise you with
+something unlikely or risky, be ready to declare that moves are triggered,
+but also be ready to say "Yes, and..." to their crazy ideas.
 
 It should also help teach the rules of 1kFA.
 
  * Work in an opportunity for each player to do a Deckahedron flip
  * If a player flips an XP card, that's an opportunity
-   to explain how they earn experience points
+   to explain how they earn XP
  * If a player flips the Critical Success card, that's an opportunity
    to explain the Critical Flip move
  * Ideally there will be a combat scene.
@@ -485,8 +493,6 @@ It should also help teach the rules of 1kFA.
    Chamber itself.
  * If any player-versus-player combat happens, remember to use the PvP
    combat rules
- * If a player's character faces an attack power roll of 3 or greater,
-   they will need to decide whether to take Harm
 
 It should also be a warm-up for your GM skills.
 
@@ -500,6 +506,7 @@ It should also be a warm-up for your GM skills.
    happening *off-camera*)
  * Play Sarukkan's Chamber *honestly*. Set the stakes the same as you would
    when you play a campaign
+ * Observe your players for signals about what kind of fun they enjoy
 
 After Sarukkan's Chamber, the players should now understand how the
 Deckahedron works with character attributes to produce results that affect
@@ -519,13 +526,15 @@ Sarukkan's Chamber is intended as a 10-15 minute tutorial, but if it seems like
 everyone wants more, you can keep it going.
 
 Ask the table if they want to keep going with this scenario. If not, just
-skip forward to the Touchstone List. But if they do want to continue, add in
-the next layer of rules before jumping back into the action.
+skip forward to [Begin a Campaign](#begin-a-campaign).
+
+But if they do want to continue, add in the next layer of rules before
+jumping back into the action:
 
  * Any character still wearing their elaborate costume should get a card
    entitled "Costume". This is an item.
  * If the characters have acquired any significant items during their
-   adventure so far, make a card for that.
+   adventure so far, also make a card for those.
  * The characters do not get any Pack cards, as they were just prisoners
 
 
@@ -577,9 +586,9 @@ surroundings, and maybe have a dialogue with each other, introduce the
 
 # Guidance
 
-Here are 6 gems to come back to whenever you don't know what to say next.
+Here are 6 mantras to come back to whenever you don't know what to say next.
 
- * Portray a fantastic world
+ * Portray the world of the Touchstone List
  * Fill the characters' lives with adventure
  * Move the spotlight
  * Ask the players
@@ -589,10 +598,14 @@ Here are 6 gems to come back to whenever you don't know what to say next.
 
 ## Portray the World of the Touchstone List
 
-Firstly, **portray the world of the Touchstone List**.
-1kFA is about characters who have decided to take up an
-adventure in the hopes of some fulfilling a strong need. It's your job
-to participate in that by showing the players a world in which their
+One of the first things your group will do when you begin a campaign is
+create a universe -- the fictional setting in which the PCs will be
+adventuring. This setting is expressed by something called the
+[Touchstone List](#establish-touchstones).
+
+1kFA is about characters who have decided to take up an adventure in the
+hopes of fulfilling a strong need. It's your job to participate in that
+by showing the players a mysterious and dangerous world in which their
 characters can find that adventure.
 Without the player characters in the world, calamity would ruin something
 precious.
@@ -643,7 +656,7 @@ their decisions?
 
 Never let a player's time in the spotlight be inconsequential. A player
 might wait 10 minutes for their friends' moves, so if their whole turn in the
-spotlight ends with "nothing happens" this game will be very unfun.
+spotlight ends with "nothing happens", that player's experience will suffer.
 Give them an opportunity for something. This doesn't mean they have to slay
 a demon on every turn, merely getting a big laugh can be "something".
 
@@ -679,9 +692,9 @@ them what their gods would have to say. If there's a halfling in the party,
 ask how hungry the current scene makes them.
 
 Try asking the players to describe outcomes. For example, if a player's
-character is in a fight with a goblin and the player rolls *attack power*
-of 10, the GM might ask the player to "Describe how your character kills
-the goblin". This gives the player license to get flowery and really see
+character is in a fight with a goblin and the player gets an amazing *attack
+power* roll of 10, the GM might ask the player, "Describe how your character
+kills the goblin". This gives the player license to get flowery and really see
 their character live up to the promise of being powerful in this fantasy
 world.
 
@@ -721,23 +734,24 @@ a character that doesn't really exist moving around in a purely
 imagined world.
 
 Think about how this player has signaled what they've found fun. Do they
-seem to enjoy the fictional parts of the game, or the mechanical parts?
+seem to enjoy the *fictional* parts of the game, or the *mechanical* parts?
 
 If they're enjoying the fiction, ask them what would happen to this character
 if this was a movie, or use the titles from the Touchstone List. Ask them if
 they're ok with their character being put in jeopardy, or if that makes them
-uncomfortable. Ask them what is the most immediate fictional goal their
-character would have.
+uncomfortable. Ask them what the character's *most immediate* motivation might
+be.
 
 If they're enjoying the mechanical game, ask them what resource they're
-after: experience points? wealth? item cards? move cards? Then ask what they
+after: XP? precious items? powerful weapons? move cards? Then ask what they
 think the shortest path is to get the thing they're after. Help them see the
 necessary steps to get what they want.
 
 In either case, you're nudging them towards making a decision to accomplish
 a goal. They might need to accept that getting what they want means taking
-a risk. The game is designed to reward more XP to riskier choices (triggering
-lower-level moves is more likely to generate XP than higher-level moves).
+a risk. In fact, the game is designed to reward more XP to riskier choices
+(triggering lower-level moves is more likely to generate XP than higher-level
+moves).
 
 Use this as an opportunity to take feedback as well. Have you made the
 situation *clear*? It's ok to have a conversation about the conversation.
@@ -752,7 +766,7 @@ doesn't need to jump in.
 
 But when your turn comes, here are the options available to shake things up:
 
- * Use a monster, danger, or location move
+ * Escalate the danger
  * Reveal an unwelcome truth
  * Show signs of an approaching threat
  * Deal damage
@@ -799,7 +813,7 @@ of an ✗:
 
  * You fail to get over in time and the guards start yelling and pulling at
    your boots
-   (Use a monster, danger, or location move)
+   (Escalate the danger)
  * You climb over, but as you do so, you overhear the guards in friendly
    conversation with someone that sounds a lot like the fence that hired you
    for this caper
@@ -833,6 +847,17 @@ not actors.
 Always be on the lookout for signals from the players for the kind of fun
 they want to have.
 
+### Escalate the Danger
+
+The fictional world is full of danger. Adventurers are constantly being
+surprised by what's around the next corner or the thing that has been
+stalking them from the shadows.
+
+Monsters have special attacks. Use these special attacks.
+
+The location itself can produce danger. Are the PCs on a sinking ship, or
+a crumbling tomb? Announce that the deck they're on floods, or that the
+passage that led them in is now blocked by tons of rubble.
 
 ### Reveal an unwelcome truth
 
@@ -867,7 +892,7 @@ move, something happens to use up some resource: weapons, armor, magical
 item charges, ongoing magical effects. You don’t always have to use it
 up permanently.
 
-A sword might be flung to the other side of the room, crossing
+A sword might be flung to the other side of the room. Walking across
 the shimmering barrier might end any ongoing magic effects, etc.
 
 An easy way to decide on what resource to use up is to look to the cards
@@ -878,12 +903,11 @@ in front of a player:
  * Place black-side red cards on magic items for permanent charge loss
  * Place black-side red cards on mundane items for damage
  * Take away Pack cards
- * Tell them to turn a card sideways because they dropped it
  * Take away item cards (careful with this one - use only when appropriate)
- * Take away marker tokens (ie, those created by Defend, Where It Hurts, etc.)
+ * Take away marker tokens (ie, those created by Where It Hurts, etc.)
 
-Note, **a GM cannot take experience points from a player**. Use of experience
-points should always be a player choice.
+Note, **a GM cannot take XP from a player**. Use of XP should always be
+a player choice.
 
 ### Turn Their Move Back On Them
 
@@ -1309,10 +1333,10 @@ signaling that the fun they want to have is playing a different game.
 > We're going to create what are called "Fateful Moment" cards.
 >
 > On your Fateful Moment will be written some goal for your character to
-> achieve in the story. Then I'm going to put 2 experience points on the card.
+> achieve in the story. Then I'm going to put 2 XP on the card.
 >
 > When your character *takes a big risk* to achieve this goal, you get
-> to take the 2 experience points.
+> to take the 2 XP.
 >
 > The player on your left is going to look at this list of goals then
 > present you with 2 options. You must choose 1 of them. That goal gets
@@ -1332,16 +1356,17 @@ signaling that the fun they want to have is playing a different game.
  * Believe an impossible claim
  * Get called out on your boasting
 
-Write the chosen phrase on a blank card and hand it to the player. Place
-two experience points on each player's Fateful Moment card. When their character
-first *takes a big risk* by the method or for the reason written on their
-card, the player takes the tokens.
+Write the chosen phrase on a blank card (now called a "Fateful Moment card")
+and hand it to the player.
+Place two XP on each player's Fateful Moment card.
+It's not theirs to spend yet, though.
+When their character first *takes a big risk* by the method or for the reason
+written on their card, the player takes the XP.
 
 Fateful Moments help players with less experience in role-playing games
 decide what to do. If they are very useful at your table, you can do the
 Fateful Moment procedure for players after they finish a period of downtime
 and head out again for adventure.
-
 
 
 ### 9. Choose Items and Weapons
@@ -1351,7 +1376,7 @@ and head out again for adventure.
 > We'll start with the mandatory stuff, first of all, everyone gets 2
 > Pack cards.  You can use these with the "Good Thing I Brought..." move.
 
-Give each player 2 Pack cards. Pack cards are just white-side red cards.
+Give each player 2 Pack cards. Pack cards are just white-side green cards.
 
 > Next, does anyone have a Move Card that has a "RECEIVE CARDS" tag on it?
 
@@ -1401,8 +1426,8 @@ Players don't have to choose only from weapons, armour and shields.
 After the cards due players with RECEIVE CARDS tagged cards are chosen,
 each player can choose at most 1 magic item card as one of their 2
 starting item cards. They can take one even if they didn't choose
-the "Use A Magic Item" move card, but if they so choose, make sure they
-understand the difficulty and cost of attempting "Use A Magic Item"
+the "Use A Magic Item" move card. But if they choose a magic item, make
+sure they understand the difficulty and cost of attempting "Use A Magic Item"
 at the "wild" level.
 
 Any time there is a blank on a card, the player should fill it in, so
@@ -1410,7 +1435,6 @@ that you and they know exactly what kind of item the character possesses.
 
 
 `TODO: link to weapon and armor lists`
-
 
 
 #### Aside: A feather can make you slower
@@ -1422,27 +1446,24 @@ How can wearing boots make it impossible to pick a pocket?
 
 The answer is: that's for them to decide.
 
-In 1kFA, there are two arenas: the fiction and the rules.
-Play flows between the two arenas. All the players create
-fiction, which triggers rules, then the rules produce mechanical results
-which the players are challenged to interpret into fiction. Sometimes that
-means the GM interprets an attack power roll, and sometimes it means that
-a player explains that though their ring looks small, it weighs more than
-anyone expects, or that the magical attunement of the boots sends a
+In 1kFA, play flows between the domain of the fiction and the domain of the
+rules.
+All the players create fiction, which triggers rules, then the rules produce
+mechanical results, which the players are challenged to interpret into fiction.
+Sometimes that means the GM interprets an attack power roll, and sometimes it
+means that a player explains that though their ring looks small, it weighs more
+than anyone expects, or that the magical attunement of the boots sends a
 chronic tingling sensation up the nerves of the wearer's legs.
 
 Players get to give items descriptive names and dream them into existence,
-but do not get to change the rule that each item carried factors into
-encumbrance penalties.
+but do not get to change the rule that the items gained during character
+creation incurs encumbrance penalties.
 
-Remember, the narrative of 1kFA is a collaboration, so the whole table can
-offer ideas justifying the names of the cards.
-
-This doesn't mean that every described fictional object reduces a
-character's speed.
+This doesn't mean that every fictional object introduced in the course of
+the game reduces a character's speed.
 After the adventure begins, the fiction may produce a letter from the king,
-or the eggs of a cursed salamander -- things that can be tracked by writing
-them on a card or piece of paper.
+or the eggs of a cursed salamander -- things that may not incur an encumbrance
+penalty.
 
 
 ### 10. The Hearth
@@ -1450,7 +1471,7 @@ them on a card or piece of paper.
 This is a game where the players play together on the same team.
 
 Before the game begins, establish for *every* PC, what makes them feel most
-at home, and how they characters already know each other.
+at home, and how the characters already know each other.
 
 Ask the group to choose by consensus one of these things that they all
 have in common, and ask them to describe why this common thing bonds them
@@ -1598,12 +1619,12 @@ Generally, human opponents will have 1 attack power when unarmed and 1d4
 attack power when armed. Save greater attack power for monsters and special
 villains.
 
-Remember that antagonists' power can be exerted in more ways than just their
+Remember that foes' power can be exerted in more ways than just their
 Stamina and attack power. Challenges may arise from the antagonist's superior
 knowledge of the environment, magical abilities, political connections,
 or other types of fictional positioning.
 
-As you spend more time playing 1kFA, you will find it faster and easier to
+As you spend more time playing, you will find it faster and easier to
 create these encounters and write up the stats in the GM Worksheet. If the
 players at your table are signaling that they enjoy the challenge of combat
 encounters and mastering the combat mechanisms embodied by their characters,
@@ -1619,7 +1640,44 @@ you please.
 
 ## Example combat encounters
 
-`TODO`
+### Easy - A pair of guards taken by surprise
+
+The PCs way is blocked by a pair of guards who are sleeping or distracted by a
+game of dice. They have 6 stamina points, and short swords (1d4 attack power).
+As long as the PCs don't bungle their approach, they will have an opportunity
+to attack first or attack from range.
+
+If the guards believe they have no hope of winning, they will flee or give up
+and beg for mercy.
+
+### Medium - A leiutenant and his soldiers
+
+The PCs turn a corner or open a door and stumble into a planning session
+presided over by a leiutenant and his subordinates (there are as many
+subordinates as there are PCs).
+They are the swords-first, questions-later types and attack immediately at
+close range. The 3 soldiers have 6 stamina points and do 1d4 attack power.
+The leiutenant has 8 stamina points and does 1d6 attack power.
+
+The leiutenant will never surrender, but if the rest of their allies are cut
+down, a single soldier left standing may lose his nerve and give up.
+
+### Hard - The swamp beast
+
+The PCs are surprised by a *thing* that springs up from the muck and launches
+a surprise attack.
+
+The beast is introduced when a player flips an ✗, so the GM makes the "Escalate
+the danger" move and additionally deals 1d4 damage to one of the PCs as the
+beast makes glancing contact with its fierce claws.
+
+This thing fights to the death and has 12 stamina points. It bites and slashes
+for 1d10 attack power.
+
+Special attack: the beast can disappear into the muddy terrain and later
+spring up behind the most vulnerable PC, as long as that PC is standing in
+the beast's territory.
+
 
 ## The feel of combat
 
@@ -1633,10 +1691,6 @@ your players giving you? Maybe they want to get through combat faster. If
 so, when you make your moves, you can think cinematically. Continually raise
 the stakes for both sides during the scene. Think dangerous. No character
 or set piece needs to be safe or sacred.
-
-## Melee or ranged?
-
-`TODO`
 
 ## The Combat Spotlight
 
@@ -1677,7 +1731,7 @@ This format makes the opponents more of a threat.
  * Describe how all of those opponents team up on one of the player's
    characters, and call for one Defy Danger flip.
    (move the "danger" spotlight fairly, but also try to put pressure on any
-   players with more than 3 unspent experience points)
+   players with more than 3 unspent XP)
  * Failing the Defy Danger flip results in the player's character suffering
    the opponents' attack. You can calculate attack power thusly:
       * ✗ : one attack power die from the lead attacker,
@@ -1707,13 +1761,12 @@ These combat format suggestions are just that - suggestions. Players often
 think up creative solutions or approaches that you won't have predicted
 beforehand, and that might break one of the above formats.
 The key is to be true to the established fiction. Also realize that you have
-power to introduce facts into the fiction. For instance, what kind of GM move
+power to introduce facts into the fiction. For instance, by the GM move
 you choose in response to player's failed flips.
 
 A GM's role is not to be the opponent of the players. You're not trying to
-make their characters *die*. On the contrary, you should be a big fan of the
-characters in the story being created. The best story is one where they
-struggle, but succeed.
+make their characters *die*. On the contrary, you should be a *fan* of the
+characters. The best story is one where they struggle, but succeed.
 
 
 ## Loot
@@ -1880,6 +1933,10 @@ Generally, the Session Opener can be used to help the players absorb more
 of the rules. As the game progresses, their characters will open up new
 ways to be more competent and have a stronger impact on the game world.
 
+This is often a time to open up the Player's Guide and look at one
+particular section. Give the players all the details of one small section
+and answer questions.
+
 Examples:
 
  * Gaining new moves
@@ -1910,7 +1967,7 @@ Video game soundtracks are great for this.
 ### Reward Yourselves
 
 If every player has had a chance to get satisfactory feedback it's time
-to dole out experience points. Give a new one to each player.
+to dole out XP. Give a new one to each player.
 
 
 ## The Core Game Loop
@@ -1922,7 +1979,7 @@ adventure and back again to downtime, repeating in a "loop".
 Adventure activities involve risk, exploration, and confrontation.
 Adventuring will incur costs on the characters in the form of injury,
 damage to items, and spent magical charges, but it will also
-let the players build up resources like experience points and loot.
+let the players build up resources like XP and loot.
 
 Downtime activities are less risky. In these activities, the costs and
 benefits are known upfront, like shopping, healing, and studying.
@@ -2398,7 +2455,7 @@ constant, rejecting the change that a hero must accept to truly be a hero.
 
 Party Power is an easy number to calculate, based on each PC in the scene.
 
-` Party power = (10 ✕ (# of PCs)) + (# of experience points the PCs have) `
+` Party power = (10 ✕ (# of PCs)) + (# of XP the PCs have) `
 
 ### Create your foes
 

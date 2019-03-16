@@ -299,7 +299,8 @@ Whenever a move is *resolved* by a Blessing card, return the Blessing card
 to the supply rather than keeping it in your discard pile.
 
 Note: some moves instruct you to match Chinese Zodiac symbols on the corners
-of cards. The corners of Blessing cards have a "dragon" symbol, which is *wild*.
+of cards. The corners of Blessing cards have a "dragon" symbol, which is
+*special*.
 The "dragon" symbol matches all other symbols except for the "goat" symbol
 on the wound cards.
 
@@ -663,21 +664,22 @@ is strapped.
 
 ## Pack - Precious and regular
 
-Throughout the game, your character will gain, lose, and spend equipment
+Throughout the game, your character will gain, lose, and trade equipment
 and supplies that are worth tracking. These items don't need to be specified
 until they actually get used. Instead they are tracked with anonymous Pack
 cards.
 
 `TODO: illustration of Pack and Precious Pack cards`
 
-Red cards represent "regular" Pack and green cards represent "precious" Pack.
+White-side green cards represent "regular" Pack and black-side green cards
+represent "precious" Pack.
 Precious Pack is something that is found precious by *someone*. It may be
 something made of a rare metal like gold, or it may be simply a full
 waterskin offered to a parched NPC in the desert.
 
 If the specifics of a Pack card get concretely established in the fiction,
 and the card is not immediately spent, the Pack card should be returned to
-the supply and a blank card should be taken to replace it, with the name
+the supply and a blank Item card should be taken to replace it, with the name
 or details of the item written on it.
 
 Your character starts off with 2 Pack cards, enabling the move Good Thing
