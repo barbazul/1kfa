@@ -13,8 +13,7 @@ beginning, middle, and end.
 If you've played other RPGs that *don't have endings*, ones that go on for
 months or even years, this might seem weird to you.
 Don't worry, try out a 9-hour campaign and see the results.
-You may find your doubts erased. And don't worry, 1kFA allows
-you to stretch beyond 30 hours if you really want that.
+You may find your doubts erased.
 
 1kFA is designed to tell a particular kind of story.
 It's called *The Hero's Journey*.
@@ -170,22 +169,22 @@ A common way to get players to choose to go through the threshold is to create
 a "hook". Here are some things to think about to help you invent a hook:
 
  * Capture, Obstruct, Prevent
-   * What is "loose" and causing trouble?
-   * What is in the wrong hands or needs to be brought back into the fold?
+    - What is "loose" and causing trouble?
+    - What is in the wrong hands or needs to be brought back into the fold?
  * Chase or Race
-   * Who else has already begun seeking out the prize?
-   * How long until a threat arrives here?
-   * How might the hunter become the hunted?
+    - Who else has already begun seeking out the prize?
+    - How long until a threat arrives here?
+    - How might the hunter become the hunted?
  * Rescue or Regain
-   * Who or what was taken, and where does it rightfully belong?
-   * What power does the precious thing posses?
+    - Who or what was taken, and where does it rightfully belong?
+    - What power does the precious thing posses?
  * Re-order, Rearrange, Fortify
-   * What is unbalanced, and what effect does that have on the world?
-   * Who is not doing their job?
+    - What is unbalanced, and what effect does that have on the world?
+    - Who is not doing their job?
  * Forbidden Act
-   * What is the rule that must not be broken?
-   * Who forbids it?
-   * What power structure does the rule support?
+    - What is the rule that must not be broken?
+    - Who forbids it?
+    - What power structure does the rule support?
 
 ## Chapter 3: Take a thing and pay its (mortal?) price
 
