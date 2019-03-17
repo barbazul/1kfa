@@ -22,7 +22,7 @@ It's called *The Hero's Journey*.
 movies and books are arranged: Star Wars, Lord of the Rings, The Breakfast
 Club, Die Hard, Beowulf, Forgetting Sarah Marshall, the list goes on.
 To help you execute a successful and popular *campaign*, 1kFA
-gives the GM a *Good Bank* and a *Challenge Bank* and specific rules for
+gives the GM *Journey points* and *Challenge points* and specific rules for
 using them.
 
 The main premise of *The Hero's Journey* is, characters start out in
@@ -31,10 +31,10 @@ they return.
 
 As you and your players create the narrative, you will have opportunities to
 shape events. You decide how the world and the NPCs react to the actions of
-the PCs, and you have the freedom to describe the "meanwhile"
--- all the goings-on "offscreen". Use these powers to pull the narrative into
-a multi-chapter structure, and in each chapter, try to earn points in the
-*Good Bank*.
+the PCs, and you have the freedom to describe the "meanwhile" -- all the
+goings-on "off-screen".
+Use these powers to pull the narrative into a multi-chapter structure,
+and in each chapter, try to earn *Journey points*.
 
 The players may just be along for the ride, or they may also want to delve
 into *The Hero's Journey*. Be on the lookout for how they signal that they're
@@ -43,11 +43,11 @@ emotional tone, conflicts, and backstory to co-create the journey.
 
 # It's ok to skip it
 
-You don't need to get every point in your *Good Bank*. You should especially
+You don't need to get every available *Journey point*. You should especially
 not try to force it if doing so would sacrifice fun for the players. Remember,
 you're not the only author of this story, and while earning points feels nice,
 you've got other jobs too, like paying attention to the signals the players
-give you for the kind of fun they want to have.
+give you about the kind of fun they want to have.
 
 # It's ok to end it
 
@@ -67,7 +67,7 @@ you can take a subplot and move it to the forefront.
 But sometimes the choice that provides the most fun for everyone is to
 just admit that it's over.
 
-Getting *Good Bank* points is great, but the reason everyone is here
+Getting *Journey points* is great, but the reason everyone is here
 sitting around the table is to *have fun*.
 
 # It's ok to blend it
@@ -93,8 +93,9 @@ fact.
 Taking the prize might involve a twisting road of trials, or it might be
 one explosive boss battle.
 
-Let the story be what it must be, and *play to find out what happens*, but
-also take your opportunities to earn *Good Bank* points when they arise.
+Let the story be what it must be, and *play* to find out the details of what
+happens, but also take your opportunities to earn *Journey points* when they
+arise.
 
 
 # One-Shot Campaign
@@ -104,16 +105,14 @@ also take your opportunities to earn *Good Bank* points when they arise.
  * Take a thing and pay its (mortal?) price
  * Return to the surface, changed.
 
-In a One-Shot campaign, there are 4 potential *Good Bank* points the
-GM can earn.
+In a One-Shot campaign, there are 4 potential *Journey points* to earn.
 
 ## Chapter 1: Start in a place of normalcy / comfort
 
-The first point in your good bank is a "gimmie": If you can think of a
-way to start all of the players' characters in their place of normalcy or
-comfort, mark a point in your *Good Bank*. You *did* remember to follow
-the rules in the Character Creation and ask the players where their
-characters feel most at home, right?
+The first *Journey point* is a "gimmie": If you can think of a
+way to start all of the PCs in their place of normalcy or
+comfort, gain a *Journey point*. You *did* remember to follow the rules in
+the Character Creation chapter and ask the players about The Hearth, right?
 
 Give the players a chance to establish what normal is for their characters.
 This is an environment that they can manage. They know what to expect here,
@@ -152,16 +151,15 @@ into discomfort. Raise the stakes. Then look for a *threshold*. Look for
 some line that once crossed, they can't simply turn around and go back.
 They might enthusiastically seek it out, they might even cross over before
 you've even figured out what it should be (if so, all that's left for you is
-to mark yourself a point in the *Good Bank*). But you might also
-need to increase the pressures in their "home" to gently nudge the characters
-up against that threshold.
+to mark yourself a *Journey point*). But you might also need to increase
+the pressures in their "home" to gently nudge the characters up against
+that threshold.
 
 But, if you want that point, **don't push them through.**
 
 See if the players choose to step their characters through the threshold.
 If all of them cross the threshold and step away from their ordinary world
-into a mysterious world of danger and adventure, mark yourself another point
-in the *Good Bank*.
+into a mysterious world of danger and adventure, gain a *Journey point*.
 
 ### Hooks
 
@@ -211,15 +209,15 @@ It could be at the end of a road of trials, or inside the cave where they
 must conquer their greatest fear, or in the clutches of their most powerful
 adversary.
 
-### Allot Challenge Bank Points
+### Allot Challenge Points
 
 Whatever the fictional set-up, when you're ready, set up a challenge in
-the narrative, then draw a circle around **all** of the points currently in
-your *Challenge Bank* and use them all before the characters get a chance to Rest.
+the narrative, then draw a circle around **all** of the *Challenge points*
+and use them all before the characters get a chance to Rest.
 
 If you can do this, when they complete the challenge that used up the last of
-the set-aside *Challenge Bank* points, give them the prize of this mysterious world,
-and give yourself a point in your *Good Bank*.
+the set-aside *Challenge points*, give them the prize of this mysterious world
+and gain a *Journey point* for yourself.
 
 ### Death Is Real Here
 
@@ -244,8 +242,7 @@ aspect to be everyone's salvation.
 
 Also realize you can give them a second chance at life. If you don't want a
 gritty, hardcore vibe in your campaign, you don't have to let the death stand.
-Have a look at the chapter on spending *Good Bank* points to resurrect a
-character.
+For rules on ressurection, see [Using Journey Points](#using-journey-points).
 
 ### The Prize
 
@@ -290,7 +287,7 @@ This can play out in many ways:
  * by being cast out of yet another city, but this time they're on the road
    with mirth in their step and a horse pulling sixteen barrels of mead
 
-Mark your final *Good Bank* point if you can hit this note.
+Gain your final *Journey point* if you can hit this note.
 
 
 
@@ -386,12 +383,12 @@ your Touchstone List and ask yourself some questions. What is the "juice" here?
 What spectacle, what adventure might the players have been fantasizing about
 when they chose the titles you see on this list? Don't be shy about copying.
 
-### Allot Challenge Bank Points
+### Allot Challenge Points
 
-To begin the **Search** chapter of the story, circle **half** of the points
-currently in your *Challenge Bank*.
+To begin the **Search** chapter of the story, circle **half** of your
+*Challenge points*.
 
-This new mysterious is dangerous. Use your *Challenge Bank* points to represent
+This new mysterious is dangerous. The circled *Challenge points* represent
 this. Show the players that they might need to be smarter now. Problems are
 not solved here as easily as in the place of comfort.
 
@@ -407,7 +404,7 @@ Make an exhibition of how this world has power unlike their place of comfort.
 There are forces here that aren't understood. Those forces can be scary, yes,
 but they can also be miraculous.
 
-Use one of your Good Bank points to make this exhibition.
+Use one of your *Journey points* to make this exhibition.
 
 ### Finishing the Search
 
@@ -415,11 +412,11 @@ You achieve your GM goal in the **Search** phase if
 
  * you gave each player a chance to "level up" their character and use their
    new skills or items
- * and you used at least one *Good Bank* point
- * and you used all the *Challenge Bank* points you circled at the beginning
+ * and you used at least one *Journey point*
+ * and you used all the circled *Challenge points* you circled at the beginning
 
-If you do this, give yourself a point in your *Good Bank* and aim to move the
-plot to the next phase.
+If you do this, gain a *Journey point* and aim to move the plot to the next
+phase.
 
 
 ## Chapter 5: Find
@@ -465,8 +462,8 @@ player to gain more control in exchange for higher difficulty. If they say yes,
 make a note of it.
 
 If each character answered "stay", "sacrifice", or "abandon" to any of the
-questions above, or if any player switched from "Lucky" to "Heroic", give
-yourself a point in the *Good Bank*.
+questions above, or if any player switched from "Lucky" to "Heroic", gain
+a *Journey point*.
 
 
 ## Chapter 6: Take & Pay
@@ -486,11 +483,12 @@ through dragon's hide.
 
 This is the thing that will answer the **Need**.
 
-### Allot Challenge Bank Points
+### Allot Challenge Points
 
 When you're ready, set up a challenge in the narrative, then draw a circle
-around **all** of the points currently in your *Challenge Bank*. To earn the current
-*Good Bank* point, use them all before the characters get a chance to Rest.
+around **all** of the unused *Challenge points* on your GM sheet.
+To earn the *Journey point* of this chapter, use all the circled points
+before the characters get a chance to Rest.
 
 ### Death Is Real Here
 
@@ -530,15 +528,13 @@ Build one final challenge for your players, a "Threshold Guardian".
 This can be a mob of villagers whose minds must be changed, it can be their
 cleverest adversary, or it can be that invulnerable dragon.
 
-If you confront the characters with a monster, challenge, or obstacle that
-embodies
+Gain a *Journey point* if you confront the PCs with a monster, challenge,
+or obstacle that embodies:
 
  * grief: anger, bargaining, depression, denial
  * rejection of how the characters have changed
  * rejection of emotional growth
  * rejection that this story must end
-
-give yourself a point in the *Good Bank*.
 
 
 ## Chapter 8: Change
@@ -565,7 +561,7 @@ The first time any PC:
  * wishes for something left behind on the other side of the threshold
  * presumes they are doomed, but chooses to defy death and struggle on
 
-Use a point from the *Good Bank* to Reveal The Hearth. The Hearth was the
+Use a *Journey point* to Reveal The Hearth. The Hearth was the
 specific people, food, song, environmental feature, ritual or festival,
 or group activity that was identified at the beginning of the game.
 
@@ -574,7 +570,7 @@ since the characters crossed the first threshold is now rekindled, reborn,
 re-imagined or its inheritor is revealed. All the PCs now have a chance to
 heal their wounds.
 
-For every wound healed, give yourself another point in the *Good Bank*.
+For every wound healed, gain another *Journey point*.
 
 
 # 30-hour Campaign
@@ -584,14 +580,15 @@ For every wound healed, give yourself another point in the *Good Bank*.
 An "arc" of 3 9-hour campaigns
 
  * First Book - just the same as the 9-Hour Campaign
- * Second Book - Carry over all Good Bank and Challenge Bank points
+ * Second Book - Carry over all *Journey points* and *Challenge points*
    * Chapter 7 should return them to a different "world"
- * Third Book - Start with 0 Good Bank points, carry over the Challenge Bank points
-   * Challenge Bank points grow at double the rate.
-     - ✅︎ adds 2 points to the Challenge Bank
-     - on IMMEDIATE moves, ✗ adds 4 points to the Challenge Bank
-   * Challenge the character changes made earlier - what boons will the
-     characters give up to achieve an even greater one
+ * Third Book - Start with 0 *Journey points*, carry over the *Challenge points*
+   * *Challenge points* grow at double the rate:
+     - ✅︎ gains you 2 *Challenge points*
+     - on IMMEDIATE moves, ✗ gains you 4 *Challenge points*
+   * Challenge the narrative character changes made earlier - will the
+     characters give up their earlier accomplishments or boons to attempt
+     for even greater ones?
 
 
 # The real juice

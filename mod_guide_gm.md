@@ -189,25 +189,24 @@ Give each player a Deckahedron.
 > triggered. It also represents your character's Stamina points, which
 > we'll discuss later.
 >
-> Notice the 4 different colored symbols on the edges.  They're named
-> Anvil (red), Blades (yellow), Crown (green), and Dragon (blue).
-> When you *trigger a move*, I'm going to instruct you to flip the top
-> card of your Deckahedron, and we'll see the result on the flipped-over
-> side. There are 4 possible results:
+> Notice the 4 different colored symbols on the edges. They're named
+> Anvil, Blades, Crown, and Dragon. When you *trigger a move*, I'm going
+> to instruct you to flip the top card of your Deckahedron, and we'll see
+> the result on the flipped-over side. There are 4 possible results:
 >
 > * ✔✔✔  : this means you succeed at the thing you tried
 > * ✔✔  : this usually means something good happens, but maybe with a downside
 > * ✔  : this usually means something "ok", or not-so-good happens
 > * ✗ : this usually means that I get to say what happens and make my own move
 >
-> When I ask you to flip, I'm going to say something like "flip Anvils"
-> or "flip red" or "flip green". That means you find the result
-> on the edge that has that color or symbol.
-> 
-> When you flip it over, please put it down in a way that I can clearly see
-> the result. Try to orient your cards consistently so that I don't get
+> When I ask you to flip, I'm going to say something like "flip Anvil"
+> or "flip Blades". That means you find the result on the edge that has
+> that symbol.
+>
+> When you flip it over, please put it down in a way that everyone can clearly
+> see the result. Try to orient your cards consistently so that we don't get
 > confused about what your result is.
-> 
+>
 > Let's try it: everybody put your Deckahedron on the table and flip yellow.
 
 Step the players through "flipping yellow" using the instructions in the
@@ -222,10 +221,12 @@ Give each player a Move Booklet
 > Here are the basic moves.  You don't have to read this booklet unless you
 > want to. I'll point out moves when they're triggered and we can read them
 > together or you can just let me apply them.
-> 
-> It's hard for me to do everything though, so the more you can help me out,
-> the smoother the game will run.
-> 
+>
+> It's hard for me to do everything though, so the more you can participate,
+> reading the text of your moves, and suggesting narrative outcomes,
+> the smoother the game will run. Once we've had some practice, playing the
+> game will feel like a collaborative story we're working through together.
+>
 > The move you'll be triggering the most will probably be Defy Danger, that's
 > why it's on the first page. The moves in the back of the booklet are
 > "downtime" moves which we won't need until much later.
@@ -238,6 +239,11 @@ Give each player a Move Booklet
 > that was thrown at them. That's Dex. Let's say their Dex was rank 3, or
 > "Crown". So that's the side of the card we're going to look at.
 > Flip your top card.  What result do you see on the "Crown" side?
+>
+> [Take the result, and if it is ✔s, ask the player to help you interpret
+> a potential outcome using the Defy Danger move. If it is ✗, tell them how
+> it would be your turn to make a GM move]
+>
 
 ## Sarukkan's Chamber
 
@@ -593,7 +599,7 @@ Here are 6 mantras to come back to whenever you don't know what to say next.
  * Move the spotlight
  * Ask the players
  * Make GM Moves (or refer to them for ideas)
- * Drive towards your next point in the *Good Bank*
+ * Drive towards your next *Journey point*
 
 
 ## Portray the World of the Touchstone List
@@ -791,7 +797,7 @@ and make decisions:
 Try to keep up the excitement and pace of play with your GM moves, but also
 know that it's ok to invest a little in making them significant and to pause
 for a second to think through some repercussions. Will the move you make
-drive the story toward your next point in the *Good Bank*?
+drive the story toward your next *Journey point*?
 
 Note that the move you execute in play may actually overlap multiple moves
 on this list. That's ok, creating honest fictional responses sometimes
@@ -985,13 +991,12 @@ to the characters, not just the players.
 
 This can also be a good move to underscore particularly tricky dangers. Let
 the players know that if they attempt to dive between the giant clockwork
-gears, you're going to spend points from the *Challenge Bank* to increase the
-difficulty.
+gears, you're going to spend a *Challenge point* to increase the difficulty.
 
-## Drive Towards Your Next Point In The *Good Bank*
+## Drive Towards Your Next Journey Point
 
 When a GM has time in the spotlight, and the set-up has been established,
-they have an opportunity to earn themselves a point in the *Good Bank* by
+they have an opportunity to earn themselves a *Journey point* by
 taking the plot to another milestone in the Hero's Journey.
 
 Look to the [Campaigns Guide](mod_guide_campaigns.md) and
@@ -1011,16 +1016,17 @@ when things to go sideways. You can always skip it or try again.
 
 The GM needs a sheet of paper to make notes and track information.
 
-At the top of the sheet write the headings "Good Bank" and "Challenge Bank".
+At the top of the sheet write the headings "Journey Points" and
+"Challenge Points".
 Leave enough space to track the points under each of those headings.
 
 ![GM Worksheet](images/gm_worksheet.png){ width=7cm }
 
-When a player flips and *resolves a move* with a ✅︎, mark a point in
-the *Challenge Bank*. When a move with the *IMMEDIATE* tag is resolved with
-a ✗, mark two points in the *Challenge Bank*.
+When a player flips and *resolves a move* with a ✅︎, gain a *Challenge point*.
+When a move with the *IMMEDIATE* tag is resolved with a ✗, mark
+two *Challenge points*.
 
-See the Campaign Guide for rules on when to mark points in the *Good Bank*.
+See the Campaign Guide for rules on when to gain *Journey points*.
 
 
 ### 2. Establish Touchstones
@@ -1493,9 +1499,9 @@ the first threshold is crossed, and be made available again when the second
 threshold is crossed. For details on thresholds, see the
 [Campaign Guide](mod_guide_campaigns.md).
 
-Use what the players describe to get your first point in your *Good Bank*,
+Use what the players describe to get your first *Journey point*,
 by starting the story out in a place of normalcy, vitality, and comfort.
-Remember, it doesn't have to be a Hobbit hole.  Characters might be most at
+Remember, it doesn't have to be a Hobbit hole. Characters might be most at
 home in the middle of a bloody battle.
 
 
@@ -1595,15 +1601,38 @@ and limb in jeopardy -- information, resources, social standing, risk of alarm.
 When a scene breaks out in violence, you'll need to get your GM worksheet
 and write down a few stats for the party's foes.
 
+If the foe is a fear-inducing monster, keep in mind the rules of the
+[Monsters](#monsters) chapter as you step through this process.
+
 First, write down the names of each foe.
 Beside each name, write the foe's attack power (d4, d6, d10).
-Beside that, draw ticks for their Stamina points.
+Beside that, draw ticks or spaces for their Stamina points.
+Beside those, draw up to three armour squares.
 
 ![GM Worksheet](images/gm_worksheet_filled.png){ width=7cm }
 
+**Armour squares** are a mechanism for foes that work simliar to the armour
+or wound mechanisms for PCs.
+Whenever a foe is facing any amount of *attack power*, the GM can
+just cross out an armour square to absorb the full amount.
+
+When attack power goes above d4 or armour squares are added, spend *Challenge
+points* according to this table.
+
+| Challenge points    | Foe augmentation
+|---------------------|------------------
+| 1 per               | armour square (maximum 3)
+| 2                   | attack power d6
+| 4                   | attack power d10
+| 1                   | monster has 11-15 stamina
+| 2                   | monster has 16-20 stamina
+| 1 per               | monster special attack
+
+
 Foes' Stamina and attack power should be realistically scaled
 to the "scrappy adventurer" level of the players.
-
+Help the players estimate the threat they face by giving the foes fitting
+descriptions.
 This table should help.
 
 |                   | Stamina points | Attack power
@@ -1614,6 +1643,7 @@ This table should help.
 | Trained Soldiers, Elite Guards  | 7-10 | 1d4 - 1d6
 | Monsters          | 5-20           | 1d4 - 1d10
 | Villains          | 5-10           | 1d4 - 1d10
+
 
 Generally, human opponents will have 1 attack power when unarmed and 1d4
 attack power when armed. Save greater attack power for monsters and special
@@ -1633,14 +1663,16 @@ then you can use the appendix
 to create encounters that are more objectively balanced and satisfy the type
 of player that delights in system mastery.
 
-However that may be a little too "gamey" for some tables. In which case,
-just wing it. Create encounters as demanded by the established fiction, or
-take the following pre-balanced examples as a starting point, and adjust as
-you please.
+However, If all that math feels a little too "gamey" for your table, just
+wing it.
+Create encounters as demanded by the established fiction, or take the
+following pre-balanced examples as a starting point, and adjust as you please.
 
 ## Example combat encounters
 
 ### Easy - A pair of guards taken by surprise
+
+`TODO: illustration`
 
 The PCs way is blocked by a pair of guards who are sleeping or distracted by a
 game of dice. They have 6 stamina points, and short swords (1d4 attack power).
@@ -1652,17 +1684,21 @@ and beg for mercy.
 
 ### Medium - A leiutenant and his soldiers
 
+`TODO: illustration`
+
 The PCs turn a corner or open a door and stumble into a planning session
 presided over by a leiutenant and his subordinates (there are as many
 subordinates as there are PCs).
 They are the swords-first, questions-later types and attack immediately at
 close range. The 3 soldiers have 6 stamina points and do 1d4 attack power.
-The leiutenant has 8 stamina points and does 1d6 attack power.
+The leiutenant has 8 stamina points and has one armour square.
 
 The leiutenant will never surrender, but if the rest of their allies are cut
 down, a single soldier left standing may lose his nerve and give up.
 
 ### Hard - The swamp beast
+
+`TODO: illustration`
 
 The PCs are surprised by a *thing* that springs up from the muck and launches
 a surprise attack.
@@ -1677,6 +1713,21 @@ for 1d10 attack power.
 Special attack: the beast can disappear into the muddy terrain and later
 spring up behind the most vulnerable PC, as long as that PC is standing in
 the beast's territory.
+
+### Give hints
+
+Players will perceive the game as either "fair" or "unfair" partly based
+on how the foes are described by the GM before the combat begins. Always
+describe the confrontation in a way that hints at the difficulty.
+
+ * The two guards *exchange an unsure look and step forward*
+ * The salty pirate flashes his blade, but *simultaneously takes a step
+   backwards towards his ship*
+
+ * The golem is *gargantuan and covered in scars from many battles*
+ * The *horde* of undead wolves stare at you with *unrelenting hunger*
+ * The old woman with the walking stick is *unfazed by your threats* and,
+   *after looking you up and down, turns away with an air of dismissal*
 
 
 ## The feel of combat
@@ -1806,8 +1857,7 @@ a player particularly keen to create backstory, to get into combat, to ask
 a lot of questions about how the world works? Can you think of things to go
 into the next session to provide that kind of fun?
 
-Think about the plot and how you might get your next couple points in the
-*Good Bank*.
+Think about the plot and how you might get your next couple *Journey points*.
 Do you think the characters will make certain decisions? You might imagine 2
 or 3 key decisions the party will be confronted with. For every fork in the
 road, try to imagine how the world and NPCs will respond when the characters
@@ -1962,7 +2012,8 @@ the Session Opener has been completed.
 
 Another idea to add some ritual is to start some exciting,
 adventure-appropriate music when the Session Opener concludes.
-Video game soundtracks are great for this.
+Video game soundtracks, or a soundtrack from one of the titles on your
+Touchstone List are great for this.
 
 ### Reward Yourselves
 
@@ -1991,7 +2042,7 @@ and gear to use, and thus head out again for adventure.
 
 Each transition gives the GM a lot of opportunity to shape the narrative,
 so when possible, these transitions should be exploited to earn
-a point in the *Good Bank*.
+a *Journey point*.
 
 The core loop is not a rule, nor something a GM needs to enforce, it should
 happen naturally.
@@ -2026,7 +2077,7 @@ Additionally, Sharpen and Stitch can only be done while resting, so it is
 effectively mutually exclusive with the latter 3 moves.
 
 If the GM wants to give the players' characters a second day in town before
-any action takes place, a point from the *Good Bank* must be spent.
+any action takes place, a *Journey point* must be spent.
 
 Otherwise, on the second day, the GM should present some situation that
 demands immediate attention. Put something at risk if necessary. Remember,
@@ -2047,61 +2098,17 @@ If the players at the table are not yet inventing their own motivations for
 their characters, Fateful Moment cards can be assigned again.
 
 When the transition from downtime to adventure happens, choose Fateful Moments
-using the procedure [described above](#choosing_risk_drivers).
+using the procedure [described above](#choose_fateful_moments).
 (If they still had a Fateful Moment, the new Fateful Moment replaces the old)
 
 
-# Using the Good Bank
+# Using Journey Points
 
-The *Good Bank* is used to create certain kinds of "Deus Ex Machina"
+*Journey points* are used to create certain kinds of "Deus Ex Machina"
 situations to benefit the players' characters.
 
-## Create Advantages
 
-One point from the *Good Bank* may be spent to let a player execute a move
-as though they had the highest amount of advantage (flip-3-take-best). You
-may do this preemptively or after a flip, like a flashback.
-
-Let's say a character encounters two guards who, in an earlier scene,
-humiliated and bullied him. The player says their rage takes over and they
-launch themselves at both guards, two swords out and slashing through the
-air.
-With the narrative set-up, the GM thinks it would make the story really
-satisfying for the character to succeed. The GM has a few options to push
-it in the direction of success.
-As a GM, you will usually only have a few points in the *Good Bank*, so
-make sure it's worth it.
-
- * The GM can story-tell to resolve the situation. Maybe the guards run away.
-   Make sure your storytelling honest for the narrative and is fun for the
-   player. It seems like this player has indicated their fun is in the fight.
- * The GM interprets this as a Mix It Up with Goreography added on
-   as an IMMEDIATE move.
-      + The GM can hint to the player they already have sufficient narrative
-        set-up to Do a Flashback
-      + The GM can spend a point from the *Good Bank* to create the advantage
-
-If the last option is chosen, the maximum amount of advantage is given, causing
-a flip-3-take-best flip. In this particular situation, the GM must choose
-to give advantage to the Mix It Up move or to the Goreography move.
-Even though Goreography has a maximum Move Level of "expert", using a point
-from the *Good Bank* **always** gives you a flip-3-take-best flip.
-
-Here is what the GM can **not** do: the GM cannot tell the player to flip
-with an advantage just because they're the GM and they think it makes sense.
-
-If an advantage is to be had, the price must be paid, either by the
-GM or by the player.
-
-Creating an advantage by spending a point from the *Good Bank* always
-results in a flip-3-take-best flip, even if the character is at the "wild"
-level in the move, even if the character is disadvantaged by some previous
-situation or effect.
-
-Flipping a Wound card on these flips will still override the **Complete
-flip rule**.
-
-## An NPC to the Rescue
+## An Unexpected Arrival
 
 When the players find themselves in a situation that looks dire:
 
@@ -2109,19 +2116,23 @@ When the players find themselves in a situation that looks dire:
  * They're surrounded and outnumbered
  * They've lost the majority of their Stamina points and the foes
    in the scene are still healthy and looking to fight
+ * The villain's plot is a hair's breadth from completion
  * There's a puzzle they need to solve, but haven't got a clue
 
-In a dire situation, you can spend a point from the *Good Bank* to have
-an allied NPC enter into the scene.
+Spend a *Journey point* to have an allied NPC enter into the scene,
+just in time to save the day or spoil the plot.
 
-The NPC should be someone (or some thing) the players' characters have met
-before and should have an honest reason, based on the fiction, to assist
-the players' characters.
+The NPC should be someone (or some thing) the PCs have met before and who
+has an honest reason, based on the fiction, to assist the PCs.
 
-As you move the combat spotlight around the scene, the NPC should get a turn
-to act as often as each player does.
+This could be a love interest mentioned in someone’s backstory, a local
+page boy from the last town, or a double-crossing wizard who had a change
+of heart. Their arrival changes an otherwise established fate, a victory
+or defeat.
 
- * The NPC may use the Defend move
+If combat is underway, as you move the combat spotlight around the scene,
+the NPC should get a turn to act as often as each player does.
+
  * The NPC may assist any player character's attack, adding an appropriate
    die to the attack power
  * The NPC may get into a scuffle with one foe, effectively preventing that
@@ -2133,15 +2144,13 @@ to act as often as each player does.
 In order to give the players' characters a second day of peace and quiet
 in a town, so that multiple time-consuming downtime actions can be
 made in a row without any bad consequences happening in the narrative,
-a point from the *Good Bank* must be spent.
+a *Journey point* must be spent.
 
-## Resurrect a Character
+## Brought Back to Life
 
-If a player character dies, you may spend a point from the *Good Bank* to
-bring them back to life.
+If a PC dies, you may spend a *Journey point* to bring them back to life.
 
-You may not resurrect player characters without spending a point from the
-*Good Bank*.
+You may not resurrect PCs without spending a *Journey point*.
 
 Take care to be honest to the fiction. Try not to degrade or insult any
 emotional journey that the death provoked.
@@ -2150,8 +2159,41 @@ Resurrection can have many forms.
 
 Resurrection can come at a high cost.
 
+## A Heroic Spark / A Place Transformed
 
-# Using the *Challenge Bank*
+These two are variations on a theme of *change*, and so are best suited
+for the final chapters of the story.
+
+Let the players *see* the ways that their scrappy-adventurers-turned-heroes
+have impacted the fantastical world around them.
+
+### A Heroic Spark
+
+The heroes have made an indelible mark on the life of someone they
+encountered, we see the seed of heroism planted in that individual.
+We know that their destiny is forever altered.
+
+ * A young girl practicing with the signature weapon of one of the PCs.
+ * Townsfolk singing the song of The Hearth with a new verse
+   inserted - a verse about the escapades of our heroes
+
+### A Place Transformed
+
+Somewhere previously visited is now magnificently and symbolically changed.
+This is an opportunity to demonstrate the *scale* of the PCs actions.
+
+ * A once-oppressed hamlet now rebuilding and revitalized.
+ * A lich king’s castle repurposed as a friendly settlement.
+ * The forest that was being decimated now verdant with a new kind of
+   tree, that had never been seen before.
+
+## Reveal the Hearth
+
+In the 9 and 30-hour campaigns, there is a special GM move called "Reveal
+the Hearth"
+
+
+# Using *Challenge Points*
 
 ## Fictional Disadvantages
 
@@ -2168,11 +2210,11 @@ Because of the set-up, it makes sense that this will be more difficult than
 if the character could clearly see the creature and the cave floor they're
 diving into.
 
- * You can use 1 point from the *Challenge Bank* to create one level of disadvantage
+ * You can spend 1 *Challenge point* to create one level of disadvantage
 
 This level of disadvantage should now be applied *consistently* whenever any
 character attempts to avoid the creature's swooping attack in a dark
-environment. No further expenditure from the Challenge Bank is needed.
+environment. No further expenditure of *Challenge points* is needed.
 
 Consistency prevents players from feeling the game is unfair or that you are
 especially aiming negative consequences at one player.
@@ -2181,30 +2223,27 @@ especially aiming negative consequences at one player.
 
 When the characters are investigating a set piece or entering a new
 area, it can be trapped to cause instant damage. Inflict damage equal to
-the amount of *Bad Bank* points spent.
+the amount of *Challenge points* spent.
 
 ## The Enemy Strikes First
 
 When an enemy surprises or was otherwise ready for a PC, they can attack
 without giving the player an opportunity to Defy Danger. The attack power
-will be equal to the amount of *Bad Bank* points spent.
+will be equal to the amount of *Challenge points* spent.
 
 ## Deadly Pursuits
 
-When a player uses the Bravely Run Away move, spend 1 point from the *Challenge
-Bank* and either:
+When a player uses the Bravely Run Away move, spend 1 *Challenge point*
+and either:
 
  * land them in a situation where they are again in immediate danger
  * start the Pursuit Mini-game
 
-## Deadly Combat Encounters
+## Augmenting Combat Encounters
 
-`TODO`
-
- * Give a foe an extra starting Stamina point - 1 point
- * Increase a foe's attack power die - 2 points
- * Give a foe an armour square - 3 points
-
+As specified in the [Combat](#creating_a_combat_encounter) chapter,
+*Challenge points* can be spent to increase attack power dice, add armour
+squares, and outfit fear-inducing monsters.
 
 # Creating Challenges for Players
 
@@ -2292,21 +2331,30 @@ by the heroes.
 
 ### Monsters can be fought
 
-Monsters have 1-20 stamina points and 1-3 armour squares
+Monsters can be defeated in combat, and work like regular foes, except that
+they can have more than 10 stamina points and they have special attacks.
+See the [Combat](#creating_a_combat_encounter) chapter for how to spend
+*Challenge points* to determine its combat stats.
 
- * Spend 1 Challenge Bank point if 11-15 stamina
- * Spend 2 Challenge Bank points if 16-20 stamina
- * Spend 1 Challenge Bank point for every armour square
+You get to choose the special attacks of your monsters. Simplicity and staying
+on-theme are the way to go here. If your monster is inspired by an animal,
+ask yourself how that animal would attack in a unique way. If the monster
+embodies a specific fear, what attack would induce the maximum amount of that
+kind of fear?
 
-Monsters have special attacks
-
- * The special attacks should be telegraphed somehow
- * Spend 1 Challenge Bank point per special attack
+It is recommended to telegraph the special attacks somehow. Let the players
+know what kind of threat they're dealing with and the stakes of their decision
+to fight this creature.
 
 ### Making monsters
 
-Monsters can be generated by mixing two or more concepts, as long as one
-of those concepts invokes fear.
+The easiest monsters to include in your story are ones you've already seen
+before. Look at your Touchstone List -- what can be plucked out of one of
+those universes and dropped into the path of the adventurers?
+
+Otherwise, it can be a lot of fun to invent your own. Monsters can be
+generated by mixing two or more concepts, as long as one of those concepts
+invokes fear.
 
  * giant
  * tiny
@@ -2349,8 +2397,9 @@ Any animal, but especially ones humans are instinctively afraid of
 For a "classical" effect, mix up two or three of the animals - eg, a snake
 with the wings of a bird, an octopus with scorpion tails for tentacles.
 
-Some monsters add on an aspect of goodness, nobility, or innocence. This can
-emphasize corruption, be used as a trap or a trick, or just create contrast.
+Some monsters are scary because they include an aspect of goodness, nobility,
+or innocence. This can emphasize corruption, be used as a trap or a trick,
+or just create contrast.
 
  * babies, children
  * gold, wealth
@@ -2358,14 +2407,13 @@ emphasize corruption, be used as a trap or a trick, or just create contrast.
  * mimics a character they love / admire
  * religious symbols
 
-
-`TODO`
-Also: bestiaries! See:
+If you want more inspiration, there are many great resources in books or
+on the Internet.  Here's a very small sample:
 
  * [Dungeon World](#link)
  * [Hot Springs Island](#link)
  * [Carried by Creatures](https://www.patreon.com/carriedbycreatures/overview)
- * There are others, just search!
+
 
 ## Villains (aka "Bosses", aka "The Big Bad")
 
@@ -2386,7 +2434,7 @@ underneath his sycophant's turban.
 <!-- TODO: remove trademarked references -->
 Darth Vader wants *order*, so must build a moon-sized laser beam, blow up
 all the rebellious planets, promote and demote military subordinates, and
-convince his estranged son on the value of theocratic rule.
+sell his estranged son on the value of theocratic rule.
 
 Some fundamentally simple desires:
 
@@ -2407,7 +2455,7 @@ erratic, or myopic and compulsive? When you know who they are, and how
 they make decisions, you will be able to quickly make calls about how they
 react to the player-characters' actions.
 
-A good villain often represents a mirror image or "shadow-self" of the
+A meaningful villain often represents a mirror image or "shadow-self" of the
 story's heroes, with the thematic difference being that the villain stays
 constant, rejecting the change that a hero must accept to truly be a hero.
 
@@ -2472,26 +2520,8 @@ Use Party Power to give the foes:
 | A weapon that does 1d6 damage                  | 4
 | One armor square                               | 3
 
-Represent "armour" (or just tough hide) by drawing boxes next to the foe's
-Stamina points on the GM worksheet.
-
 You can also augment foes by
-[spending points from the *Challenge Bank*](#using-the-challenge-bank).
-
-### Give hints
-
-Players will perceive the game as either "fair" or "unfair" partly based
-on how the foes are described by the GM before the combat begins. Always
-describe the confrontation in a way that hints at the difficulty.
-
- * The two guards *exchange an unsure look and step forward*
- * The salty pirate flashes his blade, but *simultaneously takes a step
-   backwards towards his ship*
-
- * The golem is *gargantuan and covered in scars from many battles*
- * The *horde* of undead wolves stare at you with *unrelenting hunger*
- * The old woman with the walking stick is *unfazed by your threats* and,
-   *after looking you up and down, turns away with an air of dismissal*
+[spending *Challenge points*](#using-challenge-points).
 
 
 ---
@@ -2529,10 +2559,6 @@ See LICENSE.txt
 This might cause some pause or confusion, because 1kFA tells
 GMs they can't just hand out advantages based on fiat or "the rule of cool".
 But there are a few options here for a GM.
-
-The simplest one is to use a point from the Good Bank to create an
-advantage. But a GM might want to keep those Good Bank points for something
-more epic, so there are other creative options too.
 
 Be on the lookout for how a player might be triggering moves that aren't
 in their hand. In this case it definitely sounds like some Derring-Do is

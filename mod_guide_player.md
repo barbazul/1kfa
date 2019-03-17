@@ -368,15 +368,15 @@ but with complication.
 When the result is a single ✅︎, it sometimes means the same as a ✔✔,
 but often it is slightly worse.
 
-Any time a flip results in a single ✅︎ the GM should add a point to
-the *Challenge Bank*  -- even when the move card says it has the same narrative
-effect as a ✔✔.
+    GM Note: Any time a flip results in a single ✅︎ the GM gains a
+    *Challenge point* -- even when the move card says it has the same
+    narrative effect as a ✔✔.
 
 When the result is ✗, it is the GM's turn to make a move. The GM narrates
 the consequences of the move the player just attempted and has license to
 take the narrative where they like.
 
-See the GM Guide for explanations of the *Challenge Bank* and for a list
+See the GM Guide for explanations of *Challenge points* and for a list
 of moves the GM is allowed to make.
 
 ### Exceptions on ✅︎ and ✗ flips
@@ -389,7 +389,7 @@ These instructions should be executed, but might only be *part* of the
 GM's move -- the GM gets to decide if they have more to add.
 
 When the move card has the tag *IMMEDIATE*, the GM does not get to make a
-move on a ✗. Instead, the GM just adds 2 points to the *Challenge Bank*.
+move on a ✗. Instead, the GM just gains 2 *Challenge points*.
 
 
 ## Cards tagged IMMEDIATE
@@ -873,9 +873,9 @@ The GM can resolve this move by:
  * putting the characters somewhere completely safe
  * putting the characters in a place where some (new or old) danger exists,
    but is, for the moment, not directly threatening the characters
- * spending a point from the *Challenge Bank* and starting the Pursuit Mini-game
- * spending a point from the *Challenge Bank* and putting the characters in
-   a place where they must directly confront or defy a new danger
+ * spending a *Challenge point* and starting the Pursuit Mini-game
+ * spending a *Challenge point* and landing the characters in a place where
+   they must directly confront or defy a new danger
 
 
 # Notes on Moves - Healing
@@ -1080,8 +1080,8 @@ The GM may use the name to create implications in the narrative -- it's hard
 to sneak or swim in full plate armour.
 
 If a GM writes narrative circumstances that cause a disadvantage on the
-armour card when it is created, no points need to be spent from the
-*Challenge Bank* to create the disadvantage later.
+armour card when it is created, no *Challenge points* need to be spent
+to create the disadvantage later.
 
 Here are some example armours:
 
