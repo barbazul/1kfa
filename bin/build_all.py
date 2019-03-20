@@ -9,8 +9,8 @@ def run(cmd):
         print cmd
     os.system(cmd)
 
-run('python resolution_cards/process.py')
-run('python resolution_cards/process_tall.py')
-run('python resolution_cards/process_tenstep.py')
-run('python resolution_cards/process_print_and_play.py')
+run('cd resolution_cards; python process.py')
+run('cd resolution_cards; python process_tall.py')
+run('cd resolution_cards; python process_tenstep.py')
+run('cd resolution_cards; python process_print_and_play.py')
 run('bash bin/build_pdf_guides.sh')
