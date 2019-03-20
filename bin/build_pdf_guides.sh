@@ -1,11 +1,7 @@
 #! /bin/bash
 
 # https://stackoverflow.com/questions/2013547/assigning-default-values-to-shell
-: "${DECKAHEDRON_SITE_LOC=/home/sjbrown/work/deckahedron_site/playtest_files}"
 : "${KFAREPO=/home/sjbrown/work/1kfa}"
-
-echo "DSITE"
-echo $DECKAHEDRON_SITE_LOC
 
 cd $KFAREPO
 
@@ -44,15 +40,14 @@ pandoc \
  --css=/tmp/markdown.css \
  mod_guide_campaigns.md -o /tmp/1kfa_playtest/guide_campaigns.html
 
-cp /tmp/1kfa_playtest/*.html $DECKAHEDRON_SITE_LOC/
 
 pandoc --reference-odt=custom_pandoc_reference.odt mod_guide_player.md -o /tmp/guide_player.odt
 pandoc --reference-odt=custom_pandoc_reference.odt mod_guide_gm.md -o /tmp/guide_gm.odt
 pandoc --reference-odt=custom_pandoc_reference.odt mod_guide_campaigns.md -o /tmp/guide_campaigns.odt
 
-rm -rf /tmp/1kfadist
-mkdir /tmp/1kfadist
-cd /tmp/1kfadist
+rm -rf /tmp/1kfa_build
+mkdir /tmp/1kfa_build
+cd /tmp/1kfa_build
 
 lowriter --headless --convert-to pdf /tmp/guide*.odt
 
@@ -66,7 +61,6 @@ mv x_guide_campaigns.pdf guide_campaigns.pdf
 
 
 cp *pdf /tmp/1kfa_playtest/
-cp *pdf $DECKAHEDRON_SITE_LOC
 
 cp /tmp/print_and_play*pdf /tmp/1kfa_playtest/
 
@@ -74,12 +68,11 @@ cd /tmp/
 #zip -r 1kfa_playtest 1kfa_playtest
 tar -cvf 1kfa_playtest.tar 1kfa_playtest/
 gzip 1kfa_playtest.tar
-mv 1kfa_playtest.tar.gz $DECKAHEDRON_SITE_LOC/1kfa_playtest.tgz
 
 
 cd $KFAREPO
 # Google Docs template
-pandoc --reference-odt=custom_pandoc_gdoc_reference.odt mod_guide_player.md -o /tmp/1kfadist/guide_player_gdoc.odt
-pandoc --reference-odt=custom_pandoc_gdoc_reference.odt mod_guide_gm.md -o /tmp/1kfadist/guide_gm_gdoc.odt
-pandoc --reference-odt=custom_pandoc_gdoc_reference.odt mod_guide_campaigns.md -o /tmp/1kfadist/guide_campaigns_gdoc.odt
+pandoc --reference-odt=custom_pandoc_gdoc_reference.odt mod_guide_player.md -o /tmp/1kfa_build/guide_player_gdoc.odt
+pandoc --reference-odt=custom_pandoc_gdoc_reference.odt mod_guide_gm.md -o /tmp/1kfa_build/guide_gm_gdoc.odt
+pandoc --reference-odt=custom_pandoc_gdoc_reference.odt mod_guide_campaigns.md -o /tmp/1kfa_build/guide_campaigns_gdoc.odt
 
