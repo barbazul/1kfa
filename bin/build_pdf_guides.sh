@@ -64,9 +64,9 @@ pandoc mod_guide_gm.md --latex-engine=xelatex  -o /tmp/1kfa_build/guide_gm.pdf
 pandoc mod_guide_campaigns.md --latex-engine=xelatex  -o /tmp/1kfa_build/guide_campaigns.pdf
 
 cd /tmp/1kfa_build
-pdfjoin "$PUBLISH/1kfa_cover_page.pdf" guide_player.pdf "$PUBLISH/playtest_thankyou.pdf" --outfile x_guide_player.pdf
-pdfjoin "$PUBLISH/1kfa_cover_page.pdf" guide_gm.pdf "$PUBLISH/playtest_thankyou.pdf" --outfile x_guide_gm.pdf
-pdfjoin "$PUBLISH/1kfa_cover_page.pdf" guide_campaigns.pdf "$PUBLISH/playtest_thankyou.pdf" --outfile x_guide_campaigns.pdf
+pdfjoin --rotateoversize=false "$PUBLISH/1kfa_cover_page.pdf" guide_player.pdf "$PUBLISH/playtest_thankyou.pdf" --outfile x_guide_player.pdf
+pdfjoin --rotateoversize=false "$PUBLISH/1kfa_cover_page.pdf" guide_gm.pdf "$PUBLISH/playtest_thankyou.pdf" --outfile x_guide_gm.pdf
+pdfjoin --rotateoversize=false "$PUBLISH/1kfa_cover_page.pdf" guide_campaigns.pdf "$PUBLISH/playtest_thankyou.pdf" --outfile x_guide_campaigns.pdf
 
 mv x_guide_player.pdf guide_player.pdf
 mv x_guide_gm.pdf guide_gm.pdf
