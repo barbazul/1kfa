@@ -180,7 +180,6 @@ class DOM(object):
             if 'flowRoot' in elem.tag:
                 change_flowroot_text(elem, newtext, style, ideal_num_chars)
             elif 'text' in elem.tag:
-                print ' changing text', newtext
                 change_text_text(elem, newtext)
             else:
                 raise Exception('what the fuc')

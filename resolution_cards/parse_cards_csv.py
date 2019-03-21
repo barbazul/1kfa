@@ -46,7 +46,6 @@ def parse_levels(d2):
         'm2': 'g2',
     }
     for k,v in level_map.items():
-        print 'levels', d2[k]
         if d2[k] != '':
             if '*' in d2[k]:
                 d2['level_start'] = v
