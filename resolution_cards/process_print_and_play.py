@@ -14,7 +14,7 @@ from svg_dom import DOM, export_pdf, export_tall_png
 
 SRCDIR = '/tmp/cards_v' + VERSION
 
-DEBUG = 1
+DEBUG = int(os.environ.get('DEBUG', 1))
 
 def write_pdf(suffix, raw):
     new_fname = '/tmp/print_and_play_%s.svg' % suffix

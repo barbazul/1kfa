@@ -14,7 +14,7 @@ DIR = '/tmp/cards_v' + VERSION
 
 from svg_dom import DOM, export_png, export_tall_png, ensure_dirs
 
-DEBUG = 1
+DEBUG = int(os.environ.get('DEBUG', 1))
 
 def filenamify(s):
     x = s.lower()
@@ -289,7 +289,6 @@ def custom_card_dom(card):
     tail = filenamify(card['title'])
     fpath = 'tall_card__' + tail + '.svg'
     if os.path.isfile(fpath):
-        print 'Found custom card', fpath
         return DOM(fpath)
     return None
 
@@ -404,4 +403,3 @@ if __name__ == '__main__':
     make_deck(filtered)
     make_documentation_images(filtered)
 
-    print('now cd /a/work/deckahedron_site; bin/copy_cards.sh; git add assets; git commit')
