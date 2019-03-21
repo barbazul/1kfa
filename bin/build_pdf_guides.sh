@@ -10,6 +10,7 @@ PUBLISH=$KFAREPO/publish
 
 cd $KFAREPO
 
+source $KFAREPO/resolution_cards/version.py
 
 cp publish/markdown.css /tmp/markdown.css
 
@@ -49,22 +50,20 @@ pandoc \
  --metadata pagetitle="1kFA Campaigns Guide" \
  mod_guide_campaigns.md -o /tmp/1kfa_playtest/guide_campaigns.html
 
+rm -rf /tmp/1kfa_build
+mkdir /tmp/1kfa_build
 
 #pandoc --reference-doc=custom_pandoc_reference.odt mod_guide_player.md -o /tmp/guide_player.odt
 #pandoc --reference-doc=custom_pandoc_reference.odt mod_guide_gm.md -o /tmp/guide_gm.odt
 #pandoc --reference-doc=custom_pandoc_reference.odt mod_guide_campaigns.md -o /tmp/guide_campaigns.odt
-pandoc mod_guide_player.md --latex-engine=xelatex  -o /tmp/guide_player.pdf
-pandoc mod_guide_gm.md --latex-engine=xelatex  -o /tmp/guide_gm.pdf
-pandoc mod_guide_campaigns.md --latex-engine=xelatex  -o /tmp/guide_campaigns.pdf
-
-
-rm -rf /tmp/1kfa_build
-mkdir /tmp/1kfa_build
-cd /tmp/1kfa_build
-
+#cd /tmp/1kfa_build
 #lowriter --headless --convert-to pdf /tmp/guide*.odt
-cp /tmp/guide_*.pdf ./
 
+pandoc mod_guide_player.md --latex-engine=xelatex  -o /tmp/1kfa_build/guide_player.pdf
+pandoc mod_guide_gm.md --latex-engine=xelatex  -o /tmp/1kfa_build/guide_gm.pdf
+pandoc mod_guide_campaigns.md --latex-engine=xelatex  -o /tmp/1kfa_build/guide_campaigns.pdf
+
+cd /tmp/1kfa_build
 pdfjoin "$PUBLISH/1kfa_cover_page.pdf" guide_player.pdf "$PUBLISH/playtest_thankyou.pdf" --outfile x_guide_player.pdf
 pdfjoin "$PUBLISH/1kfa_cover_page.pdf" guide_gm.pdf "$PUBLISH/playtest_thankyou.pdf" --outfile x_guide_gm.pdf
 pdfjoin "$PUBLISH/1kfa_cover_page.pdf" guide_campaigns.pdf "$PUBLISH/playtest_thankyou.pdf" --outfile x_guide_campaigns.pdf
@@ -74,7 +73,7 @@ mv x_guide_gm.pdf guide_gm.pdf
 mv x_guide_campaigns.pdf guide_campaigns.pdf
 
 
-cp *pdf /tmp/1kfa_playtest/
+cp /tmp/1kfa_build/*pdf /tmp/1kfa_playtest/
 
 cp /tmp/print_and_play*pdf /tmp/1kfa_playtest/
 
@@ -85,9 +84,9 @@ tar -cvf 1kfa_playtest.tar 1kfa_playtest/
 gzip 1kfa_playtest.tar
 
 
-cd $KFAREPO
+#cd $KFAREPO
 # Google Docs template
-pandoc --reference-odt=custom_pandoc_gdoc_reference.odt mod_guide_player.md -o /tmp/1kfa_build/guide_player_gdoc.odt
-pandoc --reference-odt=custom_pandoc_gdoc_reference.odt mod_guide_gm.md -o /tmp/1kfa_build/guide_gm_gdoc.odt
-pandoc --reference-odt=custom_pandoc_gdoc_reference.odt mod_guide_campaigns.md -o /tmp/1kfa_build/guide_campaigns_gdoc.odt
+#pandoc --reference-odt=custom_pandoc_gdoc_reference.odt mod_guide_player.md -o /tmp/1kfa_build/guide_player_gdoc.odt
+#pandoc --reference-odt=custom_pandoc_gdoc_reference.odt mod_guide_gm.md -o /tmp/1kfa_build/guide_gm_gdoc.odt
+#pandoc --reference-odt=custom_pandoc_gdoc_reference.odt mod_guide_campaigns.md -o /tmp/1kfa_build/guide_campaigns_gdoc.odt
 
