@@ -62,9 +62,9 @@ cd /tmp/1kfa_build
 #lowriter --headless --convert-to pdf /tmp/guide*.odt
 cp /tmp/guide_*.pdf ./
 
-pdftk "$PUBLISH/1kfa_cover_page.pdf" guide_player.pdf "$PUBLISH/playtest_thankyou.pdf" cat output x_guide_player.pdf
-pdftk "$PUBLISH/1kfa_cover_page.pdf" guide_gm.pdf cat "$PUBLISH/playtest_thankyou.pdf" output x_guide_gm.pdf
-pdftk "$PUBLISH/1kfa_cover_page.pdf" guide_campaigns.pdf "$PUBLISH/playtest_thankyou.pdf" cat output x_guide_campaigns.pdf
+pdfjoin "$PUBLISH/1kfa_cover_page.pdf" guide_player.pdf "$PUBLISH/playtest_thankyou.pdf" --outfile x_guide_player.pdf
+pfdjoin "$PUBLISH/1kfa_cover_page.pdf" guide_gm.pdf cat "$PUBLISH/playtest_thankyou.pdf" --outfile x_guide_gm.pdf
+pdfjoin "$PUBLISH/1kfa_cover_page.pdf" guide_campaigns.pdf "$PUBLISH/playtest_thankyou.pdf" --outfile x_guide_campaigns.pdf
 
 mv x_guide_player.pdf guide_player.pdf
 mv x_guide_gm.pdf guide_gm.pdf
