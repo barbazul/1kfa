@@ -1,5 +1,8 @@
 #! /bin/bash
 
+set -e
+set -o xtrace
+
 # https://stackoverflow.com/questions/2013547/assigning-default-values-to-shell
 : "${KFAREPO=/home/sjbrown/work/1kfa}"
 
