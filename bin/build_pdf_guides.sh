@@ -26,6 +26,7 @@ pandoc \
  --toc \
  -t html \
  --css=/tmp/markdown.css \
+ --metadata pagetitle="1kFA Player Guide" \
  mod_guide_player.md -o /tmp/1kfa_playtest/guide_player.html
 
 pandoc \
@@ -35,6 +36,7 @@ pandoc \
  --toc \
  -t html \
  --css=/tmp/markdown.css \
+ --metadata pagetitle="1kFA GM Guide" \
  mod_guide_gm.md -o /tmp/1kfa_playtest/guide_gm.html
 
 pandoc \
@@ -44,6 +46,7 @@ pandoc \
  --toc \
  -t html \
  --css=/tmp/markdown.css \
+ --metadata pagetitle="1kFA Campaigns Guide" \
  mod_guide_campaigns.md -o /tmp/1kfa_playtest/guide_campaigns.html
 
 
@@ -77,7 +80,7 @@ cp /tmp/print_and_play*pdf /tmp/1kfa_playtest/
 
 cd /tmp/
 #zip -r 1kfa_playtest 1kfa_playtest
-rm 1kfa_playtest.tar.gz
+rm -f 1kfa_playtest.tar.gz
 tar -cvf 1kfa_playtest.tar 1kfa_playtest/
 gzip 1kfa_playtest.tar
 
