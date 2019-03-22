@@ -11,3 +11,5 @@ This is expertly put.
 EDIT: Your GM guidance is superb. I am particularly fond of the Touchstone method of setting generation.
 ```
 
+
+I just stumbled across your 1KFA game while looking for a deckbuilding RPG. It looks freaking awesome!!
