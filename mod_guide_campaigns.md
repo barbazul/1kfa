@@ -22,7 +22,7 @@ It's called *The Hero's Journey*.
 movies and books are arranged: Star Wars, Lord of the Rings, The Breakfast
 Club, Die Hard, Beowulf, Forgetting Sarah Marshall, the list goes on.
 To help you execute a successful and popular *campaign*, 1kFA
-gives the GM *Journey points* and *Challenge points* and specific rules for
+gives the GM *Journey points* and *Shadow points* and specific rules for
 using them.
 
 The main premise of *The Hero's Journey* is, characters start out in
@@ -209,14 +209,14 @@ It could be at the end of a road of trials, or inside the cave where they
 must conquer their greatest fear, or in the clutches of their most powerful
 adversary.
 
-### Allot Challenge Points
+### Allot Shadow Points
 
 Whatever the fictional set-up, when you're ready, set up a challenge in
-the narrative, then draw a circle around **all** of the *Challenge points*
+the narrative, then draw a circle around **all** of the *Shadow points*
 and use them all before the characters get a chance to Rest.
 
 If you can do this, when they complete the challenge that used up the last of
-the set-aside *Challenge points*, give them the prize of this mysterious world
+the set-aside *Shadow points*, give them the prize of this mysterious world
 and gain a *Journey point* for yourself.
 
 ### Death Is Real Here
@@ -383,12 +383,12 @@ your Touchstone List and ask yourself some questions. What is the "juice" here?
 What spectacle, what adventure might the players have been fantasizing about
 when they chose the titles you see on this list? Don't be shy about copying.
 
-### Allot Challenge Points
+### Allot Shadow Points
 
 To begin the **Search** chapter of the story, circle **half** of your
-*Challenge points*.
+*Shadow points*.
 
-This new mysterious is dangerous. The circled *Challenge points* represent
+This new mysterious is dangerous. The circled *Shadow points* represent
 this. Show the players that they might need to be smarter now. Problems are
 not solved here as easily as in the place of comfort.
 
@@ -413,7 +413,7 @@ You achieve your GM goal in the **Search** phase if
  * you gave each player a chance to "level up" their character and use their
    new skills or items
  * and you used at least one *Journey point*
- * and you used all the circled *Challenge points* you circled at the beginning
+ * and you used all the circled *Shadow points* you circled at the beginning
 
 If you do this, gain a *Journey point* and aim to move the plot to the next
 phase.
@@ -483,10 +483,10 @@ through dragon's hide.
 
 This is the thing that will answer the **Need**.
 
-### Allot Challenge Points
+### Allot Shadow Points
 
 When you're ready, set up a challenge in the narrative, then draw a circle
-around **all** of the unused *Challenge points* on your GM sheet.
+around **all** of the unused *Shadow points* on your GM sheet.
 To earn the *Journey point* of this chapter, use all the circled points
 before the characters get a chance to Rest.
 
@@ -580,12 +580,12 @@ For every wound healed, gain another *Journey point*.
 An "arc" of 3 9-hour campaigns
 
  * First Book - just the same as the 9-Hour Campaign
- * Second Book - Carry over all *Journey points* and *Challenge points*
+ * Second Book - Carry over all *Journey points* and *Shadow points*
    * Chapter 7 should return them to a different "world"
- * Third Book - Start with 0 *Journey points*, carry over the *Challenge points*
-   * *Challenge points* grow at double the rate:
-     - ✅︎ gains you 2 *Challenge points*
-     - on IMMEDIATE moves, ✗ gains you 4 *Challenge points*
+ * Third Book - Start with 0 *Journey points*, carry over the *Shadow points*
+   * *Shadow points* grow at double the rate:
+     - ✅︎ gains you 2 *Shadow points*
+     - on IMMEDIATE moves, ✗ gains you 4 *Shadow points*
    * Challenge the narrative character changes made earlier - will the
      characters give up their earlier accomplishments or boons to attempt
      for even greater ones?

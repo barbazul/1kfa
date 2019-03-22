@@ -991,7 +991,7 @@ to the characters, not just the players.
 
 This can also be a good move to underscore particularly tricky dangers. Let
 the players know that if they attempt to dive between the giant clockwork
-gears, you're going to spend a *Challenge point* to increase the difficulty.
+gears, you're going to spend a *Shadow point* to increase the difficulty.
 
 ## Drive Towards Your Next Journey Point
 
@@ -1017,14 +1017,14 @@ when things to go sideways. You can always skip it or try again.
 The GM needs a sheet of paper to make notes and track information.
 
 At the top of the sheet write the headings "Journey Points" and
-"Challenge Points".
+"Shadow Points".
 Leave enough space to track the points under each of those headings.
 
 ![GM Worksheet](images/gm_worksheet.png){ width=7cm }
 
-When a player flips and *resolves a move* with a ✅︎, gain a *Challenge point*.
+When a player flips and *resolves a move* with a ✅︎, gain a *Shadow point*.
 When a move with the *IMMEDIATE* tag is resolved with a ✗, mark
-two *Challenge points*.
+two *Shadow points*.
 
 See the Campaign Guide for rules on when to gain *Journey points*.
 
@@ -1616,10 +1616,10 @@ or wound mechanisms for PCs.
 Whenever a foe is facing any amount of *attack power*, the GM can
 just cross out an armour square to absorb the full amount.
 
-When attack power goes above d4 or armour squares are added, spend *Challenge
+When attack power goes above d4 or armour squares are added, spend *Shadow
 points* according to this table.
 
-| Challenge points    | Foe augmentation
+| Shadow points       | Foe augmentation
 |---------------------|------------------
 | 1 per               | armour square (maximum 3)
 | 2                   | attack power d6
@@ -2193,7 +2193,7 @@ In the 9 and 30-hour campaigns, there is a special GM move called "Reveal
 the Hearth"
 
 
-# Using *Challenge Points*
+# Using *Shadow Points*
 
 ## Fictional Disadvantages
 
@@ -2210,11 +2210,11 @@ Because of the set-up, it makes sense that this will be more difficult than
 if the character could clearly see the creature and the cave floor they're
 diving into.
 
- * You can spend 1 *Challenge point* to create one level of disadvantage
+ * You can spend 1 *Shadow point* to create one level of disadvantage
 
 This level of disadvantage should now be applied *consistently* whenever any
 character attempts to avoid the creature's swooping attack in a dark
-environment. No further expenditure of *Challenge points* is needed.
+environment. No further expenditure of *Shadow points* is needed.
 
 Consistency prevents players from feeling the game is unfair or that you are
 especially aiming negative consequences at one player.
@@ -2223,17 +2223,17 @@ especially aiming negative consequences at one player.
 
 When the characters are investigating a set piece or entering a new
 area, it can be trapped to cause instant damage. Inflict damage equal to
-the amount of *Challenge points* spent.
+the amount of *Shadow points* spent.
 
 ## The Enemy Strikes First
 
 When an enemy surprises or was otherwise ready for a PC, they can attack
 without giving the player an opportunity to Defy Danger. The attack power
-will be equal to the amount of *Challenge points* spent.
+will be equal to the amount of *Shadow points* spent.
 
 ## Deadly Pursuits
 
-When a player uses the Bravely Run Away move, spend 1 *Challenge point*
+When a player uses the Bravely Run Away move, spend 1 *Shadow point*
 and either:
 
  * land them in a situation where they are again in immediate danger
@@ -2242,7 +2242,7 @@ and either:
 ## Augmenting Combat Encounters
 
 As specified in the [Combat](#creating_a_combat_encounter) chapter,
-*Challenge points* can be spent to increase attack power dice, add armour
+*Shadow points* can be spent to increase attack power dice, add armour
 squares, and outfit fear-inducing monsters.
 
 # Creating Challenges for Players
@@ -2334,7 +2334,7 @@ by the heroes.
 Monsters can be defeated in combat, and work like regular foes, except that
 they can have more than 10 stamina points and they have special attacks.
 See the [Combat](#creating_a_combat_encounter) chapter for how to spend
-*Challenge points* to determine its combat stats.
+*Shadow points* to determine its combat stats.
 
 You get to choose the special attacks of your monsters. Simplicity and staying
 on-theme are the way to go here. If your monster is inspired by an animal,
@@ -2521,7 +2521,7 @@ Use Party Power to give the foes:
 | One armor square                               | 3
 
 You can also augment foes by
-[spending *Challenge points*](#using-challenge-points).
+[spending *Shadow points*](#using-shadow-points).
 
 
 ---
