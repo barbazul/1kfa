@@ -21,7 +21,7 @@ Your responsibilities are:
  * move the story to plot points
  * describe scenes
  * give Non-Player Characters (NPCs) names, voices, motivations,
-   and behaviour
+   and behavior
  * take some notes
  * and...
 
@@ -70,7 +70,7 @@ they seek from their gaming experience.
  * Players interact with cards and tokens more than sheets of paper,
    which gives a certain tactile pleasure and feels familiar to board game
    players
- * Play your favourite universe - use the setting of your favourite
+ * Play your favorite universe - use the setting of your favorite
    swords-and-magic universe from pop culture, 1kFA will support it!
  * The "surprise moment" happens for all players simultaneously - at the
    moment a card is flipped, the boldly printed result is immediately visible
@@ -338,11 +338,11 @@ Begin narrating the set-up.
 > obsessed, working sometimes until dawn.
 >
 > [Ask the player]
-> What was Gandlin's favourite breakfast food?
+> What was Gandlin's favorite breakfast food?
 >
 > One dawn it was Gandlin that was taken.
 > 
-> [Describe the scene of Gandlin's disappearance, using the favourite
+> [Describe the scene of Gandlin's disappearance, using the favorite
 > breakfast food to paint the picture]
 > 
 > Following the trail of clues, you came to the locked gate to the yard
@@ -1619,7 +1619,7 @@ Beside those, draw up to three armour squares.
 
 ![GM Worksheet](images/gm_worksheet_filled.png){ width=7cm }
 
-**Armour squares** are a mechanism for foes that work simliar to the armour
+**Armour squares** are a mechanism for foes that work similar to the armour
 or wound mechanisms for PCs.
 Whenever a foe is facing any amount of *attack power*, the GM can
 just cross out an armour square to absorb the full amount.
@@ -1690,18 +1690,18 @@ to attack first or attack from range.
 If the guards believe they have no hope of winning, they will flee or give up
 and beg for mercy.
 
-### Medium - A leiutenant and his soldiers
+### Medium - A lieutenant and his soldiers
 
 `TODO: illustration`
 
 The PCs turn a corner or open a door and stumble into a planning session
-presided over by a leiutenant and his subordinates (there are as many
+presided over by a lieutenant and his subordinates (there are as many
 subordinates as there are PCs).
 They are the swords-first, questions-later types and attack immediately at
 close range. The 3 soldiers have 6 stamina points and do 1d4 attack power.
-The leiutenant has 8 stamina points and has one armour square.
+The lieutenant has 8 stamina points and has one armour square.
 
-The leiutenant will never surrender, but if the rest of their allies are cut
+The lieutenant will never surrender, but if the rest of their allies are cut
 down, a single soldier left standing may lose his nerve and give up.
 
 ### Hard - The swamp beast
@@ -1743,7 +1743,7 @@ describe the confrontation in a way that hints at the difficulty.
 In combat, it's ok if play gets more formulaic. Some players enjoy
 the "abnegation" of a tit-for-tat combat scene that lasts tens of minutes.
 This can be a combination of exciting and relaxing. Give your players
-opportunities to press their favourite buttons.
+opportunities to press their favorite buttons.
 
 That said, some players don't seek abnegation. What kinds of signals are
 your players giving you? Maybe they want to get through combat faster. If
@@ -2396,7 +2396,7 @@ invokes fear.
  * beyond comprehension, mind-bending
  * taboo or forbidden
  * wet and against your skin
- * soulless mimicry of human behaviour or appearance
+ * soulless mimicry of human behavior or appearance
  * drains potency or causes sleep
 
 Any animal, but especially ones humans are instinctively afraid of
@@ -2511,7 +2511,7 @@ XP during epic action sequences?
 
 Catching signals is different for every GM. It's a skill that develops with
 time and its never expressed in quite the same way. Being sensitive to your
-friends' behaviour can help you catch signals that are much less explicit
+friends' behavior can help you catch signals that are much less explicit
 than the physical components.
 
 The most obvious thing to pay attention to is body language - how is a
@@ -2522,7 +2522,7 @@ How long is a player taking to make a particular decision? A long duration
 often indicates that the decision is *important* to the player, so if the
 consequences are big, they might feel very rewarded. This can be tricky
 though, when one player is taking a long time, notice the other players too
-and guage how the delay is affecting them.
+and gauge how the delay is affecting them.
 
 Do the players argue with each other? Argument indicates that they believe
 that there are important stakes of a particular decision. This can be a
@@ -2546,7 +2546,7 @@ out what kind of fun is most rewarding.
  * Name a one-hit wonder musical group.
  * Name a shop where women buy clothing.
  * What's something you buy at a hardware store?
- * What's my mother's favourite TV show?
+ * What's my mother's favorite TV show?
  * What do kids find when turning over stones in a garden?
  * Name something people believe in that isn't real.
 
