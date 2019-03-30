@@ -687,6 +687,14 @@ But it may also just be general narration.
 the only storyteller. **Ask the players questions** and use the answers.
 Embrace your curiosity.
 
+When you run Sarukkan's Chamber, there are some built-in prompts to give
+you some practice asking questions that fill in the details of a scene or
+give personality to NPCs.
+
+There are also questions that you will need to ask to establish what rules
+apply: "What is your character trying to accomplish?", "Is anyone else
+helping?", "Who is taking the lead?".
+
 The easiest question to use is "What do you do?". Whenever you make a GM move,
 end with "What do you do?". You don't even have to ask the person you made
 the move against. Take that chance to shift focus elsewhere.
@@ -2296,14 +2304,15 @@ they're stumped on a larger element?
 
 If you make a puzzle, you must be prepared for your players to be stumped.
 
-Know beforehand a couple ways that hints will emerge.
+Know beforehand a couple ways that hints will emerge. Your tools
+of narration can include more than just plain visual descriptions. You can use
+NPC dialogue, move "the camera" and engage all of the senses.
 
 Lastly, be open to simply give away the solution. Giving away the answer
 still lets players have "Aha!" moments.
 
 
 ## Monsters
-
 
 ### Monsters are part of the fiction
 
@@ -2322,12 +2331,20 @@ hellscape where the only currency is suffering.
 ### Monsters are puzzles
 
 Monsters are puzzles that can be brute-forced with violence.
+Monsters have a weakness or a preferred strategy. That may also include
+something about the environment in which the monster is encountered or
+interesting items the characters have previously acquired.
 
-Get ideas from the [Puzzles](#puzzles) section
+Be ready to follow the fun. A monster's weakness might be something
+that a player invents that you weren't expecting!
 
-Monsters have a weakness or a preferred strategy. For a threshold guardian
-monster, the weakness or strategy should demonstrate the *change* integrated
-by the heroes.
+The [Puzzles section](#puzzles) will help you develop some ideas for how
+to set up the puzzle of the encounter with a monster.
+
+For a threshold guardian monster, blocking the characters' escape out of
+the unknown world, the weakness or successful strategy should demonstrate the
+*change* integrated by the heroes during
+the ["Find" chapter](#mod_guide_campaigns).
 
 ### Monsters can be fought
 
@@ -2467,16 +2484,56 @@ constant, rejecting the change that a hero must accept to truly be a hero.
 
 ---
 
-`TODO`
+Your job as a GM is to listen and look for signals from the players about
+what *kind* of fun they want to have, and then to insert that kind of fun
+into the game.
 
- * the resources they choose, particularly move cards
- * body language - smiling, how animated they get
- * when they take a long time to make one decision
-   - usually a good sign, but also gauge others' reactions to delay
- * when they argue among each other - and the degree to which they argue
-   - this one is a tricky balance
- * the tone they take when acting out player dialogue
-   - bored? excited?
+## Signals From Components
+
+An easy signal to notice is the physical material sitting in front of each
+player. A player makes decisions about this material and
+*players want their decisions to matter*.
+
+Look at the Dex, Int, and Str on a player's character sheet. Is the fiction
+providing opportunities for them to use their greatest attribute? Are there
+opportunities for them to get into trouble with their weakest?
+
+What move cards and items are sitting in front of a player? Are they getting
+opportunities to use them all? What kinds of names have been written on the
+items? How can those names be used to amplify themes or tones of the 
+narrative?
+
+What is the state of a player's Deckahedron and XP? Is there opportunity to
+play with the tension of stamina and wounds? Is the player waiting to spend
+XP during epic action sequences?
+
+## Other Signals
+
+Catching signals is different for every GM. It's a skill that develops with
+time and its never expressed in quite the same way. Being sensitive to your
+friends' behaviour can help you catch signals that are much less explicit
+than the physical components.
+
+The most obvious thing to pay attention to is body language - how is a
+player holding themself? Are they smiling? Laughing? Do they become animated
+when they describe their character's actions or when they act out dialogue?
+
+How long is a player taking to make a particular decision? A long duration
+often indicates that the decision is *important* to the player, so if the
+consequences are big, they might feel very rewarded. This can be tricky
+though, when one player is taking a long time, notice the other players too
+and guage how the delay is affecting them.
+
+Do the players argue with each other? Argument indicates that they believe
+that there are important stakes of a particular decision. This can be a
+tricky social dynamic to navigate. As long as arguments stay friendly, a
+great way to use this signal is to cement those stakes. The good thing
+happens, but the bad thing happens too. The price is paid. Someone wins,
+someone loses.
+
+This is just a brief list of suggestions. There are more signals and more
+ways to interpret them, your table will be unique, and you will all figure
+out what kind of fun is most rewarding.
 
 ---
 
@@ -2533,42 +2590,4 @@ Sage Kobold Productions; Authors Sage LaTorra and Adam Koebel.
 
 See LICENSE.txt
 
----
 
-# TODOs
-
- * Define "scene"
- * Make a high-level flowchart
- * Annotate the GM Guide with images
-
- * Common Questions a GM will ask players
-    * Is anyone helping?
-    * Who is taking the lead?
-    * What is your character trying to accomplish?
-
----
-
-# FAQ
-
-> A player narrated a really cool use of their Air Sculpting Staff to
-> dynamically dance up magical stair steps and pounce down on an orc with their
-> dagger. Will that just trigger a regular Mix It Up? If so, doesn't that
-> mean that their use of the Air Sculpting Staff is just wasted? I want to
-> connect their cool set-up with a rewarding outcome.
-
-This might cause some pause or confusion, because 1kFA tells
-GMs they can't just hand out advantages based on fiat or "the rule of cool".
-But there are a few options here for a GM.
-
-Be on the lookout for how a player might be triggering moves that aren't
-in their hand. In this case it definitely sounds like some Derring-Do is
-afoot. Perhaps also a Backstab (this orc could arguably be very surprised by
-this magical maneuver). Ask the player if either or both of these sound
-in line with their intended outcome.
-
-Asking the player about their intended outcome is always a good way to
-start.
-
-The character will have to flip for these at the "wild" level, but that
-follows from their simultaneous wielding of a staff and a dagger and their
-attempt at performing acrobatics on invisible footholds. Not an easy stunt.
