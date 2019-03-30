@@ -45,3 +45,8 @@ Game rules:
   * If you fail, you "punch through" - legend says you'll end up in starless,
   inter-galactic space or, only by some miracle, in some other arm of the milky way
   (if it ever happens the players always end up in some other arm)
+
+<!--
+"The mutiny war"
+"The black band"
+-->
