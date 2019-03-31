@@ -38,3 +38,5 @@ for fname in md_files:
     print 'misspelled words: (`aspell check ' + fname +'` to fix)'
     os.system('cat ' + fname + ' | aspell list')
     print ''
+
+print 'Remember, use [UPDATE] for a webpage changelog message'

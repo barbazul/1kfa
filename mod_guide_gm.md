@@ -272,7 +272,8 @@ to "Donalo")
     This mini-game is a GM tool. Often, the players will look to you to
     come up with names of characters or places on the fly. Instead of
     sitting still and thinking for 30 seconds, you can can use this technique
-    to keep them engaged. See [Appendix 1](#appendix-1) for more
+    to keep them engaged. See [Appendix 1](#appendix-1-lateral-questions)
+    for more
 
 Ask each player to write down the names you just came up with on their
 character sheet.
@@ -728,7 +729,7 @@ Use their answer to describe the next scene or introduce the next challenge.
 | Return          | *this stage has it's own set of questions*
 | Change          | Which old friend or adversary is the first to greet you?
 
-Other questions to ask are [improv game questions](#appendix-1).
+Other questions to ask are [lateral questions](#appendix-1-lateral-questions).
 These are questions that have nothing to do with the current scene, but
 prompt everyone, especially you, to *think laterally*. These can be great
 to inspire you:
@@ -1667,7 +1668,7 @@ create these encounters and write up the stats in the GM Worksheet. If the
 players at your table are signaling that they enjoy the challenge of combat
 encounters and mastering the combat mechanisms embodied by their characters,
 then you can use the appendix
-[Mathematical Combat Balance](#mathematical_combat_balance)
+[Mathematical Combat Balance](#appendix_2_mathematical_combat_balance)
 to create encounters that are more objectively balanced and satisfy the type
 of player that delights in system mastery.
 
@@ -2507,7 +2508,7 @@ What is the state of a player's Deckahedron and XP? Is there opportunity to
 play with the tension of stamina and wounds? Is the player waiting to spend
 XP during epic action sequences?
 
-## Other Signals
+## Subtler Signals
 
 Catching signals is different for every GM. It's a skill that develops with
 time and its never expressed in quite the same way. Being sensitive to your
@@ -2532,12 +2533,14 @@ happens, but the bad thing happens too. The price is paid. Someone wins,
 someone loses.
 
 This is just a brief list of suggestions. There are more signals and more
-ways to interpret them, your table will be unique, and you will all figure
-out what kind of fun is most rewarding.
+ways to interpret them. Also, people will change during the course of the
+game -- it's an *ongoing* conversation. Remember, you can always ask players
+questions. Your table is be unique, and you're all working together to
+create the kinds of fun that are most rewarding.
 
 ---
 
-# Appendix 1
+# Appendix 1 - Lateral Questions
 
  * What's a city in Europe?
  * What vegetable did you eat yesterday?
@@ -2552,33 +2555,62 @@ out what kind of fun is most rewarding.
 
 ---
 
-# Appendix 2
+# Appendix 2 - Mathematical Combat Balance
 
-## Mathematical Combat Balance
+This is a simple 3-step process.
 
-### Calculate party power
+ 1. Calculate Party Power
+ 2. Create the foes
+ 3. Augment the foes
+
+## Calculate Party Power
+
+Party Power is an estimate of the PCs' combined effectiveness in combat.
+The fundamental premise is that if a 10-stamina-1d4-damage PC repeatedly
+triggered the Mix It Up move against a 10-stamina-1d4-damage foe, the 
+result would be a tense battle that could go either way.
 
 Party Power is an easy number to calculate, based on each PC in the scene.
 
-` Party power = (10 ✕ (# of PCs)) + (# of XP the PCs have) `
+` Party power = (10 × (# of PCs)) + (# of XP the PCs have) `
 
-### Create your foes
+## Create the foes
 
-Create set of enemies that challenge them to the desired degree.
+Use the Party Power to figure out the number of foes the PCs will face
+and what attributes those foes will have.
 
-A **challenging fight** for new players is made by creating foes
-balanced against the Party Power.
-
-Use Party Power to give the foes:
+Use this table to allocate Party Power among the foes:
 
 |                                                | Party Power cost
 |------------------------------------------------|------------------
 | One stamina point                              | 1
-| A weapon that does 1d6 damage                  | 4
+| A weapon that does 1d6 damage                  | 3
 | One armor square                               | 3
 
-You can also augment foes by
-[spending *Shadow points*](#using-shadow-points).
+The first step will be figuring out *how many* foes the PCs face. A fast
+way to do this is to roughly divide Party Power by the average Stamina of
+the foes (6 if the foes are human, or 10 if the foes are monsters).
+
+    Example: a group of PCs with Party Power 40 faces some dungeon guards.
+    40 ÷ 6 is roughly 6, so there are 6 foes. Giving each dungeon guard 6
+    Stamina points allocates 36 Party Power, so only 4 more of the Party
+    Power needs to be allocated.
+
+    Example: a group of PCs with Party Power 40 faces some earth elementals.
+    40 ÷ 10 is 4, so there are 4 foes. All of the Party Power has been
+    allocated into Stamina points.
+
+## Augment the foes
+
+After deciding how many foes the PCs face, continue to use the above table
+to allocate the remainder of the Party Power.
+
+    Example: 4 Party Power remains to be allocated to the dungeon guards.
+    So, one of the guards will be the "leader", who gets an extra Stamina
+    point and one armor square.
+
+Foe augmentation then proceeds by spending Shadow points as described in
+[Creating A Combat Encounter](#creating-a-combat-encounter).
 
 
 ---
