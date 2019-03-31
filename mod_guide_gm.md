@@ -1668,7 +1668,7 @@ create these encounters and write up the stats in the GM Worksheet. If the
 players at your table are signaling that they enjoy the challenge of combat
 encounters and mastering the combat mechanisms embodied by their characters,
 then you can use the appendix
-[Mathematical Combat Balance](#appendix_2_mathematical_combat_balance)
+[Mathematical Combat Balance](#appendix-2-mathematical-combat-balance)
 to create encounters that are more objectively balanced and satisfy the type
 of player that delights in system mastery.
 
@@ -2107,7 +2107,7 @@ If the players at the table are not yet inventing their own motivations for
 their characters, Fateful Moment cards can be assigned again.
 
 When the transition from downtime to adventure happens, choose Fateful Moments
-using the procedure [described above](#choose_fateful_moments).
+using the procedure [described above](#choose-fateful-moments).
 (If they still had a Fateful Moment, the new Fateful Moment replaces the old)
 
 
@@ -2250,7 +2250,7 @@ and either:
 
 ## Augmenting Combat Encounters
 
-As specified in the [Combat](#creating_a_combat_encounter) chapter,
+As specified in the [Combat](#creating-a-combat-encounter) chapter,
 *Shadow points* can be spent to increase attack power dice, add armour
 squares, and outfit fear-inducing monsters.
 
@@ -2351,7 +2351,7 @@ the ["Find" chapter](#mod_guide_campaigns).
 
 Monsters can be defeated in combat, and work like regular foes, except that
 they can have more than 10 stamina points and they have special attacks.
-See the [Combat](#creating_a_combat_encounter) chapter for how to spend
+See the [Combat](#creating-a-combat-encounter) chapter for how to spend
 *Shadow points* to determine its combat stats.
 
 You get to choose the special attacks of your monsters. Simplicity and staying
