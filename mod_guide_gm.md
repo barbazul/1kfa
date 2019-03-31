@@ -2622,4 +2622,6 @@ Sage Kobold Productions; Authors Sage LaTorra and Adam Koebel.
 
 See LICENSE.txt
 
+Special thanks to Avery Alder.
+
 
