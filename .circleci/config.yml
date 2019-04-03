@@ -33,12 +33,12 @@ jobs:
       - run:
           name: build all
           command: |
-            python2 bin/build_all.py
+            KFAREPO=~/repo python2 bin/build_all.py
 
       - run:
           name: publish to website
           command: |
-            bin/publish_web.sh
+            KFAREPO=~/repo bin/publish_web.sh
 
       - store_artifacts:
           path: test-reports
