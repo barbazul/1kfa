@@ -2,13 +2,14 @@
 
 import os, sys
 
-DEBUG = 1
+DEBUG = os.environ.get('DEBUG', 1)
 
 def run(cmd):
     if DEBUG:
         print cmd
     status = os.system(cmd)
     if status != 0:
+        print 'Error', status
         sys.exit(status)
 
 run('cd resolution_cards; python process.py')
