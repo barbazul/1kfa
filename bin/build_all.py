@@ -7,7 +7,9 @@ DEBUG = 1
 def run(cmd):
     if DEBUG:
         print cmd
-    os.system(cmd)
+    status = os.system(cmd)
+    if status != 0:
+        sys.exit(status)
 
 run('cd resolution_cards; python process.py')
 run('cd resolution_cards; python process_tall.py')
