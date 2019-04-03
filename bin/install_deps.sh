@@ -9,5 +9,6 @@ fi
 
 sudo apt-get install -y texlive-extra-utils
 sudo apt-get install -y inkscape
-sudo apt-get install -y python-lxml
+# THIS DOESNT WORK: sudo apt-get install -y python-lxml
+sudo pip install lxml
 
