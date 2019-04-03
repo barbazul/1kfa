@@ -9,7 +9,8 @@ fi
 
 sudo apt-get install -y texlive-extra-utils \
   inkscape \
-  pandoc
+  pandoc \
+  texlive-full
 
 # THIS DOESNT WORK: sudo apt-get install -y python-lxml
 sudo pip install lxml
