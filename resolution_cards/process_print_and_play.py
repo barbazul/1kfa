@@ -13,7 +13,7 @@ from version import VERSION
 from svg_dom import DOM, export_pdf, export_tall_png
 
 SRCDIR = '/tmp/cards_v' + VERSION
-OUTDIR = '/tmp/1kfa_playtest'
+OUTDIR = '/tmp/1kfa_build'
 
 DEBUG = int(os.environ.get('DEBUG', 1))
 
@@ -29,7 +29,10 @@ def write_pdf(suffix, raw):
 def process_subdir(subdirname, raw_svg):
     counter = 1
     dirpath = SRCDIR + '/' + subdirname
-    pngs = [x for x in os.listdir(dirpath) if x.endswith('.png')]
+    pngs = [
+        x for x in os.listdir(dirpath)
+        if (x.endswith('.png') and x != 'back.png')
+    ]
 
     for i, fname in enumerate(sorted(pngs)):
         if (i % 9) == 0:
@@ -53,6 +56,9 @@ def process_subdir(subdirname, raw_svg):
 
 
 if __name__ == '__main__':
+    if not os.path.isdir(OUTDIR):
+        os.makedirs(OUTDIR)
+        os.system('rm -rf %s/print_and_play*pdf' % OUTDIR)
     fp = file('print_and_play_move_template.svg')
     template = fp.read()
     fp.close()
