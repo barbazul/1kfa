@@ -13,12 +13,13 @@ from version import VERSION
 from svg_dom import DOM, export_pdf, export_tall_png
 
 SRCDIR = '/tmp/cards_v' + VERSION
+OUTDIR = '/tmp/1kfa_playtest'
 
 DEBUG = int(os.environ.get('DEBUG', 1))
 
 def write_pdf(suffix, raw):
-    new_fname = '/tmp/print_and_play_%s.svg' % suffix
-    new_pdf_name = '/tmp/print_and_play_%s.pdf' % suffix
+    new_fname = OUTDIR + '/print_and_play_%s.svg' % suffix
+    new_pdf_name = OUTDIR + '/print_and_play_%s.pdf' % suffix
     print 'Writing', new_pdf_name
     fp = file(new_fname, 'w')
     fp.write(raw)
@@ -63,7 +64,7 @@ if __name__ == '__main__':
 
 
     fname = 'print_and_play_deckahedron_template.svg'
-    new_pdf_name = '/tmp/print_and_play_deckahedron.pdf'
+    new_pdf_name = OUTDIR + '/print_and_play_deckahedron.pdf'
     print 'Writing', new_pdf_name
     export_pdf(fname, new_pdf_name)
 

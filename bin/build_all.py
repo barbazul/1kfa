@@ -17,3 +17,5 @@ run('cd resolution_cards; python process_tall.py')
 run('cd resolution_cards; python process_tenstep.py')
 run('cd resolution_cards; python process_print_and_play.py')
 run('bash bin/build_pdf_guides.sh')
+run('bash bin/gzip_artifacts.sh')
+

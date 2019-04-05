@@ -75,15 +75,6 @@ mv x_guide_campaigns.pdf guide_campaigns.pdf
 
 cp /tmp/1kfa_build/*pdf /tmp/1kfa_playtest/
 
-cp /tmp/print_and_play*pdf /tmp/1kfa_playtest/
-
-cd /tmp/
-#zip -r 1kfa_playtest 1kfa_playtest
-rm -f 1kfa_playtest.tar.gz
-rm -f 1kfa_playtest.tar
-tar -cvf 1kfa_playtest.tar 1kfa_playtest/
-gzip 1kfa_playtest.tar
-
 
 #cd $KFAREPO
 # Google Docs template
