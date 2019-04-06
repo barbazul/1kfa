@@ -12,6 +12,7 @@ source $KFAREPO/resolution_cards/version.py
 
 cd /tmp/
 
+mkdir -p /tmp/1kfa_playtest
 rm -f 1kfa_playtest.tar.gz
 rm -f 1kfa_playtest.tar
 cp /tmp/1kfa_guide_build/*.pdf 1kfa_playtest/
