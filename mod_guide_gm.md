@@ -1488,7 +1488,14 @@ This is a game where the players play together on the same team.
 Before the game begins, establish for *every* PC, what makes them feel most
 at home, and how the characters already know each other.
 
-Ask the group to choose by consensus one of these things that they all
+Go around the table and ask:
+
+> What makes your character feel most at home, or what activity do they
+> find the most comfort or competence in?
+
+Write down the answers.
+
+Then, ask the group to choose by consensus one of these things that they all
 have in common, and ask them to describe why this common thing bonds them
 together and why it makes them comrades that would risk their lives for
 each other.
@@ -1500,13 +1507,53 @@ each other.
  * Ritual or festival
  * Group activity
 
+> This is a game where you all play together on the same team.
+>
+> So, let's bring all these characters together. We're going to decide on
+> something that exists in the world of our Touchstone List that all of
+> these characters value. They value it so much that they are going to
+> team up to defend it - maybe even with their lives.
+>
+> We will call this thing "The Hearth".
+>
+> The Hearth can be a specific person or people. Maybe each character
+> shares a friendly uncle?
+> The Hearth can be food. Do all these characters depend on the fruit
+> of the quartzberry tree?
+> The Hearth can be a song. Is the valley home of these characters always
+> humming with the melodies of the wood elves?
+> The Hearth can be an environmental feature. Does the village home of
+> all these characters depend on the limestone spring for water?
+> The Hearth can be a ritual or festival. On the equinox, must every
+> tribe send a representative to seal the portal to the netherworld?
+> The Hearth can be a group activity. No warrior may abandon the hunt
+> until the beast is caught. Nor may they abandon each other.
+>
+> Those are some examples, but the choice is up to you. What will be
+> The Hearth of this band of adventurers?
+
 This answer will be known as The Hearth.  Write it down on the same sheet
 as the Touchstone List and label it "The Hearth".
 
-The Hearth is something that will be made inaccessible to the party when
-the first threshold is crossed, and be made available again when the second
-threshold is crossed. For details on thresholds, see the
-[Campaign Guide](mod_guide_campaigns.md).
+Next, go around the table again and ask:
+
+> Briefly, why would your character risk their life for The Hearth?
+
+Write down the answers.
+
+An important aspect of The Hearth is that it must be something that the
+characters can be separated from. When the players are deciding on The
+Hearth, keep this in mind. You will soon need to find an opportunity in
+the narrative to cause the hearth to be broken, forgotten, moved somewhere
+else, corrupted, or otherwise threatened.
+
+The Hearth is necessary, with the Seek Help move, to completely heal from
+wounds.
+
+When the party crosses the first threshold, The Hearth will be made
+inaccessible, and therefore the characters won't be able to fully heal.
+It will be made available again when the second threshold is crossed.
+For details on thresholds, see the [Campaign Guide](mod_guide_campaigns.md).
 
 Use what the players describe to get your first *Journey point*,
 by starting the story out in a place of normalcy, vitality, and comfort.

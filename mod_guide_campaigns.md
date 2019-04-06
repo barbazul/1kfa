@@ -1,7 +1,6 @@
 # GM Guide - Campaigns
 
-In A Thousand Faces of Adventure (hereafter abbreviated to 1kFA),
-there are 3 different kinds of Campaigns:
+In A Thousand Faces of Adventure, there are 3 different kinds of Campaigns:
 
  * One-shot (usually 3 hours)
  * 9-hour
@@ -29,8 +28,8 @@ The main premise of *The Hero's Journey* is, characters start out in
 a figurative "ordinary world", they go to a "mysterious world", and finally,
 they return.
 
-As you and your players create the narrative, you will have opportunities to
-shape events. You decide how the world and the NPCs react to the actions of
+As you and the other players create the narrative, you will have opportunities
+to shape events. You decide how the world and the NPCs react to the actions of
 the PCs, and you have the freedom to describe the "meanwhile" -- all the
 goings-on "off-screen".
 Use these powers to pull the narrative into a multi-chapter structure,
@@ -107,14 +106,14 @@ arise.
 
 In a One-Shot campaign, there are 4 potential *Journey points* to earn.
 
+<a name="one-shot-ch-1" />
 ## Chapter 1: Start in a place of normalcy / comfort
 
-The first *Journey point* is a "gimmie": If you can think of a
-way to start all of the PCs in their place of normalcy or
-comfort, gain a *Journey point*. You *did* remember to follow the rules in
-the Character Creation chapter and ask the players about The Hearth, right?
+The first *Journey point* is a "gimmie": If you can think of a way to start all
+of the PCs in their place of normalcy or comfort, gain a *Journey point*. You
+*did* remember to do Step 10 in the Character Creation chapter, right?
 
-Give the players a chance to establish what normal is for their characters.
+Give the players a chance to establish what "normal" is for their characters.
 This is an environment that they can manage. They know what to expect here,
 and to survive here requires no fundamental change on their part.
 
@@ -127,16 +126,16 @@ Perhaps the characters get into conflict: social, or physical.
 
 As you are playing this out, you should be looking out for two things:
 
- 1. Opportunities to establish a need that will move the story to Chapter 2
-   * signs of an approaching threat
-   * what about their home annoys, frustrates, or threatens them?
+ 1. Opportunities to establish a *need* that will move the story to Chapter 2
+    * signs of an approaching threat
+    * what about their home annoys, frustrates, or threatens them?
  2. A premise. Listen for a statement or action that asserts a fundamental truth
-   * "Nobody bakes a pie like Herbert"
-   * "Shelbyville thinks they're so great, but really, they stink"
-   * "I'm just a Hobbit, I can't steal from a dragon"
-   * "Things will go on like this forever"
-   * "As long as there's a tree to climb, I don't have to worry about wolves"
-   * "If only you could see things from my perspective"
+    * "Nobody bakes a pie like Herbert"
+    * "Shelbyville thinks they're so great, but really, they stink"
+    * "I'm just a Hobbit, I can't steal from a dragon"
+    * "Things will go on like this forever"
+    * "As long as there's a tree to climb, I don't have to worry about wolves"
+    * "If only you could see things from my perspective"
 
 You should make a note of any premise, so you can use it later when creating
 puzzles, monsters and villains.
@@ -146,16 +145,17 @@ puzzles, monsters and villains.
 
 As the game progresses, the conversation at the table will start
 establishing details about the world and about relationships between
-characters. Look for areas of tension and try to develop it.  Push characters
-into discomfort. Raise the stakes. Then look for a *threshold*. Look for
-some line that once crossed, they can't simply turn around and go back.
+characters. Find areas of tension and try to develop that tension.
+Push characters into discomfort. Raise the stakes. Then look for a
+*threshold*. Look for some line that, once crossed, they can't simply turn
+around and go back.
 They might enthusiastically seek it out, they might even cross over before
-you've even figured out what it should be (if so, all that's left for you is
-to mark yourself a *Journey point*). But you might also need to increase
-the pressures in their "home" to gently nudge the characters up against
+you've figured out what it should be (if so, all that's left for you is
+to mark yourself a *Journey point*). But you might also need to increase the
+pressures in their "home" to gently nudge the characters up against
 that threshold.
 
-But, if you want that point, **don't push them through.**
+But, if you want that *Journey point*, **don't push them through.**
 
 See if the players choose to step their characters through the threshold.
 If all of them cross the threshold and step away from their ordinary world
@@ -179,6 +179,7 @@ a "hook". Here are some things to think about to help you invent a hook:
  * Re-order, Rearrange, Fortify
     - What is unbalanced, and what effect does that have on the world?
     - Who is not doing their job?
+    - What special protection needs to be put around The Hearth?
  * Forbidden Act
     - What is the rule that must not be broken?
     - Who forbids it?
@@ -190,8 +191,7 @@ Give the players an opportunity to earn something *epic* for their characters.
 It can be a great treasure, it can be fame and renown, it can be weaponry, a
 magical boon, the elusive respect of an NPC, it can even be self confidence.
 It can be an appreciation for the power of friendship. (Pixar and Disney have
-some *incredibly* well-done Hero's Journey stories. Don't discount them
-because they're animated.)
+some *incredibly* well-done Hero's Journey stories.)
 
 It's important not to create a prize that just seems cool to you, the GM.
 The prize should follow from the fiction. It should be something that is
@@ -247,12 +247,14 @@ For rules on ressurection, see [Using Journey Points](#using-journey-points).
 ### The Prize
 
 The "prize" can be something completely related to the narrative, or it can
-invoke the mechanisms of the game, or both. If the characters receive
-something related to game mechanisms, you may remove one cost or condition
-for any move.
+invoke the mechanisms of the game, or both.
+
+In giving the characters the prize, you may "break the rules" by removing
+a cost or condition. 
 
 So, for example, you may declare that the characters do not have to be
-"in a town" to execute the Study Under a Master move.
+"in a town" to execute the Study Under a Master move. Or the Tales of a
+Weapon move may be skipped to award the characters with a powerful weapon.
 
 This relaxation of the rules only applies to Chapter 3, and should be
 narratively justified.
@@ -262,14 +264,17 @@ narratively justified.
 
 In the final chapter, find a way to return the characters "home". It need not
 be their literal home, nor does it need to be where the adventure started,
-geographically. Go back to that original statement the players made
-about their character's place of comfort, and tease apart what makes that
-feel like "home" for them. Guide them back into a situation that has the same
-feeling at its core.
+geographically. The important thing is: at this stage in the narrative
+The Hearth is available again.
 
-But they are changed. They have been on an adventure, they've seen things,
-done things. They are now masters of a new way of existing, unafraid of
-crossing into the previously alien world beyond their "home".
+You are free to "re-imagine" The Hearth here. If it was previously the song
+of the Wood Elves, it can now be the song of the Iron Gnomes. If you keep
+the emotional core the same, you can change superficial details. But give
+the players enough superficial hints to recognize it.
+
+The heroes are "home", but they are changed. They have been on an adventure,
+seen things, done things. They are now masters of a new way of existing,
+unafraid of crossing into the previously "alien" world.
 
 By dialogue or action, each player character should exhibit their change.
 
@@ -312,7 +317,7 @@ to memory will make it go a little easier:
 **AKA: Start in a place of normalcy / comfort**
 
 In the 9-hour campaign, start the game just like you would in the One-shot
-campaign.
+campaign. See [Chapter 1 of the One-Shot Campaign](#one-shot-ch-1)
 
 ## Chapter 2: Need
 
@@ -548,7 +553,7 @@ to come to terms with where they've been and who they are now.
 A game of 1kFA can resolve in many ways. Where does their new
 power lie? Game mechanisms? Relationships? Knowledge? Something else?
 
-### The Chapter 8 Move
+### The Chapter 8 Move: Reveal The Hearth
 
 The first time any PC:
 
