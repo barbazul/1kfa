@@ -12,8 +12,9 @@ from version import VERSION
 
 from svg_dom import DOM, export_pdf, export_tall_png
 
-SRCDIR = '/tmp/cards_v' + VERSION
-OUTDIR = '/tmp/1kfa_build'
+CARDSDIR = '/tmp/cards_v' + VERSION
+OUTDIR = '/tmp/1kfa_pnp_build'
+TEMPLATEDIR = os.environ.get('KFAREPO', '.')
 
 DEBUG = int(os.environ.get('DEBUG', 1))
 
@@ -28,7 +29,7 @@ def write_pdf(suffix, raw):
 
 def process_subdir(subdirname, raw_svg):
     counter = 1
-    dirpath = SRCDIR + '/' + subdirname
+    dirpath = CARDSDIR + '/' + subdirname
     pngs = [
         x for x in os.listdir(dirpath)
         if (x.endswith('.png') and x != 'back.png')
@@ -58,18 +59,18 @@ def process_subdir(subdirname, raw_svg):
 if __name__ == '__main__':
     if not os.path.isdir(OUTDIR):
         os.makedirs(OUTDIR)
-        os.system('rm -rf %s/print_and_play*pdf' % OUTDIR)
-    fp = file('print_and_play_move_template.svg')
+    os.system('rm -rf %s/print_and_play*pdf' % OUTDIR)
+    fp = file('%s/print_and_play_move_template.svg' % TEMPLATEDIR)
     template = fp.read()
     fp.close()
 
-    for name in os.listdir(SRCDIR):
-        if not os.path.isdir(SRCDIR + '/' + name):
+    for name in os.listdir(CARDSDIR):
+        if not os.path.isdir(CARDSDIR + '/' + name):
             continue
         process_subdir(name, template)
 
 
-    fname = 'print_and_play_deckahedron_template.svg'
+    fname = '%s/print_and_play_deckahedron_template.svg' % TEMPLATEDIR
     new_pdf_name = OUTDIR + '/print_and_play_deckahedron.pdf'
     print 'Writing', new_pdf_name
     export_pdf(fname, new_pdf_name)

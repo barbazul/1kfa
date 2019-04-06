@@ -14,53 +14,53 @@
    viewBox="0 0 744.09448819 1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="playtest_thankyou.svg">
   <defs
-     id="defs4"><clipPath
-   clipPathUnits="userSpaceOnUse"
-   id="clipPath4169">
-  <path
-     d="M 0,302 792,302 792,0 0,0 0,302 Z"
-     id="path4171"
-     inkscape:connector-curvature="0" />
-</clipPath>
-<filter
-   inkscape:collect="always"
-   style="color-interpolation-filters:sRGB"
-   id="filter35345-5-7"
-   x="-0.099351496"
-   width="1.1987031"
-   y="-0.13706446"
-   height="1.2741289">
-  <feGaussianBlur
-     inkscape:collect="always"
-     stdDeviation="3.2026665"
-     id="feGaussianBlur35347-6-0" />
-</filter>
-<filter
-   inkscape:collect="always"
-   style="color-interpolation-filters:sRGB"
-   id="filter35345-2"
-   x="-0.099351496"
-   width="1.1987031"
-   y="-0.13706446"
-   height="1.2741289">
-  <feGaussianBlur
-     inkscape:collect="always"
-     stdDeviation="3.2026665"
-     id="feGaussianBlur35347-4" />
-</filter>
-<clipPath
-   id="clipPath7457"
-   clipPathUnits="userSpaceOnUse">
-  <path
-     inkscape:connector-curvature="0"
-     id="path7459"
-     d="M 0,349 489,349 489,0 0,0 0,349 Z" />
-</clipPath>
-
-</defs>
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4169">
+      <path
+         d="M 0,302 792,302 792,0 0,0 0,302 Z"
+         id="path4171"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter35345-5-7"
+       x="-0.099351496"
+       width="1.1987031"
+       y="-0.13706446"
+       height="1.2741289">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.2026665"
+         id="feGaussianBlur35347-6-0" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter35345-2"
+       x="-0.099351496"
+       width="1.1987031"
+       y="-0.13706446"
+       height="1.2741289">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.2026665"
+         id="feGaussianBlur35347-4" />
+    </filter>
+    <clipPath
+       id="clipPath7457"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7459"
+         d="M 0,349 489,349 489,0 0,0 0,349 Z" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -68,17 +68,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.21819954"
-     inkscape:cx="87.223391"
-     inkscape:cy="526.02769"
+     inkscape:zoom="0.43639908"
+     inkscape:cx="1154.087"
+     inkscape:cy="409.80118"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="980"
-     inkscape:window-height="401"
+     inkscape:window-width="1600"
+     inkscape:window-height="876"
      inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true" />
@@ -90,7 +90,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -178,113 +178,114 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Sawasdee;-inkscape-font-specification:Sawasdee;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="161.40558"
-       y="493.53778"
-       id="text4620"><tspan
+       y="503.53778"
+       id="text4620"
+       sodipodi:linespacing="0%"><tspan
          style="font-size:15px;line-height:1.25"
          sodipodi:role="line"
          id="tspan4622"
          x="161.40558"
-         y="493.53778">Hi, thanks for playtesting A Thousand Faces of Adventure!</tspan><tspan
+         y="503.53778">Hi, thanks for playtesting A Thousand Faces of Adventure!</tspan><tspan
          style="font-size:15px;line-height:1.25"
          sodipodi:role="line"
          x="161.40558"
-         y="512.28778"
+         y="522.28778"
          id="tspan4624"> </tspan><tspan
          style="font-size:15px;line-height:1.25"
          sodipodi:role="line"
          x="161.40558"
-         y="531.03778"
+         y="541.03778"
          id="tspan4626">I am striving to make this game as awesome as my soft human</tspan><tspan
          style="font-size:15px;line-height:1.25"
          id="tspan6306"
          sodipodi:role="line"
          x="161.40558"
-         y="549.78778">body will allow, my hope fueled by the facts that we've split the</tspan><tspan
+         y="559.78778">body will allow, my hope bolstered by the evidence of human</tspan><tspan
          style="font-size:15px;line-height:1.25"
          sodipodi:role="line"
          x="161.40558"
-         y="568.53778"
-         id="tspan4656">atom and domesticated cats. Any great human accomplishment</tspan><tspan
+         y="578.53778"
+         id="tspan4656">potential: we've split the atom and domesticated cats. Any great</tspan><tspan
          id="tspan1889"
          style="font-size:15px;line-height:1.25"
          sodipodi:role="line"
          x="161.40558"
-         y="587.28778">depends on tests, and so A Thousand Faces of Adventure</tspan><tspan
+         y="597.28778">accomplishment depends on tests, and so A Thousand Faces</tspan><tspan
          id="tspan1897"
          style="font-size:15px;line-height:1.25"
          sodipodi:role="line"
          x="161.40558"
-         y="606.03778">depends on you.</tspan><tspan
+         y="616.03778">of Adventure depends on you, the tester.</tspan><tspan
          style="font-size:15px;line-height:1.25"
          sodipodi:role="line"
          x="161.40558"
-         y="624.78778"
+         y="634.78778"
          id="tspan4628"> </tspan><tspan
          style="font-size:15px;line-height:1.25"
          sodipodi:role="line"
          x="161.40558"
-         y="643.53778"
+         y="653.53778"
          id="tspan4630">Email me with any thoughts or comments at sjb@ezide.com</tspan><tspan
          style="font-size:15px;line-height:1.25"
          sodipodi:role="line"
          x="161.40558"
-         y="662.28778"
+         y="672.28778"
          id="tspan4632"> </tspan><tspan
          style="font-size:15px;line-height:1.25"
          sodipodi:role="line"
          x="161.40558"
-         y="681.03778"
+         y="691.03778"
          id="tspan26750">If you want to follow the development, join me on Twitter</tspan><tspan
          id="tspan1901"
          style="font-size:15px;line-height:1.25"
          sodipodi:role="line"
          x="161.40558"
-         y="699.78778">at @boardcrafting</tspan><tspan
+         y="709.78778">at @boardcrafting</tspan><tspan
          style="font-size:15px;line-height:1.25"
          sodipodi:role="line"
          x="161.40558"
-         y="718.53778"
+         y="728.53778"
          id="tspan4636"> </tspan><tspan
          style="font-size:15px;line-height:1.25"
          sodipodi:role="line"
          x="161.40558"
-         y="737.28778"
+         y="747.28778"
          id="tspan4638">All materials you need to playtest at home can be found here:</tspan><tspan
          style="font-size:15px;line-height:1.25"
          sodipodi:role="line"
          x="161.40558"
-         y="756.03778"
+         y="766.03778"
          id="tspan4642">http://www.1kfa.com/playtest_files or just email me a mailing</tspan><tspan
          style="font-size:15px;line-height:1.25"
          id="tspan6312"
          sodipodi:role="line"
          x="161.40558"
-         y="774.78778">address and I'll send you a physical copy.</tspan><tspan
+         y="784.78778">address and I'll work with you to get you a physical copy.</tspan><tspan
          style="font-size:15px;line-height:1.25"
          sodipodi:role="line"
          x="161.40558"
-         y="793.53778"
+         y="803.53778"
          id="tspan4644"> </tspan><tspan
          style="font-size:15px;line-height:1.25"
          sodipodi:role="line"
          x="161.40558"
-         y="812.28778"
+         y="822.28778"
          id="tspan4646">Thanks again,</tspan><tspan
          style="font-size:15px;line-height:1.25"
          sodipodi:role="line"
          x="161.40558"
-         y="831.03778"
+         y="841.03778"
          id="tspan4648"> </tspan><tspan
          style="font-size:15px;line-height:1.25"
          sodipodi:role="line"
          x="161.40558"
-         y="849.78778"
+         y="859.78778"
          id="tspan4650"> </tspan><tspan
          style="font-size:15px;line-height:1.25"
          sodipodi:role="line"
          x="161.40558"
-         y="868.53778"
-         id="tspan26758">Shandy</tspan></text>
+         y="878.53778"
+         id="tspan26758">                            Shandy</tspan></text>
     <g
        id="g5257"
        transform="matrix(1.514966,0,0,1.514966,-1693.0233,-834.13858)">
