@@ -163,14 +163,8 @@ def filter_dom_elements(dom, card):
             if '_0lines' in key or '_2lines' in key:
                 dom.layer_hide(key)
 
-        if 'levels' in key and not card.get('level_start'):
+        if 'levels' in key and not card.get('levels'):
             dom.layer_hide(key)
-
-    if card.get('level_start'):
-        if has_card_spots and checks:
-            cut_these.remove('spot_level_start_' + card['level_start'])
-        else:
-            cut_these.remove('level_start_' + card['level_start'])
 
     if card.get('reqs'):
         cut_these.remove(card['reqs'])

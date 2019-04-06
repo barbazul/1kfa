@@ -33,13 +33,7 @@ def make_card(C):
     two_check = parse(getattr(C, 'two_check', ''))
     three_check = parse(getattr(C, 'three_check', ''))
     desc_detail = parse(C.desc)
-    if getattr(C, 'levels', []):
-        levels = C.levels
-    else:
-        if getattr(C, 'level_start', None):
-            levels = ['r3', 'r2', 'r1', '0', 'g1', 'g2']
-        else:
-            levels = []
+    levels = getattr(C, 'levels', [])
 
     card = {
         'title': title,
