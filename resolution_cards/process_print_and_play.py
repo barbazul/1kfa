@@ -14,7 +14,7 @@ from svg_dom import DOM, export_pdf, export_tall_png
 
 CARDSDIR = '/tmp/cards_v' + VERSION
 OUTDIR = '/tmp/1kfa_pnp_build'
-TEMPLATEDIR = os.environ.get('KFAREPO', '.')
+TEMPLATEDIR = os.environ.get('KFAREPO', '..') + '/resolution_cards'
 
 DEBUG = int(os.environ.get('DEBUG', 1))
 
