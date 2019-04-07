@@ -1,6 +1,6 @@
 # A Thousand Faces of Adventure: Player's Guide
 
-*playtest version*
+*playtest version* VERSION DATE
 
 *find latest version at https://1kfa.com*
 

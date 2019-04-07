@@ -128,7 +128,7 @@ As you are playing this out, you should be looking out for two things:
 
  1. Opportunities to establish a *need* that will move the story to Chapter 2
     * signs of an approaching threat
-    * what about their home annoys, frustrates, or threatens them?
+    * what about their home annoys, frustrates, or stifles them?
  2. A premise. Listen for a statement or action that asserts a fundamental truth
     * "Nobody bakes a pie like Herbert"
     * "Shelbyville thinks they're so great, but really, they stink"
@@ -141,6 +141,7 @@ You should make a note of any premise, so you can use it later when creating
 puzzles, monsters and villains.
 
 
+<a name="one-shot-ch-2" />
 ## Chapter 2: Cross a threshold with a true choice
 
 As the game progresses, the conversation at the table will start
@@ -185,6 +186,8 @@ a "hook". Here are some things to think about to help you invent a hook:
     - Who forbids it?
     - What power structure does the rule support?
 
+
+<a name="one-shot-ch-3" />
 ## Chapter 3: Take a thing and pay its (mortal?) price
 
 Give the players an opportunity to earn something *epic* for their characters.
@@ -260,6 +263,7 @@ This relaxation of the rules only applies to Chapter 3, and should be
 narratively justified.
 
 
+<a name="one-shot-ch-4" />
 ## Chapter 4: Return to the surface, changed.
 
 In the final chapter, find a way to return the characters "home". It need not
@@ -312,6 +316,7 @@ to memory will make it go a little easier:
 
 (this compact formulation is inspired by Dan Harmon's "Story Circle")
 
+<a name="9-hour-ch-1" />
 ## Chapter 1: You
 
 **AKA: Start in a place of normalcy / comfort**
@@ -319,58 +324,102 @@ to memory will make it go a little easier:
 In the 9-hour campaign, start the game just like you would in the One-shot
 campaign. See [Chapter 1 of the One-Shot Campaign](#one-shot-ch-1)
 
+
+<a name="9-hour-ch-2" />
 ## Chapter 2: Need
 
 **AKA: Call to adventure**
 
-`TODO`
+In this chapter, the characters still feel safe, but discover that there
+is something they need to do soon, or somewhere they need to go.
+This is also a great chapter for the characters to express premises.
 
- * Provide a sandbox to play in, let the players establish what their
-   characters value here in the sandbox
-   * It could be a thing, but it could also be a theme - freedom,
-     progress, peace, etc
+This chapter is an opportunity for players to elaborate their characters'
+relationships, interests, and skills.
+Provide a sandbox to play in, let the players establish what their
+characters value here in the sandbox. Try to give them some choices that
+express themes of the Touchstone List. Will they choose harmony over
+freedom? Freedom over peace? Peace over progress?
 
- * Show something valuable is threatened (maybe the known world)
+### The Threat
 
- * Herald or Message - the mysterious world threatens something valuable.
+While this is playing out, reveal that something valuable is threatened.
+This valuable thing is often The Hearth itself, but it could be many things,
+up to and including the known universe. If you are ever struggling to decide,
+just choose The Hearth or ask the table.
 
- * Show a threat or challenge that they cannot *yet* overcome
-   * That may mean they are defeated by it
-     * They **need** more power
-   * Maybe a spell or skill is needed
-     * They **need** more power
-   * Maybe knowledge is needed
-     * They **need** information from the mysterious world
-   * Maybe their place of comfort is exposed as insufficient
-     * They **need** a place to grow / explore / stretch their legs
+The threat might be revealed by an NPC that acts as a "Herald".
+This is someone that appears with a message about something from the
+mysterious world where it is dangerous to venture. Usually this mysterious
+world or one of it's denziens is the force behind the threat.
 
- * Be honest about this threat. If they fight something they cannot defeat
-   and don't retreat, incapacitation, even death† is an option.
+ * The village medium
+ * A raven arrives from the neighboring kingdom
+ * A ragged wanderer appears out of the wilderness
 
- * Impossible threat comes alongside a suggestion of hope
-   * "Maybe the oracle will know"
-   * "Great Hero perished in the badlands, but maybe his sword survived"
-   * Herald makes a promise
-   * You can be a small part of the solution if you come with me
+The threat might be revealed by using the game rules and playing out a
+challenge that the PCs cannot *yet* overcome. If this plays out as combat,
+be honest about the size of this threat - the PCs may fight something they
+cannot subdue. It may result in their defeat and incapacitation.
 
- * This threatening force will progress no matter the characters' choices
-   and will pervade the story as a "front".
+### The Mission
 
- * This is important: *the characters _need_ the things they will get when
-   the players _play_ the game*
+Establishing the need serves a purpose for both the narrative and for the *game*.
+The characters *need* the things they will get when the players *play* the game.
+
+ * Maybe the characters are defeated in a first encounter
+   * The players **need** more power, in a broad sense
+ * Maybe a spell or skill would exploit the threat's weakness
+   * The players **need** more moves / items
+ * Maybe characters' knowledge is lacking
+   * The players **need** information from the mysterious world
+ * Maybe characters' place of comfort is exposed as insufficient
+   * The players **need** a dangerous place to grow / explore / stretch their legs
+
+This unstoppable threat should come alongside a suggestion of hope. NPCs can
+be very useful to propose this last thread of hope.
+
+ * "The Oracle will know what to do, she always knows."
+ * "Khalrielle perished in the badlands, but maybe her sword survived."
+ * The Herald makes a promise or proposes a trade
+ * A command from a superior: "Come with me, and do your part. We shall prevail."
+
+When it seems clear that the PCs are aligned towards a common goal, ask the
+table to formulate their goal as a 2-6 word phrase. When this is decided, write
+the phrase down on the same sheet as the Touchstone List.
+If you do this, gain a *Journey point* and aim to move the plot to the next
+phase.
+
+This threatening force will progress no matter the characters' choices and will
+pervade the narrative. A common narrative device in movies is "The Refusal of
+the Call" wherein the protagonists deny the Call to Adventure. If the PCs
+refuse their call, continue ramping up the tension and expose the downsides of
+that choice. It will lead naturally to Chapter 3.
 
 
+<a name="9-hour-ch-3" />
 ## Chapter 3: Go
 
 **AKA: Threshold and Threshold Guardian**
 
- * Same as One-shot campaign "Go"
+In the 9-hour campaign, run Chapter 3 just like you would in the "Cross a
+Threshold" chapter of the One-shot campaign. The *Journey point* is gained
+when the PCs cross a threshold with a true choice.
+See [Chapter 2 of the One-Shot Campaign](#one-shot-ch-2)
 
-`TODO`
+In a 9-hour campaign, the characters might have built up a little more
+XP or other resources than they would have in the One-shot campaign. One
+way to make the threshold-crossing choice more dramatic is to set up
+a resource-depleting challenge that blocks the threshold. This challenge
+is called a "Threshold Guardian" and is often expressed in the narrative
+as a literal guardian - some kind of monster.
 
- * The amount of contrast between the ordinary and special worlds
+Another way to dramatize the threshold crossing is to make the choice about
+whether or not to enter the mysterious world *alone*. Maybe the portal is
+closing, maybe their NPC allies are buying them time. Maybe these PC
+halflings are the only ones who will fit into the goblin armor.
 
-
+<a name="9-hour-ch-4" />
 ## Chapter 4: Search
 
 **AKA: Road of Trials**
@@ -424,6 +473,7 @@ If you do this, gain a *Journey point* and aim to move the plot to the next
 phase.
 
 
+<a name="9-hour-ch-5" />
 ## Chapter 5: Find
 
 **AKA: Dark night of the soul**
@@ -471,6 +521,7 @@ questions above, or if any player switched from "Lucky" to "Heroic", gain
 a *Journey point*.
 
 
+<a name="9-hour-ch-6" />
 ## Chapter 6: Take & Pay
 
 **AKA: The Ordeal**
@@ -501,6 +552,7 @@ Just as in the One-Shot campaign's Chapter 3, in this Chapter, the consequence
 for full Stamina loss is death.
 
 
+<a name="9-hour-ch-7" />
 ## Chapter 7: Return
 
 Start a conversation.
@@ -542,6 +594,7 @@ or obstacle that embodies:
  * rejection that this story must end
 
 
+<a name="9-hour-ch-8" />
 ## Chapter 8: Change
 
 **AKA: Freedom from the fear of death**
@@ -573,27 +626,59 @@ or group activity that was identified at the beginning of the game.
 Describe how The Hearth which has been inaccessible, snuffed out, or hidden
 since the characters crossed the first threshold is now rekindled, reborn,
 re-imagined or its inheritor is revealed. All the PCs now have a chance to
-heal their wounds.
+fully heal their wounds.
 
 For every wound healed, gain another *Journey point*.
 
 
 # 30-hour Campaign
 
-`TODO`
+A 30-hour campaign is a trilogy of 9-hour campaigns, called "Books", with
+slight rules tweaks in the Book 2 and Book 3.
 
-An "arc" of 3 9-hour campaigns
+Book 1 will play just the same as the 9-hour campaign. The PCs
+will venture from their original home into a mysterious world, and return.
 
- * First Book - just the same as the 9-Hour Campaign
- * Second Book - Carry over all *Journey points* and *Shadow points*
-   * Chapter 7 should return them to a different "world"
- * Third Book - Start with 0 *Journey points*, carry over the *Shadow points*
-   * *Shadow points* grow at double the rate:
-     - ✅︎ gains you 2 *Shadow points*
-     - on IMMEDIATE moves, ✗ gains you 4 *Shadow points*
-   * Challenge the narrative character changes made earlier - will the
-     characters give up their earlier accomplishments or boons to attempt
-     for even greater ones?
+## Book 2
+
+At the beginning of Book 2, make a new GM Sheet. Copy over any
+leftover *Journey points* and *Shadow points* from Book 1 onto
+this sheet.
+
+During Chapter 7 of Book 2, the PCs do not return to their original home.
+They return to a place that has some elements of their original home,
+but it is not where they came from.
+
+These elements may include:
+
+ * Characters (friends and family)
+ * Safety and comfort (even if temporary)
+ * The Hearth
+
+Only gain a *Journey point* during Chapter 7 if the threshold they cross
+brings them to a place like this.
+
+## Book 3
+
+At the beginning of Book 3, make a new GM Sheet. Copy over any
+leftover *Shadow points* from Book 2 onto this sheet. This Book starts
+with **zero** *Journey points*.
+
+In Book 3, *Shadow points* grow at double the normal rate:
+
+ * ✅︎ gains you 2 *Shadow points*
+ * on IMMEDIATE moves, ✗ gains you 4 *Shadow points*
+
+Chapter 7 of Book 3 can return the PCs to their original home or wherever
+makes narrative sense.
+
+In this Book, show downsides of the narrative character changes made earlier.
+Will the characters give up their earlier accomplishments or boons to
+attempt for even greater ones?
+
+Try creating some monsters with immunities specific to the PCs' strengths.
+How will the PCs react if the prizes earned in their earlier adventures are
+rendered useless?
 
 
 # The real juice

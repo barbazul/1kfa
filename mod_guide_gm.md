@@ -1,6 +1,6 @@
 # GM Guide
 
-*playtest version*
+*playtest version* VERSION DATE
 
 *find latest version at https://1kfa.com*
 
@@ -1682,7 +1682,7 @@ points* according to this table.
 | 4                   | attack power d10
 | 1                   | monster has 11-15 stamina
 | 2                   | monster has 16-20 stamina
-| 1 per               | monster special attack
+| 1 per               | monster special attack / immunity
 
 
 Foes' Stamina and attack power should be realistically scaled
@@ -2397,19 +2397,20 @@ the ["Find" chapter](#mod_guide_campaigns).
 ### Monsters can be fought
 
 Monsters can be defeated in combat, and work like regular foes, except that
-they can have more than 10 stamina points and they have special attacks.
+they can have more than 10 stamina points and they have special attacks and
+special immunities.
 See the [Combat](#creating-a-combat-encounter) chapter for how to spend
 *Shadow points* to determine its combat stats.
 
-You get to choose the special attacks of your monsters. Simplicity and staying
-on-theme are the way to go here. If your monster is inspired by an animal,
-ask yourself how that animal would attack in a unique way. If the monster
-embodies a specific fear, what attack would induce the maximum amount of that
-kind of fear?
+You get to choose the special attacks and immunities of your monsters.
+Simplicity and staying on-theme are the way to go here.
+If your monster is inspired by an animal, ask yourself how that animal would
+attack in a unique way. If the monster embodies a specific fear, what attack
+would induce the maximum amount of that kind of fear?
 
-It is recommended to telegraph the special attacks somehow. Let the players
-know what kind of threat they're dealing with and the stakes of their decision
-to fight this creature.
+It is recommended to telegraph the special attacks and immunities somehow.
+Let the players know what kind of threat they're dealing with and the stakes
+of their decision to fight this creature.
 
 ### Making monsters
 
