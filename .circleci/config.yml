@@ -22,25 +22,14 @@ jobs:
 
       - run:
           name: install dependencies
-          command: |
-            bin/install_deps.sh
-
-      - save_cache:
-          paths:
-            - ./venv
-          key: v1-dependencies-{{ checksum "bin/install_deps.sh" }}
+          command: bin/install_deps.sh
 
       - run:
           name: build all
-          command: |
-            KFAREPO=~/repo python2 bin/build_all.py
+          command: KFAREPO=~/repo python2 bin/build_all.py
 
 
       - run:
           name: publish to website
-          command: |
-            KFAREPO=~/repo bin/publish_web.sh
+          command: KFAREPO=~/repo bin/publish_web.sh
 
-      - store_artifacts:
-          path: test-reports
-          destination: test-reports

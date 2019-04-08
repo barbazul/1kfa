@@ -9,9 +9,6 @@ git clone https://github.com/sjbrown/deckahedron_site.git
 mkdir -p deckahedron_site/dist/$VERSION
 cd deckahedron_site/dist/$VERSION
 cp /tmp/*tar.gz ./
-rm -rf ./cards_v$VERSION
-cp -a /tmp/cards_v$VERSION ./cards_v$VERSION
-find cards_v$VERSION |grep svg |xargs rm
 
 git add .
 git config credential.helper 'cache --timeout=120'

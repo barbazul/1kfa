@@ -11,6 +11,7 @@ PUBLISH=$KFAREPO/publish
 BUILDDIR=/tmp/1kfa_guide_build
 rm -rf $BUILDDIR
 mkdir $BUILDDIR
+cp -a $KFAREPO/images $BUILDDIR/images
 
 cd $KFAREPO
 
