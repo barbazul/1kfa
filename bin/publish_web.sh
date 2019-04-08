@@ -2,6 +2,12 @@
 
 echo "Publish Web"
 
+#------------------------------------------------------------------------------
+# If the last commit had the word NODEPLOY in the commit msg, halt.
+cd $KFAREPO
+git log -1 |grep NODEPLOY && exit 2
+#------------------------------------------------------------------------------
+
 source $KFAREPO/resolution_cards/version.py
 cd /tmp/
 rm -rf deckahedron_site
