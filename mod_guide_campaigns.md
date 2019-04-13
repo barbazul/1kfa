@@ -667,7 +667,7 @@ with **zero** *Journey points*.
 In Book 3, *Shadow points* grow at double the normal rate:
 
  * ✅︎ gains you 2 *Shadow points*
- * on IMMEDIATE moves, ✗ gains you 4 *Shadow points*
+ * on *FAST* moves, ✗ gains you 4 *Shadow points*
 
 Chapter 7 of Book 3 can return the PCs to their original home or wherever
 makes narrative sense.

@@ -388,21 +388,23 @@ Rarely, a card will have instructions for how to interpret a ✗ result.
 These instructions should be executed, but might only be *part* of the
 GM's move -- the GM gets to decide if they have more to add.
 
-When the move card has the tag *IMMEDIATE*, the GM does not get to make a
-move on a ✗. Instead, the GM just gains 2 *Shadow points*.
+When the card is a *FAST* move, the GM does not get to make a move on
+a ✗. Instead, the GM just gains 2 *Shadow points*.
 
 
-## Cards tagged IMMEDIATE
+## Cards tagged *FAST*
 
-Some of your move cards have the tag *IMMEDIATE*. This indicates they can
+`TODO: illustration of FAST move`
+
+Some of your move cards have the *FAST* symbol. This indicates they can
 be used in conjunction with another move during your character's moment in
 the spotlight. When players take turns in the spotlight, if they trigger
-moves, it is expected that they trigger **at most one** *IMMEDIATE* move.
+moves, it is expected that they trigger **at most one** *FAST* move.
 Otherwise the pace of the game can slow down, and other players may feel
 like they aren't getting a fair share of time in the spotlight.
 
-Examples of cards tagged *IMMEDIATE* include Good Cardio,
-Where It Hurts, and Unknown Benefactor
+Examples of cards tagged *FAST* include Good Cardio, Where It Hurts, and
+Unknown Benefactor.
 
 A moment in the spotlight might see your swordsman character triggering
 the move Mix It Up, causing damage to a foe, and then you might also trigger
@@ -643,8 +645,8 @@ they carry a certain amount of equipment and items,
 and perhaps even a certain amount of wealth or treasure.
 
 There are some moves that are affected by how much *stuff*
-a character carries. These moves have the tag "UNENCUMBERED", and declare
-an encumbrance penalty in their descriptions.
+a character carries. These moves have a "Encumbrance Penalty" section,
+and describe how carried equipment affects their outcomes.
 
 At any time that it makes sense in the fiction, a character can drop items
 and equipment.
@@ -814,7 +816,7 @@ cards they want, but may not flip them face-up if they are face-down.
 When combat or a pursuit ends, and it is appropriate for the narrative
 (e.g. when there's a scene transition and the characters reasonably have
 a few minutes to catch their breath), the players may **Take a Breather**
-using Str as an IMMEDIATE move (ie, no negative narrative consequences
+using Str as an *FAST* move (ie, no negative narrative consequences
 if the result is ✗ or ✅︎).
 
 
@@ -824,7 +826,7 @@ This card makes a character an especially resilient fighter and athlete.
 
 In a combat encounter, a player will usually trigger an aggressive move like
 Mix It Up or Volley.  In addition, players often trigger at most one
-*IMMEDIATE* move. If they haven't chosen an different *IMMEDIATE* move, they
+*FAST* move. If they haven't chosen a different *FAST* move, they
 can always trigger Good Cardio, and regain some of their lost Stamina points.
 
 This is a highly recommended strategy for any character who has lost Stamina.
@@ -1119,9 +1121,9 @@ so the character would have 1d4 attack power with Mix It Up. But a character
 with no weapon and only leather bracers on their wrists, the character would
 be "unarmed", doing just 1 attack power.
 
-Blocking attack power with a shield should be considered an *IMMEDIATE* move,
+Blocking attack power with a shield should be considered an *FAST* move,
 and the GM should try to keep to the guideline of not allowing players to
-make more than one move and one *IMMEDIATE* move per turn in the spotlight.
+make more than one *FAST* move per turn in the spotlight.
 
 
 # Notes on Moves - Magic-related

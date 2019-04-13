@@ -1032,8 +1032,7 @@ Leave enough space to track the points under each of those headings.
 ![GM Worksheet](images/gm_worksheet.png){ width=7cm }
 
 When a player flips and *resolves a move* with a ✅︎, gain a *Shadow point*.
-When a move with the *IMMEDIATE* tag is resolved with a ✗, mark
-two *Shadow points*.
+When a *FAST* move is resolved with a ✗, gain two *Shadow points*.
 
 See the Campaign Guide for rules on when to gain *Journey points*.
 
@@ -1217,12 +1216,12 @@ Then select and lay out (`# of players + 1`) C cards.
 As players choose cards, there may be opportunities to explain some of the
 deeper rules.
 
-When a player chooses a card with an UNENCUMBERED tag, take that opportunity
-to explain how Item and Pack cards impact those types of moves.
+When a player chooses a card with an Encumbrance Penalty, take that
+opportunity to explain how Item and Pack cards impact those types of moves.
 
-When a player chooses a card with an IMMEDIATE tag, take that opportunity
-to explain that they can only use one IMMEDIATE move at a time, and that
-they don't risk a GM move if they flip ✅︎ or ✗.
+When a player triggers a *FAST* move, take that opportunity to explain that
+they can only use one *FAST* move per turn, and that they don't risk a GM
+move if they flip ✅︎ or ✗.
 
 #### If every player has played 1kFA before
 
@@ -1816,7 +1815,7 @@ This format is simple, and gives the players the most agency.
 
   - Give each player a "turn" where they will probably trigger an aggressive
     combat move like Mix It Up or Volley
-  - Pay attention to IMMEDIATE combat moves that may have triggered
+  - Pay attention to *FAST* combat moves that may have triggered
   - Execute the moves, make cool stuff happen as consequences
   - Go around the table until all the opponents flee or are incapacitated
   - Any ✗ results may usually be interpreted as "your enemies attack". Choose
@@ -1831,7 +1830,7 @@ This format makes the opponents more of a threat.
 
  * Give each player a "turn" where they will probably trigger an aggressive
    combat move like Mix It Up or Volley, call that a "player round"
- * Pay attention to IMMEDIATE combat moves that may have triggered
+ * Pay attention to *FAST* combat moves that may have triggered
  * After player turns are complete, and the players look to you to see
    what happens next, execute an "NPC round"
  * Identify the opponents that didn't interact during the "player round"
@@ -1851,7 +1850,7 @@ This format makes the opponents more of a threat.
 This format imagines the opponents as particularly quick and aggressive.
 
   - Give each player a "turn" where they will trigger a move
-  - Pay attention to IMMEDIATE combat moves that may have triggered
+  - Pay attention to *FAST* combat moves that may have triggered
   - When describing the outcome of a player's move, also describe how the
     opponents take aggressive action.
   - Keeping the spotlight on that player, have them respond to the actions
