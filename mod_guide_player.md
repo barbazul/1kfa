@@ -478,7 +478,7 @@ might mean that Pick Pockets can be skipped - the affected NPC might just offer
 to share their precious items.
 
 
-# Combat - Stamina/Harm/Wounds
+# Combat - Stamina and Wounds
 
 Here are rules to determine when your character is able to endure
 exertion and injury to keep moving forward or when they're completely
@@ -501,69 +501,64 @@ better endure the exertion.
 **Every PC has 10 Stamina points.** When a PC loses all 10, they are
 incapacitated. After that, their fate is up to the GM.
 
-## Phases
+## The Four Ds
 
 When your character gets attacked or falls victim to some other danger,
 you have choices about exactly how they are affected. They may dodge,
 and just lose Stamina, they may stand stubbornly against a blow,
 perhaps absorbing it with their armour, or they may be wounded by it.
 
-The **first phase** is rolling dice to arrive at a number. This number
-is called the *attack power*.
+There are four steps that happen in order, they are known as "The Four
+Ds":
 
-The **second phase** is deciding whether to lose Stamina or take a Wound.
-
-The **third phase** is optional: absorbing some points using any relevant
-move cards and item cards.
-
-The **fourth phase** is losing Stamina points and receiving Exhaustion
-and Wound tokens.
-
-Finally, the **fifth phase**: you interpret those results into the
-narrative.  Did your character dive into the dirt?  Did they take a punch
-to the jaw and respond with a bloodied grin?  Did the spear bounce right
-off their steel breastplate?
-
-    GM Note: The act of taking a risk, deciding how to get hurt, and then
-    later, deciding when and how to heal, with each stage having its
-    sacrifices and benefits, is a miniature echo of the overall structure of
-    the Hero's Journey campaign. Starting in comfort, choosing to cross a
-    threshold, deciding which fork to take in a road of trials,
-    then returning.
+ 1. [Dice](#dice) - roll them!
+ 2. [Decide](#decide) whether to lose Stamina or take a Wound
+ 3. [Distribute](#distribute) tokens
+ 4. [Describe](#describe) the outcomes in the fiction
 
 
-## First Phase
+## Dice
 
 When your character suffers the consequences of violence, you roll dice or
 read instructions from a move card to get a number. This number is called
 the *attack power*.
 
-## Second Phase
 
-After the *attack power* is calculated, you can choose to take a Wound
-rather than losing that many Stamina points.
+## Decide
+
+After the *attack power* is calculated, you have a choice: either take that
+many Exhaustion tokens or take a Wound token.
 
 You can always choose to absorb the whole amount of *attack power* by taking
 a single Wound.
 
 Let's say your character was attacked with a sword and the dice were rolled
-and summed up to 7. You can either lose 7 Stamina points, or choose to take
-a Wound instead.
+and summed up to 7. You can either take 7 Exhaustion tokens (thus losing 7
+Stamina points), or choose to take one Wound token instead.
 
 Let's further say your character had lost 3 Stamina points earlier in the
 battle. With only 7 Stamina points left, it's a wise time to take a Wound.
 
-## Third Phase
 
-In the third phase, you may absorb Stamina and Wounds with your armour,
-shield, or with moves like Good Cardio, Mystic Breathwork, Like A Second
-Skin, and Sangfroid.
+## Distribute
 
-## Fourth Phase: Stamina / Exhaustion
+In the **third step** you take Exhaustion or Wound tokens from the supply
+and either:
+
+  * "Absorb" them by placing them on relevant move cards or item cards, or
+  * Lose Stamina by putting that many cards from your Deckahedron into
+    your Exhaustion pile, then placing the tokens on top (and, in the
+    case of a Wound, putting a Wound card in your Discard pile)
+
+In this step, cards to absorb Exhaustion and Wounds include your
+character's armour and shield, or move cards like Good Cardio,
+Mystic Breathwork, Like A Second Skin, and Sangfroid.
 
 Characters have 10 Stamina points. To win at combat, a character's
 foes must be subdued or pacified before 10 cards are lost from the
 Deckahedron.
+
+### Losing Stamina
 
 When you are instructed to lose a Stamina point:
 
@@ -590,13 +585,10 @@ Once the *Exhaustion pile* grows to 10 cards, the character is
 It is up to the GM to decide what this incapacitation means - whether
 the character is dead, unconscious, or just unable to stand or move.
 
-
-## Wounds
+### Taking Wounds
 
 Getting wounded sucks, and when wounded, all intelligent creatures seek
 to cure their condition as a very high priority.
-
-### Fourth Phase: Receiving Wounds
 
 When you are instructed to take a Wound token:
 
@@ -613,8 +605,7 @@ When you are instructed to take a Wound token:
 
 ![Wound token](images/component_wound.png){ width=2.5inch }
 
-
-### A Wound Card
+#### A Wound Card
 
 ![Image of wound card](images/wound_200.png){ width=1.1inch }
 
@@ -636,6 +627,21 @@ disease, poison, or other effects inflicted by monsters or the environment.
 Note: some moves instruct you to match Chinese Zodiac symbols on the corners
 of cards. Wound cards' corners have the "goat" symbol which does not match
 any symbol.
+
+
+### Describe
+
+Finally, the **fifth step**: you interpret those results into the
+narrative.  Did your character dive into the dirt?  Did they take a punch
+to the jaw and respond with a bloodied grin?  Did the spear bounce right
+off their steel breastplate?
+
+    GM Note: The act of taking a risk, deciding how to get hurt, and then
+    later, deciding when and how to heal, with each stage having its
+    sacrifices and benefits, is a miniature echo of the overall structure of
+    the Hero's Journey campaign. Starting in comfort, choosing to cross a
+    threshold, deciding which fork to take in a road of trials,
+    then returning.
 
 
 # Encumbrance Penalties
