@@ -10,7 +10,7 @@ from collections import defaultdict
 sys.path.append('/usr/share/inkscape/extensions/')
 from version import VERSION
 
-DEBUG = 0
+DEBUG = int(os.environ.get('DEBUG', 0))
 
 def run(cmd):
     if DEBUG:
@@ -148,7 +148,7 @@ class DOM(object):
 
     def layer_hide(self, layer_label):
         if DEBUG:
-            print 'HIDING LAYER', layer_label
+            print 'HIDING LAYER', layer_label, 'OF', self.layers.keys()
         self.layers[layer_label].attrib['style'] = 'display:none'
 
     def layer_show(self, layer_label):

@@ -10,6 +10,7 @@ from cards import spot_it_map, spot_it_rules, calc_zodiac
 from svg_dom import DOM, export_square_png
 from version import VERSION
 
+FACE_SVG = 'deckahedron_face.svg'
 
 '''
  title_to_element
@@ -106,23 +107,58 @@ def filter_dom_elements(dom, card, deck_title, dice_rule):
         if not card.get('Stamina'):
             dom.layer_hide('exhaustion')
             dom.layer_hide('exhaustion_center')
+        else:
+            dom.layer_show('exhaustion')
+            dom.layer_show('exhaustion_center')
 
-        # Choose the dice pips to print out
-        for titletuple in product(
-            ['four', 'six'],
-            ['nw', 'ne', 'sw', 'se'],
-            ['1', '2']
-        ):
-            title = '_'.join(titletuple)
-            if title not in dice_rule:
-                dom.cut_element(title)
+        # ---------------------------------------
+        # numeral-style dice rules
+        d4, d6 = dice_rule
+        if d4 == 0:
+            dom.layer_hide('d4')
+        else:
+            dom.layer_show('d4')
+            cuts = {
+                1: ('d4_2', 'd4_3', 'd4_4'),
+                2: ('d4_1', 'd4_3', 'd4_4'),
+                3: ('d4_1', 'd4_2', 'd4_4'),
+                4: ('d4_1', 'd4_2', 'd4_3'),
+            }
+            for elname in cuts[d4]:
+                dom.cut_element(elname)
+        if d6 == 0:
+            dom.layer_hide('d6')
+        else:
+            dom.layer_show('d6')
+            cuts = {
+                1: ('d6_2', 'd6_3', 'd6_4', 'd6_5', 'd6_6'),
+                2: ('d6_1', 'd6_3', 'd6_4', 'd6_5', 'd6_6'),
+                3: ('d6_1', 'd6_2', 'd6_4', 'd6_5', 'd6_6'),
+                4: ('d6_1', 'd6_2', 'd6_3', 'd6_5', 'd6_6'),
+                5: ('d6_1', 'd6_2', 'd6_3', 'd6_4', 'd6_6'),
+                6: ('d6_1', 'd6_2', 'd6_3', 'd6_4', 'd6_5'),
+            }
+            for elname in cuts[d6]:
+                dom.cut_element(elname)
+
+        # ---------------------------------------
+        # pip-style dice rules
+        ## Choose the dice pips to print out
+        #for titletuple in product(
+        #    ['four', 'six'],
+        #    ['nw', 'ne', 'sw', 'se'],
+        #    ['1', '2']
+        #):
+        #    title = '_'.join(titletuple)
+        #    if title not in dice_rule:
+        #        dom.cut_element(title)
 
         # Choose how many ✔s and ✗s to show
         letter_to_prefix = {
-          'a': 'anchor',
-          'b': 'bulb',
-          'c': 'crescent',
-          'd': 'dart',
+          'a': 'anvil',
+          'b': 'blades',
+          'c': 'crown',
+          'd': 'dragon',
         }
         score_to_suffix = {
           1: '_one_x',
@@ -139,7 +175,7 @@ def filter_dom_elements(dom, card, deck_title, dice_rule):
 
 
 def make_back_card():
-    raw_svg = file('back_ready_to_print.svg').read()
+    raw_svg = file('deckahedron_back.svg').read()
     raw_svg = raw_svg.replace('VERSION', VERSION)
     back_svg_filename = '/tmp/cards/back.svg'
     fp = file(back_svg_filename, 'w')
@@ -150,11 +186,17 @@ def make_back_card():
 def make_deck(deck_number):
 
     for i, card in enumerate(cards):
-        dom = DOM('face_books.svg')
+        dom = DOM(FACE_SVG)
+        dom.layer_show('center_symbols')
 
         deck_title = 'deck_%s' % deck_number
-        dice_rule = dice_print_rules[i][1]
-        dice_rule = dice_rule.split()
+
+        # ----- for pip-style cards ------
+        #dice_rule = dice_print_rules[i][1]
+        #dice_rule = dice_rule.split()
+        # --- for numeral-style cards ----
+        dice_rule = dice_print_rules[i][0]
+
         print 'dice rule %s %s' % (i, dice_rule)
 
         filter_dom_elements(dom, card, deck_title, dice_rule)
@@ -173,9 +215,10 @@ def make_blessing_deck():
     export_square_png('back_blessing_gold_ready_to_print.svg', '/tmp/cards/blessing/back.png')
 
     for i, card in enumerate(blessing_cards):
-        dom = DOM('face_books.svg')
+        dom = DOM(FACE_SVG)
+        dom.layer_show('center_symbols')
 
-        filter_dom_elements(dom, card, '', [])
+        filter_dom_elements(dom, card, '', [0,0])
         set_zodiac(dom, 'dragon', 'dragon', 'dragon', 'dragon')
 
         # Create the svg file and export a PNG
@@ -191,9 +234,10 @@ def make_wound_deck():
     export_square_png('/tmp/cards/back.svg', '/tmp/cards/wounds/back.png')
 
     for i, card in enumerate(wound_cards):
-        dom = DOM('face_books.svg')
+        dom = DOM(FACE_SVG)
+        dom.layer_show('wound')
 
-        filter_dom_elements(dom, card, '', [])
+        filter_dom_elements(dom, card, '', [0,0])
         set_zodiac(dom, 'goat', 'goat', 'goat', 'goat')
 
         # Create the svg file and export a PNG
@@ -237,8 +281,8 @@ if __name__ == '__main__':
     make_green_deck()
     make_red_deck()
     make_deck(1)
-    make_deck(2)
-    make_deck(3)
-    make_deck(4)
+    #make_deck(2)
+    #make_deck(3)
+    #make_deck(4)
     make_wound_deck()
     make_blessing_deck()
