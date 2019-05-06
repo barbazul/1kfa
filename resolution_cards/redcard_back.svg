@@ -23,7 +23,7 @@
    sodipodi:docname="redcard_back.svg"><metadata
      id="metadata496"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs494"><linearGradient
        id="linearGradient6445"
        inkscape:collect="always"><stop
@@ -92,7 +92,7 @@
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:zoom="1.7106481"
-     inkscape:cx="-14.003909"
+     inkscape:cx="-21.603368"
      inkscape:cy="159.77912"
      inkscape:window-x="0"
      inkscape:window-y="24"
@@ -103,8 +103,8 @@
      units="in" /><g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="bg"
-     style="display:none"
+     inkscape:label="bg_bleed"
+     style="display:inline"
      transform="translate(0,-13.499997)"><path
        inkscape:connector-curvature="0"
        style="display:none;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8.69620609;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -118,7 +118,7 @@
        y="12.677969" /></g><g
      inkscape:groupmode="layer"
      id="layer8"
-     inkscape:label="bgcard"
+     inkscape:label="bg_after_cut"
      transform="translate(0,-13.499997)"><rect
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93750012;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect13063"

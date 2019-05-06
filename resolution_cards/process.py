@@ -3,6 +3,7 @@
 
 
 import os
+import shutil
 from itertools import product
 from cards import cards, blessing_cards, wound_cards, dice_print_rules
 from cards import spot_it_map, spot_it_rules, calc_zodiac
@@ -181,13 +182,19 @@ def make_back_card():
     fp = file(back_svg_filename, 'w')
     fp.write(raw_svg)
     fp.close()
+    dom = get_dom_for_printing(back_svg_filename)
+    dom.write_file(back_svg_filename)
     export_square_png(back_svg_filename, '/tmp/cards/back.png')
 
 def make_deck(deck_number):
 
     for i, card in enumerate(cards):
-        dom = DOM(FACE_SVG)
+        dom = get_dom_for_printing(FACE_SVG)
+        dom.layer_show('zodiac')
         dom.layer_show('center_symbols')
+        dom.layer_show('checks_xs')
+        dom.layer_show('d6')
+        dom.layer_show('d4')
 
         deck_title = 'deck_%s' % deck_number
 
@@ -212,11 +219,11 @@ def make_deck(deck_number):
         export_square_png(svg_filename, png_filename)
 
 def make_blessing_deck():
-    export_square_png('back_blessing_gold_ready_to_print.svg', '/tmp/cards/blessing/back.png')
-
     for i, card in enumerate(blessing_cards):
-        dom = DOM(FACE_SVG)
+        dom = get_dom_for_printing(FACE_SVG)
+        dom.layer_show('zodiac')
         dom.layer_show('center_symbols')
+        dom.layer_show('checks_xs')
 
         filter_dom_elements(dom, card, '', [0,0])
         set_zodiac(dom, 'dragon', 'dragon', 'dragon', 'dragon')
@@ -231,11 +238,11 @@ def make_blessing_deck():
 
 
 def make_wound_deck():
-    export_square_png('/tmp/cards/back.svg', '/tmp/cards/wounds/back.png')
-
     for i, card in enumerate(wound_cards):
-        dom = DOM(FACE_SVG)
+        dom = get_dom_for_printing(FACE_SVG)
+        dom.layer_show('zodiac')
         dom.layer_show('wound')
+        dom.layer_show('checks_xs')
 
         filter_dom_elements(dom, card, '', [0,0])
         set_zodiac(dom, 'goat', 'goat', 'goat', 'goat')
@@ -249,28 +256,48 @@ def make_wound_deck():
         export_square_png(svg_filename, png_filename)
 
 def make_green_deck():
-    # Create the svg file and export a PNG
-    svg_filename = 'greencard_back.svg'
-    png_filename = '/tmp/cards/green/back.png'
-    export_square_png(svg_filename, png_filename)
-
     svg_filename = 'greencard_front.svg'
     png_filename = '/tmp/cards/green/greencard_front.png'
+    dom = get_dom_for_printing(svg_filename)
+    svg_filename = '/tmp/cards/green/' + svg_filename
+    dom.write_file(svg_filename)
+    export_square_png(svg_filename, png_filename)
+
+    svg_filename = 'greencard_back.svg'
+    png_filename = '/tmp/cards/green/back.png'
+    dom = get_dom_for_printing(svg_filename)
+    svg_filename = '/tmp/cards/green/' + svg_filename
+    dom.write_file(svg_filename)
     export_square_png(svg_filename, png_filename)
 
 def make_red_deck():
     svg_filename = 'redcard_front.svg'
     png_filename = '/tmp/cards/red/redcard_front.png'
+    dom = get_dom_for_printing(svg_filename)
+    svg_filename = '/tmp/cards/red/' + svg_filename
+    dom.write_file(svg_filename)
     export_square_png(svg_filename, png_filename)
 
     svg_filename = 'redcard_back.svg'
     png_filename = '/tmp/cards/red/back.png'
+    dom = get_dom_for_printing(svg_filename)
+    svg_filename = '/tmp/cards/red/' + svg_filename
+    dom.write_file(svg_filename)
     export_square_png(svg_filename, png_filename)
 
+def get_dom_for_printing(fname):
+    dom = DOM(fname)
+    dom.layer_hide('bg_after_cut')
+    dom.layer_show('bg_bleed')
+    if 'cutline' in dom.layers:
+        dom.layer_hide('cutline')
+    return dom
 
 if __name__ == '__main__':
     if not os.path.exists('/tmp/cards'):
         os.makedirs('/tmp/cards')
+    if not os.path.exists('/tmp/cards/wounds'):
+        os.makedirs('/tmp/cards/wounds')
     if not os.path.exists('/tmp/cards/blessing'):
         os.makedirs('/tmp/cards/blessing')
     if not os.path.exists('/tmp/cards/red'):
@@ -278,11 +305,13 @@ if __name__ == '__main__':
     if not os.path.exists('/tmp/cards/green'):
         os.makedirs('/tmp/cards/green')
     make_back_card()
+    shutil.copy('/tmp/cards/back.png', '/tmp/cards/wounds/back.png')
+    shutil.copy('/tmp/cards/back.png', '/tmp/cards/blessing/back.png')
     make_green_deck()
     make_red_deck()
     make_deck(1)
-    #make_deck(2)
-    #make_deck(3)
-    #make_deck(4)
+    make_deck(2)
+    make_deck(3)
+    make_deck(4)
     make_wound_deck()
     make_blessing_deck()

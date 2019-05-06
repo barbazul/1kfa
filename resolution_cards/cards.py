@@ -45,8 +45,8 @@ def count_exes_in_suit(cards, suit):
 blessing_cards = [
  {'Pro': False, 'Stamina': False, 'a': 4, 'b': 3, 'c': 4, 'd': 4, 'blessing': 'copper'},
  {'Pro': False, 'Stamina': False, 'a': 3, 'b': 4, 'c': 4, 'd': 4, 'blessing': 'copper'},
- {'Pro': False, 'Stamina': False, 'a': 4, 'b': 4, 'c': 4, 'd': 4, 'blessing': 'gold'},
- {'Pro': False, 'Stamina': False, 'a': 4, 'b': 4, 'c': 4, 'd': 4, 'blessing': 'gold'},
+ {'Pro': False, 'Stamina': False, 'a': 4, 'b': 3, 'c': 4, 'd': 4, 'blessing': 'copper'},
+ {'Pro': False, 'Stamina': False, 'a': 3, 'b': 4, 'c': 4, 'd': 4, 'blessing': 'copper'},
  {'Pro': False, 'Stamina': False, 'a': 4, 'b': 4, 'c': 4, 'd': 4, 'blessing': 'gold'},
  {'Pro': False, 'Stamina': False, 'a': 4, 'b': 4, 'c': 4, 'd': 4, 'blessing': 'gold'},
 ]
