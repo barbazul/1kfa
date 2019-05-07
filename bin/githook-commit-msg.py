@@ -35,7 +35,7 @@ lines = [
 message = ' '.join(lines)
 print 'message was', message
 tweet = (
-    'https://twitter.com/home?status='
+    'https://twitter.com/intent/tweet?text='
     + '%23ttrpg %23gamedesign New update to https://www.1kfa.com - '
     + message
 ).replace(' ', '+')
