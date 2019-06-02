@@ -29,7 +29,7 @@
      inkscape:cx="7.2991823"
      inkscape:cy="11.099511"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-midpoints="true"
@@ -53,17 +53,14 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="bg"
-     sodipodi:insensitive="true">
+     inkscape:label="bg">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.20000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect11655"
        width="35.433071"
        height="35.433071"
        x="0"
-       y="1.3429565e-07"
-       rx="22.5"
-       ry="22.5" />
+       y="1.3429565e-07" />
   </g>
   <g
      inkscape:label="suit_anvil"

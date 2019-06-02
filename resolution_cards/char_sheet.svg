@@ -191,9 +191,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.65381486"
-     inkscape:cx="135.98185"
-     inkscape:cy="390.90693"
+     inkscape:zoom="1.3076297"
+     inkscape:cx="41.165723"
+     inkscape:cy="163.02333"
      inkscape:document-units="px"
      inkscape:current-layer="layer11"
      showgrid="true"
@@ -7316,6 +7316,24 @@
          id="tspan6167-9"
          x="-199.06326"
          y="-119.82705">Downtime moves</tspan></text>
+    <path
+       d="m -154.78003,939.22501 -5.14571,-0.95337 -2.96443,4.3127 -2.96443,-4.3127 -5.14571,0.95337 0.95337,-5.14571 -4.31269,-2.96443 4.31269,-2.96443 -0.95337,-5.14571 5.14571,0.95337 2.96443,-4.3127 2.96443,4.3127 5.14571,-0.95337 -0.95337,5.14571 4.3127,2.96443 -4.3127,2.96443 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.1780972"
+       sodipodi:arg1="0.78539816"
+       sodipodi:r2="7.7464318"
+       sodipodi:r1="11.469467"
+       sodipodi:cy="931.11486"
+       sodipodi:cx="-162.89017"
+       sodipodi:sides="8"
+       id="path113133"
+       style="opacity:1;fill:#91ff91;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:type="star">
+      <title
+         id="title39498">foobar</title>
+    </path>
   </g>
   <g
      inkscape:groupmode="layer"
