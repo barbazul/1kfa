@@ -139,10 +139,10 @@ backs of the cards:
 
 Name      | suit                                    | odds                              | color  | rank
 ----------|-----------------------------------------|-----------------------------------|--------|-------
-Anvil     | ![anvil suit](images/anvil.png){ width=0.5inch }     | indicates the weakest odds        | red    | rank 1
-Blade     | ![blade suit](images/blade.png){ width=0.5inch }         | indicates below average odds      | yellow | rank 2
-Crown     | ![crown suit](images/crown.png){ width=0.5inch } | indicates above average odds      | green  | rank 3
-Dragon    | ![dragon suit](images/dragon.png){ width=0.5inch }         | indicates the best odds           | blue   | rank 4
+Anvil     | ![anvil suit](images/suit_anvil.png){ width=0.5inch }     | indicates the weakest odds        | red    | rank 1
+Blade     | ![blade suit](images/suit_blades.png){ width=0.5inch }         | indicates below average odds      | yellow | rank 2
+Crown     | ![crown suit](images/suit_crown.png){ width=0.5inch } | indicates above average odds      | green  | rank 3
+Dragon    | ![dragon suit](images/suit_dragon.png){ width=0.5inch }         | indicates the best odds           | blue   | rank 4
 
 Shuffle your Deckahedron and place it face-down in front of you.
 
@@ -1607,29 +1607,38 @@ XP cards do not generate XP, Critical Success cards cannot
 be used to go up levels, and the *defender* gets to say what the result was.
 
 
-# 30-hour Campaigns: Level cards and green rings
+# 30-hour Campaigns: Green rings
 
 If you are playing the One-Shot Campaign or 9-hour Campaign, you can skip
 this section.
 
-## Green rings / REQUIRES
-
-![requirements](images/move_requirements.png){ width=2.5inch }
+## Green rings
 
 <!-- Summary -->
-When you Study Under a Master, the cards available to choose from are limited
-by the REQUIRES tag. If you cannot arrange your move cards to form the number
-of rings shown in the REQUIRES tag, you cannot choose that move.
+At the beginning of a 30-hour campaign, some move cards will be put into
+envelopes. When you *Study Under a Master*, you will only be able to choose
+the enveloped cards if you can arrange your current move cards to form the
+number of rings shown on the envelope.
 <!-- /Summary -->
 
-Some moves have requirements. These are illustrated as green rings,
-sometimes with a letter inside -- *R*, *F*, or *W*. Requirements are
-sometimes separated by a slash, **/**, which means "or".
+Place the following cards inside the envelope marked with one green ring:
 
-For example, using the Study Under a Master move can gain you the card
-Fundamental Magic only if you have two green rings or one *W* ring.
+ * Mystic Breathwork
+ * Fury
+ * Slide
+ * Not On My Turf
+ * Void Transfusion
 
-What, then, are these rings?
+Then, place the following cards inside the envelope marked with two green
+rings:
+
+ * Goreography
+ * Derring-Do
+ * Fundamental Magic
+ * Breach the Dam
+
+The moves inside these envelopes cannot be learned during *Study Under a
+Master* until the character has already built up some skill.
 
 Take a look through the move cards and see that there are partial rings
 printed on them - either in the corners or on the sides.
@@ -1640,29 +1649,12 @@ show 2 rings, then you "have" 2 rings.
 
 ![ring arrangements](images/ring_arrangements.png){ width=2.5inch }
 
-If your card arrangement had the cards Pick Pockets and Not On My Turf
-next to each other, you could complete an *R* ring. If you had
-the Scent of Blood card instead of the Not On My Turf card, you could
-arrange it next to Pick Pockets to complete a ring, but it would not
-be an *R* ring or an *F* ring, it would be considered a solid green ring.
+If your card arrangement had the cards *Pick Pockets* and *Not On My Turf*
+next to each other, you could complete a ring.
+If you didn't have the *Not On My Turf* card, but instead had the *Fury*
+card, you could arrange it next to *Pick Pockets* to complete a ring.
 
 You do not have to keep your cards in this arrangement while you play.
-
-
-## Level cards
-
-At the beginning of each session, players should arrange their move cards
-to count how many green rings they have. Usually, players will not have
-any green rings at the beginning of session 2 -- session 3 tends to be
-the first session where this rule matters.
-
-![level cards](images/component_card_level.png){ width=2.5inch }
-
-Once per session, if you have more green rings than *level cards*, you
-can choose one new level card.
-
-Like move cards, level cards may also have requirements. Some require that you
-have a certain amount of green rings to access them.
 
 
 
@@ -1680,16 +1672,17 @@ In that case, it is possible to play 1kFA without owning the physical
 dice.  Each Deckahedron card has symbols that can be used in their place.
 
 To roll a 1d4 or 1d6 with the Deckahedron, flip over a card from the top
-of your deck, and look for the d4 or d6 symbol on the face side, and count
-up the pips (the dots) inside the respective symbol.
+of your deck, and look for the d4 or d6 symbol on the face side, and read
+the number therein.
 
 `TODO: illustration of d4 and d6 symbols`
 
-If the count of pips is zero, that card doesn't count.  Just re-flip and
+If there is no number, that card doesn't count.  Just re-flip and
 use the next card.
 
-To roll a 1d10, follow the same process, but add up all the pips of
-*both* the d4 and d6 symbols.  This does not produce results uniformly
+To roll a 1d10, follow the same process, but add up the two numbers inside
+the triangle and the square.
+This does not produce results uniformly
 between 1 and 10, but instead produces results along a specially-designed
 "2-to-10 curve", which has been chosen to provide statistical results
 that create a pleasing and dramatic experience.
