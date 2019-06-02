@@ -318,16 +318,7 @@ def make_deck(cards):
     export_tall_png('tall_card_stats.svg', DIR + '/booklet/face18_stats.png')
     export_tall_png('tall_card_hints.svg', DIR + '/booklet/face19_hints.png')
 
-    level_dir = DIR + '/level_deck/'
-    export_tall_png('level_card_background_anchor.svg', level_dir + 'face_background_anchor.png')
-    export_tall_png('level_card_eager_learner.svg', level_dir + 'face_eager_learner.png')
-    export_tall_png('level_card_getting_the_hang.svg', level_dir + 'face_getting_the_hang.png')
-    export_tall_png('level_card_its_in_here.svg', level_dir + 'face_its_in_here.png')
-    export_tall_png('level_card_rallying_cry2.svg', level_dir + 'face_rallying_cry2.png')
-    export_tall_png('level_card_rallying_cry.svg', level_dir + 'face_rallying_cry.png')
-    export_tall_png('level_card_back.svg', level_dir + 'back.png')
-
-    one_blank_3lines_front()
+    #one_blank_3lines_front()
 
     for i, card in enumerate(cards):
         try:
