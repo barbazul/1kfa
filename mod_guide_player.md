@@ -140,9 +140,9 @@ backs of the cards:
 Name      | suit                                    | odds                              | color  | rank
 ----------|-----------------------------------------|-----------------------------------|--------|-------
 Anvil     | ![anvil suit](images/suit_anvil.png){ width=0.5inch }     | indicates the weakest odds        | red    | rank 1
-Blade     | ![blade suit](images/suit_blades.png){ width=0.5inch }         | indicates below average odds      | yellow | rank 2
-Crown     | ![crown suit](images/suit_crown.png){ width=0.5inch } | indicates above average odds      | green  | rank 3
-Dragon    | ![dragon suit](images/suit_dragon.png){ width=0.5inch }         | indicates the best odds           | blue   | rank 4
+Blade     | ![blade suit](images/suit_blades.png){ width=0.5inch }         | indicates below average odds      | blue| rank 2
+Crown     | ![crown suit](images/suit_crown.png){ width=0.5inch } | indicates above average odds      | yellow | rank 3
+Dragon    | ![dragon suit](images/suit_dragon.png){ width=0.5inch }         | indicates the best odds           | green | rank 4
 
 Shuffle your Deckahedron and place it face-down in front of you.
 
@@ -629,9 +629,9 @@ of cards. Wound cards' corners have the "goat" symbol which does not match
 any symbol.
 
 
-### Describe
+## Describe
 
-Finally, the **fifth step**: you interpret those results into the
+Finally, the **fourth step**: you interpret those results into the
 narrative.  Did your character dive into the dirt?  Did they take a punch
 to the jaw and respond with a bloodied grin?  Did the spear bounce right
 off their steel breastplate?
@@ -1417,7 +1417,7 @@ In the 3-hour campaign, the second phase is a choice between just 2 things:
 losing Stamina or taking a Wound. In longer campaigns, the choice is
 more granular.
 
-## Second Phase
+## Second Phase, "Decide"
 
 During the second phase of resolving a combat action, players have the choice
 between losing Stamina or taking a Wound as explained before, and also
@@ -1433,7 +1433,7 @@ You may even do that twice, splitting the attack power of 7 into:
  * 1 Stamina point
  * 2 Harm tokens
 
-## Fourth Phase
+## Third Phase, "Distribute"
 
 Think of that boxing match again.  If Stamina represents dancing, ducking,
 and dodging, then Harm represents landing a blow.
