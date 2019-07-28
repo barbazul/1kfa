@@ -12,6 +12,7 @@ def run(cmd):
         print 'Error', status
         sys.exit(status)
 
+run('pandoc --version')
 run('cd resolution_cards; python process.py')
 run('cd resolution_cards; python process_tall.py')
 run('cd resolution_cards; python process_tenstep.py')
