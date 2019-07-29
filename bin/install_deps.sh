@@ -9,7 +9,7 @@ fi
 
 sudo apt-get install -y texlive-extra-utils \
   inkscape \
-  pandoc=1.19.2.4 \
+  pandoc \
   texlive-full \
   wget
 
