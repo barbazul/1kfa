@@ -48,7 +48,7 @@ One piece of advice frequently given to anyone trying to convey information
 is "Show, don't tell".
 
 In that spirit, you are invited to visit
-`https://www.1kfa.com/world/examples`. There, you will see examples
+`https://www.1kfa.com/examples`. There, you will see examples
 of 1kFA being played. For all the author's attempt to make this
 document clear, brief, and unambiguous, those examples may do a better job
 of conveying just what 1kFA is and how it is played.
