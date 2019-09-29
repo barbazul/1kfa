@@ -1418,7 +1418,7 @@ or the choice of items specified in the rules for those cards.
 >
 > When your character strikes an enemy with a weapon, their attack power
 > is 1d4.  You can increase your attack power later in the game by using
-> the "Craft a Weapon" or "\_ Mastery" moves.
+> the "Tales of a Weapon" move.
 
 Lay out the weapon cards that come with the game. If two players want
 the same kind of weapon, just use a blank card to make a second copy.
@@ -2110,8 +2110,7 @@ downtime are:
  * Rest
  * Sharpen and Stitch
  * Seek Help (only if it makes narrative sense)
- * _ Mastery
- * Craft a Weapon
+ * Tales of a Weapon
 
 In a town, these moves are also available:
 

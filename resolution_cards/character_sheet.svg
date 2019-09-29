@@ -15,7 +15,7 @@
    viewBox="0 0 744.09451 496.063"
    id="svg30353"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="character_sheet.svg">
   <defs
      id="defs30355">
@@ -54,17 +54,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0741105"
-     inkscape:cx="354.6991"
-     inkscape:cy="206.32556"
+     inkscape:cx="360.19103"
+     inkscape:cy="106.85835"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
      inkscape:object-nodes="true"
-     inkscape:window-width="1600"
-     inkscape:window-height="876"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -104,37 +104,37 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.9794426px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:1.5;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="575.94312"
-       y="1022.8875"
+       y="1024.9109"
        id="text5100"
-       sodipodi:linespacing="125%"
        transform="scale(1.0791103,0.92668933)"><title
          id="title5102">mod_int</title><tspan
          id="tspan5106"
          sodipodi:role="line"
          x="575.94312"
-         y="1022.8875">Rest        Seek Help</tspan><tspan
+         y="1024.9109"
+         style="font-size:12.5px;line-height:1.5">Rest        Seek Help</tspan><tspan
          sodipodi:role="line"
          x="575.94312"
-         y="1039.1118"
-         id="tspan41787">Sharpen &amp; Stitch</tspan><tspan
+         y="1043.6608"
+         id="tspan41787"
+         style="font-size:12.5px;line-height:1.5">Sharpen &amp; Stitch</tspan><tspan
          id="tspan5108"
          sodipodi:role="line"
          x="575.94312"
-         y="1055.3361">Study Under a Master</tspan><tspan
+         y="1062.4108"
+         style="font-size:12.5px;line-height:1.5">Study Under a Master</tspan><tspan
          sodipodi:role="line"
          x="575.94312"
-         y="1071.5604"
-         id="tspan41783">  Shop / Procure</tspan><tspan
+         y="1081.1608"
+         id="tspan41783"
+         style="font-size:12.5px;line-height:1.5">  Shop / Procure</tspan><tspan
          sodipodi:role="line"
          x="575.94312"
-         y="1087.7847"
-         id="tspan41789">Tales of a Weapon</tspan><tspan
-         sodipodi:role="line"
-         x="575.94312"
-         y="1104.009"
-         id="tspan41785">_ Mastery</tspan></text>
+         y="1099.9108"
+         id="tspan41785"
+         style="font-size:12.5px;line-height:1.5">Tales of a Weapon</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6161"
@@ -151,15 +151,15 @@
        y="921.00507" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="574.86517"
        y="932.25232"
-       id="text6165"
-       sodipodi:linespacing="125%"><tspan
+       id="text6165"><tspan
          sodipodi:role="line"
          id="tspan6167"
          x="574.86517"
-         y="932.25232">Downtime moves</tspan></text>
+         y="932.25232"
+         style="font-size:12.5px;line-height:1.25">Downtime moves</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.5999999;stroke-opacity:1"
        id="rect41462"
@@ -231,11 +231,10 @@
        y="587.58875" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.23340416px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-715.57385"
        y="164.80467"
        id="text41464"
-       sodipodi:linespacing="125%"
        transform="matrix(0,-1.0070299,0.99301917,0,0,0)"
        inkscape:export-filename="/home/sjbrown/character_card.png"
        inkscape:export-xdpi="291.49799"
@@ -243,7 +242,8 @@
          sodipodi:role="line"
          id="tspan41466"
          x="-715.57385"
-         y="164.80467">Intelligence</tspan></text>
+         y="164.80467"
+         style="font-size:17.23340416px;line-height:1.25">Intelligence</tspan></text>
     <g
        style="display:inline"
        id="g41528"
@@ -308,11 +308,10 @@
        y="587.58875" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.23340416px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-715.57385"
        y="103.76683"
        id="text41584"
-       sodipodi:linespacing="125%"
        transform="matrix(0,-1.0070299,0.99301917,0,0,0)"
        inkscape:export-filename="/home/sjbrown/character_card.png"
        inkscape:export-xdpi="291.49799"
@@ -320,14 +319,14 @@
          sodipodi:role="line"
          id="tspan41586"
          x="-715.57385"
-         y="103.76683">Dexterity</tspan></text>
+         y="103.76683"
+         style="font-size:17.23340416px;line-height:1.25">Dexterity</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.23340416px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-715.57385"
        y="226.50282"
        id="text41524"
-       sodipodi:linespacing="125%"
        transform="matrix(0,-1.0070299,0.99301917,0,0,0)"
        inkscape:export-filename="/home/sjbrown/character_card.png"
        inkscape:export-xdpi="291.49799"
@@ -335,7 +334,8 @@
          sodipodi:role="line"
          id="tspan41526"
          x="-715.57385"
-         y="226.50282">Strength</tspan></text>
+         y="226.50282"
+         style="font-size:17.23340416px;line-height:1.25">Strength</tspan></text>
     <g
        style="display:inline"
        id="g41588"
@@ -406,16 +406,16 @@
        inkscape:export-xdpi="291.49799"
        inkscape:export-filename="/home/sjbrown/character_card.png"
        transform="scale(-0.97137541,-1.0294681)"
-       sodipodi:linespacing="125%"
        id="text41604"
        y="-548.0426"
        x="-168.01112"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:8.21628666px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="-548.0426"
          x="-168.01112"
          id="tspan41606"
-         sodipodi:role="line">name</tspan></text>
+         sodipodi:role="line"
+         style="font-size:8.21628666px;line-height:1.25">name</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:40;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.5999999;stroke-opacity:1"
        id="rect41608"
@@ -441,30 +441,30 @@
       </path>
       <text
          transform="scale(1.0791103,0.92668933)"
-         sodipodi:linespacing="125%"
          id="text5064"
          y="657.55896"
          x="246.03143"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.9794426px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><title
            id="title5066">mod_int</title><tspan
            y="657.55896"
            x="246.03143"
            id="tspan5068"
-           sodipodi:role="line">Defy Danger</tspan></text>
+           sodipodi:role="line"
+           style="font-size:12.9794426px;line-height:1.25">Defy Danger</tspan></text>
       <text
          transform="scale(1.0791103,0.92668933)"
-         sodipodi:linespacing="125%"
          id="text5128"
          y="652.46771"
          x="364.83041"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.9794426px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><title
            id="title5130">mod_int</title><tspan
            y="652.46771"
            x="364.83041"
            id="tspan5132"
-           sodipodi:role="line">Int/Str/Dex</tspan></text>
+           sodipodi:role="line"
+           style="font-size:12.9794426px;line-height:1.25">Int/Str/Dex</tspan></text>
       <rect
          inkscape:export-ydpi="291.49799"
          inkscape:export-xdpi="291.49799"
@@ -490,30 +490,30 @@
       </path>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.9794426px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="246.03143"
          y="695.79517"
          id="text5094"
-         sodipodi:linespacing="125%"
          transform="scale(1.0791103,0.92668933)"><title
            id="title5096">mod_int</title><tspan
            sodipodi:role="line"
            id="tspan5098"
            x="246.03143"
-           y="695.79517">Take A Breather</tspan></text>
+           y="695.79517"
+           style="font-size:12.9794426px;line-height:1.25">Take A Breather</tspan></text>
       <text
          transform="scale(1.0791103,0.92668933)"
-         sodipodi:linespacing="125%"
          id="text5152"
          y="690.65179"
          x="377.75912"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.9794426px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><title
            id="title5154">mod_int</title><tspan
            y="690.65179"
            x="377.75912"
            id="tspan5156"
-           sodipodi:role="line">Int/Dex</tspan></text>
+           sodipodi:role="line"
+           style="font-size:12.9794426px;line-height:1.25">Int/Dex</tspan></text>
       <rect
          inkscape:export-ydpi="291.49799"
          inkscape:export-xdpi="291.49799"
@@ -530,17 +530,17 @@
        transform="translate(0,22)">
       <text
          transform="scale(1.0791103,0.92668933)"
-         sodipodi:linespacing="125%"
          id="text5088"
          y="734.03131"
          x="246.03143"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.9794426px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><title
            id="title5090">mod_int</title><tspan
            y="734.03131"
            x="246.03143"
            id="tspan5092"
-           sodipodi:role="line">Bravely Run Away</tspan></text>
+           sodipodi:role="line"
+           style="font-size:12.9794426px;line-height:1.25">Bravely Run Away</tspan></text>
       <rect
          inkscape:export-ydpi="291.49799"
          inkscape:export-xdpi="291.49799"
@@ -566,30 +566,30 @@
       </path>
       <text
          transform="scale(1.0791103,0.92668933)"
-         sodipodi:linespacing="125%"
          id="text5076"
          y="772.26752"
          x="246.03143"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.9794426px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><title
            id="title5078">mod_int</title><tspan
            y="772.26752"
            x="246.03143"
            id="tspan5080"
-           sodipodi:role="line">Discern</tspan></text>
+           sodipodi:role="line"
+           style="font-size:12.9794426px;line-height:1.25">Discern</tspan></text>
       <text
          transform="scale(1.0791103,0.92668933)"
-         sodipodi:linespacing="125%"
          id="text5122"
          y="767.13788"
          x="391.88693"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.9794426px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><title
            id="title5124">mod_int</title><tspan
            y="767.13788"
            x="391.88693"
            id="tspan5126"
-           sodipodi:role="line">Int</tspan></text>
+           sodipodi:role="line"
+           style="font-size:12.9794426px;line-height:1.25">Int</tspan></text>
       <rect
          inkscape:export-ydpi="291.49799"
          inkscape:export-xdpi="291.49799"
@@ -615,30 +615,30 @@
       </path>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.9794426px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="246.03143"
          y="810.50372"
          id="text5082"
-         sodipodi:linespacing="125%"
          transform="scale(1.0791103,0.92668933)"><title
            id="title5084">mod_int</title><tspan
            sodipodi:role="line"
            id="tspan5086"
            x="246.03143"
-           y="810.50372">I Know This</tspan></text>
+           y="810.50372"
+           style="font-size:12.9794426px;line-height:1.25">I Know This</tspan></text>
       <text
          transform="scale(1.0791103,0.92668933)"
-         sodipodi:linespacing="125%"
          id="text5146"
          y="805.37378"
          x="391.88693"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.9794426px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><title
            id="title5148">mod_int</title><tspan
            y="805.37378"
            x="391.88693"
            id="tspan5150"
-           sodipodi:role="line">Int</tspan></text>
+           sodipodi:role="line"
+           style="font-size:12.9794426px;line-height:1.25">Int</tspan></text>
       <rect
          inkscape:export-ydpi="291.49799"
          inkscape:export-xdpi="291.49799"
@@ -664,30 +664,30 @@
       </path>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.9794426px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="246.03143"
          y="848.73993"
          id="text5070"
-         sodipodi:linespacing="125%"
          transform="scale(1.0791103,0.92668933)"><title
            id="title5072">mod_int</title><tspan
            sodipodi:role="line"
            id="tspan5074"
            x="246.03143"
-           y="848.73993">Defend</tspan></text>
+           y="848.73993"
+           style="font-size:12.9794426px;line-height:1.25">Defend</tspan></text>
       <text
          transform="scale(1.0791103,0.92668933)"
-         sodipodi:linespacing="125%"
          id="text5134"
          y="843.64819"
          x="391.28372"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.9794426px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><title
            id="title5136">mod_int</title><tspan
            y="843.64819"
            x="391.28372"
            id="tspan5138"
-           sodipodi:role="line">Str</tspan></text>
+           sodipodi:role="line"
+           style="font-size:12.9794426px;line-height:1.25">Str</tspan></text>
       <rect
          style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.5999999;stroke-opacity:1"
          id="rect41634"
@@ -712,30 +712,30 @@
       </path>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.9794426px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="246.03143"
          y="910.71649"
          id="text5058"
-         sodipodi:linespacing="125%"
          transform="scale(1.0791103,0.92668933)"><title
            id="title5060">mod_int</title><tspan
            sodipodi:role="line"
            id="tspan5062"
            x="246.03143"
-           y="910.71649">Parley</tspan></text>
+           y="910.71649"
+           style="font-size:12.9794426px;line-height:1.25">Parley</tspan></text>
       <text
          transform="scale(1.0791103,0.92668933)"
-         sodipodi:linespacing="125%"
          id="text5140"
          y="905.58673"
          x="391.88693"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.9794426px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><title
            id="title5142">mod_int</title><tspan
            y="905.58673"
            x="391.88693"
            id="tspan5144"
-           sodipodi:role="line">Int</tspan></text>
+           sodipodi:role="line"
+           style="font-size:12.9794426px;line-height:1.25">Int</tspan></text>
       <g
          transform="matrix(0.81,0,0,0.81,156.43169,655.59174)"
          id="g4919-3-2"
@@ -787,30 +787,30 @@
       </path>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.9794426px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="246.03143"
          y="924.90686"
          id="text5046"
-         sodipodi:linespacing="125%"
          transform="scale(1.0791103,0.92668933)"><title
            id="title5048">mod_int</title><tspan
            sodipodi:role="line"
            id="tspan5050"
            x="246.03143"
-           y="924.90686">Mix It Up</tspan></text>
+           y="924.90686"
+           style="font-size:12.9794426px;line-height:1.25">Mix It Up</tspan></text>
       <text
          transform="scale(1.0791103,0.92668933)"
-         sodipodi:linespacing="125%"
          id="text5158"
          y="919.81531"
          x="391.28372"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.9794426px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><title
            id="title5160">mod_int</title><tspan
            y="919.81531"
            x="391.28372"
            id="tspan5162"
-           sodipodi:role="line">Str</tspan></text>
+           sodipodi:role="line"
+           style="font-size:12.9794426px;line-height:1.25">Str</tspan></text>
       <rect
          style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.5999999;stroke-opacity:1"
          id="rect41638"
@@ -835,30 +835,30 @@
       </path>
       <text
          transform="scale(1.0791103,0.92668933)"
-         sodipodi:linespacing="125%"
          id="text5052"
          y="986.88336"
          x="246.03143"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.9794426px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><title
            id="title5054">mod_int</title><tspan
            y="986.88336"
            x="246.03143"
            id="tspan5056"
-           sodipodi:role="line">Volley</tspan></text>
+           sodipodi:role="line"
+           style="font-size:12.9794426px;line-height:1.25">Volley</tspan></text>
       <text
          transform="scale(1.0791103,0.92668933)"
-         sodipodi:linespacing="125%"
          id="text5116"
          y="981.73962"
          x="390.09216"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.9794426px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><title
            id="title5118">mod_int</title><tspan
            y="981.73962"
            x="390.09216"
            id="tspan5120"
-           sodipodi:role="line">Dex</tspan></text>
+           sodipodi:role="line"
+           style="font-size:12.9794426px;line-height:1.25">Dex</tspan></text>
       <g
          transform="matrix(0.81,0,0,0.81,156.43169,726.17483)"
          id="g4919-3-2-9"
@@ -898,17 +898,17 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.9794426px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="246.03151"
        y="1024.4904"
        id="text5100-3"
-       sodipodi:linespacing="125%"
        transform="scale(1.0791103,0.92668933)"><title
          id="title5102-6">mod_int</title><tspan
          id="tspan5108-3"
          sodipodi:role="line"
          x="246.03151"
-         y="1024.4904">Do a Flashback</tspan></text>
+         y="1024.4904"
+         style="font-size:12.9794426px;line-height:1.25">Do a Flashback</tspan></text>
     <g
        id="g5896"
        transform="translate(-11.696678,151.77038)">
@@ -978,28 +978,28 @@
        transform="translate(0,21.999924)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.9794426px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="246.03151"
          y="1038.9862"
          id="text5110"
-         sodipodi:linespacing="125%"
          transform="scale(1.0791103,0.92668933)"><title
            id="title5112">mod_int</title><tspan
            sodipodi:role="line"
            id="tspan5114"
            x="246.03151"
-           y="1038.9862">Good Thing I brought...</tspan></text>
+           y="1038.9862"
+           style="font-size:12.9794426px;line-height:1.25">Good Thing I brought...</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text42882"
          y="964.81744"
          x="459.24829"
-         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="964.81744"
            x="459.24829"
            id="tspan42884"
-           sodipodi:role="line">/</tspan></text>
+           sodipodi:role="line"
+           style="font-size:22.5px;line-height:1.25">/</tspan></text>
       <g
          transform="translate(-17.96941,132.26621)"
          id="g5849">
@@ -1119,17 +1119,17 @@
        id="g98804">
       <text
          transform="scale(1.0791103,0.92668933)"
-         sodipodi:linespacing="125%"
          id="text5100-5"
          y="1101.8066"
          x="245.74591"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.9794426px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><title
            id="title5102-62">mod_int</title><tspan
            y="1101.8066"
            x="245.74591"
            sodipodi:role="line"
-           id="tspan5108-2">Critical Flip</tspan></text>
+           id="tspan5108-2"
+           style="font-size:12.9794426px;line-height:1.25">Critical Flip</tspan></text>
       <g
          transform="matrix(1.3590991,0,0,1.3590991,164.28642,705.95236)"
          id="g4919-3-2-9-1"
@@ -1152,16 +1152,16 @@
            ry="0.64149302" />
       </g>
       <text
-         sodipodi:linespacing="125%"
          id="text42882-3"
          y="1022.53"
          x="452.87607"
-         style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="1022.53"
            x="452.87607"
            id="tspan42884-6"
-           sodipodi:role="line">/</tspan></text>
+           sodipodi:role="line"
+           style="font-size:22.5px;line-height:1.25">/</tspan></text>
       <rect
          ry="2"
          rx="2"
@@ -1234,26 +1234,26 @@
            id="rect13122-5" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="357.94107"
            y="507.66919"
-           id="text13195"
-           sodipodi:linespacing="125%"><tspan
+           id="text13195"><tspan
              sodipodi:role="line"
              id="tspan13197"
              x="357.94107"
-             y="507.66919">Exhaustion pile</tspan></text>
+             y="507.66919"
+             style="font-size:7.5px;line-height:1.25">Exhaustion pile</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="595.28094"
            y="506.15143"
-           id="text13195-6"
-           sodipodi:linespacing="125%"><tspan
+           id="text13195-6"><tspan
              sodipodi:role="line"
              id="tspan13197-8"
              x="595.28094"
-             y="506.15143">Discard pile</tspan></text>
+             y="506.15143"
+             style="font-size:7.5px;line-height:1.25">Discard pile</tspan></text>
       </g>
       <g
          transform="translate(-11.96941,62.266211)"
@@ -1265,16 +1265,16 @@
            id="rect13122-5-1" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="628.09619"
            y="-733.58044"
            id="text13195-7"
-           sodipodi:linespacing="125%"
-           transform="matrix(0,1,-1,0,0,0)"><tspan
+           transform="rotate(90)"><tspan
              sodipodi:role="line"
              id="tspan13197-89"
              x="628.09619"
-             y="-733.58044">Pack</tspan></text>
+             y="-733.58044"
+             style="font-size:7.5px;line-height:1.25">Pack</tspan></text>
       </g>
     </g>
     <rect
@@ -1286,26 +1286,26 @@
        y="587.63629" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20px;line-height:125%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:0%;font-family:OptimusPrinceps;-inkscape-font-specification:'OptimusPrinceps Medium';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="265.23065"
        y="608.28625"
-       id="text32186"
-       sodipodi:linespacing="125%"><tspan
+       id="text32186"><tspan
          sodipodi:role="line"
          id="tspan32188"
          x="265.23065"
-         y="608.28625">Basic Moves</tspan></text>
+         y="608.28625"
+         style="font-size:20px;line-height:1.25">Basic Moves</tspan></text>
     <use
        xlink:href="xp_icon.svg#xp_icon"
-       x="0"
-       y="0"
-       id="use48216-9"
-       transform="translate(437.88292,967.0423)"
-       xlink:type="simple"
-       xlink:actuate="onLoad"
-       xlink:show="embed"
+       height="100%"
        width="100%"
-       height="100%" />
+       xlink:show="embed"
+       xlink:actuate="onLoad"
+       xlink:type="simple"
+       transform="translate(437.88292,967.0423)"
+       id="use48216-9"
+       y="0"
+       x="0" />
     <g
        id="g80334">
       <path
@@ -1315,16 +1315,16 @@
          inkscape:connector-curvature="0" />
       <text
          transform="scale(0.66539151,1.5028746)"
-         sodipodi:linespacing="125%"
          id="text5249"
          y="468.58972"
          x="824.88873"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.29051971px;line-height:125%;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="468.58972"
            x="824.88873"
            id="tspan5251"
-           sodipodi:role="line">Say Stuff</tspan></text>
+           sodipodi:role="line"
+           style="font-size:70.29051971px;line-height:1.25">Say Stuff</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="rect41269"
@@ -1456,44 +1456,45 @@
       </g>
       <text
          transform="scale(0.92199787,1.0846012)"
-         sodipodi:linespacing="125%"
          id="text5249-8"
          y="743.71368"
          x="611.89258"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.72759628px;line-height:125%;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="743.71368"
            x="611.89258"
            id="tspan5251-8"
-           sodipodi:role="line">Flip</tspan></text>
+           sodipodi:role="line"
+           style="font-size:50.72759628px;line-height:1.25">Flip</tspan></text>
       <text
          transform="scale(1.1197321,0.89307076)"
-         sodipodi:linespacing="125%"
          id="text5249-8-5"
          y="957.24768"
          x="500.39471"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.7975378px;line-height:125%;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="957.24768"
            x="500.39471"
            id="tspan5251-8-0"
-           sodipodi:role="line">Roll Dice</tspan></text>
+           sodipodi:role="line"
+           style="font-size:15.7975378px;line-height:1.25">Roll Dice</tspan></text>
       <text
          transform="scale(1.1197321,0.89307076)"
-         sodipodi:linespacing="125%"
          id="text5249-8-5-9"
          y="956.59412"
          x="590.84161"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.7975378px;line-height:125%;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="956.59412"
            x="590.84161"
            id="tspan5251-8-0-6"
-           sodipodi:role="line">Manage</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:15.7975378px;line-height:1.25">Manage</tspan><tspan
            id="tspan41351"
            y="976.34106"
            x="590.84161"
-           sodipodi:role="line">Resources</tspan></text>
+           sodipodi:role="line"
+           style="font-size:15.7975378px;line-height:1.25">Resources</tspan></text>
       <g
          id="g78715"
          transform="translate(157.25851,374.1884)">
