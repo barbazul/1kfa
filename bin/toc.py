@@ -18,8 +18,8 @@ def parse(fname, level=2):
             headings.append( (amount_through, line) )
     return headings
 
-def markdown(player, gm, campaign):
-    collection = izip_longest(gm, player, campaign)
+def markdown(player, gm):
+    collection = izip_longest(gm, player)
     for p, g, c in collection:
         pp = '%s %s' % (p or ('',''))
         gg = '%s %s' % (g or ('',''))
@@ -28,6 +28,5 @@ def markdown(player, gm, campaign):
 
 player = parse('mod_guide_player.md')
 gm = parse('mod_guide_gm.md')
-campaign = parse('mod_guide_campaigns.md')
 
-markdown(player, gm, campaign)
+markdown(player, gm)

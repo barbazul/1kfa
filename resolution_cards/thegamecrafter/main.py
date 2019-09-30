@@ -7,7 +7,7 @@ from datetime import datetime
 import core
 import objects
 
-VERSION = '0.92'
+VERSION = '0.93'
 user = None
 game = None
 
