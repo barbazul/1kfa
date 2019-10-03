@@ -1176,17 +1176,17 @@ of explorable branches.
 
 #### The ONGOING tag
 
-When a character executes Use a Magic Item, they are considered to be
-"flowing magical energy" into the item. Then the magical effects happen.
+Upon triggering the Use a Magic Item move, a character "flows magical
+energy" into the item. Then the magical effects happen.
 
 Some magic effects happen immediately.
 
-Some magic effects persist even after you have finished flowing magical
-energy into the item. (eg, `_` of Light, Reaching `_`)
+Some magic effects persist even after the flow of magical energy into
+the item has ceased. (eg, `_` of Sensation)
 
-Some magical effects persist only if you continue to flow magical energy
-into the item. It is up to the player to declare when their character
-ceases the flow of magical energy.
+Some magic items have the ONGOING tag, and their effects persist
+only as long as magical energy flows into the item. It is up to the
+player to declare when their character ceases the flow of magical energy.
 If the flow of magical energy continues, they are not considered *idle*
 for the purposes of the Rest and Seek Help moves.
 
