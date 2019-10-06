@@ -529,8 +529,8 @@ the *attack power*.
 After the *attack power* is calculated, you have a choice: either take that
 many Exhaustion tokens or take a Wound token.
 
-You can always choose to absorb the whole amount of *attack power* by taking
-a single Wound.
+You can always choose to absorb the **entire** amount of *attack power* by
+taking a single Wound.
 
 Let's say your character was attacked with a sword and the dice were rolled
 and summed up to 7. You can either take 7 Exhaustion tokens (thus losing 7
@@ -558,9 +558,9 @@ Characters have 10 Stamina points. To win at combat, a character's
 foes must be subdued or pacified before 10 cards are lost from the
 Deckahedron.
 
-### Losing Stamina
+### Losing or Expending Stamina
 
-When you are instructed to lose a Stamina point:
+When you are instructed to lose or expend a Stamina point:
 
  1. Take a card off the top of your Deckahedron, do not look at the face side.
  2. Put that card face-down on your *Exhaustion pile*
@@ -595,7 +595,7 @@ When you are instructed to take a Wound token:
  * **If you already have 2 wounds**:
    - the character is incapacitated
  * **Otherwise**:
-   1. the GM describes how the character was wounded
+   1. The GM describes how the character was wounded
    2. Lose a Deckahedron card to your *Exhaustion pile* as you would when
       you lose a Stamina point.
    3. Place a *Wound token* on your *Exhaustion pile*
@@ -1451,7 +1451,7 @@ points are represented only by cards in your Deckahedron with a Stamina symbol
 
 ![Cards with and without Stamina symbol](images/with_without_stamina.png){ width=2.5inch }
 
-When you are instructed to lose a Stamina point, you may absorb it
+When you are instructed to lose or expend a Stamina point, you may absorb it
 using any relevant move cards and item cards, otherwise:
 
  1. Reveal cards in your Deckahedron until you find a card with a Stamina symbol
@@ -1668,42 +1668,42 @@ that create a pleasing and dramatic experience.
 # Glossary
 
  * 1d4, 1d6, 1d10
-   * This is notation that means "one four-sided die", "one six-sided
+   - This is notation that means "one four-sided die", "one six-sided
      die", etc.
  * attack power
-   * the number representing how powerful an attack is
+   - the number representing how powerful an attack is
  * charge capacity
-   * the maximum amount of charges a magic item card has
+   - the maximum amount of charges a magic item card has
  * depleted
-   * the state of a magic item without any remaining charges
+   - the state of a magic item without any remaining charges
  * halve
-   * When you roll dice and *halve* the value, divide by 2 and then round up
+   - When you roll dice and *halve* the value, divide by 2 and then round up
      to the nearest whole number. 4 becomes 2, 3 becomes 2, 2 becomes 1, etc.
  * idle
-   * A magic item is idle only if magical energy is no longer flowing
+   - A magic item is idle only if magical energy is no longer flowing
      through it
  * melee
-   * When the details of the fiction put two combatants close enough to each
+   - When the details of the fiction put two combatants close enough to each
      other such that their handheld weapons might connect
  * More Power
-   * Permanently changing the kind of dice that are rolled when certain Item
+   - Permanently changing the kind of dice that are rolled when certain Item
      cards are used
  * NPC
-   * Non-Player Character (a character controlled by the GM)
+   - Non-Player Character (a character controlled by the GM)
  * PC
-   * Player Character (a character controlled by a non-GM player)
+   - Player Character (a character controlled by a non-GM player)
  * ranged (or "at range")
-   * When the details of the fiction put two combatants far enough apart that
+   - When the details of the fiction put two combatants far enough apart that
      their handheld weapons could not connect
  * session
-   * The contiguous period of time that you're at the table, playing the game
+   - The contiguous period of time that you're at the table, playing the game
  * the supply
-   * The area on the table where all the cards and tokens are kept
+   - The area on the table where all the cards and tokens are kept
  * town
-   * Any place that offers food, shelter, exchange of goods, and the company
+   - Any place that offers food, shelter, exchange of goods, and the company
      of others. It could be a primitive circle of huts or a sprawling city
  * XP
-   * "experience point" or "experience points"
+   - "experience point" or "experience points"
 
 # Components
 
