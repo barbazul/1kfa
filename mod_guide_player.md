@@ -1225,7 +1225,9 @@ Using a magic item causes it to lose a charge. This loss can be avoided
 with moves like Entreat the Blood-Bound and Channel the Living Light.
 
 Following that, results of ✅︎ and ✔✔ cause a further cost to be incurred,
-as chosen from the list by the GM or the player, respectively.
+as chosen from the list by the GM or the player, respectively. In the
+case where the item being used is depleted of charges, it is still a
+valid choice to lose a charge on that same item *permanently*.
 
 **Note:** if the magic item being used is a magical weapon,
 another choice is available: "the weapon is damaged".
