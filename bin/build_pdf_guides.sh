@@ -61,14 +61,25 @@ cd $BUILDDIR
 #pandoc --reference-doc=$PUBLISH/custom_pandoc_reference.odt $SRC_GM -o /tmp/guide_gm.odt
 #lowriter --headless --convert-to pdf /tmp/guide*.odt
 
+cat $PUBLISH/frontmatter_player.yml $SRC_PLAYER > $BUILDDIR/player_pdf_src.md
 pandoc \
-  $SRC_PLAYER --latex-engine=xelatex \
-  -V subparagraph \
+  $BUILDDIR/player_pdf_src.md --latex-engine=xelatex \
   -o $BUILDDIR/guide_player.pdf
+
+cat $PUBLISH/frontmatter_player_phone.yml $SRC_PLAYER > $BUILDDIR/player_phone_pdf_src.md
 pandoc \
-  $SRC_GM --latex-engine=xelatex \
-  -V subparagraph \
+  $BUILDDIR/player_phone_pdf_src.md --latex-engine=xelatex \
+  -o $BUILDDIR/guide_player_phone.pdf
+
+cat $PUBLISH/frontmatter_gm.yml $SRC_GM > $BUILDDIR/gm_pdf_src.md
+pandoc \
+  $BUILDDIR/gm_pdf_src.md --latex-engine=xelatex \
   -o $BUILDDIR/guide_gm.pdf
+
+cat $PUBLISH/frontmatter_gm_phone.yml $SRC_GM > $BUILDDIR/gm_phone_pdf_src.md
+pandoc \
+  $BUILDDIR/gm_phone_pdf_src.md --latex-engine=xelatex \
+  -o $BUILDDIR/guide_gm_phone.pdf
 
 # Don't need this because I figured out how to add it with .md frontmatter
 #pdfjoin --rotateoversize=false \
