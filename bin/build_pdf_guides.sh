@@ -12,6 +12,11 @@ BUILDDIR=/tmp/1kfa_guide_build
 rm -rf $BUILDDIR
 mkdir $BUILDDIR
 cp -a $KFAREPO/images $BUILDDIR/images
+cp $PUBLISH/1kfa_cover_page.pdf $BUILDDIR/
+cp $PUBLISH/playtest_thankyou.pdf $BUILDDIR/
+
+mkdir -p ~/.fonts/
+cp $KFAREPO/fonts/*.[ot]tf ~/.fonts/
 
 cd $KFAREPO
 
@@ -48,7 +53,6 @@ pandoc \
  --toc \
  -t html \
  --css=$PUBLISH/markdown.css \
- --metadata pagetitle="1kFA GM Guide" \
  $SRC_GM -o $BUILDDIR/guide_gm.html
 
 cd $BUILDDIR
@@ -57,19 +61,21 @@ cd $BUILDDIR
 #pandoc --reference-doc=$PUBLISH/custom_pandoc_reference.odt $SRC_GM -o /tmp/guide_gm.odt
 #lowriter --headless --convert-to pdf /tmp/guide*.odt
 
-pandoc $SRC_PLAYER --latex-engine=xelatex  -o $BUILDDIR/pl_body.pdf
-pandoc $SRC_GM --latex-engine=xelatex  -o $BUILDDIR/gm_body.pdf
+pandoc \
+  $SRC_PLAYER --latex-engine=xelatex \
+  -V subparagraph \
+  -o $BUILDDIR/guide_player.pdf
+pandoc \
+  $SRC_GM --latex-engine=xelatex \
+  -V subparagraph \
+  -o $BUILDDIR/guide_gm.pdf
 
-pdfjoin --rotateoversize=false \
-        $PUBLISH/1kfa_cover_page.pdf \
-        $BUILDDIR/pl_body.pdf \
-        $PUBLISH/playtest_thankyou.pdf \
-        --outfile $BUILDDIR/guide_player.pdf
-pdfjoin --rotateoversize=false \
-        $PUBLISH/1kfa_cover_page.pdf \
-        $BUILDDIR/gm_body.pdf \
-        $PUBLISH/playtest_thankyou.pdf \
-        --outfile $BUILDDIR/guide_gm.pdf
+# Don't need this because I figured out how to add it with .md frontmatter
+#pdfjoin --rotateoversize=false \
+#        $PUBLISH/1kfa_cover_page.pdf \
+#        $BUILDDIR/pl_body.pdf \
+#        $PUBLISH/playtest_thankyou.pdf \
+#        --outfile $BUILDDIR/guide_player.pdf
 
 
 #cd $KFAREPO

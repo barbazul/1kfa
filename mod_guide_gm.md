@@ -1,3 +1,25 @@
+---
+title-meta: A Thousand Faces of Adventure Game Master's Guide
+
+include-before: \includepdf[pages=-]{/tmp/1kfa_guide_build/1kfa_cover_page.pdf}
+
+include-after: \includepdf[pages=-]{/tmp/1kfa_guide_build/playtest_thankyou.pdf}
+
+header-includes:
+  - \usepackage{pdfpages}
+  - \usepackage{titlesec}
+  - \newcommand{\sectionbreak}{\clearpage}
+
+linkcolor: purple
+urlcolor: purple
+filecolor: purple
+mainfont: LinLibertine
+monofont: RobotoMono-Regular
+fontsize: 11pt
+geometry:
+  - left=20mm
+---
+
 # GM Guide
 
 *playtest version* VERSION DATE
