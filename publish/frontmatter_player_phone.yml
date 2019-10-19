@@ -1,7 +1,7 @@
 ---
 title-meta: A Thousand Faces of Adventure Player's Guide
 
-include-before: \includepdf[pages=-]{/tmp/1kfa_guide_build/1kfa_cover_page.pdf}
+include-before: \includepdf[pages=-]{/tmp/1kfa_guide_build/1kfa_cover_page_a6.pdf}
 
 include-after: \includepdf[pages=-]{/tmp/1kfa_guide_build/playtest_thankyou.pdf}
 
@@ -16,7 +16,13 @@ monofont: RobotoMono-Regular
 fontsize: 12pt
 papersize: a6
 geometry:
-  - left=5mm
-  - right=5mm
+  - left=8mm
+  - right=8mm
+  - bottom=8mm
+  - includefoot=true
+
+toc: yes
+
+toc-depth: 2
 
 ---

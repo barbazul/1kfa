@@ -49,7 +49,8 @@ One piece of advice frequently given to anyone trying to convey information
 is "Show, don't tell".
 
 In that spirit, you are invited to visit
-`https://www.1kfa.com/examples`. There, you will see examples
+[https://www.1kfa.com/examples](https://www.1kfa.com/examples).
+There, you will see examples
 of 1kFA being played. For all the author's attempt to make this
 document clear, brief, and unambiguous, those examples may do a better job
 of conveying just what 1kFA is and how it is played.
@@ -1969,28 +1970,26 @@ recounting of the events that happened in the story so far.
 Lead each player through a quick check-in. Everyone, including the GM will
 ask if there's any way they could improve their style of play.
 
-```
-Each time we start a new session, there's going to be an opportunity for
-players to ask the table how they can make a bigger contribution to the
-fun.
-
-I'm going to give each of you a turn, and if you'd like, you can "ask for
-notes".  You are free to skip it, but this is a great opportunity before
-you get into character to see if there's anything about your play-style or
-any choices your character could make that would amplify the experience
-for everyone.
-
-When asked to give someone feedback, answer honestly and gently. We are
-giving suggestions for improvement, and these suggestions can be taken to
-heart or completely ignored. No response is ever required of the person
-asking for notes.
-
-Never say "you are having fun wrong". It's better to say "There are more
-fun parts over here if you want to take a look".
-
-After everyone, including myself, has had a turn, all the players get a
-free experience point for participating in this exercise.
-```
+> Each time we start a new session, there's going to be an opportunity for
+> players to ask the table how they can make a bigger contribution to the
+> fun.
+> 
+> I'm going to give each of you a turn, and if you'd like, you can "ask for
+> notes".  You are free to skip it, but this is a great opportunity before
+> you get into character to see if there's anything about your play-style or
+> any choices your character could make that would amplify the experience
+> for everyone.
+> 
+> When asked to give someone feedback, answer honestly and gently. We are
+> giving suggestions for improvement, and these suggestions can be taken to
+> heart or completely ignored. No response is ever required of the person
+> asking for notes.
+> 
+> Never say "you are having fun wrong". It's better to say "There are more
+> fun parts over here if you want to take a look".
+> 
+> After everyone, including myself, has had a turn, all the players get a
+> free experience point for participating in this exercise.
 
 This move's purpose is to practice an open dialogue and help everyone
 *improve* their play. If it feels like bargaining, argumentation,
@@ -2603,6 +2602,8 @@ create the kinds of fun that are most rewarding.
 
 # Campaigns
 
+---
+
 In A Thousand Faces of Adventure, there are 3 different kinds of Campaigns:
 
  * One-shot (usually 3 hours)
@@ -2643,7 +2644,7 @@ into *The Hero's Journey*. Be on the lookout for how they signal that they're
 into this kind of fun, and use what they express about themes, relationships,
 emotional tone, conflicts, and backstory to co-create the journey.
 
-# It's ok to skip it
+## It's ok to skip it
 
 You don't need to get every available *Journey point*. You should especially
 not try to force it if doing so would sacrifice fun for the players. Remember,
@@ -2651,7 +2652,7 @@ you're not the only author of this story, and while earning points feels nice,
 you've got other jobs too, like paying attention to the signals the players
 give you about the kind of fun they want to have.
 
-# It's ok to end it
+## It's ok to end it
 
 You may find that you and the players have collectively gone as far as you
 can. Maybe you've reached the deepest, darkest part of the adventure, and
@@ -2672,7 +2673,7 @@ just admit that it's over.
 Getting *Journey points* is great, but the reason everyone is here
 sitting around the table is to *have fun*.
 
-# It's ok to blend it
+## It's ok to blend it
 
 The boundaries between chapters do not need to be strict, explicitly defined
 lines. There may be a natural blending between two adjacent chapters as you
@@ -2687,7 +2688,7 @@ to complete the ordeal.
 Even when there is a threshold, as in chapters 3 and 7, the different players'
 characters might cross over at different times.
 
-# The lengths vary
+## The lengths vary
 
 The final chapter might go very fast, or it might be a long journey home.
 The first threshold might be crossed so fast that you only notice after the

@@ -12,8 +12,7 @@ BUILDDIR=/tmp/1kfa_guide_build
 rm -rf $BUILDDIR
 mkdir $BUILDDIR
 cp -a $KFAREPO/images $BUILDDIR/images
-cp $PUBLISH/1kfa_cover_page.pdf $BUILDDIR/
-cp $PUBLISH/playtest_thankyou.pdf $BUILDDIR/
+cp $PUBLISH/*.pdf $BUILDDIR/
 
 mkdir -p ~/.fonts/
 cp $KFAREPO/fonts/*.[ot]tf ~/.fonts/
@@ -32,11 +31,22 @@ sed --in-place -e "s/DATE/$DATE/" $SRC_PLAYER
 sed --in-place -e "s/DATE/$DATE/" $SRC_GM
 sed --in-place -e "s/VERSION/$VERSION/" $SRC_PLAYER
 sed --in-place -e "s/VERSION/$VERSION/" $SRC_GM
+sed --in-place -e "s/✗/![✗](images\/result_0.png)/" $SRC_GM
+sed --in-place -e "s/✗/![✗](images\/result_0.png)/" $SRC_PLAYER
+sed --in-place -e "s/✔✔✔/![✔✔✔](images\/result_3.png)/" $SRC_GM
+sed --in-place -e "s/✔✔✔/![✔✔✔](images\/result_3.png)/" $SRC_PLAYER
+sed --in-place -e "s/✔✔/![✔✔](images\/result_2.png)/" $SRC_GM
+sed --in-place -e "s/✔✔/![✔✔](images\/result_2.png)/" $SRC_PLAYER
+sed --in-place -e "s/✔/![✔](images\/result_1.png)/" $SRC_GM
+sed --in-place -e "s/✔/![✔](images\/result_1.png)/" $SRC_PLAYER
+sed --in-place -e "s/✅/![✅](images\/result_1.png)/" $SRC_GM
+sed --in-place -e "s/✅/![✅](images\/result_1.png)/" $SRC_PLAYER
 
  #-s                puts the utf-8 header in
  #--self-contained  puts data: URLs in
  #-t html           to HTML
 pandoc \
+ --from=markdown+line_blocks \
  -s \
  --self-contained \
  --include-in-header=$PUBLISH/tracking.html \
@@ -47,6 +57,7 @@ pandoc \
  $SRC_PLAYER -o $BUILDDIR/guide_player.html
 
 pandoc \
+ --from=markdown+line_blocks \
  -s \
  --self-contained \
  --include-in-header=$PUBLISH/tracking.html \
@@ -64,21 +75,25 @@ cd $BUILDDIR
 cat $PUBLISH/frontmatter_player.yml $SRC_PLAYER > $BUILDDIR/player_pdf_src.md
 pandoc \
   $BUILDDIR/player_pdf_src.md --latex-engine=xelatex \
+  --from=markdown+line_blocks \
   -o $BUILDDIR/guide_player.pdf
 
 cat $PUBLISH/frontmatter_player_phone.yml $SRC_PLAYER > $BUILDDIR/player_phone_pdf_src.md
 pandoc \
   $BUILDDIR/player_phone_pdf_src.md --latex-engine=xelatex \
+  --from=markdown+line_blocks \
   -o $BUILDDIR/guide_player_phone.pdf
 
 cat $PUBLISH/frontmatter_gm.yml $SRC_GM > $BUILDDIR/gm_pdf_src.md
 pandoc \
   $BUILDDIR/gm_pdf_src.md --latex-engine=xelatex \
+  --from=markdown+line_blocks \
   -o $BUILDDIR/guide_gm.pdf
 
 cat $PUBLISH/frontmatter_gm_phone.yml $SRC_GM > $BUILDDIR/gm_phone_pdf_src.md
 pandoc \
   $BUILDDIR/gm_phone_pdf_src.md --latex-engine=xelatex \
+  --from=markdown+line_blocks \
   -o $BUILDDIR/guide_gm_phone.pdf
 
 # Don't need this because I figured out how to add it with .md frontmatter

@@ -1,4 +1,12 @@
-
+<style type="text/css">
+.gmnote {
+  border-left: solid thick #ffffa0;
+  padding: 0em 1em 1em;
+  margin-left: 5em;
+  margin-right: -5em;
+  float: right;
+}
+</style>
 # A Thousand Faces of Adventure: Player's Guide
 
 *playtest version* VERSION DATE
@@ -155,10 +163,15 @@ move (or moves) your character is triggering and which of your
 character's attributes -- Str, Dex, or Int -- will be used to resolve
 the flip.
 
-    GM Note: The attributes used to resolve a move are listed at the top
-    of each card.  Sometimes a card gives the option of several
-    attributes, like "Flip Str / Dex".  You may need to ask the player for more
-    detail about what they are attempting before calling for a flip.
+<div class="gmnote">
+
+| **GM Note:** *The attributes used to resolve a move*
+| *are listed at the top of each card. A card may*
+| *give the option of several attributes, so you may*
+| *need to ask the player for more detail about their*
+| *action before calling for a flip.*
+
+</div>
 
 ![Illustration of your Deckahedron](images/component_layout.png){ width=2.5inch }
 
@@ -363,15 +376,20 @@ text of the move card.
 
 ![flip results](images/flip_results.png){ width=2.5inch }
 
-Usually ✔✔✔ means an unfettered success, and ✔✔ means success,
-but with complication.
+Usually ✔✔✔ means an unfettered success,
+and ✔✔ means success, but with complication.
 
 When the result is a single ✅︎, it sometimes means the same as a ✔✔,
 but often it is slightly worse.
 
-    GM Note: Any time a flip results in a single ✅︎ the GM gains a
-    *Shadow point* -- even when the move card says it has the same
-    narrative effect as a ✔✔.
+<div class="gmnote">
+
+| **GM Note:** *Any time a flip results in a single ✅︎*
+| *the GM gains a* **Shadow point** *-- even when the*
+| *move card says it has the same narrative effect*
+| *as a ✔✔.*
+
+</div>
 
 When the result is ✗, it is the GM's turn to make a move. The GM narrates
 the consequences of the move the player just attempted and has license to
@@ -636,13 +654,18 @@ Finally, the **fourth step**: you interpret those results into the
 narrative.  Did your character dive into the dirt?  Did they take a punch
 to the jaw and respond with a bloodied grin?  Did the spear bounce right
 off their steel breastplate?
+<div class="gmnote">
 
-    GM Note: The act of taking a risk, deciding how to get hurt, and then
-    later, deciding when and how to heal, with each stage having its
-    sacrifices and benefits, is a miniature echo of the overall structure of
-    the Hero's Journey campaign. Starting in comfort, choosing to cross a
-    threshold, deciding which fork to take in a road of trials,
-    then returning.
+| **GM Note:** *The act of taking a risk, deciding how*
+| *to get hurt, and then later, deciding when and*
+| *how to heal, with each stage having its*
+| *sacrifices and benefits, is a miniature echo of*
+| *the overall structure of the Hero's Journey*
+| *campaign. Starting in comfort, choosing to*
+| *cross a threshold, deciding which fork to take*
+| *in a road of trials, then returning.*
+
+</div>
 
 
 # Encumbrance Penalties
@@ -1244,11 +1267,14 @@ choice.
 
 If it has not yet been established, when a player first uses this move, it's
 a great time for the GM to ask them a question: "Who or what is the
-Blood-Bound?"
+Blood-Bound?" <div class="gmnote">
 
-    GM Note: this is a great way to stretch your improv muscles. Say "Yes,
-    and..." no matter if they identify the Blood-Bound as tiny, parasitic
-    insects or as monstrous, extra-dimensional dark gods.
+| **GM Note:** *this is a great way to stretch your*
+| *improv muscles. Say "Yes, and..." no matter if*
+| *they identify the Blood-Bound as tiny, parasitic*
+| *insects or as monstrous, extra-dimensional dark gods.*
+
+</div>
 
 When a player chooses this card during character creation or Study Under a
 Master, they also receive the item Blade of Echoes.
@@ -1478,12 +1504,18 @@ If there are no Stamina points in the Deckahedron *or* the *discard pile*,
 then all 10 must be in the *Exhaustion pile*. In this case, the character
 is *incapacitated* and can take no further actions.
 
-    GM Note: The switch to Heroic Mode is a way for the players to make
-    a choice that echoes Chapter 5 in the Hero's Journey. They themselves
-    become heroes.
-    By transcending randomness and meet the challenges of responsibility,
-    capability, and commitment, the players will have new power to get
-    the outcomes they desire.
+<div class="gmnote">
+
+| **GM Note:** *The switch to Heroic Mode is a way*
+| *for the players to make a choice that echoes*
+| *Chapter 5 in the Hero's Journey. They*
+| *themselves become heroes.*
+| *By transcending randomness and meeting the*
+| *challenges of responsibility, capability, and*
+| *commitment, the players will have new power to*
+| *get the outcomes they desire.*
+
+</div>
 
 When playing in Heroic Mode, you may look through the cards of your
 *exhaustion pile* at any time.
