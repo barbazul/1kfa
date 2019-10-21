@@ -111,11 +111,11 @@ happens you will be called do things beyond just "saying stuff":
 
 This guide will teach you how to do those things.
 
-### Character creation - Fitting the fiction
+### Your Character: A Scrappy Adventurer
 
-1kFA is a game about **building** up a character, who starts as
-a **scrappy adventurer** and grows to become someone who can make
-the most meaningful change in the world.
+1kFA is a game about **building up** a character, who starts as
+a **scrappy adventurer** and grows to become someone whose impact
+on their world is epic.
 
 During character creation, you will get to determine all aspects of
 your character's history, social and economic circumstances, and personality.
@@ -132,7 +132,7 @@ about how the backstory fits the character's game limitations.
 Nothing stops you from creating a hulking, 7 foot tall barbarian, with a rich
 history of warring and slaughtering enemies, but at the very beginning of
 the game, with a couple unlucky flips, that barbarian may suffer a sound
-drubbing at the hands of a farmer with a shovel and his overprotective goat.
+drubbing at the hands of a farmer and his overprotective goat.
 
 This doesn't mean you shouldn't create the barbarian character. You should.
 That sounds awesome! But if you do, be prepared to find some narrative
@@ -615,10 +615,8 @@ When you are instructed to take a Wound token:
    - the character is incapacitated
  * **Otherwise**:
    1. The GM describes how the character was wounded
-   2. Lose a Deckahedron card to your *Exhaustion pile* as you would when
-      you lose a Stamina point.
-   3. Place a *Wound token* on your *Exhaustion pile*
-   4. Randomly draw a *wound card* from the supply and place it in your
+   2. Place a *Wound token* on your *Exhaustion pile*
+   3. Randomly draw a *wound card* from the supply and place it in your
       *discard pile*. It will now start cycling between your Deckahedron
       and your *discard pile*.
 
@@ -1688,7 +1686,8 @@ To roll a 1d4 or 1d6 with the Deckahedron, flip over a card from the top
 of your deck, and look for the d4 or d6 symbol on the face side, and read
 the number therein.
 
-`TODO: illustration of d4 and d6 symbols`
+![d4 symbols](images/deckahedron_face_d4_highlight.png){ width=5cm }
+![d6 symbols](images/deckahedron_face_d6_highlight.png){ width=5cm }
 
 If there is no number, that card doesn't count.  Just re-flip and
 use the next card.
