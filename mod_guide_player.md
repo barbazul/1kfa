@@ -312,12 +312,6 @@ succeed at moves.
 Whenever a move is *resolved* by a Blessing card, return the Blessing card
 to the supply rather than keeping it in your discard pile.
 
-Note: some moves instruct you to match Chinese Zodiac symbols on the corners
-of cards. The corners of Blessing cards have a "dragon" symbol, which is
-*special*.
-The "dragon" symbol matches all other symbols except for the "goat" symbol
-on the wound cards.
-
 
 ## Other flip complications: Wound cards
 
@@ -505,15 +499,15 @@ spent and collapsed in a heap.
 
 When a character is in a fight, they are running, dodging, striking, and
 being struck and assailed by their foe.  All of this stuff is scary and
-exhausting. So a character gets weaker the longer they're in this
-exchange, even if they're able to dodge every blow.
+exhausting. A character gets weaker as this exchange goes on, even if
+they're able to dodge every blow.
 
 This weakening is represented by cards from your Deckahedron being lost
 into your *Exhaustion pile*.
 
 Have you ever watched a boxing match or a mixed martial arts match? During
-the later rounds, the athletes are worn down, they don't dance around the
-ring with as much vigor, and drop their guard more frequently. The contest
+the later rounds, the athletes are worn down, their footwork is less
+animated, and they drop their guard more frequently. The contest
 is not always decided with a knockout punch, it often comes down to who can
 better endure the exertion.
 
@@ -609,7 +603,7 @@ the character is dead, unconscious, or just unable to stand or move.
 Getting wounded sucks, and when wounded, all intelligent creatures seek
 to cure their condition as a very high priority.
 
-When you are instructed to take a Wound token:
+When you are instructed to take a Wound:
 
  * **If you already have 2 wounds**:
    - the character is incapacitated
@@ -640,10 +634,6 @@ Whenever you **flip** and reveal a wound card, follow these rules:
 Wound cards can be used to represent different fictional aspects. They
 usually represent literal wounds, but may also be used for the effects of
 disease, poison, or other effects inflicted by monsters or the environment.
-
-Note: some moves instruct you to match Chinese Zodiac symbols on the corners
-of cards. Wound cards' corners have the "goat" symbol which does not match
-any symbol.
 
 
 ## Describe
@@ -1518,12 +1508,58 @@ is *incapacitated* and can take no further actions.
 When playing in Heroic Mode, you may look through the cards of your
 *exhaustion pile* at any time.
 
+# Mini-games
+
+## Corner-matching Mini-games
+
+Some moves can be resolved by laying out Deckahedron cards into certain
+shapes such that the the Chinese Zodiac symbols on the corners match up.
+
+During corner-matching mini-games, the corner symbols of Wound and Blessing
+cards are *special*. The Blessing cards have a "dragon" symbol,
+which is *wild* -- it matches all other symbols except for the "goat"
+symbols on the Wound cards.
+The corners of Wound cards show the "goat" symbol, which does not match
+any other symbol, not even itself.
+
+### Pick Locks
+
+In the Pick Locks mini-game, the player attempting the move must draw
+three cards from the top of their Deckahedron and put them down on the
+table, face-up.
+
+They must then arrange the cards corner-to-corner in a line such that
+the touching corners show the exact same symbol.
+
+`TODO: illustration of Pick Locks mini-game`
+
+At any time during the mini-game, they may put one of the cards into
+their Exhaustion pile (Stamina is lost to mental exhaustion) and replace
+it with a new card from the top of their Deckahedron. The play may do
+this as many times as they like.
+
+While the player is attempting the mini-game, play continues at the table,
+with other players making moves and time moving forward in the world
+while the character concentrates on their lockpicking task.
+
+At any point in the mini-game, the player can abandon the attempt, and
+the result shall be interpreted as though they flipped an ✗.
+
+### Fundamental Magic
+
+`TODO: illustration of Fundamental Magic mini-game`
+
+The Fundamental Magic mini-game works the same as the Pick Locks mini-game,
+except that the player starts with 4 cards and must create a "box" shape.
+
 # The Pursuit Mini-game
 
 When dangerous foes are chasing the PCs, use these rules
 to determine what happens.
 
 When a player first declares that they are going to Bravely Run Away
+
+`TODO: finish`
 
  * Starting player declares
  * Other players declare whether their character joins
@@ -1548,16 +1584,22 @@ When a player first declares that they are going to Bravely Run Away
    * Dex
      * Sliding / tumbling down an embankment
      * Dancing across a precarious rooftop
-     * Jumping from the second floor onto a waiting horse
+     * Jumping from the balcony onto a waiting horse
  * The last flip must be made by the rabbit alone.
  * If the pursuers ever win 2 flips in a row, they can make a move in the middle
    of the pursuit if appropriate, like firing a volley of arrows or sounding
    some kind of alarm
 
-| (Str + Dex) - Enc  | < 0                    |   0                      |   1    |   2    |   3    |   4     |   5         |
-| ------------------ | ---------------------- | ------------------------ | ------ | ------ | ------ | ------- | ----------- |
-| Flip:              | Anvils 2x disadvantage | Anvils with disadvantage | Anvils | Blades | Crowns | Dragons | Dragons with advantage |
 
+| (Str + Dex) - Enc  | Flip:                    |
+| ------------------ | ------------------------ |
+| less than 0        | Anvils 2x disadvantage   |
+| 0                  | Anvils with disadvantage |
+| 1                  | Anvils |
+| 2                  | Blades |
+| 3                  | Crowns |
+| 4                  | Dragons                |
+| 5                  | Dragons with advantage |
 
 # Player vs Player
 
