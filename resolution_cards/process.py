@@ -310,9 +310,27 @@ if __name__ == '__main__':
     shutil.copy('/tmp/cards/back.png', '/tmp/cards/blessing/back.png')
     make_green_deck()
     make_red_deck()
-    make_deck(1)
-    make_deck(2)
-    make_deck(3)
-    make_deck(4)
-    make_wound_deck()
-    make_blessing_deck()
+    if os.environ.get('PARALLEL'):
+        from multiprocessing import Pool
+        from functools import partial
+        pool = Pool(6)
+        def doit(partl):
+          partl()
+        pool.apply_async(doit, [
+          partial(make_deck, 1),
+          partial(make_deck, 2),
+          partial(make_deck, 3),
+          partial(make_deck, 4),
+          partial(make_wound_deck),
+          partial(make_blessing_deck),
+        ])
+    else:
+        print('')
+        print('You can use PARALLEL=1 to make this faster')
+        print('')
+        make_deck(1)
+        make_deck(2)
+        make_deck(3)
+        make_deck(4)
+        make_wound_deck()
+        make_blessing_deck()
