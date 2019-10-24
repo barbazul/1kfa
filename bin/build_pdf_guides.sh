@@ -31,16 +31,18 @@ sed --in-place -e "s/DATE/$DATE/" $SRC_PLAYER
 sed --in-place -e "s/DATE/$DATE/" $SRC_GM
 sed --in-place -e "s/VERSION/$VERSION/" $SRC_PLAYER
 sed --in-place -e "s/VERSION/$VERSION/" $SRC_GM
-sed --in-place -e "s/✗/![✗](images\/result_0.png)/" $SRC_GM
-sed --in-place -e "s/✗/![✗](images\/result_0.png)/" $SRC_PLAYER
-sed --in-place -e "s/✔✔✔/![✔✔✔](images\/result_3.png)/" $SRC_GM
-sed --in-place -e "s/✔✔✔/![✔✔✔](images\/result_3.png)/" $SRC_PLAYER
-sed --in-place -e "s/✔✔/![✔✔](images\/result_2.png)/" $SRC_GM
-sed --in-place -e "s/✔✔/![✔✔](images\/result_2.png)/" $SRC_PLAYER
-sed --in-place -e "s/✔/![✔](images\/result_1.png)/" $SRC_GM
-sed --in-place -e "s/✔/![✔](images\/result_1.png)/" $SRC_PLAYER
-sed --in-place -e "s/✅/![✅](images\/result_1.png)/" $SRC_GM
-sed --in-place -e "s/✅/![✅](images\/result_1.png)/" $SRC_PLAYER
+sed --in-place -E -e "s/✗/![X symbol](images\/result_0.png)/" $SRC_GM
+sed --in-place -E -e "s/✗/![X symbol](images\/result_0.png)/" $SRC_PLAYER
+sed --in-place -E -e "s/✔✔✔/![triple check](images\/result_3.png)/" $SRC_GM
+sed --in-place -E -e "s/✔✔✔/![triple check](images\/result_3.png)/" $SRC_PLAYER
+sed --in-place -E -e "s/✔✔/![double check](images\/result_2.png)/" $SRC_GM
+sed --in-place -E -e "s/✔✔/![double check](images\/result_2.png)/" $SRC_PLAYER
+sed --in-place -E -e "s/✔/![single check](images\/result_1.png)/" $SRC_GM
+sed --in-place -E -e "s/✔/![single check](images\/result_1.png)/" $SRC_PLAYER
+sed --in-place -E -e "s/\xef\xb8\x8e//" $SRC_GM
+sed --in-place -E -e "s/\xef\xb8\x8e//" $SRC_PLAYER
+sed --in-place -E -e "s/✅/![single check](images\/result_1.png)/" $SRC_GM
+sed --in-place -E -e "s/✅/![single check](images\/result_1.png)/" $SRC_PLAYER
 
  #-s                puts the utf-8 header in
  #--self-contained  puts data: URLs in
