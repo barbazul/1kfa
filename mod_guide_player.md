@@ -1591,15 +1591,15 @@ When a player first declares that they are going to Bravely Run Away
    some kind of alarm
 
 
-| (Str + Dex) - Enc  | Flip:                    |
-| ------------------ | ------------------------ |
-| less than 0        | Anvils 2x disadvantage   |
-| 0                  | Anvils with disadvantage |
-| 1                  | Anvils |
-| 2                  | Blades |
-| 3                  | Crowns |
-| 4                  | Dragons                |
-| 5                  | Dragons with advantage |
+| Str + Dex - Encumbrance | Flip:          |
+| ------------- | ------------------------ |
+| less than 0   | Anvils 2x disadvantage   |
+| 0             | Anvils with disadvantage |
+| 1             | Anvils |
+| 2             | Blades |
+| 3             | Crowns |
+| 4             | Dragons                |
+| 5             | Dragons with advantage |
 
 # Player vs Player
 
