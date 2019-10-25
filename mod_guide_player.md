@@ -1743,43 +1743,55 @@ that create a pleasing and dramatic experience.
 
 # Glossary
 
- * 1d4, 1d6, 1d10
-   - This is notation that means "one four-sided die", "one six-sided
-     die", etc.
- * attack power
-   - the number representing how powerful an attack is
- * charge capacity
-   - the maximum amount of charges a magic item card has
- * depleted
-   - the state of a magic item without any remaining charges
- * halve
-   - When you roll dice and *halve* the value, divide by 2 and then round up
-     to the nearest whole number. 4 becomes 2, 3 becomes 2, 2 becomes 1, etc.
- * idle
-   - A magic item is idle only if magical energy is no longer flowing
-     through it
- * melee
-   - When the details of the fiction put two combatants close enough to each
-     other such that their handheld weapons might connect
- * More Power
-   - Permanently changing the kind of dice that are rolled when certain Item
-     cards are used
- * NPC
-   - Non-Player Character (a character controlled by the GM)
- * PC
-   - Player Character (a character controlled by a non-GM player)
- * ranged (or "at range")
-   - When the details of the fiction put two combatants far enough apart that
-     their handheld weapons could not connect
- * session
-   - The contiguous period of time that you're at the table, playing the game
- * the supply
-   - The area on the table where all the cards and tokens are kept
- * town
-   - Any place that offers food, shelter, exchange of goods, and the company
-     of others. It could be a primitive circle of huts or a sprawling city
- * XP
-   - "experience point" or "experience points"
+1d4, 1d6, 1d10
+: This is notation that means "one four-sided die", "one six-sided die", etc.
+
+attack power
+: the number representing how powerful an attack is
+
+charge capacity
+: the maximum amount of charges a magic item card has
+
+depleted
+: the state of a magic item without any remaining charges
+
+halve
+: When you roll dice and *halve* the value, divide by 2 and then round up
+to the nearest whole number. 4 becomes 2, 3 becomes 2, 2 becomes 1, etc.
+
+idle
+: A magic item is idle only if magical energy is no longer flowing through it
+
+melee
+: When the details of the fiction put two combatants close enough to each
+other such that their handheld weapons might connect
+
+More Power
+: Permanently changing the kind of dice that are rolled when certain Item
+cards are used
+
+NPC
+: Non-Player Character (a character controlled by the GM)
+
+PC
+: Player Character (a character controlled by a non-GM player)
+
+ranged (or "at range")
+: When the details of the fiction put two combatants far enough apart that
+their handheld weapons could not connect
+
+session
+: The contiguous period of time that you're at the table, playing the game
+
+the supply
+: The area on the table where all the cards and tokens are kept
+
+town
+: Any place that offers food, shelter, exchange of goods, and the company
+of others. It could be a primitive circle of huts or a sprawling city
+
+XP
+: "experience point" or "experience points"
 
 # Components
 
