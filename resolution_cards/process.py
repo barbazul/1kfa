@@ -190,6 +190,7 @@ def make_deck(deck_number):
 
     for i, card in enumerate(cards):
         dom = get_dom_for_printing(FACE_SVG)
+        dom.layer_hide('wound')
         dom.layer_show('registration_marks')
         dom.layer_show('zodiac')
         dom.layer_show('center_symbols')
@@ -222,6 +223,7 @@ def make_deck(deck_number):
 def make_blessing_deck():
     for i, card in enumerate(blessing_cards):
         dom = get_dom_for_printing(FACE_SVG)
+        dom.layer_hide('wound')
         dom.layer_show('zodiac')
         dom.layer_show('center_symbols')
         dom.layer_show('checks_xs')

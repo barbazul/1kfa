@@ -90,7 +90,7 @@ rank of a character's *stat*.
 
 Back of card                      | Front of card
 ----------------------------------|----------------------------------------
-![Card Back](images/back_200.png) | ![Card Front](images/front_19_200.png)
+![Card Back](images/back.png) | ![Card Front](images/front_19_200.png)
 
  1. A stat with the rank of 1 is connected to the red edge of the
     Deckahedron, which shows 1 pip
