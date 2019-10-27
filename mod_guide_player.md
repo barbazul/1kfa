@@ -618,7 +618,7 @@ When you are instructed to take a Wound:
 
 #### A Wound Card
 
-![Image of wound card](images/wound_200.png){ width=1.1inch }
+![A wound card](images/wound_200.png){ width=1.1inch }
 
 Having a *wound card* in your Deckahedron causes some nasty effects.
 
@@ -794,7 +794,7 @@ storytelling, and improv means rolling with the punches sometimes.
 
 ## Critical Success
 
-![Critical Flip card](images/critical_flip_card.png){ width=2.5inch }
+![Critical Success card](images/critical_flip_card.png){ width=2.5inch }
 
 One of the 20 cards in your Deckahedron is the "Critical Success card". It
 has a ✔✔✔ symbol on every edge and a circular green symbol in the middle.
