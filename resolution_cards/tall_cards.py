@@ -226,8 +226,7 @@ class I_Know_This(Card):
 class Rest(Card):
   custom_number = 12
   desc = u'''
-    When you are out of combat, not travelling, and have a day
-    to devote to rest, do the following:
+    When not travelling, with a day to devote to rest, do the following:
     |
     * Step 1: Return all Exhaustion tokens to the supply
     * Step 2: Count the Harm and Wound tokens on your Exhaustion pile
