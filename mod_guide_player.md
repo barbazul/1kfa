@@ -156,17 +156,17 @@ Dragon    | ![dragon suit](images/suit_dragon.png){ width=0.5inch }         | in
 Shuffle your Deckahedron and place it face-down in front of you.
 
 Whenever your character attempts something risky, where the outcome is
-not certain, the GM calls for you to use your Deckahedron and "flip".
+not certain, the GM will call for you to take your Deckahedron and "flip".
 
 In conversation with GM and the rest of the table, you'll decide what
 move (or moves) your character is triggering and which of your
 character's attributes -- Str, Dex, or Int -- will be used to resolve
-the flip.
+the flip. Have that move card or page in your booklet ready.
 
 <div class="gmnote">
 
 | **GM Note:** *The attributes used to resolve a move*
-| *are listed at the top of each card. A card may*
+| *are listed at the top of each move card. A card may*
 | *give the option of several attributes, so you may*
 | *need to ask the player for more detail about their*
 | *action before calling for a flip.*
@@ -175,30 +175,23 @@ the flip.
 
 ![Illustration of your Deckahedron](images/component_layout.png){ width=2.5inch }
 
-Look at the attribute on your character sheet -- what suit is it, Anvil,
-Blade, Crown, or Dragon?
-Take the top card and flip it face up.
+Take the top card of your Deckahedron and flip it face up.
+Next, find the suit (Anvil, Blades, Crown, or Dragon) of the chosen attribute
+on your character sheet.
 
 ![Illustration of flipping a card](images/component_flip.png){ width=2.5inch }
 
-The top of the flipped card shows ✗ or ✔s.
-These tell you the result of the move.
+On the face side of the Deckahedron card, find that suit symbol.
+The result of the move is the ✗ or ✔ symbols next to that suit.
 When you flip, keep in mind that the GM may need to read the result. Being
 consistent with how you orient the card will help simplify the GM's
 bookkeeping and keep up the pace of the game.
 
 ![Illustration of reading a card](images/component_read.png){ width=2.5inch }
 
-Finally, find the move card named by the GM and read its instructions.
-It tells you how the GM should interpret the ✗s and ✔s.
+Finally, read the instructions on your move card.
+It tells you and the GM how to interpret the ✗s and ✔s.
 
-Afterward, any card used during a flip goes face-up in a *discard pile*.
-Later, you will start another pile of cards called an *Exhaustion pile*.
-Keep them separate.
-
-Note: some move cards give you or the GM a choice between several options.
-If one of the options is impossible (fictionally or mechanically), it may
-not be chosen. Choose one of the other options instead.
 
 ## For example,
 
@@ -208,18 +201,18 @@ You're playing a character named Kresk.  You say:
 > He just takes a running start and mightily leaps over the pit,
 > landing safely on the other side.
 
-The GM might say to you:
+The GM responds:
 
 > Ok, sounds good, but let's see if Kresk's legs are strong enough.
 > Please flip Defy Danger with your Strength.
 
-Look over at the character sheet and see that Kresk has rank 3
-(Crown) Str. Flip over the top card of your Deckahedron and
-look for that Crown suit.
+Ready the Defy Danger page in your booklet (it's the first page).
+Next, on the character sheet, see that Kresk has rank 3 (Crown) Str.
+Flip over the top card of your Deckahedron and look for that Crown suit.
 
-Let's say you get ✔✔. The GM uses the instructions on the
-Defy Danger card ("You do it, but there's a new complication") to
-improvise what happens next:
+Let's say the Deckahedron card shows ✔✔ next to the Crown.
+The GM uses the indicated instructions on the Defy Danger move ("You
+do it, but there's a new complication") to improvise what happens next:
 
 > You leap through the air, landing with a thud on the other
 > side of the pit, kicking up a cloud of dust on this forgotten
@@ -228,9 +221,106 @@ improvise what happens next:
 > rattle alerts you to something approaching from inside the pit.
 > What do you do?
 
+
+## Reshuffling
+
+After every flip, any face-up Deckahedron card is placed, face-up, in a
+*discard pile*. (Later, you will start another pile of cards called an
+*Exhaustion pile*. Keep them separate.)
+
+At any time other than during a flip, you may take your
+*discard pile* and shuffle it back into your Deckahedron.
+
+Whenever your Deckahedron has 5 or fewer cards, you **must** take
+your *discard pile* and shuffle it back into your Deckahedron.
+
+
+## Interpreting the result of a flip
+
+When a player's character performs a move, the player executes a flip,
+and the GM leads the table interpreting the narrative result, based on the
+text of the move card.
+
+![flip results](images/flip_results.png){ width=2.5inch }
+
+Usually ✔✔✔ means an unfettered success,
+and ✔✔ means success, but with complication.
+
+When the result is a single ✅︎, it sometimes means the same as a ✔✔,
+but often it is slightly worse.
+
+<div class="gmnote">
+
+| **GM Note:** *Any time a flip results in a single ✅︎*
+| *the GM gains a* **Shadow point** *-- even when the*
+| *move card says it has the same narrative effect*
+| *as a ✔✔.*
+
+</div>
+
+Note: some move cards give choices between several options.
+If one of the options is impossible (fictionally or mechanically), it may
+not be chosen. Choose one of the other options instead.
+
+When the result is ✗, it is the GM's turn to make a move. The GM narrates
+the consequences of the move the player just attempted and has license to
+take the narrative where they like.
+
+See the GM Guide for explanations of *Shadow points* and for a list
+of moves the GM is allowed to make.
+
+### Exceptions on ✅︎ and ✗ flips
+
+Sometimes a card does not say how a ✅︎ should be interpreted. In that case,
+the GM gets to make a move, just like ✗.
+
+Rarely, a card will have instructions for how to interpret a ✗ result.
+These instructions should be executed, but might only be *part* of the
+GM's move -- the GM gets to decide if they have more to add.
+
+When the card is a *FAST* move, the GM does not get to make a move on
+a ✗. Instead, the GM just gains 2 *Shadow points*.
+
+
+## Cards tagged *FAST*
+
+`TODO: illustration of FAST move`
+
+Some move cards have the *FAST* symbol. This indicates they can
+be used in conjunction with another move during your character's moment in
+the spotlight.
+
+As the conversation moves around the table, players will
+have informal "turns" where they talk about what actions their character
+is taking. The game works best when this "spotlight" is moved around fairly
+so each player can contribute. The spotlight typically follows a single
+character's actions until they trigger, then resolve a move.
+
+*Fast* moves are like "bonus" moves that augment, or quickly follow the
+initially triggered move.
+
+Characters will trigger **at most one** *FAST* move during their moment
+in the spotlight.
+Otherwise the pace of the game can slow down, and other players may feel
+like they aren't getting a fair share of time in the conversation.
+
+Examples of cards tagged *FAST* include Good Cardio, Where It Hurts, and
+Unknown Benefactor.
+
+A moment in the spotlight might see your swordsman character triggering
+the move Mix It Up, causing damage to a foe, and then also triggering
+Where It Hurts as you describe the sword delivering a stunning blow,
+clanging loud and hard against the foe's helmet.
+
+Or, your professor of alchemy character might trigger Defy Danger as they
+jump out of the way of a toppling bookcase. After you flip an ✗, the GM
+may start enumerating the attack power your character must suffer, to which you
+could respond by invoking Unknown Benefactor to cancel the attack's effects.
+
+
 ## Other ways to flip: Advantage / Disadvantage
 
-Some flips are a little more complicated. Some moves in 1kFA
+Some flips are a little more complicated. There are moves that
 instruct you to "take +1 advantage" or "flip with advantage".
 Sometimes you are given the opposite
 instruction "flip with disadvantage" or "your foe gets advantage".
@@ -245,7 +335,7 @@ and *resolve the flip* with the card that has the **best** result.
 If it's a tie, you may choose whichever card to be the card that *resolves
 the flip*.
 
-All cards that got flipped go face-up in your *discard pile*.
+After, all flipped cards go face-up in your *discard pile*.
 
 #### Complete Flip Rule
 
@@ -262,22 +352,21 @@ character having disadvantage.
 ### Multiple Advantages / Disadvantages
 
 Advantage or disadvantage can stack. Flips can accumulate up to 2
-advantage or 2 disadvantage.
-This means you flip **3 cards in total** and take the **best**
-or **worst**, respectively.
+advantage or 2 disadvantage, meaning that you flip **3 cards in total**
+and take the **best** or **worst**, respectively.
 
-No flip may use more than 3 cards in total, so adding advantage beyond
+No flip may use more than 3 cards in total, so stacking advantage beyond
 2 is just ignored.
 
 It is possible a situation might arise where you are instructed to both
 "flip with advantage" and "flip with disadvantage".
 If this happens, simply add up all the advantages, and then subtract all
 the disadvantages to arrive at a "net advantage" or "net disadvantage".
-The maximum is still two extra cards, so if the sum is -3, you only
-flip with two disadvantage cards.
+The maximum number of cards per flip is still 3, so even if the
+"net disadvantage" is -3, you only flip 3 cards and take the worst.
 
 
-## Other flip complications: XP cards
+## XP cards
 
 ![An XP card](images/component_card_green_token.png){ width=2.5inch }
 
@@ -298,11 +387,11 @@ game. See below for moves that let you "break" or "bend" rules, or partially
 take control of the narrative.
 
 
-## Other flip complications: Blessing cards
+## Blessing cards
 
 ![blessing cards](images/component_card_blessings.png){ width=2.5inch }
 
-Some cards will instruct you to take Blessing cards. When instructed
+Some move cards will instruct you to take Blessing cards. When instructed
 to do so, draw one Blessing card at random from the supply, and place
 it in your discard pile.
 
@@ -313,16 +402,16 @@ Whenever a move is *resolved* by a Blessing card, return the Blessing card
 to the supply rather than keeping it in your discard pile.
 
 
-## Other flip complications: Wound cards
+## Wound cards
 
 Sometimes you flip over a wound card and must lose a Stamina point. See the
 [Combat chapter](#combat).
 
 
-## Other flip complications: Teamwork Flip
+## Teamwork Flips
 
 Before a flip is executed, if other players have characters in the same
-scene as the spotlighted character, and there is nothing in the fiction
+scene as the character taking action, and there is nothing in the fiction
 preventing it, those other players may choose to have their characters
 *aid* the spotlighted character. They just chime in before the flip and
 say how their character helps out.
@@ -351,83 +440,6 @@ If there are any negative consequences (damage, danger, etc) from the
 result, all the participating characters must suffer them.
 
 Supporting players may not Do a Flashback on Teamwork Flips.
-
-
-## Reshuffling
-
-At any time before a flip, or after a flip is resolved, you may take your
-*discard pile* and shuffle it back into your Deckahedron.
-
-Whenever your Deckahedron is down to 5 or fewer cards, you **must** take
-your *discard pile* and shuffle it back into your Deckahedron.
-
-
-## Interpreting the result of a flip
-
-When a player's character performs a move, the player executes a flip,
-and the GM leads the table interpreting the narrative result, based on the
-text of the move card.
-
-![flip results](images/flip_results.png){ width=2.5inch }
-
-Usually ✔✔✔ means an unfettered success,
-and ✔✔ means success, but with complication.
-
-When the result is a single ✅︎, it sometimes means the same as a ✔✔,
-but often it is slightly worse.
-
-<div class="gmnote">
-
-| **GM Note:** *Any time a flip results in a single ✅︎*
-| *the GM gains a* **Shadow point** *-- even when the*
-| *move card says it has the same narrative effect*
-| *as a ✔✔.*
-
-</div>
-
-When the result is ✗, it is the GM's turn to make a move. The GM narrates
-the consequences of the move the player just attempted and has license to
-take the narrative where they like.
-
-See the GM Guide for explanations of *Shadow points* and for a list
-of moves the GM is allowed to make.
-
-### Exceptions on ✅︎ and ✗ flips
-
-Sometimes a card does not say how a ✅︎ should be interpreted. In that case,
-the GM gets to make a move, just like ✗.
-
-Rarely, a card will have instructions for how to interpret a ✗ result.
-These instructions should be executed, but might only be *part* of the
-GM's move -- the GM gets to decide if they have more to add.
-
-When the card is a *FAST* move, the GM does not get to make a move on
-a ✗. Instead, the GM just gains 2 *Shadow points*.
-
-
-## Cards tagged *FAST*
-
-`TODO: illustration of FAST move`
-
-Some of your move cards have the *FAST* symbol. This indicates they can
-be used in conjunction with another move during your character's moment in
-the spotlight. When players take turns in the spotlight, if they trigger
-moves, it is expected that they trigger **at most one** *FAST* move.
-Otherwise the pace of the game can slow down, and other players may feel
-like they aren't getting a fair share of time in the spotlight.
-
-Examples of cards tagged *FAST* include Good Cardio, Where It Hurts, and
-Unknown Benefactor.
-
-A moment in the spotlight might see your swordsman character triggering
-the move Mix It Up, causing damage to a foe, and then you might also trigger
-Where It Hurts as you describe the sword delivering a stunning blow,
-clanging loud and hard against the foe's helmet.
-
-Or, your professor of alchemy character might trigger Defy Danger as they
-jump out of the way of a toppling bookcase. After you flip an ✗, the GM
-may start enumerating the attack power your character must suffer, to which you
-could respond by invoking Unknown Benefactor to cancel the attack's effects.
 
 
 ## Flips only happen when the situation is uncertain or risky
