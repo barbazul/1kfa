@@ -142,6 +142,10 @@ currently at a "scrappy adventurer" level.
 
 # The Deckahedron
 
+The main activity in the game is "saying stuff", mostly stuff about your
+character. Often, you'll say something that *triggers a move*, and that
+move will be resolved using your Deckahedron.
+
 Every player except the GM gets a Deckahedron. Inspect your Deckahedron.
 You should have 20 cards.  There are 4 symbols, or "suits", on the fronts and
 backs of the cards:
@@ -161,7 +165,8 @@ not certain, the GM will call for you to take your Deckahedron and "flip".
 In conversation with GM and the rest of the table, you'll decide what
 move (or moves) your character is triggering and which of your
 character's attributes -- Str, Dex, or Int -- will be used to resolve
-the flip. Have that move card or page in your booklet ready.
+the flip. There is a move card or a page in your base moves booklet for
+every move, so have that move card or page in your booklet ready.
 
 <div class="gmnote">
 
