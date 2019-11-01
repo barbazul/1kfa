@@ -61,10 +61,10 @@ class Mix_It_Up(Card):
     Deal 1 attack power and the foe attacks you
   '''
   two_check = '''
-    Roll attack power and the foe attacks you
+    Roll melee attack power and the foe attacks you
     '''
   three_check = '''
-    Roll attack power and choose
+    Roll melee attack power and choose
     '''
   desc = u'''
     On a ✔✔✔, you can choose one:
@@ -77,6 +77,9 @@ class Mix_It_Up(Card):
     |
     Some attacks may have additional effects depending on the triggering action,
     the circumstances, or the weapons involved
+    |
+    |
+    Without a melee weapon, a character deals 1 attack power instead of rolling.
     '''
 
 class Volley(Card):

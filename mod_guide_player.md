@@ -117,8 +117,11 @@ This guide will teach you how to do those things.
 a **scrappy adventurer** and grows to become someone whose impact
 on their world is epic.
 
-During character creation, you will get to determine all aspects of
-your character's history, social and economic circumstances, and personality.
+`TODO: illustration of character sheet`
+
+During [character creation](mod_guide_gm.md#character_creation), you
+will get to determine all aspects of your character's history, social
+and economic circumstances, and personality.
 These are fictional aspects of the character. You will not get to determine
 all the *mechanical* aspects of the character though.
 
@@ -178,13 +181,13 @@ every move, so have that move card or page in your booklet ready.
 
 </div>
 
-![Illustration of your Deckahedron](images/component_layout.png){ width=2.5inch }
+![Your Deckahedron and Character Sheet](images/component_layout.png){ width=2.5inch }
 
 Take the top card of your Deckahedron and flip it face up.
 Next, find the suit (Anvil, Blades, Crown, or Dragon) of the chosen attribute
 on your character sheet.
 
-![Illustration of flipping a card](images/component_flip.png){ width=2.5inch }
+![Flipping a card](images/component_flip.png){ width=2.5inch }
 
 On the face side of the Deckahedron card, find that suit symbol.
 The result of the move is the ✗ or ✔ symbols next to that suit.
@@ -192,7 +195,7 @@ When you flip, keep in mind that the GM may need to read the result. Being
 consistent with how you orient the card will help simplify the GM's
 bookkeeping and keep up the pace of the game.
 
-![Illustration of reading a card](images/component_read.png){ width=2.5inch }
+![Resolving a move](images/component_read.png){ width=2.5inch }
 
 Finally, read the instructions on your move card.
 It tells you and the GM how to interpret the ✗s and ✔s.
@@ -253,6 +256,9 @@ and ✔✔ means success, but with complication.
 
 When the result is a single ✅︎, it sometimes means the same as a ✔✔,
 but often it is slightly worse.
+
+As you read this section it may help to lay out the move cards in
+front of you.
 
 <div class="gmnote">
 
@@ -510,14 +516,19 @@ to share their precious items.
 
 # Combat - Stamina and Wounds
 
-Here are rules to determine when your character is able to endure
-exertion and injury to keep moving forward or when they're completely
-spent and collapsed in a heap.
+Your time in this game will mostly be spent saying stuff and flipping
+cards from your Deckahedron. The remaining time is spent rolling dice
+and managing resources, and those activities happen during *combat*.
 
-When a character is in a fight, they are running, dodging, striking, and
-being struck and assailed by their foe.  All of this stuff is scary and
-exhausting. A character gets weaker as this exchange goes on, even if
-they're able to dodge every blow.
+Your character will confront violent foes and dangerous obstacles. Will
+they endure exertion and injury to keep venturing forward, or will they
+be disfavoured by fate and end up completely spent and collapsed in a heap?
+
+In a fight, a character is running, dodging, striking, and being struck
+by their foe.
+All of this action is scary and exhausting.
+A character gets weaker as this exchange goes on, even if they
+dodge every blow.
 
 This weakening is represented by cards from your Deckahedron being lost
 into your *Exhaustion pile*.

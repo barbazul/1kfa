@@ -209,9 +209,9 @@ Give each player a Deckahedron.
 > see the result. Try to orient your cards consistently so that we don't get
 > confused about what your result is.
 >
-> Let's try it: everybody put your Deckahedron on the table and flip yellow.
+> Let's try it: everybody put your Deckahedron on the table and flip Blades.
 
-Step the players through "flipping yellow" using the instructions in the
+Step the players through "flipping Blades" using the instructions in the
 [Player's Guide](mod_guide_player.md)
 
 Make sure each player understands how to execute a flip before you proceed.
