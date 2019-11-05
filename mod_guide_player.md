@@ -684,18 +684,12 @@ off their steel breastplate?
 </div>
 
 
-# Encumbrance Penalties
+# Equipment
 
-Your character has a movement speed, a certain lightness-of-foot,
-they carry a certain amount of equipment and items,
-and perhaps even a certain amount of wealth or treasure.
-
-There are some moves that are affected by how much *stuff*
-a character carries. These moves have a "Encumbrance Penalty" section,
-and describe how carried equipment affects their outcomes.
-
-At any time that it makes sense in the fiction, a character can drop items
-and equipment.
+During [character creation](mod_guide_gm.md#character_creation), you
+receive two Pack cards and take some Item cards.
+These cards represent equipment carried by your character that interacts
+with mechanisms of the game.
 
 Daily-use amounts of money and food are not tracked. It is assumed
 your character will always be able to scrounge a meal somehow.
@@ -707,8 +701,16 @@ It is also not necessary to exactly measure movement speed or the sizes
 of all the gear carried or to track the body part to which the gear
 is strapped.
 
+Your character has a movement speed, a certain lightness-of-foot,
+they carry a certain amount of equipment and items,
+and perhaps even a certain amount of wealth or treasure.
 
-# Notes on Moves
+There are some moves that are affected by how much *stuff*
+a character carries. These moves have a "Encumbrance Penalty" section,
+and describe how carried equipment affects their outcomes.
+
+At any time that it makes sense in the fiction, a character can drop items
+and equipment.
 
 ## Pack - Precious and regular
 
@@ -773,6 +775,163 @@ If 2 red cards are spent, and the character ends up with one card returning
 to their backpack, use the fiction to justify that. Maybe they didn't have
 *exactly* what they needed, so one piece of equipment had to be consumed
 to create the necessary tool, in a MacGuyver-esque fashion.
+
+## Item Damage
+
+`TODO item damage diagram`
+
+Damage to items is represented as black-side red cards.
+
+The "1-2-bust" mechanism is used to represent damage.
+
+The first two times an item is damaged, place a red card on the Item card,
+black-side-up.
+
+The third time an item is damaged, it is destroyed. Return it and the red
+cards to the supply.
+
+Non-magical items can be damaged in 1kFA. Usually this happens
+narratively as the result of a GM move, but it can also be caused by player
+moves, eg. Armour Mastery.
+
+To repair items, see the move [Sharpen and Stitch](#sharpen_and_stitch)
+
+
+# Magic
+
+<!-- TODO remove trademarked references -->
+Magic is an element that pervades stories of fantasy. It can be obscure
+and stemming from nature like in Lord of the Rings, it can be elemental and
+allegorical like in The Wheel of Time, and it can be linguistic and
+self-aware like in The Invisibles.
+
+To avoid presuming too much about the narrative, the rules do not dictate
+the nature of magic or the "how" of magic. That's for you to decide during
+play.
+The rules provide a mechanical foundation and some optional narrative paths.
+You are invited to take this well-tested framework, play with it, and expand
+into it.
+
+Is magic woven from subtle threads that pervade the universe? Is it based
+on words of power? Is it high technology hidden in the planet's crust
+by alien benefactors? Is it copied exactly from a concept in your Touchstone
+List? You decide.
+
+The rules give you a way to have scrappy adventurers begin with magic items.
+These artifacts have 3 charges, and are rechargeable during Rest.
+Your character can eventually build themselves up in power to a point where
+they can cast magic spells without needing the items.
+
+The rules also give names for two sources of magical power, "The Living
+Light" and "The Blood-Bound". It's up to you to give these names narrative
+meaning, if you want.
+
+One thing to keep in mind is that characters may attempt any move that
+resolves with Str / Dex / Int.
+(See [Move Levels](#move_levels)
+So even if moves like Use a Magic Item or Fundamental Magic were not chosen
+at character creation or gained via Study Under a Master, any character may
+attempt them.
+
+That said, using magic invokes some of the more complicated rules of
+1kFA. Players are challenged with managing and balancing
+charges, capacity, stamina, requirements, and narrative effect. This kind
+of play is ideal for players excited by complexity and the potential
+of explorable branches.
+
+#### The ONGOING tag
+
+Upon triggering the Use a Magic Item move, a character "flows magical
+energy" into the item. Then the magical effects happen.
+
+Some magic effects happen immediately.
+
+Some magic effects persist even after the flow of magical energy into
+the item has ceased. (eg, `_` of Sensation)
+
+Some magic items have the ONGOING tag, and their effects persist
+only as long as magical energy flows into the item. It is up to the
+player to declare when their character ceases the flow of magical energy.
+If the flow of magical energy continues, they are not considered *idle*
+for the purposes of the Rest and Seek Help moves.
+
+#### Charges and Capacity
+
+By default, magic items have capacity for 3 charges.
+An item is considered "depleted" when all its charges are used.
+The term used for a card's maximum number of charges is "capacity"
+or "charge capacity".
+
+When a magic item loses a charge, take a red card from the supply and
+place it white-side-up on top of the magic item card.
+
+Sometimes charges are lost *permanently*. This means it loses a charge and
+its capacity for charges decreases by 1. When this happens, place a red
+card on the item, black-side-up.
+
+The Obsessive Contemplation move can be used to gain capacity. When a magic
+item gains capacity, remove one black-side red card from it, or, if there
+aren't any black-side red cards on it, write down its new capacity on the
+card.
+
+Magic items cannot be damaged.
+
+
+## Use a Magic Item
+
+![Use a Magic Item](images/move_use_a_magic_item.png){ width=2.5inch }
+
+When a character holds a magic item and flows energy into it, the player
+flips Int, and on any result other than ✗, the item activates and the
+effects described on the magic item card happen.
+
+Using a magic item causes it to lose a charge. This loss can be avoided
+with moves like Entreat the Blood-Bound and Channel the Living Light.
+
+Following that, results of ✅︎ and ✔✔ cause a further cost to be incurred,
+as chosen from the list by the GM or the player, respectively. In the
+case where the item being used is depleted of charges, it is still a
+valid choice to lose a charge on that same item *permanently*.
+
+**Note:** if the magic item being used is a magical weapon,
+another choice is available: "the weapon is damaged".
+
+The RECEIVE CARDS tag: when a player chooses this card during character
+creation or Study Under a Master, they also receive 1 magic item of their
+choice.
+
+
+## Entreat the Blood-Bound
+
+![Entreat the Blood-Bound](images/move_entreat_the_blood_bound.png){ width=2.5inch }
+
+If it has not yet been established, when a player first uses this move, it's
+a great time for the GM to ask them a question: "Who or what is the
+Blood-Bound?" <div class="gmnote">
+
+| **GM Note:** *this is a great way to stretch your*
+| *improv muscles. Say "Yes, and..." no matter if*
+| *they identify the Blood-Bound as tiny, parasitic*
+| *insects or as monstrous, extra-dimensional dark gods.*
+
+</div>
+
+When a player chooses this card during character creation or Study Under a
+Master, they also receive the item Blade of Echoes.
+
+
+## Channel the Living Light
+
+![Channel the Living Light](images/move_channel_the_living_light.png){ width=2.5inch }
+
+If it has not yet been established, when a player first uses this move, it's
+a great time for the GM to ask them: "Who or what is the Living Light?"
+
+When a player chooses this card during character creation or Study Under a
+Master, they also receive the item Sigil of the Living Light.
+
+
+# Notes on Moves
 
 ## Do a Flashback
 
@@ -900,135 +1059,7 @@ The details of the Session Opener are described in
 [the GM Guide](mod_guide_gm.md).
 
 
-# Notes on Moves
-
-### Bravely Run Away
-
-![Bravely Run Away card](images/move_bravely_run_away.png){ width=2.5inch }
-
-When players find themselves on the losing side of a battle, or want to
-avoid a daunting threat, they may choose to run away. If their characters
-are positioned in a way that their escape is possible, according to the
-established fiction, the GM will allow them to escape, but there is a cost.
-The players temporarily lose narrative control and the GM gets to say
-where the players' characters end up.
-
-There may also be a Stamina cost (or Stamina gain) depending on how weighed
-down the characters were by their equipment.
-
-The GM can resolve this move by:
-
- * putting the characters somewhere completely safe
- * putting the characters in a place where some (new or old) danger exists,
-   but is, for the moment, not directly threatening the characters
- * spending a *Shadow point* and starting the Pursuit Mini-game
- * spending a *Shadow point* and landing the characters in a place where
-   they must directly confront or defy a new danger
-
-
-# Notes on Moves - Healing
-
-Throughout 1kFA, players are asked to decide how their
-characters get hurt, how they respond to being hurt, and how they recover
-from their injuries.
-
-This is a small-scale echo of the whole story - the Hero's Journey itself.
-At the center of the Hero's Journey is a moment of pain that the hero
-must fully endure before finding relief - either through their own action or
-with the help of their friends. The Hero's Journey is a myth that teaches
-us how to take care of ourselves, and so this game holds a puzzle where the
-players to learn how to take care of their characters.
-
-
-## Resting
-
-![Rest card](images/move_rest.png){ width=2.5inch }
-
-*Resting* is an action that a character may take when they are out of combat,
-not traveling, and have several hours to devote to rest (sleeping qualifies).
-
- * Step 1: Return all *Exhaustion* tokens to the supply
- * Step 2: Count the *Harm* and *Wound* tokens on your *Exhaustion pile*
- * Step 3: Keep that many cards (player chooses which ones) in your
-   *Exhaustion pile*, put the rest into your *discard pile*
- * Step 4: Return one *Harm* token to the supply
- * Step 5: Say who you blame for your injuries
-
-When resting, magic items that are not being used regain all charges, up
-to their maximum capacity. Remove all white-side red cards on your magic
-items.
-
-You may gird all your armour, where applicable.
-Remove all Harm and Wound tokens from your armour cards and from move cards
-that represent armour effectiveness (eg, Like A Second Skin).
-
-Time devoted to *Resting* cannot also be devoted to learning skills,
-studying with a teacher, or any other action that takes mental or physical
-effort.
-
-The Harm token returned to the supply in Step 4 may come from your
-*Exhaustion pile* or from a slot on a move card (eg, Bloody But Unbowed).
-
-It is possible that the object of blame named in step 5 is the character
-themself.
-
-## Seek Help
-
-![Seek Help card](images/move_seek_help.png){ width=2.5inch }
-
-*Seeking Help* is an action that a character may take when they are in a
-peaceful environment where external resources with healing powers are
-available.
-
-Eg, if they are in a primitive camp possessing medicine men or a
-contemporary city with doctors and hospitals or a tranquil oasis infused
-with healing magic.
-
-That the healing powers are *external* is important. Seek Help is a move
-where players explore how their characters have limits and cannot do
-everything on their own.
-
-When you spend a day healing:
-
- * Step 1: Describe your character's healing experience
- * Step 2: Return all *Exhaustion* tokens to the supply
- * Step 3: Return all *Harm* tokens to the supply
- * Step 4: Count the *Wound* tokens on your *Exhaustion pile*
- * Step 5: Keep that many cards (player chooses which ones) in your
-   *Exhaustion pile*, put the rest into your *discard pile*
- * Step 6: Return one *Wound* token and one *wound card* to the supply
- * Step 7: Say who you are closer to forgiving
-
-As with *Resting*, time spent *Seeking Help* cannot also be used in
-activities that take effort.
-
-Magic items that are not being used regain all charges, up to
-their maximum capacity.  Remove all white-side red cards on your magic items.
-
-You may gird all your armour, where applicable.
-Remove all Harm and Wound tokens from your armour cards.
-
-
-# Notes on Moves - Item-related
-
-## Item Damage
-
-`TODO item damage diagram`
-
-Damage to items is represented as black-side red cards.
-
-The "1-2-bust" mechanism is used to represent damage.
-
-The first two times an item is damaged, place a red card on the Item card,
-black-side-up.
-
-The third time an item is damaged, it is destroyed. Return it and the red
-cards to the supply.
-
-Non-magical items can be damaged in 1kFA. Usually this happens
-narratively as the result of a GM move, but it can also be caused by player
-moves, eg. Armour Mastery.
-
+# Equipment: aquisition, upgrade, and repair
 
 ## Sharpen and Stitch
 
@@ -1082,7 +1113,7 @@ Knives card demonstrates.
 
 Weapons have "power": d4, d6, or d10. This determines what die to
 roll when you roll attack power. Generally players can increase
-weapon power with the Tales of a Weapon move.
+weapon power with the [Tales of a Weapon](#tales_of_a_weapon) move.
 
 The GM should decide if the weaponry incurs any additional costs when
 calculating encumbrance penalties. Is the item particularly heavy or large?
@@ -1171,142 +1202,132 @@ Blocking attack power with a shield should be considered an *FAST* move,
 and the GM should try to keep to the guideline of not allowing players to
 make more than one *FAST* move per turn in the spotlight.
 
+## More Power
 
-# Notes on Moves - Magic-related
+After character creation, an armed PC will be rolling 1d4 for their attack
+power. This can be increased later on in the game via the moves Tales of a
+Weapon and Obsessive Contemplation.
 
-<!-- TODO remove trademarked references -->
-Magic is an element that pervades stories of fantasy. It can be obscure
-and stemming from nature like in Lord of the Rings, it can be elemental and
-allegorical like in The Wheel of Time, and it can be linguistic and
-self-aware like in The Invisibles.
+## Tales of a Weapon
 
-To avoid presuming too much about the narrative, the rules do not dictate
-the nature of magic or the "how" of magic. That's for you to decide during
-play.
-The rules provide a mechanical foundation and some optional narrative paths.
-You are invited to take this well-tested framework, play with it, and expand
-into it.
+![Tales of a Weapon card](images/move_tales_of_a_weapon.png){ width=2.5inch }
 
-Is magic woven from subtle threads that pervade the universe? Is it based
-on words of power? Is it high technology hidden in the planet's crust
-by alien benefactors? Is it copied exactly from a concept in your Touchstone
-List? You decide.
-
-The rules give you a way to have scrappy adventurers begin with magic items.
-These artifacts have 3 charges, and are rechargeable during Rest.
-Your character can eventually build themselves up in power to a point where
-they can cast magic spells without needing the items.
-
-The rules also give names for two sources of magical power, "The Living
-Light" and "The Blood-Bound". It's up to you to give these names narrative
-meaning, if you want.
-
-One thing to keep in mind is that characters may attempt any move that
-resolves with Str / Dex / Int.
-(See [Move Levels](#move_levels)
-So even if moves like Use a Magic Item or Fundamental Magic were not chosen
-at character creation or gained via Study Under a Master, any character may
-attempt them.
-
-That said, using magic invokes some of the more complicated rules of
-1kFA. Players are challenged with managing and balancing
-charges, capacity, stamina, requirements, and narrative effect. This kind
-of play is ideal for players excited by complexity and the potential
-of explorable branches.
-
-#### The ONGOING tag
-
-Upon triggering the Use a Magic Item move, a character "flows magical
-energy" into the item. Then the magical effects happen.
-
-Some magic effects happen immediately.
-
-Some magic effects persist even after the flow of magical energy into
-the item has ceased. (eg, `_` of Sensation)
-
-Some magic items have the ONGOING tag, and their effects persist
-only as long as magical energy flows into the item. It is up to the
-player to declare when their character ceases the flow of magical energy.
-If the flow of magical energy continues, they are not considered *idle*
-for the purposes of the Rest and Seek Help moves.
+The GM should decide whether the weapon will incur any extra cost when
+calculating an encumbrance penalty.
+Is the item particularly heavy or large? The GM should weigh that
+cost against the weapon's other features.
 
 
-#### Charges and Capacity
+# Character preservation and recovery
 
-By default, magic items have capacity for 3 charges.
-An item is considered "depleted" when all its charges are used.
-The term used for a card's maximum number of charges is "capacity"
-or "charge capacity".
+## Bravely Run Away
 
-When a magic item loses a charge, take a red card from the supply and
-place it white-side-up on top of the magic item card.
+![Bravely Run Away card](images/move_bravely_run_away.png){ width=2.5inch }
 
-Sometimes charges are lost *permanently*. This means it loses a charge and
-its capacity for charges decreases by 1. When this happens, place a red
-card on the item, black-side-up.
+When players find themselves on the losing side of a battle, or want to
+avoid a daunting threat, they may choose to run away. If their characters
+are positioned in a way that their escape is possible, according to the
+established fiction, the GM will allow them to escape, but there is a cost.
+The players temporarily lose narrative control and the GM gets to say
+where the players' characters end up.
 
-The Obsessive Contemplation move can be used to gain capacity. When a magic
-item gains capacity, remove one black-side red card from it, or, if there
-aren't any black-side red cards on it, write down its new capacity on the
-card.
+There may also be a Stamina cost (or Stamina gain) depending on how weighed
+down the characters were by their equipment.
 
-Magic items cannot be damaged.
+The GM can resolve this move by:
 
-
-## Use a Magic Item
-
-![Use a Magic Item](images/move_use_a_magic_item.png){ width=2.5inch }
-
-When a character holds a magic item and flows energy into it, the player
-flips Int, and on any result other than ✗, the item activates and the
-effects described on the magic item card happen.
-
-Using a magic item causes it to lose a charge. This loss can be avoided
-with moves like Entreat the Blood-Bound and Channel the Living Light.
-
-Following that, results of ✅︎ and ✔✔ cause a further cost to be incurred,
-as chosen from the list by the GM or the player, respectively. In the
-case where the item being used is depleted of charges, it is still a
-valid choice to lose a charge on that same item *permanently*.
-
-**Note:** if the magic item being used is a magical weapon,
-another choice is available: "the weapon is damaged".
-
-The RECEIVE CARDS tag: when a player chooses this card during character
-creation or Study Under a Master, they also receive 1 magic item of their
-choice.
+ * putting the characters somewhere completely safe
+ * putting the characters in a place where some (new or old) danger exists,
+   but is, for the moment, not directly threatening the characters
+ * spending a *Shadow point* and starting the Pursuit Mini-game
+ * spending a *Shadow point* and landing the characters in a place where
+   they must directly confront or defy a new danger
 
 
-## Entreat the Blood-Bound
+## Healing
 
-![Entreat the Blood-Bound](images/move_entreat_the_blood_bound.png){ width=2.5inch }
+Throughout 1kFA, players are asked to decide how their
+characters get hurt, how they respond to being hurt, and how they recover
+from their injuries.
 
-If it has not yet been established, when a player first uses this move, it's
-a great time for the GM to ask them a question: "Who or what is the
-Blood-Bound?" <div class="gmnote">
-
-| **GM Note:** *this is a great way to stretch your*
-| *improv muscles. Say "Yes, and..." no matter if*
-| *they identify the Blood-Bound as tiny, parasitic*
-| *insects or as monstrous, extra-dimensional dark gods.*
-
-</div>
-
-When a player chooses this card during character creation or Study Under a
-Master, they also receive the item Blade of Echoes.
-
-## Channel the Living Light
-
-![Channel the Living Light](images/move_channel_the_living_light.png){ width=2.5inch }
-
-If it has not yet been established, when a player first uses this move, it's
-a great time for the GM to ask them: "Who or what is the Living Light?"
-
-When a player chooses this card during character creation or Study Under a
-Master, they also receive the item Sigil of the Living Light.
+This is a small-scale echo of the whole story - the Hero's Journey itself.
+At the center of the Hero's Journey is a moment of pain that the hero
+must fully endure before finding relief - either through their own action or
+with the help of their friends. The Hero's Journey is a myth that teaches
+us how to take care of ourselves, and so this game holds a puzzle where the
+players to learn how to take care of their characters.
 
 
-# Notes on Moves
+## Resting
+
+![Rest card](images/move_rest.png){ width=2.5inch }
+
+*Resting* is an action that a character may take when they are out of combat,
+not traveling, and have several hours to devote to rest (sleeping qualifies).
+
+ * Step 1: Return all *Exhaustion* tokens to the supply
+ * Step 2: Count the *Harm* and *Wound* tokens on your *Exhaustion pile*
+ * Step 3: Keep that many cards (player chooses which ones) in your
+   *Exhaustion pile*, put the rest into your *discard pile*
+ * Step 4: Return one *Harm* token to the supply
+ * Step 5: Say who you blame for your injuries
+
+When resting, magic items that are not being used regain all charges, up
+to their maximum capacity. Remove all white-side red cards on your magic
+items.
+
+You may gird all your armour, where applicable.
+Remove all Harm and Wound tokens from your armour cards and from move cards
+that represent armour effectiveness (eg, Like A Second Skin).
+
+Time devoted to *Resting* cannot also be devoted to learning skills,
+studying with a teacher, or any other action that takes mental or physical
+effort.
+
+The Harm token returned to the supply in Step 4 may come from your
+*Exhaustion pile* or from a slot on a move card (eg, Bloody But Unbowed).
+
+It is possible that the object of blame named in step 5 is the character
+themself.
+
+## Seek Help
+
+![Seek Help card](images/move_seek_help.png){ width=2.5inch }
+
+*Seeking Help* is an action that a character may take when they are in a
+peaceful environment where external resources with healing powers are
+available.
+
+Eg, if they are in a primitive camp possessing medicine men or a
+contemporary city with doctors and hospitals or a tranquil oasis infused
+with healing magic.
+
+That the healing powers are *external* is important. Seek Help is a move
+where players explore how their characters have limits and cannot do
+everything on their own.
+
+When you spend a day healing:
+
+ * Step 1: Describe your character's healing experience
+ * Step 2: Return all *Exhaustion* tokens to the supply
+ * Step 3: Return all *Harm* tokens to the supply
+ * Step 4: Count the *Wound* tokens on your *Exhaustion pile*
+ * Step 5: Keep that many cards (player chooses which ones) in your
+   *Exhaustion pile*, put the rest into your *discard pile*
+ * Step 6: Return one *Wound* token and one *wound card* to the supply
+ * Step 7: Say who you are closer to forgiving
+
+As with *Resting*, time spent *Seeking Help* cannot also be used in
+activities that take effort.
+
+Magic items that are not being used regain all charges, up to
+their maximum capacity.  Remove all white-side red cards on your magic items.
+
+You may gird all your armour, where applicable.
+Remove all Harm and Wound tokens from your armour cards.
+
+
+# Character advancement
 
 ## Study Under a Master
 
@@ -1327,9 +1348,7 @@ If you want to take a move card that another player already has or one that
 was scribbled over in a previous campaign, or just has been ruined by spilled
 beer, you can copy the text onto a new card.
 
-
-
-# Move Levels
+## Move Levels
 
 Some Move cards have icons on them that indicate "levels". These levels
 represent how good your character is at that skill. For example, the move
@@ -1401,28 +1420,6 @@ If you perform a "wild" level move, and you resolve that flip with a
 
 If you choose to do so, take the move card and a red card. Place the red card
 on top of the move card, black-side-up.
-
-
----
-
-# SESSION 3 RULES
-
----
-
-# Notes on Moves - More Power
-
-After character creation, an armed PC will be rolling 1d4 for their attack
-power. This can be increased later on in the game via the moves Tales of a
-Weapon and Obsessive Contemplation.
-
-## Tales of a Weapon
-
-![Tales of a Weapon card](images/move_tales_of_a_weapon.png){ width=2.5inch }
-
-The GM should decide whether the weapon will incur any extra cost when
-calculating an encumbrance penalty.
-Is the item particularly heavy or large? The GM should weigh that
-cost against the weapon's other features.
 
 
 ----
