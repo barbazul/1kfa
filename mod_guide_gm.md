@@ -931,8 +931,8 @@ An easy way to decide on what resource to use up is to look to the cards
 in front of a player:
 
  * End ONGOING effects of magic items
- * Place white-side red cards on magic items for temporary charge loss
- * Place black-side red cards on magic items for permanent charge loss
+ * Remove green cards from magic items for temporary charge loss
+ * Reduce magic item charge capacity
  * Place black-side red cards on mundane items for damage
  * Take away Pack cards
  * Take away item cards (careful with this one - use only when appropriate)
@@ -1188,7 +1188,7 @@ that discussion going for as long as it is productive.
 
 ## Character Creation
 
-### 4. Choose cards
+### 4. Choose move cards
 
 Gather the move cards, and separate them into piles:
 
@@ -1198,8 +1198,6 @@ Gather the move cards, and separate them into piles:
  * Cards without any letter in the corner
 
 If you are playing a One-Shot campaign, remove "Entreat the Blood-Bound"
-
-#### If any player is new to A Thousand Faces of Adventure
 
 Lay out the A cards in front of your players.
 Then select and lay out (`# of players + 1`) B cards.
@@ -1228,7 +1226,7 @@ Then select and lay out (`# of players + 1`) C cards.
 > you'll probably want to read and understand the rules in the Player's Guide,
 > plus all the text of the move cards, and now might not be the best time
 > for that. 1kFA is more about improvisation than perfection,
-> so try to listen to your gut and just pick cards that look like fun.
+> so listen to your gut and just pick cards that look like fun.
 
 As players choose cards, there may be opportunities to explain some of the
 deeper rules.
@@ -1237,31 +1235,8 @@ When a player chooses a card with an Encumbrance Penalty, take that
 opportunity to explain how Item and Pack cards impact those types of moves.
 
 When a player triggers a *FAST* move, take that opportunity to explain that
-they can only use one *FAST* move per turn, and that they don't risk a GM
-move if they flip ✅︎ or ✗.
-
-#### If every player has played 1kFA before
-
-For experienced players, moves are chosen by drafting cards.
-
-Shuffle the A, B, and C piles, keeping them separate.
-
-Put the B pile on top of the A pile, then put the C pile on top of that,
-creating a deck. Take that deck in your hand. Don't shuffle it.
-
-Deal out a hand of cards for each player at the table. Some players might
-get more cards than others, that's ok -- there doesn't need to be the same
-number of cards in each hand.
-
-Now the draft begins. Each player should look through their hand, take
-one card from it, then pass the remaining cards to the player on their left.
-They can take at most 1 A card, and at most 2 B cards.
-
-They do that 3 times.
-
-Any amount of table-talk is allowed during the draft.
-After the draft is over, if someone doesn't have an A card, they may
-additionally choose any C card that wasn't chosen in the draft.
+they can only trigger two moves per turn in the spotlight, one normal move
+and one *FAST* move, and that they don't risk a GM move if they flip ✅︎ or ✗.
 
 
 ### 5. Choose Int / Str / Dex
@@ -1466,6 +1441,12 @@ that you and they know exactly what kind of item the character possesses.
 
 
 `TODO: link to weapon and armor lists`
+
+#### Magic Items charges and capacity
+
+Instruct every player with a Magic Item card to mark the "3" spot on
+the capacity gauge.  Then instruct them to place 3 green cards from the
+supply on each of their magic items, white-side-up.
 
 
 #### Aside: A feather can make you slower
@@ -3394,4 +3375,31 @@ See LICENSE.txt
 
 Special thanks to Avery Alder.
 
+
+---
+
+# Optional rules
+
+## Character Creation: Choosing move cards
+
+For experienced players, moves can be chosen by drafting cards.
+
+Shuffle the A, B, and C piles, keeping them separate.
+
+Put the B pile on top of the A pile, then put the C pile on top of that,
+creating a deck. Take that deck in your hand. Don't shuffle it.
+
+Deal out a hand of cards for each player at the table. Some players might
+get more cards than others, that's ok -- there doesn't need to be the same
+number of cards in each hand.
+
+Now the draft begins. Each player should look through their hand, take
+one card from it, then pass the remaining cards to the player on their left.
+They can take at most 1 A card, and at most 2 B cards.
+
+They do that 3 times.
+
+Any amount of table-talk is allowed during the draft.
+After the draft is over, if someone doesn't have an A card, they may
+additionally choose any C card that wasn't chosen in the draft.
 

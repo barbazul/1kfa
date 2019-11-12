@@ -126,12 +126,12 @@ These are fictional aspects of the character. You will not get to determine
 all the *mechanical* aspects of the character though.
 
 Mechanically, characters start out just a little bit more powerful than a
-common villager.
-They've got an edge over regular folk, (with special moves and 10 Stamina points)
-but the game puts them on nearly even footing in a fight.
+common villager.  Your character will have 10 Stamina points versus a
+townsperson's 2-5, and will start with three special moves, but that's all
+that separates them from Michel the stable-hand and Constance the librarian.
+
 You can invent any backstory you like, but you may need to answer questions
 about how the backstory fits the character's game limitations.
-
 Nothing stops you from creating a hulking, 7 foot tall barbarian, with a rich
 history of warring and slaughtering enemies, but at the very beginning of
 the game, with a couple unlucky flips, that barbarian may suffer a sound
@@ -139,8 +139,13 @@ drubbing at the hands of a farmer and his overprotective goat.
 
 This doesn't mean you shouldn't create the barbarian character. You should.
 That sounds awesome! But if you do, be prepared to find some narrative
-justification (drunkard? battle-worn? magically cursed?) that they're
-currently at a "scrappy adventurer" level.
+justification (drunkard? battle-worn? magically cursed?) that the character
+begins at a "scrappy adventurer" level.
+
+As your character adventures in the world, they will gain experience and
+equipment making them worthy of the title "hero".
+Look to the moves Study Under a Master and Tales of a Weapon for details
+on character advancement.
 
 
 # The Deckahedron
@@ -862,17 +867,14 @@ An item is considered "depleted" when all its charges are used.
 The term used for a card's maximum number of charges is "capacity"
 or "charge capacity".
 
-When a magic item loses a charge, take a red card from the supply and
-place it white-side-up on top of the magic item card.
+When a magic item loses a charge, remove a green card from the item
+card and place it in the supply. When there are no more green cards
+on top of it, it is *depleted* and cannot be used.
 
-Sometimes charges are lost *permanently*. This means it loses a charge and
-its capacity for charges decreases by 1. When this happens, place a red
-card on the item, black-side-up.
+Charge capacity can be gained and lost. Every time it changes, players
+should mark the new capacity on the Magic Item card
 
-The Obsessive Contemplation move can be used to gain capacity. When a magic
-item gains capacity, remove one black-side red card from it, or, if there
-aren't any black-side red cards on it, write down its new capacity on the
-card.
+`TODO: illustration of charge capacity gauge`
 
 Magic items cannot be damaged.
 
@@ -889,9 +891,7 @@ Using a magic item causes it to lose a charge. This loss can be avoided
 with moves like Entreat the Blood-Bound and Channel the Living Light.
 
 Following that, results of ✅︎ and ✔✔ cause a further cost to be incurred,
-as chosen from the list by the GM or the player, respectively. In the
-case where the item being used is depleted of charges, it is still a
-valid choice to lose a charge on that same item *permanently*.
+as chosen from the list by the GM or the player, respectively.
 
 **Note:** if the magic item being used is a magical weapon,
 another choice is available: "the weapon is damaged".
@@ -1059,7 +1059,7 @@ The details of the Session Opener are described in
 [the GM Guide](mod_guide_gm.md).
 
 
-# Equipment: aquisition, upgrade, and repair
+# Equipment: acquisition, upgrade, and repair
 
 ## Sharpen and Stitch
 
@@ -1273,8 +1273,8 @@ not traveling, and have several hours to devote to rest (sleeping qualifies).
  * Step 5: Say who you blame for your injuries
 
 When resting, magic items that are not being used regain all charges, up
-to their maximum capacity. Remove all white-side red cards on your magic
-items.
+to their charge capacity. Take green cards from the supply to represent
+the charges.
 
 You may gird all your armour, where applicable.
 Remove all Harm and Wound tokens from your armour cards and from move cards
@@ -1321,7 +1321,7 @@ As with *Resting*, time spent *Seeking Help* cannot also be used in
 activities that take effort.
 
 Magic items that are not being used regain all charges, up to
-their maximum capacity.  Remove all white-side red cards on your magic items.
+their capacity.
 
 You may gird all your armour, where applicable.
 Remove all Harm and Wound tokens from your armour cards.

@@ -238,9 +238,7 @@ class Rest(Card):
     * Step 5: Say who you blame for your injuries
     |
     |
-    Magic items left idle regain their charges
-    |
-    (remove all white-side red cards)
+    Magic items left idle regain their charges up to their capacity
     |
     |
     Gird all your armour
