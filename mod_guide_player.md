@@ -421,7 +421,7 @@ to the supply rather than keeping it in your discard pile.
 ## Wound cards
 
 Sometimes you flip over a wound card and must lose a Stamina point. See the
-[Combat chapter](#combat).
+[Combat chapter](#combat---stamina-and-wounds).
 
 
 ## Teamwork Flips
@@ -691,7 +691,7 @@ off their steel breastplate?
 
 # Equipment
 
-During [character creation](mod_guide_gm.md#character_creation), you
+During [character creation](mod_guide_gm.md#character-creation), you
 receive two Pack cards and take some Item cards.
 These cards represent equipment carried by your character that interacts
 with mechanisms of the game.
@@ -799,7 +799,7 @@ Non-magical items can be damaged in 1kFA. Usually this happens
 narratively as the result of a GM move, but it can also be caused by player
 moves, eg. Armour Mastery.
 
-To repair items, see the move [Sharpen and Stitch](#sharpen_and_stitch)
+To repair items, see the move [Sharpen and Stitch](#sharpen-and-stitch)
 
 
 # Magic
@@ -833,7 +833,7 @@ meaning, if you want.
 
 One thing to keep in mind is that characters may attempt any move that
 resolves with Str / Dex / Int.
-(See [Move Levels](#move_levels)
+(See [Move Levels](#move-levels)
 So even if moves like Use a Magic Item or Fundamental Magic were not chosen
 at character creation or gained via Study Under a Master, any character may
 attempt them.
@@ -1113,7 +1113,7 @@ Knives card demonstrates.
 
 Weapons have "power": d4, d6, or d10. This determines what die to
 roll when you roll attack power. Generally players can increase
-weapon power with the [Tales of a Weapon](#tales_of_a_weapon) move.
+weapon power with the [Tales of a Weapon](#tales-of-a-weapon) move.
 
 The GM should decide if the weaponry incurs any additional costs when
 calculating encumbrance penalties. Is the item particularly heavy or large?
@@ -1341,7 +1341,7 @@ place where resources and commerce present themselves), you can spend 2 XP
 to either:
 
  * Increase the level of a move you already have
-   (See [Move Levels](#move_levels)
+   (See [Move Levels](#move-levels)
  * Take a new move card from the supply
 
 If you want to take a move card that another player already has or one that

@@ -2361,18 +2361,18 @@ still lets players have "Aha!" moments.
 Monsters represent something about the theme, usually the fear that must be
 overcome, or the anti-premise.
 
-If a monster is used as the threshold guardian during the [Return](#link)
-chapter, it should be a realization of the Big Fear of the story, or the
-anti-premise. If the players cross the first threshold on the premise of
-"We will save the village", the monster should be the thing that will
-destroy the village and many villages after it. If the premise is "We will
-return richer than the king", the monster is the thing that destroys the
-concept of wealth, maybe by turning the surface of the world into a
-hellscape where the only currency is suffering.
+If a monster is used as the threshold guardian during the
+[Return chapter](#9-hour-ch-7), it should be a realization of the Big
+Fear of the story, or the anti-premise. If the players cross the first
+threshold on the premise of "We will save the village", the monster should
+be the thing that will destroy the village and many villages after it. If
+the premise is "We will return richer than the king", the monster is the
+thing that destroys the concept of wealth, maybe by turning the surface of
+the world into a hellscape where the only currency is suffering.
 
 ### Monsters are puzzles
 
-Monsters are puzzles that can be brute-forced with violence.
+Monsters are [puzzles](#puzzles) that can be brute-forced with violence.
 Monsters have a weakness or a preferred strategy. That may also include
 something about the environment in which the monster is encountered or
 interesting items the characters have previously acquired.
@@ -2380,13 +2380,10 @@ interesting items the characters have previously acquired.
 Be ready to follow the fun. A monster's weakness might be something
 that a player invents that you weren't expecting!
 
-The [Puzzles section](#puzzles) will help you develop some ideas for how
-to set up the puzzle of the encounter with a monster.
-
 For a threshold guardian monster, blocking the characters' escape out of
 the unknown world, the weakness or successful strategy should demonstrate the
 *change* integrated by the heroes during
-the ["Find" chapter](#9-hour-ch-5).
+the [Find chapter](#9-hour-ch-5).
 
 ### Monsters can be fought
 
@@ -2470,8 +2467,8 @@ or just create contrast.
 If you want more inspiration, there are many great resources in books or
 on the Internet.  Here's a very small sample:
 
- * [Dungeon World](#link)
- * [Hot Springs Island](#link)
+ * [Dungeon World](https://dungeon-world.com)
+ * [Hot Springs Island](https://shop.swordfishislands.com)
  * [Carried by Creatures](https://www.patreon.com/carriedbycreatures/overview)
 
 
@@ -3147,8 +3144,6 @@ for full Stamina loss is death.
 <a name="9-hour-ch-7" />
 
 ## Chapter 7: Return
-
-Start a conversation.
 
 This is a time to consider grief and acceptance.
 

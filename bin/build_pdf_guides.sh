@@ -31,6 +31,7 @@ sed --in-place -e "s/DATE/$DATE/" $SRC_PLAYER
 sed --in-place -e "s/DATE/$DATE/" $SRC_GM
 sed --in-place -e "s/VERSION/$VERSION/" $SRC_PLAYER
 sed --in-place -e "s/VERSION/$VERSION/" $SRC_GM
+
 sed --in-place -E -e "s/✗/![X symbol](images\/result_0.png)/" $SRC_GM
 sed --in-place -E -e "s/✗/![X symbol](images\/result_0.png)/" $SRC_PLAYER
 sed --in-place -E -e "s/✔✔✔/![triple check](images\/result_3.png)/" $SRC_GM
@@ -43,6 +44,9 @@ sed --in-place -E -e "s/\xef\xb8\x8e//" $SRC_GM
 sed --in-place -E -e "s/\xef\xb8\x8e//" $SRC_PLAYER
 sed --in-place -E -e "s/✅/![single check](images\/result_1.png)/" $SRC_GM
 sed --in-place -E -e "s/✅/![single check](images\/result_1.png)/" $SRC_PLAYER
+
+sed --in-place -E -e "s/mod_guide_gm.md/guide_gm.html/" $SRC_PLAYER
+sed --in-place -E -e "s/mod_guide_player.md/guide_player.html/" $SRC_GM
 
  #-s                puts the utf-8 header in
  #--self-contained  puts data: URLs in
