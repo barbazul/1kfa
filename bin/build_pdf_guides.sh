@@ -45,8 +45,8 @@ sed --in-place -E -e "s/\xef\xb8\x8e//" $SRC_PLAYER
 sed --in-place -E -e "s/✅/![single check](images\/result_1.png)/" $SRC_GM
 sed --in-place -E -e "s/✅/![single check](images\/result_1.png)/" $SRC_PLAYER
 
-sed --in-place -E -e "s/mod_guide_gm.md/guide_gm.html/" $SRC_PLAYER
-sed --in-place -E -e "s/mod_guide_player.md/guide_player.html/" $SRC_GM
+sed --in-place -E -e "s/mod_guide_gm.md/1kfa_guide_gm.html/" $SRC_PLAYER
+sed --in-place -E -e "s/mod_guide_player.md/1kfa_guide_player.html/" $SRC_GM
 
  #-s                puts the utf-8 header in
  #--self-contained  puts data: URLs in
@@ -60,7 +60,7 @@ pandoc \
  -t html \
  --css=$PUBLISH/markdown.css \
  --metadata pagetitle="1kFA Player Guide" \
- $SRC_PLAYER -o $BUILDDIR/guide_player.html
+ $SRC_PLAYER -o $BUILDDIR/1kfa_guide_player.html
 
 pandoc \
  --from=markdown+line_blocks \
@@ -70,7 +70,7 @@ pandoc \
  --toc \
  -t html \
  --css=$PUBLISH/markdown.css \
- $SRC_GM -o $BUILDDIR/guide_gm.html
+ $SRC_GM -o $BUILDDIR/1kfa_guide_gm.html
 
 cd $BUILDDIR
 
@@ -82,25 +82,25 @@ cat $PUBLISH/frontmatter_player.yml $SRC_PLAYER > $BUILDDIR/player_pdf_src.md
 pandoc \
   $BUILDDIR/player_pdf_src.md --latex-engine=xelatex \
   --from=markdown+line_blocks \
-  -o $BUILDDIR/guide_player.pdf
+  -o $BUILDDIR/1kfa_guide_player.pdf
 
 cat $PUBLISH/frontmatter_player_phone.yml $SRC_PLAYER > $BUILDDIR/player_phone_pdf_src.md
 pandoc \
   $BUILDDIR/player_phone_pdf_src.md --latex-engine=xelatex \
   --from=markdown+line_blocks \
-  -o $BUILDDIR/guide_player_phone.pdf
+  -o $BUILDDIR/1kfa_guide_player_phone.pdf
 
 cat $PUBLISH/frontmatter_gm.yml $SRC_GM > $BUILDDIR/gm_pdf_src.md
 pandoc \
   $BUILDDIR/gm_pdf_src.md --latex-engine=xelatex \
   --from=markdown+line_blocks \
-  -o $BUILDDIR/guide_gm.pdf
+  -o $BUILDDIR/1kfa_guide_gm.pdf
 
 cat $PUBLISH/frontmatter_gm_phone.yml $SRC_GM > $BUILDDIR/gm_phone_pdf_src.md
 pandoc \
   $BUILDDIR/gm_phone_pdf_src.md --latex-engine=xelatex \
   --from=markdown+line_blocks \
-  -o $BUILDDIR/guide_gm_phone.pdf
+  -o $BUILDDIR/1kfa_guide_gm_phone.pdf
 
 # Don't need this because I figured out how to add it with .md frontmatter
 #pdfjoin --rotateoversize=false \

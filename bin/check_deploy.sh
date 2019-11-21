@@ -18,7 +18,7 @@ rm -rf $LOGFILE
 touch $LOGFILE
 check https://www.1kfa.com/playtest_files/index.html
 check https://www.1kfa.com/playtest_files/1kfa_playtest.tgz
-check https://www.1kfa.com/playtest_files/guide_player.html
+check https://www.1kfa.com/playtest_files/1kfa_guide_player.html
 check https://www.1kfa.com/assets/cards_v$VERSION/index.html
 
 cat $LOGFILE

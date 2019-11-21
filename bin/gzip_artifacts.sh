@@ -15,8 +15,8 @@ cd /tmp/
 mkdir -p /tmp/1kfa_playtest
 rm -f 1kfa_playtest.tar.gz
 rm -f 1kfa_playtest.tar
-cp /tmp/1kfa_guide_build/guide_*.pdf 1kfa_playtest/
-cp /tmp/1kfa_guide_build/guide_*.html 1kfa_playtest/
+cp /tmp/1kfa_guide_build/1kfa_guide_*.pdf 1kfa_playtest/
+cp /tmp/1kfa_guide_build/1kfa_guide_*.html 1kfa_playtest/
 cp /tmp/1kfa_pnp_build/*.pdf 1kfa_playtest/
 cp $KFAREPO/publish/playtest_thankyou.pdf 1kfa_playtest/
 tar -c --exclude=*.svg -f 1kfa_playtest.tar 1kfa_playtest/
