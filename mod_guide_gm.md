@@ -16,11 +16,11 @@ game of A Thousand Faces of Adventure (hereafter abbreviated to 1kFA).
 
 Your responsibilities are:
 
- * pitch the idea of playing 1kFA to your friends
+ * pitch the idea of playing A Thousand Faces of Adventure to your friends
  * know, teach, and follow the rules
- * confront the players with challenges and dangers
- * move the story to plot points
  * describe scenes
+ * confront the players with challenges and dangers
+ * move the story towards plot points
  * give Non-Player Characters (NPCs) names, voices, motivations,
    and behavior
  * take some notes
@@ -70,12 +70,12 @@ they seek from their gaming experience.
    friends will play protagonists who must face adversity to transform
    themselves and their world
  * Players interact with cards and tokens more than sheets of paper,
-   which gives a certain tactile pleasure and feels familiar to board game
+   which gives a tactile significance and feels familiar to board game
    players
- * Play your favorite universe - use the setting of your favorite
+ * Play your favourite universe - use the setting of your favourite
    swords-and-magic universe from pop culture, 1kFA will support it!
- * The "surprise moment" happens for all players simultaneously - at the
-   moment a card is flipped, the boldly printed result is immediately visible
+ * The "surprise moment" happens for all players simultaneously - the
+   moment a card is flipped, the result is *immediately* visible
    to everyone at the table
  * Layered mechanisms - choices in 1kFA move game resources and probabilities
    around - there's depth for players to explore and skill to build
@@ -88,8 +88,9 @@ before, read the Start Script and play Sarukkan's Chamber.
 
 ## Start Script
 
-> Hi everyone! We're going to play 1kFA.  This is going
-> to be really fun, I'm glad you could join me for this!  I'm reading
+> Hi everyone! We're going to play A Thousand Faces of Adventure.
+> This is going to be really fun, I'm glad you could join me for this!
+> I'm reading
 > directly from a script that was designed to get us started fast, by
 > going over just enough of the rules for our first session, so please
 > pay attention now so we can get to the fun of the game quickly!
@@ -118,12 +119,12 @@ before, read the Start Script and play Sarukkan's Chamber.
 >
 > You can't just say "My character Tyrion runs up to the bad guy and
 > punches him in the head and his head goes flying off".
-> You *can* say "My character runs up to the bad guy and *tries* to punch
-> his head hard enough to send it flying off". See the difference? When you
-> describe an action where there's some uncertainty like that, It's my job
-> as the GM to say you've *triggered a move*. The game rules will then answer
-> the question "does it happen?" and tell us if the bad guy's head actually
-> goes flying off.
+> You *can* say "My character runs up to the bad guy and punches him in
+> the head", then, because there's uncertainty about the outcome, and the
+> degree to which Tyrion succeeds would matter in the story we're creating,
+> it's my job as the GM to say you've *triggered a move*.
+> The game rules will then answer the question "does it happen?" and
+> tell us if the bad guy's head actually goes flying off.
 >
 > When a *move is triggered*, it's time to use the cards and dice to see
 > what happens next. Triggering moves is a lot of fun. It's fun to succeed
@@ -340,11 +341,11 @@ Begin narrating the set-up.
 > obsessed, working sometimes until dawn.
 >
 > [Ask the player]
-> What was Gandlin's favorite breakfast food?
+> What was Gandlin's favourite breakfast food?
 >
 > One dawn it was Gandlin that was taken.
 > 
-> [Describe the scene of Gandlin's disappearance, using the favorite
+> [Describe the scene of Gandlin's disappearance, using the favourite
 > breakfast food to paint the picture]
 > 
 > Following the trail of clues, you came to the locked gate to the yard
@@ -540,9 +541,9 @@ But if they do want to continue, add in the next layer of rules before
 jumping back into the action:
 
  * Any character still wearing their elaborate costume should get a card
-   entitled "Costume". This is an item.
+   entitled "Costume". This is an Item card.
  * If the characters have acquired any significant items during their
-   adventure so far, also make a card for those.
+   adventure so far, also make Item cards for those.
  * The characters do not get any Pack cards, as they were just prisoners
 
 
@@ -711,8 +712,7 @@ Try asking the players to describe outcomes. For example, if a player's
 character is in a fight with a goblin and the player gets an amazing *attack
 power* roll of 10, the GM might ask the player, "Describe how your character
 kills the goblin". This gives the player license to get flowery and really see
-their character live up to the promise of being powerful in this fantasy
-world.
+their character as a powerful hero in this fantasy world.
 
 When you're stumped for what happens next, ask a player to fill in the details.
 Consider where you are in the
@@ -752,7 +752,7 @@ Example lateral questions:
  * Name a one-hit wonder musical group.
  * Name a shop where women buy clothing.
  * What's something you buy at a hardware store?
- * What's my mother's favorite TV show?
+ * What's my mother's favourite TV show?
  * What do kids find when turning over stones in a garden?
  * Name something people believe in that isn't real.
 
@@ -807,7 +807,6 @@ But when your turn comes, here are the options available to shake things up:
  * Separate them
  * Give an opportunity that fits a player's cards or character's background
  * Show a downside to their appearance, reputation, or equipment
- * Put someone in a spot
  * Offer an opportunity, with or without cost
  * Tell them the requirements or consequences and ask
 
@@ -855,9 +854,9 @@ of an ✗:
    Suddenly, one barks an order "Get to the tower and sound the alarm. Run!"
    (Show signs of an approaching threat)
  * You climb over. The camera pans up to the dark sky, we see grey feathered
-   beasts with the faces of birdlike wolves, the flaps of their wings loud and
-   ominous. Each of their tails ends in a glowing yellow shape extremely
-   similar to the description of the amulet.
+   beasts with the faces of birdlike wolves, each flap of their wings loud and
+   ominous. Their tails end in a glowing yellow shape extremely similar to the
+   description of the amulet.
    (Show signs of an approaching threat)
 
 The first example is pretty straightforward, a thing was tried, it
@@ -916,7 +915,6 @@ dealing damage.
 Most damage is based on a die roll. When a player takes damage, tell
 them what to roll. You never need to touch the dice.
 
-
 ### Use up their resources
 
 Surviving in dangerous places often comes down to supplies. With this
@@ -935,7 +933,7 @@ in front of a player:
  * Reduce magic item charge capacity
  * Place black-side red cards on mundane items for damage
  * Take away Pack cards
- * Take away item cards (careful with this one - use only when appropriate)
+ * Take away Item cards (careful with this one - use only when appropriate)
  * Take away marker tokens (ie, those created by Where It Hurts, etc.)
 
 Note, **a GM cannot take XP from a player**. Use of XP should always be
@@ -994,12 +992,6 @@ a solid fictional thing and say, "Helferth's blessings still hang around the
 shattered altar. It's a safe area to rest or plan, but the chanting from the
 ritual chamber is getting louder. What do you do?"
 
-### Put someone in a spot
-
-A spot is someplace where a character needs to make tough choices. Put them,
-or something they care about, in the path of destruction. The harder the choice,
-the tougher the spot.
-
 ### Tell the requirements or consequences and ask
 
 "Ok, everyone flees from the hammer-camels, heading towards the water, but
@@ -1021,13 +1013,12 @@ gears, you're going to spend a *Shadow point* to increase the difficulty.
 
 ## Drive Towards Your Next Journey Point
 
-When a GM has time in the spotlight, and the set-up has been established,
-they have an opportunity to earn themselves a *Journey point* by
-taking the plot to another milestone in the Hero's Journey.
+When you have time in the spotlight, and the set-up has been established,
+take the opportunity to earn a *Journey point* by taking the plot to another
+milestone in the Hero's Journey.
 
 Look to the [Campaigns section](#campaigns) and
-decide which milestone the current fictional situation is well set-up
-for.
+decide which milestone the current fictional situation is well set-up for.
 
 Remember that the players don't have to bite on every hook. Don't fight it
 when things to go sideways. You can always skip it or try again.
@@ -1038,7 +1029,7 @@ when things to go sideways. You can always skip it or try again.
 
 ## Universe Creation
 
-### 1. Create a GM sheet
+### 1. Create a GM Worksheet
 
 The GM needs a sheet of paper to make notes and track information.
 
@@ -1086,9 +1077,7 @@ time to introduce and pitch them.
 > Don't censor yourself, and don't shoot down anyone else's title down. This
 > is brainstorming, and we want the ideas to flow.
 > 
-> Stop when you've got 3 or 4.
-
-You may need to reiterate to the players that you're looking for *titles*.
+> Stop when you've written 3 or 4 titles.
 
 ![Touchstone List](images/touchstone_list_1.png){ width=7cm }
 
@@ -1105,7 +1094,11 @@ much to offer for establishing setting.
 "scrappy", that is to say, without extraordinary powers and privileges,
 characters who struggle, who chafe against their current limitations in the
 world. So superhero titles or stories where protagonists are genetically
-imbued with special abilities might also need to be pared down.
+imbued with special abilities might also need to be carefully interpreted.
+
+If a title is not recognized by someone at the table, invite the player
+who wrote the title to briefly describe the setting and what about that
+title really inspires them.
 
 > For step 2, we're going to narrow it down.
 >
@@ -1123,7 +1116,7 @@ finished.
 The "Touchstone List" may be consulted when the table needs to make a
 judgment about whether facts being proposed make sense in the shared universe
 you're creating. It can also be used to simply make calls on whether a
-character's attempt at something is uncertain (remember, the GM
+character's attempt at something is uncertain or impossible (remember, the GM
 only calls for flips when the outcome is uncertain).
 
 You can ask the question "Did any character accomplish a similar feat
@@ -1141,23 +1134,22 @@ to the GM the kind of fun they want to have.
 
 ### 3. Set Expectations
 
-> This is our "Touchstone List": [read the circled titles]
-
-The GM, using their knowledge of the rules, should read the list and
-call out any potential conflicts between circled titles and the rules of
-1kFA.
+Using your knowledge of the rules, read the list and call out any
+potential conflicts between circled titles and the rules.
 
 Will the players expect their characters to pull off the same feats
 and use the same powers of the chosen touchstones?
 
 *Die Hard* is a great touchstone for tone, themes, and relationships, but
-1kFA doesn't have rules for helicopters or machine guns.
+this game has rules for swords and magic, not helicopters or machine guns.
 
-The GM should not *reject* any circled titles, they should just address
-what's going to be possible.
+You should not *reject* any circled titles, just address what's going
+to be possible.
 
 Everyone will have more fun if expectations are set at the beginning.
 
+> This is our "Touchstone List": [read the circled titles]
+>
 > Imagine this mashed-up universe.
 >
 > What kind of world would be the one where some portion from each circled
@@ -1208,7 +1200,7 @@ Then select and lay out (`# of players + 1`) C cards.
 >
 > The "A" cards are usually the most powerful, so, during character creation,
 > you can only choose one of those. You can choose up to 2 of the B cards,
-> and if you wanted, you can choose 3 C cards, You get to start with 3 move
+> and if you want, you can choose 3 C cards, You will start with 3 move
 > cards in total.
 >
 > To differentiate the characters, you don't get to choose a card that
@@ -1239,7 +1231,7 @@ they can only trigger two moves per turn in the spotlight, one normal move
 and one *FAST* move, and that they don't risk a GM move if they flip ✅︎ or ✗.
 
 
-### 5. Choose Int / Str / Dex
+### 5. Choose Dex / Int / Str
 
 ![Point distributions](images/point_distributions.png){ width=7cm }
 
@@ -1788,7 +1780,7 @@ describe the confrontation in a way that hints at the difficulty.
 In combat, it's ok if play gets more formulaic. Some players enjoy
 the "abnegation" of a tit-for-tat combat scene that lasts tens of minutes.
 This can be a combination of exciting and relaxing. Give your players
-opportunities to press their favorite buttons.
+opportunities to press their favourite buttons.
 
 That said, some players don't seek abnegation. What kinds of signals are
 your players giving you? Maybe they want to get through combat faster. If
@@ -3131,7 +3123,7 @@ This is the thing that will answer the **Need**.
 ### Allot Shadow Points
 
 When you're ready, set up a challenge in the narrative, then draw a circle
-around **all** of the unused *Shadow points* on your GM sheet.
+around **all** of the unused *Shadow points* on your GM Worksheet.
 To earn the *Journey point* of this chapter, use all the circled points
 before the characters get a chance to Rest.
 
@@ -3230,7 +3222,7 @@ will venture from their original home into a mysterious world, and return.
 
 ## Book 2
 
-At the beginning of Book 2, make a new GM Sheet. Copy over any
+At the beginning of Book 2, make a new GM Worksheet. Copy over any
 leftover *Journey points* and *Shadow points* from Book 1 onto
 this sheet.
 
@@ -3249,7 +3241,7 @@ brings them to a place like this.
 
 ## Book 3
 
-At the beginning of Book 3, make a new GM Sheet. Copy over any
+At the beginning of Book 3, make a new GM Worksheet. Copy over any
 leftover *Shadow points* from Book 2 onto this sheet. This Book starts
 with **zero** *Journey points*.
 

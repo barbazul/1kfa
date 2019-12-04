@@ -59,6 +59,8 @@ def process_subdir(subdirname, raw_svg):
 if __name__ == '__main__':
     if not os.path.isdir(OUTDIR):
         os.makedirs(OUTDIR)
+    print('Removing dir')
+    print('rm -rf %s/print_and_play*pdf' % OUTDIR)
     os.system('rm -rf %s/print_and_play*pdf' % OUTDIR)
     fp = file('%s/print_and_play_move_template.svg' % TEMPLATEDIR)
     template = fp.read()
@@ -67,6 +69,7 @@ if __name__ == '__main__':
     for name in os.listdir(CARDSDIR):
         if not os.path.isdir(CARDSDIR + '/' + name):
             continue
+        print('Processing', name)
         process_subdir(name, template)
 
 
