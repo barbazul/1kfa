@@ -1870,7 +1870,7 @@ characters. The best story is one where they struggle, but succeed.
 After combat, the players may propose that their characters sift through
 the battlefield looking for valuables. Let the characters find whatever you
 think would be most fun, or something inspired by the Touchstone List, or
-ask them questions to figure out what boons or treasure were won from
+ask the players questions to figure out what boons or treasure were won from
 their adversaries.
 
 Sometimes nobody will have a concrete idea of what the loot was, and that's
@@ -2078,7 +2078,8 @@ let the players build up resources like XP and loot.
 Downtime activities are less risky. In these activities, the costs and
 benefits are known upfront, like shopping, healing, and studying.
 When injuries and treasures have built up, the players will seek a
-town to salve their hurts, exchange their loot for exciting new
+town (any place whose inhabitants offer services and trade)
+to salve their hurts, exchange their loot for exciting new
 gear, and learn new skills.
 With that done, the players should be hungry to put their new skills
 and gear to use, and thus head out again for adventure.
@@ -2087,8 +2088,8 @@ Each transition gives the GM a lot of opportunity to shape the narrative,
 so when possible, these transitions should be exploited to earn
 a *Journey point*.
 
-The core loop is not a rule, nor something a GM needs to enforce, it should
-happen naturally.
+The core loop is not a rule, nor something a GM needs to enforce, the
+incentives built into the game should cause it to happen naturally.
 
 ### Downtime
 
@@ -2123,12 +2124,12 @@ any action takes place, a *Journey point* must be spent.
 
 Otherwise, on the second day, the GM should present some situation that
 demands immediate attention. Put something at risk if necessary. Remember,
-in this dangerous world, nothing is safe or sacred.
+this is a world of danger, nothing is safe or sacred.
 
 The players may still ignore the situation and keep performing downtime moves
 on the second day -- in that case, narrative consequences should be honestly
-described. What opportunity has been forever lost? What did the adversaries
-in the world accomplish because the heroes ignored them?
+described. What opportunity has been forever lost? What did the evil forces
+accomplish because the heroes ignored them?
 
 ### Adventure
 
@@ -2137,9 +2138,8 @@ into conflicts. To get out of their literal comfort zone, they must have
 motivations.
 
 If the players at the table are not yet inventing their own motivations for
-their characters, Fateful Moment cards can be assigned again.
-
-When the transition from downtime to adventure happens, choose Fateful Moments
+their characters, Fateful Moment cards can be assigned again -- when the
+transition from downtime to adventure happens, choose Fateful Moments
 using the procedure [described above](#choose-fateful-moments).
 (If they still had a Fateful Moment, the new Fateful Moment replaces the old)
 
@@ -2149,6 +2149,12 @@ using the procedure [described above](#choose-fateful-moments).
 *Journey points* are used to create certain kinds of "Deus Ex Machina"
 situations to benefit the players' characters.
 
+## A Second Day of Peace
+
+In order to give the players' characters a second day of peace and quiet
+in a town, so that multiple time-consuming downtime actions can be
+made in a row without any bad consequences happening in the narrative,
+a *Journey point* must be spent.
 
 ## An Unexpected Arrival
 
@@ -2173,20 +2179,15 @@ of heart. Their arrival changes an otherwise established fate, a victory
 or defeat.
 
 If combat is underway, as you move the combat spotlight around the scene,
-the NPC should get a turn to act as often as each player does.
+the NPC should get a turn to act as often as a PC. However the NPC does
+not *trigger moves*, so each turn in the spotlight is limited to a few
+possible actions:
 
  * The NPC may assist any player character's attack, adding an appropriate
    die to the attack power
  * The NPC may get into a scuffle with one foe, effectively preventing that
    foe from acting as the combat spotlight moves around
  * The NPC may convey or reveal information valuable to the players
-
-## A Second Day of Peace
-
-In order to give the players' characters a second day of peace and quiet
-in a town, so that multiple time-consuming downtime actions can be
-made in a row without any bad consequences happening in the narrative,
-a *Journey point* must be spent.
 
 ## Brought Back to Life
 
@@ -2231,8 +2232,8 @@ This is an opportunity to demonstrate the *scale* of the PCs actions.
 
 ## Reveal the Hearth
 
-In the 9 and 30-hour campaigns, there is a special GM move called "Reveal
-the Hearth"
+In the 9 and 30-hour campaigns, there is a special GM move called [Reveal
+the Hearth](#the-chapter-8-move-reveal-the-hearth)
 
 
 # Using *Shadow Points*
@@ -2425,6 +2426,7 @@ invokes fear.
  * evoking mucus or slime
  * ancient
  * brainless
+ * holes
  * beyond comprehension, mind-bending
  * taboo or forbidden
  * wet and against your skin
@@ -2483,7 +2485,7 @@ underneath his sycophant's turban.
 <!-- TODO: remove trademarked references -->
 Darth Vader wants *order*, so must build a moon-sized laser beam, blow up
 all the rebellious planets, promote and demote military subordinates, and
-sell his estranged son on the value of theocratic rule.
+convince his estranged son on the value of theocratic rule.
 
 Some fundamentally simple desires:
 
@@ -2522,7 +2524,7 @@ into the game.
 ## Signals From Components
 
 An easy signal to notice is the physical material sitting in front of each
-player. A player makes decisions about this material and
+player. If it's in front of a player, their choice has put it there, and
 *players want their decisions to matter*.
 
 Look at the Dex, Int, and Str on a player's character sheet. Is the fiction
@@ -2531,8 +2533,8 @@ opportunities for them to get into trouble with their weakest?
 
 What move cards and items are sitting in front of a player? Are they getting
 opportunities to use them all? What kinds of names have been written on the
-items? How can those names be used to amplify themes or tones of the 
-narrative?
+items? Have they sketched or doodled on the cards? How can those names or
+drawings be used to amplify themes or tones of the narrative?
 
 What is the state of a player's Deckahedron and XP? Is there opportunity to
 play with the tension of stamina and wounds? Is the player waiting to spend
@@ -2550,10 +2552,10 @@ player holding themself? Are they smiling? Laughing? Do they become animated
 when they describe their character's actions or when they act out dialogue?
 
 How long is a player taking to make a particular decision? A long duration
-often indicates that the decision is *important* to the player, so if the
-consequences are big, they might feel very rewarded. This can be tricky
-though, when one player is taking a long time, notice the other players too
-and gauge how the delay is affecting them.
+often indicates that the decision is *important* to the player, so agree
+with them by creating big consequences from that decision.
+Keep the other players in mind though, when one player is taking a while,
+gauge how the delay is affecting others at the table.
 
 Do the players argue with each other? Argument indicates that they believe
 that there are important stakes of a particular decision. This can be a
