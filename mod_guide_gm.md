@@ -1886,6 +1886,9 @@ Later in the game, when the rules demand Item or Pack cards be spent, the
 "What we found on the werewolves" card may be spent, if the players can
 justify it. It can even be considered *precious* if the fiction supports it.
 
+If the loot is a weapon, its power should not be greater than the most
+powerful weapon a party member already possesses. If the loot has a magical
+effect, it should only have charge capacity of 1.
 
 ---
 
