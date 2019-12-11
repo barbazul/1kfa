@@ -1887,7 +1887,8 @@ Later in the game, when the rules demand Item or Pack cards be spent, the
 justify it. It can even be considered *precious* if the fiction supports it.
 
 If the loot is a weapon, its power should not be greater than the most
-powerful weapon a party member already possesses. If the loot has a magical
+powerful weapon a party member already possesses, unless it is the weapon
+created by the Tales of a Weapon move. If the loot has a magical
 effect, it should only have charge capacity of 1.
 
 ---
@@ -2826,7 +2827,7 @@ aspect to be everyone's salvation.
 
 Also realize you can give them a second chance at life. If you don't want a
 gritty, hardcore vibe in your campaign, you don't have to let the death stand.
-For rules on ressurection, see [Using Journey Points](#using-journey-points).
+For rules on resurection, see [Using Journey Points](#using-journey-points).
 
 ### The Prize
 
@@ -2933,7 +2934,7 @@ just choose The Hearth or ask the table.
 The threat might be revealed by an NPC that acts as a "Herald".
 This is someone that appears with a message about something from the
 mysterious world where it is dangerous to venture. Usually this mysterious
-world or one of it's denziens is the force behind the threat.
+world or one of it's denizens is the force behind the threat.
 
  * The village medium
  * A raven arrives from the neighboring kingdom
