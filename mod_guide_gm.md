@@ -12,18 +12,21 @@
 This guide is intended for a Game Master (GM).
 
 Read this guide if you are the volunteer among your friends to run the
-game of A Thousand Faces of Adventure (hereafter abbreviated to 1kFA).
+game of A Thousand Faces of Adventure (aka 1kFA).
+
+![The GM's job](images/gm_job.png){ width=2.5inch }
 
 Your responsibilities are:
 
  * pitch the idea of playing A Thousand Faces of Adventure to your friends
  * know, teach, and follow the rules
  * describe scenes
- * confront the players with challenges and dangers
- * move the story towards plot points
  * give Non-Player Characters (NPCs) names, voices, motivations,
    and behavior
- * take some notes
+ * confront the players with challenges and dangers
+ * ask the other players questions
+ * gain and spend Journey Points and Shadow Points
+ * take some notes in your GM Worksheet
  * and...
 
 The last responsibility is so important it deserves its own paragraph:
@@ -51,20 +54,20 @@ is "Show, don't tell".
 In that spirit, you are invited to visit
 [https://www.1kfa.com/examples](https://www.1kfa.com/examples).
 There, you will see examples
-of 1kFA being played. For all the author's attempt to make this
+of the game being played. For all the author's attempt to make this
 document clear, brief, and unambiguous, those examples may do a better job
-of conveying just what 1kFA is and how it is played.
+of conveying just what the game is and how it is played.
 
 
 # The Pitch
 
-If you're reading this, then you likely want to play 1kFA with your friends,
-but there's lots of other games out there, so what can you say to bring
-your friends to the table around *this* game?
+If you're reading this, then you likely want to play A Thousand Faces of
+Adventure with your friends, but there's lots of other games out there, so
+what can you say to bring your friends to the table around *this* game?
 
-Here are some things that make 1kFA special. You know your friends best, so,
-as you look at this list, think about what they like and dislike and what
-they seek from their gaming experience.
+Here are some things that make A Thousand Faces of Adventure special. You
+know your friends best, so, as you look at this list, think about what they
+like and dislike and what they seek from their gaming experience.
 
  * The Hero's Journey - like the stories told in blockbuster movies, your
    friends will play protagonists who must face adversity to transform
@@ -73,18 +76,18 @@ they seek from their gaming experience.
    which gives a tactile significance and feels familiar to board game
    players
  * Play your favourite universe - use the setting of your favourite
-   swords-and-magic universe from pop culture, 1kFA will support it!
+   swords-and-magic universe from pop culture, this game will support it!
  * The "surprise moment" happens for all players simultaneously - the
    moment a card is flipped, the result is *immediately* visible
    to everyone at the table
- * Layered mechanisms - choices in 1kFA move game resources and probabilities
-   around - there's depth for players to explore and skill to build
+ * Layered, interlocking mechanisms - choices move game resources and
+   probabilities around - there's depth to explore and skill to build
 
 
 # First-time Players
 
-If there is a player at the table who has never played 1kFA
-before, read the Start Script and play Sarukkan's Chamber.
+If there is a player at the table who has never played A Thousand Faces of
+Adventure before, read the Start Script and play Sarukkan's Chamber.
 
 ## Start Script
 
@@ -95,7 +98,7 @@ before, read the Start Script and play Sarukkan's Chamber.
 > going over just enough of the rules for our first session, so please
 > pay attention now so we can get to the fun of the game quickly!
 > 
-> 1kFA is a *narrative* game.
+> A Thousand Faces of Adventure is a *narrative* game.
 > 
 > It's a storytelling game where we all collaborate and tell the story
 > together.
@@ -459,9 +462,9 @@ to react to.
 ### Goals for Sarukkan's Chamber
 
 Ideally, Sarukkan's Chamber should demonstrate what kind of game
-1kFA is.
+this is.
 
-1kFA creates plot questions for players to answer:
+A Thousand Faces of Adventure creates plot questions for players to answer:
 
  * Will the brother & sister who haven't seen each other in a
    decade discover each other's identities?
@@ -470,7 +473,7 @@ Ideally, Sarukkan's Chamber should demonstrate what kind of game
  * (3rd player variant) Will the reluctant guard choose to obey an
    evil master, or rebel?
 
-1kFA creates tension and action:
+A Thousand Faces of Adventure creates tension and action:
 
  * Potential combat against guards or kitchen staff or Sarukkan himself
  * Potential pursuits involving outsmarting or outmaneuvering pursuers
@@ -484,7 +487,7 @@ the players will make choices that surprise you. If they surprise you with
 something unlikely or risky, be ready to declare that moves are triggered,
 but also be ready to say "Yes, and..." to their crazy ideas.
 
-It should also help teach the rules of 1kFA.
+It should also help teach the rules.
 
  * Work in an opportunity for each player to do a Deckahedron flip
  * If a player flips an XP card, that's an opportunity
@@ -612,10 +615,10 @@ create a universe -- the fictional setting in which the PCs will be
 adventuring. This setting is expressed by something called the
 [Touchstone List](#establish-touchstones).
 
-1kFA is about characters who have decided to take up an adventure in the
-hopes of fulfilling a strong need. It's your job to participate in that
-by showing the players a mysterious and dangerous world in which their
-characters can find that adventure.
+A Thousand Faces of Adventure is about characters who have decided to
+take up an adventure in the hopes of fulfilling a strong need. It's your job
+to participate in that by showing the players a mysterious and dangerous
+world in which their characters can find that adventure.
 Without the player characters in the world, calamity would ruin something
 precious.
 Maybe even the whole world would fall into chaos or destruction -- it might
@@ -645,9 +648,8 @@ players to create a world that's engaging and dynamic. Adventurers are
 always caught up in some dangerous situation or another -- encourage and
 foster that kind of action in the game.
 
-1kFA adventures **never** presume player actions. A 1kFA
-adventure portrays a setting in motion -- someplace significant with
-creatures big and small pursuing their own goals. As the players come into
+Always portray a setting in motion -- someplace significant with creatures
+big and small pursuing their own goals. As the players come into
 conflict with that setting and its denizens, action is inevitable. You’ll
 honestly portray the repercussions of that action.
 
@@ -686,9 +688,9 @@ But it may also just be general narration.
 
 ## Ask the Players Questions
 
-1kFA is a conversation. The GM is the main storyteller, but not
-the only storyteller. **Ask the players questions** and use the answers.
-Embrace your curiosity.
+A Thousand Faces of Adventure is a conversation. The GM is not the only
+storyteller at the table. **Ask the players questions**
+and use the answers.  Embrace your curiosity.
 
 When you run Sarukkan's Chamber, there are some built-in prompts to give
 you some practice asking questions that fill in the details of a scene or
@@ -870,10 +872,10 @@ constrained to the fiction that engaged them.
 
 The last example does something even more strange. It talks about a
 disembodied "camera" and portrays a scene to the *players*, but not to the
-*characters*. This can be a fun style of play in 1kFA, but
-it may not please every group because it "breaks immersion". If you
-describe the world like a movie, you're asking players to be audience,
-not actors.
+*characters*. This is a fun stylistic choice, but it may not please every
+group. If you describe the world like a movie, you're asking players to be
+audience, not actors. Listen to your players to decide if this is right
+for your table.
 
 Always be on the lookout for signals from the players for the kind of fun
 they want to have.
@@ -1084,14 +1086,14 @@ time to introduce and pitch them.
 #### Narrow it down
 
 Take a look through the titles for anything that may be in a setting that's
-not well-supported by the rules of 1kFA. If there is such a
-setting, remind the players that 1kFA has rules for swords and
-limited magic, and no rules for machine guns or interstellar travel. So
+not well-supported by the rules. If there is such a
+setting, remind the players that there are rules for swords and
+magic, and no rules for machine guns or interstellar travel. So
 choosing sci-fi touchstones might help with themes and tone, but won't have
 much to offer for establishing setting.
 
-1kFA works best with stories where characters start out
-"scrappy", that is to say, without extraordinary powers and privileges,
+A Thousand Faces of Adventure works best with stories where characters start
+out "scrappy", that is to say, without extraordinary powers and privileges,
 characters who struggle, who chafe against their current limitations in the
 world. So superhero titles or stories where protagonists are genetically
 imbued with special abilities might also need to be carefully interpreted.
@@ -1170,8 +1172,8 @@ provoke the imagination. But if the table does start imagining out-loud, keep
 that discussion going for as long as it is productive.
 
 > Finally, who will *you* be in this world?
-> 1kFA is a game about a group of scrappy adventurers who
-> grow in power as we play the game.
+> A Thousand Faces of Adventure is a game about a group of scrappy adventurers
+> who grow in power as we play the game.
 >
 > Your character will start the game with skills and gifts beyond ordinary
 > folk, but they'll still have to work and struggle through adversity to
@@ -1217,7 +1219,7 @@ Then select and lay out (`# of players + 1`) C cards.
 > If you're the kind of person that really wants to optimize your character
 > you'll probably want to read and understand the rules in the Player's Guide,
 > plus all the text of the move cards, and now might not be the best time
-> for that. 1kFA is more about improvisation than perfection,
+> for that. This game is more about improvisation than perfection,
 > so listen to your gut and just pick cards that look like fun.
 
 As players choose cards, there may be opportunities to explain some of the
@@ -1314,11 +1316,11 @@ character is confronted with.
 
 As you're asking the players these questions, listen for how the answers
 signal the kind of fun the players want to have and also measure the
-expectations they have for the game. 1kFA is a game where
+expectations they have for the game. This is a game where
 characters start off as scrappy adventures.  If a player is telling you
 their character is a fire demon or a ten year old shoe-shine boy or a
 computer hacker, a conversation is needed to establish how that character
-can fit into the 1kFA rules.
+can fit into the rules.
 
 If a player's character reads as too exotic, that might be the player
 signaling that the fun they want to have is playing a different game.
@@ -1326,7 +1328,7 @@ signaling that the fun they want to have is playing a different game.
 
 ### 8. Choose Fateful Moments
 
-> Since 1kFA is a game about taking risks, I'm going
+> Since this is a game about taking risks, I'm going
 > to give you an opportunity to get some bonuses when you get risky.
 > We're going to create what are called "Fateful Moment" cards.
 >
@@ -1391,7 +1393,7 @@ or the choice of items specified in the rules for those cards.
 
 > Next, everyone gets to choose 2 item cards for your character, these can
 > be weapons, armour, or any other items that have mechanical significance.
-> 1kFA comes with some cards to get us started, but we can
+> This game comes with some cards to get us started, but we can
 > also write stuff on blank cards.
 >
 > It's recommended that your character have some kind of weapon. Without
@@ -1450,8 +1452,7 @@ How can wearing boots make it impossible to pick a pocket?
 
 The answer is: that's for them to decide.
 
-In 1kFA, play flows between the domain of the fiction and the domain of the
-rules.
+Play flows between the domain of the fiction and the domain of the rules.
 All the players create fiction, which triggers rules, then the rules produce
 mechanical results, which the players are challenged to interpret into fiction.
 Sometimes that means the GM interprets an attack power roll, and sometimes it
@@ -1796,7 +1797,7 @@ responses in combat because flips are happening frequently. So, to relieve
 some of that pressure, here are some formats to follow that guide the
 table through a combat encounter.
 
-1kFA doesn't have turns, but it's ok if moving the spotlight
+This game doesn't have turns, but it's ok if moving the spotlight
 during combat makes it feel that way.
 
 ### Format 1
@@ -2003,8 +2004,8 @@ statistics reference.  You'll see that if your players are mostly doing
 standard flips (flips without advantage), they are likely to feel the
 game is unfair.
 
-Explain to your players that getting good at playing 1kFA
-means *creating advantages*. There are built-in moves like Discern and
+Explain to your players that getting good outcomes often requires
+*creating advantages*. There are built-in moves like Discern and
 Defend that can be used to create advantages. Explain
 each one of these moves.  Discern should be particularly encouraged if
 you'd like more opportunities to describe the world, environment, and
@@ -2070,7 +2071,7 @@ to dole out XP. Give a new one to each player.
 
 ## The Core Game Loop
 
-1kFA has 2 main types of activities, "downtime" activities,
+This game has 2 main types of activities, "downtime" activities,
 and "adventure" activities. The game transitions from downtime to
 adventure and back again to downtime, repeating in a "loop".
 
@@ -2586,23 +2587,22 @@ In A Thousand Faces of Adventure, there are 3 different kinds of Campaigns:
  * 9-hour
  * 30-hour
 
-The stories you will tell by playing 1kFA are told in 3 parts:
-beginning, middle, and end.
+The stories you will tell by playing A Thousand Faces of Adventure are told
+in 3 parts: beginning, middle, and end.
 
 If you've played other RPGs that *don't have endings*, ones that go on for
 months or even years, this might seem weird to you.
 Don't worry, try out a 9-hour campaign and see the results.
 You may find your doubts erased.
 
-1kFA is designed to tell a particular kind of story.
+This game is designed to tell a particular kind of story.
 It's called *The Hero's Journey*.
 
 *The Hero's Journey* is a skeleton upon which many successful and popular
 movies and books are arranged: Star Wars, Lord of the Rings, The Breakfast
 Club, Die Hard, Beowulf, Forgetting Sarah Marshall, the list goes on.
-To help you execute a successful and popular *campaign*, 1kFA
-gives the GM *Journey points* and *Shadow points* and specific rules for
-using them.
+To help you execute a successful and popular *campaign*, the GM is given
+*Journey points* and *Shadow points* and specific rules for using them.
 
 The main premise of *The Hero's Journey* is, characters start out in
 a figurative "ordinary world", they go to a "mysterious world", and finally,
@@ -3189,9 +3189,8 @@ or obstacle that embodies:
 When the characters return back to the ordinary world, they will have to
 defeat the Threshold Guardian, or if that chapter was skipped, they will have
 to come to terms with where they've been and who they are now.
-
-A game of 1kFA can resolve in many ways. Where does their new
-power lie? Game mechanisms? Relationships? Knowledge? Something else?
+Each character's story resolves differently. Where does their new
+power lie? Items? Skills? Relationships? Knowledge? Something else?
 
 ### The Chapter 8 Move: Reveal The Hearth
 
@@ -3280,7 +3279,7 @@ Every thought, idea, action expressed in the narrative came from a player, one
 of your friends. Even the most ephemeral or small contribution is special
 because it was unique to that person in that context.
 
-If you want to make a game of 1kFA really great, pay attention to
+To make a campaign really great, pay attention to
 *who* your friends are and guess at *why* they are expressing their character
 the way they do. Then use those guesses in the story.
 
