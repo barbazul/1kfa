@@ -795,9 +795,9 @@ black-side-up.
 The third time an item is damaged, it is destroyed. Return it and the red
 cards to the supply.
 
-Non-magical items can be damaged in 1kFA. Usually this happens
-narratively as the result of a GM move, but it can also be caused by player
-moves, eg. Armour Mastery.
+All mundane (non-magical) items can be damaged. Usually this happens
+as the result of a GM move, but it can also be caused by player moves,
+eg. Armour Mastery.
 
 To repair items, see the move [Sharpen and Stitch](#sharpen-and-stitch)
 
@@ -875,8 +875,6 @@ Charge capacity can be gained and lost. Every time it changes, players
 should mark the new capacity on the Magic Item card
 
 `TODO: illustration of charge capacity gauge`
-
-Magic items cannot be damaged.
 
 
 ## Use a Magic Item
@@ -1131,7 +1129,9 @@ _ Bow            | Long range, not usable at melee range
 
 When an armour-clad character would normally take Harm or a Wound, the
 player may put the Harm or Wound token into an appropriate empty slot on
-their Armour card.
+their Armour card. This represents the character getting lucky, and their
+armour absorbing the attack instead of their body. Better armour has
+more chances to protect its wearer.
 
 `TODO illustration of Harm / Wound slots`
 
@@ -1142,25 +1142,20 @@ When a character goes shopping, goes a-thieving, discovers treasure, or loots
 a battlefield, the GM may offer new, more useful armour with more slots drawn
 on it.
 
-The GM should draw up to 3 slots on the card. A slot shall be designated to
-receive either:
+The GM should take a blank card from the supply, and draw up to 3 slots on
+the card. A slot shall be designated to receive either:
 
  * 1 Harm token
  * or 1 Harm *or* Wound token
 
-The GM should decide if the armour incurs any additional costs when
-calculating encumbrance penalties.
-Better armour tends to be heavier and impedes graceful movement.
+The table should decide if the armour incurs any additional costs when
+calculating encumbrance penalties -- better armour tends to be heavier.
 Any increased encumbrance penalty should be written on the card.
 
-The GM and player should agree on a descriptive name for the armour like
+The player should write a descriptive name for the armour like
 "Padded" or "Chainmail" or "Full plate" and write that at the top of a card.
-The GM may use the name to create implications in the narrative -- it's hard
-to sneak or swim in full plate armour.
-
-If a GM writes narrative circumstances that cause a disadvantage on the
-armour card when it is created, no *Shadow points* need to be spent
-to create the disadvantage later.
+The description will impact the narrative -- it's hard to sneak or swim in
+full plate armour.
 
 Here are some example armours:
 
@@ -1198,9 +1193,8 @@ so the character would have 1d4 attack power with Mix It Up. But a character
 with no weapon and only leather bracers on their wrists, the character would
 be "unarmed", doing just 1 attack power.
 
-Blocking attack power with a shield should be considered an *FAST* move,
-and the GM should try to keep to the guideline of not allowing players to
-make more than one *FAST* move per turn in the spotlight.
+Blocking attack power with a shield is a *FAST* move,
+and players may not make more than one *FAST* move per turn in the spotlight.
 
 ## More Power
 
