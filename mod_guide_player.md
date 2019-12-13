@@ -214,7 +214,7 @@ You're playing a character named Kresk.  You say:
 > He just takes a running start and mightily leaps over the pit,
 > landing safely on the other side.
 
-The GM responds:
+The GM interjects:
 
 > Ok, sounds good, but let's see if Kresk's legs are strong enough.
 > Please flip Defy Danger with your Strength.
@@ -224,8 +224,9 @@ Next, on the character sheet, see that Kresk has rank 3 (Crown) Str.
 Flip over the top card of your Deckahedron and look for that Crown suit.
 
 Let's say the Deckahedron card shows ✔✔ next to the Crown.
-The GM uses the indicated instructions on the Defy Danger move ("You
-do it, but there's a new complication") to improvise what happens next:
+The Defy Danger move reads "You do it, but there's a new complication".
+When you look to the GM to interpret this outcome, they begin to
+improvise:
 
 > You leap through the air, landing with a thud on the other
 > side of the pit, kicking up a cloud of dust on this forgotten
