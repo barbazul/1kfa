@@ -23,7 +23,7 @@ Your responsibilities are:
  * describe scenes
  * give Non-Player Characters (NPCs) names, voices, motivations,
    and behavior
- * confront the players with challenges and dangers
+ * confront the other players with challenges and dangers
  * ask the other players questions
  * gain and spend Journey Points and Shadow Points
  * take some notes in your GM Worksheet
@@ -31,7 +31,7 @@ Your responsibilities are:
 
 The last responsibility is so important it deserves its own paragraph:
 
-The players will signal the *kinds* of fun they want to have. It is
+Players will signal the *kinds* of fun they want to have. It is
 your responsibility to notice these signals and insert that kind of
 fun into the game.
 
@@ -61,9 +61,9 @@ of conveying just what the game is and how it is played.
 
 # The Pitch
 
-If you're reading this, then you likely want to play A Thousand Faces of
-Adventure with your friends, but there's lots of other games out there, so
-what can you say to bring your friends to the table around *this* game?
+You want to play A Thousand Faces of Adventure with your friends,
+but there's lots of other games out there, so what can you say to
+bring your friends to the table around *this* game?
 
 Here are some things that make A Thousand Faces of Adventure special. You
 know your friends best, so, as you look at this list, think about what they
@@ -138,7 +138,7 @@ Adventure before, read the Start Script and play Sarukkan's Chamber.
 > Besides face-punching, some other questions that might be answered by
 > triggering moves are:
 >
->  * Will the washer-woman agree to hide me from my pursuers?
+>  * Will the old librarian agree to hide me from my pursuers?
 >  * Do I see the giant spider web in my path?
 >  * Is there another way out of this burning tavern?
 >  * Will this magical scepter work just one more time?
@@ -231,7 +231,7 @@ Give each player a Move Booklet
 > It's hard for me to do everything though, so the more you can participate,
 > reading the text of your moves, and suggesting narrative outcomes,
 > the smoother the game will run. Once we've had some practice, playing the
-> game will feel like a collaborative story we're working through together.
+> game will feel like a collaborative story we're creating together.
 >
 > The move you'll be triggering the most will probably be Defy Danger, that's
 > why it's on the first page. The moves in the back of the booklet are
@@ -427,7 +427,6 @@ find out what happens.
 If this is the first time you've GMed a game, the best thing you can do
 is prepare.  Read the [Guidance](#guidance) chapter. Check out some
 [examples](#show-dont-tell) of how other GMs have run their games.
-Then, with that context, read the Guidance chapter again.
 
 The primary thing to remember is that on ✗, you get to make a move.
 
@@ -598,15 +597,17 @@ surroundings, and maybe have a dialogue with each other, introduce the
 
 # Guidance
 
-Here are 6 mantras to come back to whenever you don't know what to say next.
+Here are the 6 main activities a GM pursues in this game.
 
  * Portray the world of the Touchstone List
  * Fill the characters' lives with adventure
  * Move the spotlight
- * Ask the players
- * Make GM Moves (or refer to them for ideas)
- * Drive towards your next *Journey point*
+ * Ask the players questions
+ * Make GM Moves
+ * Achieve your next *Journey point*
 
+As the conversation at the table unfolds, refer to this list whenever
+you find yourself searching for what to say next.
 
 ## Portray the World of the Touchstone List
 
@@ -653,6 +654,9 @@ big and small pursuing their own goals. As the players come into
 conflict with that setting and its denizens, action is inevitable. You’ll
 honestly portray the repercussions of that action.
 
+Introduce challenges. Unfriendly NPCs, monsters, puzzles, or the troubles
+of the setting should regularly confront the characters.
+
 ## Move the spotlight
 
 The general attention of people sitting at the table is called "the
@@ -666,7 +670,7 @@ sit back and suffer or delight as the GM describes the consequences of
 their decisions?
 
 Never let a player's time in the spotlight be inconsequential. A player
-might wait 10 minutes for their friends' moves, so if their whole turn in the
+might wait 10 minutes for their moment to arrive, so if their whole turn in the
 spotlight ends with "nothing happens", that player's experience will suffer.
 Give them an opportunity for something. This doesn't mean they have to slay
 a demon on every turn, merely getting a big laugh can be "something".
@@ -681,7 +685,7 @@ As the GM, you may take a turn in the spotlight:
  * when someone flips ✗ (or sometimes just ✅︎)
  * as specifically instructed by a move a player is executing
  * when everyone looks to you to see what happens
- * when the players give you a golden opportunity
+ * when a character encounters something you've been preparing for
 
 Usually your turn in the spotlight will be spent making a **GM move**.
 But it may also just be general narration.
@@ -1013,7 +1017,7 @@ This can also be a good move to underscore particularly tricky dangers. Let
 the players know that if they attempt to dive between the giant clockwork
 gears, you're going to spend a *Shadow point* to increase the difficulty.
 
-## Drive Towards Your Next Journey Point
+## Achieve Your Next Journey Point
 
 When you have time in the spotlight, and the set-up has been established,
 take the opportunity to earn a *Journey point* by taking the plot to another
@@ -2827,7 +2831,7 @@ aspect to be everyone's salvation.
 
 Also realize you can give them a second chance at life. If you don't want a
 gritty, hardcore vibe in your campaign, you don't have to let the death stand.
-For rules on resurection, see [Using Journey Points](#using-journey-points).
+For rules on resurrection, see [Using Journey Points](#using-journey-points).
 
 ### The Prize
 
