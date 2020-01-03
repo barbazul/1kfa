@@ -40,3 +40,4 @@ for fname in md_files:
     print ''
 
 print 'Remember, use [UPDATE] for a webpage changelog message'
+print 'Remember, use [NODEPLOY] for a non-deploying commit'
