@@ -61,7 +61,7 @@ def print_state():
   deck = cardback + 'x%s' % len(p1['deck'])
   resolving = ',  '.join([face(card) for card in p1['resolving']])
   discard = cardup + 'x%s' % len(p1['discard'])
-  print '| %s | %s | %s |' % (deck, resolving, discard)
+  print('| %s | %s | %s |' % (deck, resolving, discard))
 
 
 flip()
@@ -70,3 +70,9 @@ flip()
 flip()
 print_state()
 
+
+try:
+    while True:
+        command = raw_input()
+except (EOFError, KeyboardInterrupt):
+    print('\nEND\n')
