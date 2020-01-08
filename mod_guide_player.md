@@ -130,6 +130,8 @@ common villager.  Your character will have 10 Stamina points versus a
 townsperson's 2-5, and will start with three special moves, but that's all
 that separates them from Michel the stable-hand and Constance the librarian.
 
+`TODO: fluff with one-sentence example characters`
+
 You can invent any backstory you like, but you may need to answer questions
 about how the backstory fits the character's game limitations.
 Nothing stops you from creating a hulking, 7 foot tall barbarian, with a rich
@@ -171,7 +173,7 @@ Whenever your character attempts something risky, where the outcome is
 not certain, the GM will call for you to take your Deckahedron and "flip".
 
 In conversation with GM and the rest of the table, you'll decide what
-move (or moves) your character is triggering and which of your
+move your character is triggering and which of your
 character's attributes -- Str, Dex, or Int -- will be used to resolve
 the flip. There is a move card or a page in your base moves booklet for
 every move, so have that move card or page in your booklet ready.
@@ -313,13 +315,13 @@ is taking. The game works best when this "spotlight" is moved around fairly
 so each player can contribute. The spotlight typically follows a single
 character's actions until they trigger, then resolve a move.
 
-*Fast* moves are like "bonus" moves that augment, or quickly follow the
+*FAST* moves are like "bonus" moves that augment, or quickly follow the
 initially triggered move.
 
 Characters will trigger **at most one** *FAST* move during their moment
 in the spotlight.
 Otherwise the pace of the game can slow down, and other players may feel
-like they aren't getting a fair share of time in the conversation.
+like they aren't getting a fair share.
 
 Examples of cards tagged *FAST* include Good Cardio, Where It Hurts, and
 Unknown Benefactor.
@@ -539,7 +541,7 @@ dodge every blow.
 This weakening is represented by cards from your Deckahedron being lost
 into your *Exhaustion pile*.
 
-Have you ever watched a boxing match or a mixed martial arts match? During
+Have you ever watched a boxing or martial arts match? During
 the later rounds, the athletes are worn down, their footwork is less
 animated, and they drop their guard more frequently. The contest
 is not always decided with a knockout punch, it often comes down to who can
@@ -555,8 +557,7 @@ you have choices about exactly how they are affected. They may dodge,
 and just lose Stamina, they may stand stubbornly against a blow,
 perhaps absorbing it with their armour, or they may be wounded by it.
 
-There are four steps that happen in order, they are known as "The Four
-Ds":
+The procedure for making these decisions is called "The Four Ds":
 
  1. [Dice](#dice) - roll them!
  2. [Decide](#decide) whether to lose Stamina or take a Wound
@@ -573,7 +574,7 @@ the *attack power*.
 
 ## Decide
 
-After the *attack power* is calculated, you have a choice: either take that
+After the *attack power* is known, you have a choice: either take that
 many Exhaustion tokens or take a Wound token.
 
 You can always choose to absorb the **entire** amount of *attack power* by
@@ -1438,15 +1439,13 @@ During the second phase of resolving a combat action, players have the choice
 between losing Stamina or taking a Wound as explained before, and also
 a third choice: to turn any 3 *attack power* into Harm tokens instead.
 
-For example, you may split the attack power of 7 into:
+For example, there are 4 ways to handle an *attack power* of 7:
 
- * 4 Stamina points
- * 1 Harm token
+ * 7 Exhaustion tokens
+ * 4 Exhaustion tokens & 1 Harm token
+ * 1 Exhaustion token & 2 Harm tokens
+ * 1 Wound token
 
-You may even do that twice, splitting the attack power of 7 into:
-
- * 1 Stamina point
- * 2 Harm tokens
 
 ## Third Phase, "Distribute"
 
@@ -1461,11 +1460,11 @@ cannot choose a Harm token when facing an attack power of 2.
 When you are instructed to take a Harm token:
 
  * **If you already have 2 Harm tokens on your Exhaustion pile**:
-   - Take a *Wound* instead
+    - Take a *Wound* instead
  * **Otherwise**:
-   1. Lose a Deckahedron card to your *Exhaustion pile* as you would when
-      you lose a Stamina point.
-   2. Place a *Harm token* on your *Exhaustion pile*
+    1. Lose a Deckahedron card to your *Exhaustion pile* as you would when
+       you lose a Stamina point.
+    2. Place a *Harm token* on your *Exhaustion pile*
 
 > Note, you will see this "1-2-bust" pattern repeated in many
 > of 1kFA's rules
@@ -1672,9 +1671,9 @@ table collaborating together.
 Just as in PvP combat, when one player tries to:
 
  * reduce another player's resources
-   - eg, by using the Pick Pockets move
+    - eg, by using the Pick Pockets move
  * use a move to dictate another player's character's action
-   - eg, by using mind control magic
+    - eg, by using mind control magic
 
 XP cards do not generate XP, Critical Success cards cannot
 be used to go up levels, and the *defender* gets to say what the result was.
