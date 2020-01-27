@@ -1188,10 +1188,11 @@ that discussion going for as long as it is productive.
 
 `TODO: include cards as an appendix`
 
-For reference, cards are shown at https://www.1kfa.com/assets/cards_VERSION/
+For reference, cards are shown at
+<a href="https://www.1kfa.com/assets/cards_VERSION/">https://www.1kfa.com/assets/cards_VERSION/</a>.
 
-For a print-and-play experience, the cards can be found in PDF form
-at https://www.1kfa.com/playtest_files/
+For a print-and-play experience, the cards can be found in PDF form at
+<a href="https://www.1kfa.com/playtest_files/">https://www.1kfa.com/playtest_files/</a>.
 
 ### 4. Choose move cards
 
