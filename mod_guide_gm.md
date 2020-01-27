@@ -1186,6 +1186,13 @@ that discussion going for as long as it is productive.
 
 ## Character Creation
 
+`TODO: include cards as an appendix`
+
+For reference, cards are shown at https://www.1kfa.com/assets/cards_VERSION/
+
+For a print-and-play experience, the cards can be found in PDF form
+at https://www.1kfa.com/playtest_files/
+
 ### 4. Choose move cards
 
 Gather the move cards, and separate them into piles:
