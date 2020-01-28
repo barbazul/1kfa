@@ -1240,9 +1240,10 @@ deeper rules.
 When a player chooses a card with an Encumbrance Penalty, take that
 opportunity to explain how Item and Pack cards impact those types of moves.
 
-When a player triggers a *FAST* move, take that opportunity to explain that
-they can only trigger two moves per turn in the spotlight, one normal move
-and one *FAST* move, and that they don't risk a GM move if they flip ✅︎ or ✗.
+When a player chooses a card with the *FAST* symbol, take that opportunity
+to explain that players can only trigger two moves per turn in the spotlight,
+one normal move and one *FAST* move, and that *FAST* moves don't risk a GM
+move if they flip ✅︎ or ✗.
 
 
 ### 5. Choose Dex / Int / Str
