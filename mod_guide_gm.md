@@ -1189,7 +1189,7 @@ that discussion going for as long as it is productive.
 `TODO: include cards as an appendix`
 
 Card reference is
-<a href="https://www.1kfa.com/assets/cards_VERSION/">here</a>.
+<a href="https://www.1kfa.com/assets/cards_vVERSION/">here</a>.
 
 For a print-and-play experience, the cards can be found in PDF form at
 <a href="https://www.1kfa.com/playtest_files/">https://www.1kfa.com/playtest_files/</a>.
