@@ -1196,25 +1196,19 @@ For a print-and-play experience, the cards can be found in PDF form at
 
 ### 4. Choose move cards
 
-Gather the move cards, and separate them into piles:
+Get the deck of move cards from the supply. If you are playing a One-Shot
+campaign, remove any cards with a "9" or "30" printed in the corner.
 
- * Cards with "A" in the corner
- * Cards with "B" in the corner
- * Cards with "C" in the corner
- * Cards without any letter in the corner
-
-If you are playing a One-Shot campaign, remove "Entreat the Blood-Bound"
-
-Lay out the A cards in front of your players.
-Then select and lay out (`# of players + 1`) B cards.
-Then select and lay out (`# of players + 1`) C cards.
+Lay out all of the cards with an "A" in the corner. Then select and lay out
+(`# of players + 1`) "B" cards. Then select and lay out (`# of players + 1`)
+"C" cards.
 
 > These are called move cards. You are going to take turns choosing, and
 > I'm here to explain how they work and answer questions.
 >
 > The "A" cards are usually the most powerful, so, during character creation,
 > you can only choose one of those. You can choose up to 2 of the B cards,
-> and if you want, you can choose 3 C cards, You will start with 3 move
+> and if you want, you can choose 3 C cards. You will start with 3 move
 > cards in total.
 >
 > To differentiate the characters, you don't get to choose a card that
