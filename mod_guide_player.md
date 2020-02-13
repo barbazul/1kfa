@@ -118,7 +118,7 @@ on their world is epic.
 
 `TODO: illustration of character sheet`
 
-During [character creation](mod_guide_gm.md#character_creation), you
+During [character creation](mod_guide_gm.md#character-creation), you
 will get to determine all aspects of your character's history, social
 and economic circumstances, and personality.
 These are fictional aspects of the character. You will not get to determine
@@ -145,8 +145,7 @@ begins at a "scrappy adventurer" level.
 
 As your character adventures in the world, they will gain experience and
 equipment making them worthy of the title "hero".
-Look to the moves Study Under a Master and Tales of a Weapon for details
-on character advancement.
+See [Character advancement](#character-advancement) for more details.
 
 
 # The Deckahedron
