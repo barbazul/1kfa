@@ -23,15 +23,14 @@ Welcome to A Thousand Faces of Adventure!
 
 # Welcome to Roleplaying
 
-A Thousand Faces of Adventure (hereafter abbreviated to 1kFA)
-is a framework for telling a story. The authors of the story
-are you and your friends, sitting around a table.
+A Thousand Faces of Adventure is a framework for telling a story. The
+authors of the story are you and your friends, sitting around a table.
 
 This story is improvisational, interactive, and collaborative.
 
 The rewards for playing are laughter and excitement while you play, and
 warm conversations for years afterwards that start with "Remember that time
-we were playing 1kFA and..."
+we were playing A Thousand Faces of Adventure and..."
 
 
 ## How to make a great story
@@ -51,7 +50,7 @@ Your inner child might giggle at the brothel scenes in HBO's Game of
 Thrones. If you don't know what topics your friends consider "off-limits",
 it is a good idea to ask and tell before you start playing.
 
-The story that emerges from 1kFA is not a precisely crafted
+The story that emerges is not a precisely crafted
 thing. That's ok. It doesn't have to be high art or even a cartoon on Adult
 Swim. It gets shaped by each player, and when your turn comes, you
 adapt, do your best improvisational
@@ -64,7 +63,7 @@ become.
 
 ## Specifically, What to do
 
-In a game of 1kFA, one person will take on the role of the
+To play the game, one person will take on the role of the
 Game Master, or "GM".  The other people will be called simply "Players".
 
 ### The GM
@@ -87,7 +86,7 @@ Think about your character like a hero of a movie, and try playing as
 the writer of the movie, or the director, or immerse yourself like a method
 actor standing in the character's boots and seeing with their eyes.
 
-1kFA invites you to:
+A Thousand Faces of Adventure invites you to:
 
  * Describe your character and their actions
    * Act out their dialogue
@@ -113,7 +112,7 @@ This guide will teach you how to do those things.
 
 ### Your Character: A Scrappy Adventurer
 
-1kFA is a game about **building up** a character, who starts as
+This is a game about **building up** a character, who starts as
 a **scrappy adventurer** and grows to become someone whose impact
 on their world is epic.
 
@@ -389,9 +388,8 @@ The maximum number of cards per flip is still 3, so even if the
 
 ![An XP card](images/component_card_green_token.png){ width=2.5inch }
 
-Resolving flips is how players acquire experience points (XP) in
-1kFA. XP are a player's most important mechanical currency
-in the game.
+Resolving flips is how players acquire experience points (XP).
+XP are a player's most important mechanical currency in the game.
 
 Some Deckahedron cards show an experience point symbol in the middle.
 These are XP cards.
@@ -467,7 +465,7 @@ A GM only calls for a flip when the situation is uncertain or risky for
 the character. If the outcome is certain, the GM may just narrate what
 happens. Or they may ask you some clarifying questions.
 
-1kFA is a conversation between people, so there is variability
+This game is a conversation between people, so there is variability
 in how it plays out. Different GMs will draw their line of certainty at
 different places.
 
@@ -512,7 +510,7 @@ character does in a natural way.
 ### Fictional position *matters*
 
 Because uncertainty is a key requirement before a flip is called for,
-the fiction that you and your friends establish in 1kFA *matters*.
+the fiction that you and your friends establish *matters*.
 
 If a character threatens a towering Mountain Giant with a punch in the shin,
 the GM will not call for a Parley flip. A wound to the arm or hand might be
@@ -752,12 +750,12 @@ they come prepared with adventuring gear. They have been known to carry
 50 feet of rope, smelling salts, books of racy poems, sometimes even a
 3-day-old pork chop to distract hounds or hungry goblins.
 
-It's a fact. You know this and 1kFA knows this, so you won't be asked
-to keep fine-grained notes of every candle and spare button in your
-character's inventory.
+It's a fact. You know this and A Thousand Faces of Adventure knows this, so
+you won't be asked to keep fine-grained notes of every candle and spare
+button in your character's inventory.
 
 Reasonable daily-use items are presumed to be in your character's pack. If
-you're unsure, remember 1kFA is a conversation, so just ask the table.
+you're unsure, remember this game is a conversation, so just ask the table.
 
 But sometimes you will be in a situation where having that 50 feet of rope
 or an old pork chop would really *solve a problem* for your character.
@@ -840,8 +838,8 @@ So even if moves like Use a Magic Item or Fundamental Magic were not chosen
 at character creation or gained via Study Under a Master, any character may
 attempt them.
 
-That said, using magic invokes some of the more complicated rules of
-1kFA. Players are challenged with managing and balancing
+That said, using magic invokes some of the more complicated rules.
+Players are challenged with managing and balancing
 charges, capacity, stamina, requirements, and narrative effect. This kind
 of play is ideal for players excited by complexity and the potential
 of explorable branches.
@@ -1093,11 +1091,11 @@ use.
 
 ### Mundane Items: Armor, weapons, etc
 
-There are mundane items in 1kFA, as well as magical ones.
-1kFA has rules for weapons, shields, and armour. But characters
-may have other items as well. Those other items may just be decorative
-or they may have narrative value (carrying around a small barrel of brandy
-may earn you a welcome from the thirsty dwarves you meet).
+There are mundane items in A Thousand Faces of Adventure, as well as magical
+ones. This text includes rules for weapons, shields, and armour. But characters
+may have other items as well. Those other items may just be decorative or
+they may have narrative value (carrying around a small barrel of brandy may
+earn you a welcome from the thirsty dwarves you meet).
 
 <!--
 You can even create rules of your own for certain classes of item.
@@ -1242,7 +1240,7 @@ The GM can resolve this move by:
 
 ## Healing
 
-Throughout 1kFA, players are asked to decide how their
+Throughout the game, players are asked to decide how their
 characters get hurt, how they respond to being hurt, and how they recover
 from their injuries.
 
@@ -1388,9 +1386,8 @@ process again later, which would let you add 2 advantage cards when you flip.
 
 But what about the 2 "red" levels?
 
-In 1kFA, any character can attempt any move that is performed
-by flipping Str, Dex, or Int -- even if the player doesn't have that move
-card!
+Any PC can attempt any move that is performed by flipping Str, Dex, or
+Int -- even if the player doesn't have that move card!
 
 For any such moves, all characters start at the lowest level shown on the
 card.  So every character is "wild" or "novice" at every skill that is
@@ -1467,7 +1464,7 @@ When you are instructed to take a Harm token:
     2. Place a *Harm token* on your *Exhaustion pile*
 
 > Note, you will see this "1-2-bust" pattern repeated in many
-> of 1kFA's rules
+> of A Thousand Faces of Adventure's rules
 
 ![Harm token](images/component_harm.png){ width=2.5inch }
 
@@ -1640,7 +1637,7 @@ and monsters.
 Fights among player characters can be great to introduce drama and increase
 tension in your narrative. But they are designed so that one player cannot
 force another player out of the decision making process. The narrative
-you create in 1kFA is a *shared* one.
+you create is a *shared* one.
 
 When a player's character attacks another player's character, moves are
 triggered as they would normally be, and costs are paid (eg, if the attacker
@@ -1738,10 +1735,10 @@ You do not have to keep your cards in this arrangement while you play.
 
 # Diceless Play
 
-Rolling dice is a fun, tactile experience, but not every table has
-the dice that 1kFA asks for.
-In that case, it is possible to play 1kFA without owning the physical
-dice.  Each Deckahedron card has symbols that can be used in their place.
+Rolling dice is a fun, tactile experience, but not every table has the dice
+that A Thousand Faces of Adventure asks for.
+In that case, it is possible to play without owning the physical dice.
+Each Deckahedron card has symbols that can be used in their place.
 
 To roll a 1d4 or 1d6 with the Deckahedron, flip over a card from the top
 of your deck, and look for the d4 or d6 symbol on the face side, and read
