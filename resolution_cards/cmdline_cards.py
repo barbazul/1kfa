@@ -10,8 +10,8 @@ anvil = '⚒'
 blades = '⚔'
 crown = '♛'
 dragon = '♞'
-cardback = '🂠'
-cardup = '🃟'
+cardback = '🂠 '
+cardup = '🃟 '
 RED="\033[0;31m"
 BLU="\033[0;34m"
 BLU1="\033[1;34m"
@@ -64,15 +64,19 @@ def print_state():
   print('| %s | %s | %s |' % (deck, resolving, discard))
 
 
-flip()
-discard()
-flip()
-flip()
 print_state()
 
 
 try:
     while True:
-        command = raw_input()
+        print('')
+        print_state()
+        print('')
+        command = raw_input('flip or discard ? > ')
+        if command[0].lower() == 'f':
+            flip()
+        if command[0].lower() == 'd':
+            discard()
+
 except (EOFError, KeyboardInterrupt):
     print('\nEND\n')
