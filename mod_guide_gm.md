@@ -424,25 +424,9 @@ If this is your first time being a GM, you might feel intimidated. That's
 ok. Remember, this is not high art, this is improv. You are *playing* to
 find out what happens.
 
-If this is the first time you've GMed a game, the best thing you can do
-is prepare.  Read the [Guidance](#guidance) chapter. Check out some
+Preparation is the watchword for first-time GMs.
+Read the [Guidance](#guidance) chapter. Check out some
 [examples](#show-dont-tell) of how other GMs have run their games.
-
-The primary thing to remember is that on ✗, you get to make a move.
-
-Always **Describe the immediate situation around the characters**. This
-is how you start a session, how you get things rolling after a snack break,
-get back on track after a great joke: tell them what the situation is in
-concrete terms.
-
-Use detail and *senses* to draw them in. The situation isn't just an orc
-charging you, it's an orc painted in blood swinging a hammer and screaming
-orcish battle prayers. You can leverage a lack of information, too. The
-sound of clattering armor and shuffling feet, for instance.
-
-The situation around the players is rarely "everything's great, nothing to
-worry about". They're adventurers going on adventures -- give them something
-to react to.
 
 
 ### Sarukkan's Chamber Details - take them or leave them
@@ -597,11 +581,38 @@ surroundings, and maybe have a dialogue with each other, introduce the
 
 # Guidance
 
-Here are the 6 main activities a GM pursues in this game.
+The GM is part narrator, part host, part referee. It's a lot! How does a GM
+*play* this game?
+
+Crucially, know that the GM is a **player** who *makes moves*.
+Primarily, when an ✗ gets flipped, you get to make a move.
+
+You also get to make a move when:
+
+ * Everyone at the table looks to you
+ * A PC takes an action that you have especially prepared for
+
+Always **Describe the immediate situation around the characters**. This
+is how you start a session, how you get things rolling after a snack break,
+get back on track after a great joke: tell them what the situation is in
+concrete terms.
+
+Use detail and *senses* to draw them in. The situation isn't just an orc
+charging you, it's an orc painted in blood swinging a hammer and screaming
+orcish battle prayers. You can leverage a lack of information, too. The
+sound of clattering armor and shuffling feet, for instance.
+
+The situation around the players is rarely "everything's great, nothing to
+worry about". They're adventurers going on adventures -- give them something
+to react to.
+
+----
+
+Here are the 6 main goals a GM pursues in this game.
 
  * Portray the world of the Touchstone List
  * Fill the characters' lives with adventure
- * Move the spotlight
+ * Move the spotlight fairly
  * Ask the players questions
  * Make GM Moves
  * Achieve your next *Journey point*
@@ -657,7 +668,7 @@ honestly portray the repercussions of that action.
 Introduce challenges. Unfriendly NPCs, monsters, puzzles, or the troubles
 of the setting should regularly confront the characters.
 
-## Move the spotlight
+## Move the spotlight fairly
 
 The general attention of people sitting at the table is called "the
 spotlight". Participants tend to talk one-at-a-time, while all others wait in
@@ -1296,6 +1307,10 @@ players' responses relate to the established Touchstone List? What further
 detail would you like to know?  Follow your curiosity. This will warm up
 your improvisational energy and spark ideas for the opening scene of your
 story.
+
+If you can't think of a follow-up question, you can default to this one:
+
+ * Why does that complicate your character's life?
 
 This conversation might also add details to the world, like
 what kinds of species and religions exist.
