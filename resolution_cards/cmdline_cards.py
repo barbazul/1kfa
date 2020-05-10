@@ -41,6 +41,10 @@ def discard():
     [p1['discard'].append(card) for card in p1['resolving']]
     p1['resolving'] = []
 
+def exhaust():
+    [p1['exhaustion'].append(card) for card in p1['resolving']]
+    p1['resolving'] = []
+
 def reshuffle():
     discard()
     p1['deck'] = p1['deck'] + p1['discard']
@@ -76,8 +80,9 @@ def face(card):
 def print_state():
   deck = cardback + 'x%s' % len(p1['deck'])
   resolving = ',  '.join([face(card) for card in p1['resolving']])
-  discard = cardup + 'x%s' % len(p1['discard'])
-  print('| %s | %s | %s |' % (deck, resolving, discard))
+  discard = 'Dis%sx%s' % (cardup, len(p1['discard']))
+  exhaust = 'Ex%sx%s' % (cardup, len(p1['exhaustion']))
+  print('| %s | %s | %s |  %s |' % (deck, resolving, discard, exhaust))
 
 
 print_state()
@@ -88,12 +93,13 @@ try:
         print('')
         print_state()
         print('')
-        command = raw_input('flip, discard, reshuffle ? > ')
+        command = raw_input('flip, discard, exhaust, reshuffle ? > ')
         command = command.lower() or 'X'
         fn = {
             'X': lambda: None,
             'f': flip,
             'd': discard,
+            'e': exhaust,
             'r': reshuffle,
         }[command[0]]
         fn()
