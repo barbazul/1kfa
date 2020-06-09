@@ -11,14 +11,12 @@
 
 *playtest version* VERSION DATE
 
-*find latest version at https://1kfa.com*
+*find latest version at https://1kFA.com*
 
 *email sjb@ezide.com*
 
-# Tagline
-
-Like board games? Played Dungeons & Dragons Once? Want to try improv?
-Welcome to A Thousand Faces of Adventure!
+**Like board games? Get a kick out of those online Dungeons & Dragons videos?
+Want to try improv?  Welcome to A Thousand Faces of Adventure!**
 
 
 # Welcome to Roleplaying
@@ -28,9 +26,9 @@ authors of the story are you and your friends, sitting around a table.
 
 This story is improvisational, interactive, and collaborative.
 
-The rewards for playing are laughter and excitement while you play, and
-warm conversations for years afterwards that start with "Remember that time
-we were playing A Thousand Faces of Adventure and..."
+The rewards for playing are laughter and excitement while you play,
+followed up with years of warm conversations that start with *"Remember that
+time we were playing A Thousand Faces of Adventure and..."*
 
 
 ## How to make a great story
@@ -153,6 +151,9 @@ See [Character advancement](#character-advancement) for more details.
 The main activity in the game is "saying stuff", mostly stuff about your
 character. Often, you'll say something that *triggers a move*, and that
 move will be resolved using your Deckahedron.
+
+(If you do not have a physical copy of this game, you can find a digital
+Deckahedron at [1kFA.com/table](http://www.1kFA.com/table) )
 
 Every player except the GM gets a Deckahedron. Inspect your Deckahedron.
 You should have 20 cards.  There are 4 symbols, or "suits", on the fronts and
