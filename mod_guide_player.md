@@ -18,6 +18,9 @@
 **Like board games? Get a kick out of those online Dungeons & Dragons videos?
 Want to try improv?  Welcome to A Thousand Faces of Adventure!**
 
+<!--
+1kfa is a structured improv game of heros and adventure.
+-->
 
 # Welcome to Roleplaying
 
