@@ -112,6 +112,6 @@ pandoc \
 
 #cd $KFAREPO
 # Google Docs template
-#pandoc --reference-odt=custom_pandoc_gdoc_reference.odt $SRC_PLAYER -o $BUILDDIR/guide_player_gdoc.odt
-#pandoc --reference-odt=custom_pandoc_gdoc_reference.odt $SRC_GM -o $BUILDDIR/guide_gm_gdoc.odt
+#pandoc --reference-odt=$PUBLISH/../custom_pandoc_gdoc_reference.odt $SRC_PLAYER -o $BUILDDIR/guide_player_gdoc.odt
+#pandoc --reference-odt=$PUBLISH/../custom_pandoc_gdoc_reference.odt $SRC_GM -o $BUILDDIR/guide_gm_gdoc.odt
 
