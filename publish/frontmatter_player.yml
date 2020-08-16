@@ -7,6 +7,9 @@ include-after: \includepdf[pages=-]{/tmp/1kfa_guide_build/playtest_thankyou.pdf}
 
 header-includes:
   - \usepackage{pdfpages}
+  # suppress the literal "Chapter 6" at the top of the new chapter's page
+  - \renewcommand{\chaptername}{}
+  - \renewcommand{\thechapter}{}
 
 linkcolor: purple
 urlcolor: purple
