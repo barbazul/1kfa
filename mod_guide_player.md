@@ -1,5 +1,5 @@
 <style type="text/css">
-.gmnote {
+.note {
   border-left: solid thick #ffffa0;
   padding: 0em 1em 1em;
   margin-left: 5em;
@@ -33,6 +33,32 @@ The rewards for playing are laughter and excitement while you play,
 followed up with years of warm conversations that start with *"Remember that
 time we were playing A Thousand Faces of Adventure and..."*
 
+<div class="note">
+
+### Skip me to character creation!
+
+If you are an experienced RPG player you might want to jump ahead past this
+indroductory hulabaloo and rules reference, and start playing with the first
+activity available to you. Typically in RPGs, this means "character
+creation", which is often done as a solo, "homework" activity before the
+whole table comes together to play.
+
+A Thousand Faces of Adventure is designed to be played by a group of friends
+the moment everyone's together at the table. Character creation will be an
+interactive activity that requires your friends. Open the GM Guide and look
+under the **Begin a Campaign** section for more details.
+
+</div>
+
+This game is a in the category of games called *conversation*. It may seem
+weird to think of *conversation* as a "game", but it's very convenient
+to see things this way.
+Accepting that this game is a conversation lets you rely on your existing
+knowledge and expertise at conversation "games".
+You've already learned about things like taking turns, interruption
+protocols, and listening, so you're already an expert at the foundational
+rules of this game.
+
 
 ## How to make a great story
 
@@ -42,13 +68,13 @@ you remember being 11 years old and watching a spectacular Steven Spielberg
 movie?  Or maybe a cheap-but-awesome Sam Raimi movie?
 
 You are going to collaborate with all the other players to make this story,
-so when you add your parts, think of what will give your friends around the
-table a thrill, put them in suspense, ratchet up their feelings of tension,
+so when it's your turn to narrate, think of what will give your friends around
+the table a thrill, put them in suspense, ratchet up their feelings of tension,
 or make their jaws drop with awe.
 
 Sometimes inner children get a big kick out of blood and guts.
-Your inner child might giggle at the brothel scenes in HBO's Game of
-Thrones. If you don't know what topics your friends consider "off-limits",
+Your inner child might giggle at the "adult" scenes in an HBO series.
+If you don't know what topics your friends consider "off-limits",
 it is a good idea to ask and tell before you start playing.
 
 The story that emerges is not a precisely crafted
@@ -57,9 +83,9 @@ Swim. It gets shaped by each player, and when your turn comes, you
 adapt, do your best improvisational
 ["Yes, and"](https://en.wikipedia.org/wiki/Yes%2C_and...)
 , and see where it goes from there.
-It might sound like chaos, but with some faith in your friends, you
+**It might sound like chaos, but with some faith in your friends, you
 will delight at how the plot solidifies, and how real the characters
-become.
+become.**
 
 
 ## Specifically, What to do
@@ -69,15 +95,16 @@ Game Master, or "GM".  The other people will be called simply "Players".
 
 ### The GM
 
-The GM's job is to know all the rules, and say stuff.  Occasionally
-they will write notes and scribble some quick numerical facts.
+The GM's job is to help everyone follow the rules of the game, and
+say stuff. Occasionally they will write notes and scribble some quick
+numerical facts.
 
-The GM's domain is the world.
+The imagined world and its inhabitants will be narrated mainly by the GM.
 
 
 ### The Players
 
-Player, your domain is your character.
+Player, your narrative contribution will mainly be your character.
 
 ![The player's job](images/player_job.png){ width=2.5inch }
 
@@ -113,17 +140,24 @@ This guide will teach you how to do those things.
 
 ### Your Character: A Scrappy Adventurer
 
-This is a game about **building up** a character, who starts as
-a **scrappy adventurer** and grows to become someone whose impact
-on their world is epic.
+A Thousand Faces of Adventure is a game about your character growing
+from humble beginnings as a **scrappy adventurer** into someone who will
+have an epic impact on their world.
 
 `TODO: illustration of character sheet`
 
 During [character creation](mod_guide_gm.md#character-creation), you
 will get to determine all aspects of your character's history, social
 and economic circumstances, and personality.
-These are fictional aspects of the character. You will not get to determine
-all the *mechanical* aspects of the character though.
+These are fictional aspects of the character. You will use the game's
+rules to determine all the *mechanical* aspects of the character.
+
+<div class="note">
+
+The terms *mechanical* and *mechanism* describe aspects of the game
+that concern rules, numbers, and procedures.
+
+</div>
 
 Mechanically, characters start out just a little bit more powerful than a
 common villager.  Your character will have 10 Stamina points versus a
@@ -180,7 +214,7 @@ character's attributes -- Str, Dex, or Int -- will be used to resolve
 the flip. There is a move card or a page in your base moves booklet for
 every move, so have that move card or page in your booklet ready.
 
-<div class="gmnote">
+<div class="note gmnote">
 
 | **GM Note:** *The attributes used to resolve a move*
 | *are listed at the top of each move card. A card may*
@@ -270,7 +304,7 @@ but often it is slightly worse.
 As you read this section it may help to lay out the move cards in
 front of you.
 
-<div class="gmnote">
+<div class="note gmnote">
 
 | **GM Note:** *Any time a flip results in a single ✅︎*
 | *the GM gains a* **Shadow point** *-- even when the*
@@ -525,13 +559,13 @@ to share their precious items.
 
 # Combat - Stamina and Wounds
 
-Your time in this game will mostly be spent saying stuff and flipping
-cards from your Deckahedron. The remaining time is spent rolling dice
-and managing resources, and those activities happen during *combat*.
-
 Your character will confront violent foes and dangerous obstacles. Will
 they endure exertion and injury to keep venturing forward, or will they
 be disfavoured by fate and end up completely spent and collapsed in a heap?
+
+Your time in this game will mostly be spent saying stuff and flipping
+cards from your Deckahedron. When combat begins, however, it's time to
+reach for your dice and remember to keep a close eye on your tokens.
 
 In a fight, a character is running, dodging, striking, and being struck
 by their foe.
@@ -549,7 +583,7 @@ is not always decided with a knockout punch, it often comes down to who can
 better endure the exertion.
 
 **Every PC has 10 Stamina points.** When a PC loses all 10, they are
-incapacitated. After that, their fate is up to the GM.
+incapacitated. After that, their fate is up to the game rules and the GM.
 
 ## The Four Ds
 
@@ -636,8 +670,8 @@ the character is dead, unconscious, or just unable to stand or move.
 
 ### Taking Wounds
 
-Getting wounded sucks, and when wounded, all intelligent creatures seek
-to cure their condition as a very high priority.
+Wounds are a long-term source of trouble for your charcter. When wounded,
+all intelligent creatures seek to cure their condition as a high priority.
 
 When you are instructed to take a Wound:
 
@@ -678,9 +712,9 @@ Finally, the **fourth step**: you interpret those results into the
 narrative.  Did your character dive into the dirt?  Did they take a punch
 to the jaw and respond with a bloodied grin?  Did the spear bounce right
 off their steel breastplate?
-<div class="gmnote">
+<div class="note gmnote">
 
-| **GM Note:** *The act of taking a risk, deciding how*
+| *The act of taking a risk, deciding how*
 | *to get hurt, and then later, deciding when and*
 | *how to heal, with each stage having its*
 | *sacrifices and benefits, is a miniature echo of*
@@ -908,7 +942,7 @@ choice.
 
 If it has not yet been established, when a player first uses this move, it's
 a great time for the GM to ask them a question: "Who or what is the
-Blood-Bound?" <div class="gmnote">
+Blood-Bound?" <div class="note gmnote">
 
 | **GM Note:** *this is a great way to stretch your*
 | *improv muscles. Say "Yes, and..." no matter if*
@@ -1511,7 +1545,7 @@ If there are no Stamina points in the Deckahedron *or* the *discard pile*,
 then all 10 must be in the *Exhaustion pile*. In this case, the character
 is *incapacitated* and can take no further actions.
 
-<div class="gmnote">
+<div class="note gmnote">
 
 | **GM Note:** *The switch to Heroic Mode is a way*
 | *for the players to make a choice that echoes*
