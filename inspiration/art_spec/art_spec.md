@@ -119,11 +119,13 @@ instincts are most important, but if you are inclined, please see if you can
 balance the genders of the characters and represent characters of backgrounds
 that are not typically represented.
 
-## Inspiration / Mood board
+## Examples / Inspiration / Mood board
 
 ![GIF of progress](JeremyAdams_1kfa_600.gif)
 
 ![Thorny runestone](kstramat.png)
+
+![Comic style](brandon.jpg)
 
 https://pin.it/56YUrsP
 
