@@ -7,6 +7,7 @@ if [ $DEBUG ]; then
   set -x
 fi
 
+sudo apt-get update
 sudo apt-get install -y texlive-extra-utils \
   inkscape \
   pandoc \
