@@ -87,10 +87,7 @@ section, and then come back to the beginning.
 
 ### Examples
 
-As you read this guide, using examples will help you gain a deeper
-understanding than reading the simple, procedural text.
-
-In that spirit, you are invited to visit
+To gain a deeper understanding of what to expect, you are invited to visit
 [https://www.1kfa.com/examples](https://www.1kfa.com/examples).
 There, you will see and hear examples of the game being played.
 For all the author's attempt to make this
