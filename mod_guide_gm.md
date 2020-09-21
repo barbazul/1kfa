@@ -26,7 +26,7 @@ game of A Thousand Faces of Adventure (aka 1kFA).
 
 ![The GM's job](images/gm_job.png){ width=2.5inch }
 
-Your responsibilities are:
+Playing as a GM, you will:
 
  * pitch the idea of playing A Thousand Faces of Adventure to your friends
  * know, teach, and follow the rules
