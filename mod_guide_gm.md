@@ -1,4 +1,12 @@
-
+<style type="text/css">
+.note {
+  border-left: solid thick #ffffa0;
+  padding: 0em 1em 1em;
+  margin-left: 5em;
+  margin-right: -5em;
+  float: right;
+}
+</style>
 # A Thousand Faces of Adventure: Game Master's Guide
 
 *playtest version* VERSION DATE
@@ -8,6 +16,8 @@
 *email sjb@ezide.com*
 
 ----
+
+# Should You Read This Guide?
 
 This guide is intended for a Game Master (GM).
 
@@ -35,28 +45,72 @@ Players will signal the *kinds* of fun they want to have. It is
 your responsibility to notice these signals and insert that kind of
 fun into the game.
 
----
-
-To make your job of teaching the rules easier, this guide has
-**scripts**. The scripts are written to be read by you to the players
-at the table.
-
-Before sitting down with your group of players, you should read all
-the rules. Your players will have questions, and will look to you you
-to answer them.
+Sometimes the you will meet the above responsibilities with your own
+creativity and improvisational skills. For what remains, this book will
+help you, particularly the [Guidance](#guidance) section.
 
 
-## Show, Don't Tell
+# About This Guide
 
-One piece of advice frequently given to anyone trying to convey information
-is "Show, don't tell".
+## Definitions: sessions, campaigns, and the narrative
+
+This game is designed to be played in *sessions* which are rougly 3-hour
+periods where all the players are sitting together at the table.
+
+During a session, you and your friends will talk about events occurring
+in a shared, imagined world. These events, including all the actions taken
+by characters, and all descriptions of scenes and assertions of facts are
+called *the narrative*.
+
+The entire game-playing-activity that includes the narrative, and also
+includes flipping cards and talking about the rules, is called a *campaign*.
+
+There are 3 supported campaign lengths: **One-Shot** -- a campaign that
+begins and ends in a single session, **9-hour** -- a campaign that takes
+3 sessions, and **30-hour**, which spans up to 10 sessions.
+
+
+## Organization
+
+This guide covers a lot of ground, from conversations that happen before
+the game has even started, to the connection stories have to our inner
+humanity, to how many points of damage a trap incurs.
+
+It is recommended that you read the guide once over, and then use it as
+reference, picking particular sections to concentrate on one-at-a-time.
+
+If you'd rather start by getting a taste of what this game is all about,
+you are recommended start with the [First-time Players](#first-time-players)
+section, and then come back to the beginning.
+
+<div class="note">
+
+### Examples
+
+As you read this guide, using examples will help you gain a deeper
+understanding than reading the simple, procedural text.
 
 In that spirit, you are invited to visit
 [https://www.1kfa.com/examples](https://www.1kfa.com/examples).
-There, you will see examples
-of the game being played. For all the author's attempt to make this
+There, you will see and hear examples of the game being played.
+For all the author's attempt to make this
 document clear, brief, and unambiguous, those examples may do a better job
 of conveying just what the game is and how it is played.
+
+</div>
+
+This guide will equip you with the following information:
+
+ * The Pitch
+ * Campaigns: The structure of the narrative
+ * Guidance: How to execute your role as GM
+ * The procedure to walk first-time players through
+ * The procedure for starting a new game
+ * Procedures for specific game activities
+ * Appendices - extra detail and optional rules
+
+
+---
 
 
 # The Pitch
@@ -80,503 +134,786 @@ like and dislike and what they seek from their gaming experience.
  * The "surprise moment" happens for all players simultaneously - the
    moment a card is flipped, the result is *immediately* visible
    to everyone at the table
- * Layered, interlocking mechanisms - choices move game resources and
-   probabilities around - there's depth to explore and skill to build
-
-
-# First-time Players
-
-If there is a player at the table who has never played A Thousand Faces of
-Adventure before, read the Start Script and play Sarukkan's Chamber.
-
-## Start Script
-
-> Hi everyone! We're going to play A Thousand Faces of Adventure.
-> This is going to be really fun, I'm glad you could join me for this!
-> I'm reading
-> directly from a script that was designed to get us started fast, by
-> going over just enough of the rules for our first session, so please
-> pay attention now so we can get to the fun of the game quickly!
-> 
-> A Thousand Faces of Adventure is a *narrative* game.
-> 
-> It's a storytelling game where we all collaborate and tell the story
-> together.
-> 
-> I'm going to be the GM (it's short for Game Master), so I'm going
-> to be responsible for the events in the world and the side characters
-> (they're called NPCs or Non-Player Characters).
-> 
-> Each one of you is going to play a role, kind of like an actor does.
-> You're going to control one character. You get to tell us everything
-> they think and everything that they say and everything that they do.
-> 
-> Imagine we're making an awesome adventure movie with swords and magic.
-> You're the actors just making stuff up as you go, and I'm a combination
-> of director and cinematographer, trying to fill the story with excitement
-> and drama and also deciding how the scenes go together and where the
-> camera cuts to next.
-> 
-> But let me pause for a minute and get specific about what I mean by
-> "you decide everything your character *does*".
->
-> You can't just say "My character Tyrion runs up to the bad guy and
-> punches him in the head and his head goes flying off".
-> You *can* say "My character runs up to the bad guy and punches him in
-> the head", then, because there's uncertainty about the outcome, and the
-> degree to which Tyrion succeeds would matter in the story we're creating,
-> it's my job as the GM to say you've *triggered a move*.
-> The game rules will then answer the question "does it happen?" and
-> tell us if the bad guy's head actually goes flying off.
->
-> When a *move is triggered*, it's time to use the cards and dice to see
-> what happens next. Triggering moves is a lot of fun. It's fun to succeed
-> and it's fun to fail, because even in failure, new exciting stuff starts
-> happening. When you trigger moves, you impact the narrative, consequences
-> happen, and we're all going to get surprises when cards flip and dice roll.
->
-> Besides face-punching, some other questions that might be answered by
-> triggering moves are:
->
->  * Will the old librarian agree to hide me from my pursuers?
->  * Do I see the giant spider web in my path?
->  * Is there another way out of this burning tavern?
->  * Will this magical scepter work just one more time?
->
-> The game isn't all triggering moves though.
-
-Distribute a character sheet to each player.
-
-> Most of this game is talking. That's why "Say Stuff" is written so boldly
-> on the character sheets. I'm going to be asking you questions, you'll
-> probably have lots of questions for me, and we're going to put everything
-> together to make an epic story. It's gonna have adventure, battles, chases,
-> discoveries, and magic.
->
-> It's a fantasy story, so think dangerous, and take risks.
->
-> Be true to your character's personality. Remember it's sort of like acting.
->
-> Your character will start out as a scrappy adventurer, and rise in power
-> to become a hero. Or villain. Or maybe they'll just die in the attempt.
-> And maybe they'll be resurrected after that.
-> 
-> Each session will be about 3 hours.  We might spend a long time bouncing
-> ideas off one another and dealing with each consequence in an
-> improvisational way, or we might engage in a long battle with lots of dice
-> rolling and card flipping.
-> 
-> There's no predetermined story, we're all in this together, and we're
-> going to play to find out the details of what happens.
-> 
-> This first session will need about 40 minutes of preparation, though.
-> Ten minutes has already gone by with this speech (it's almost over).
->
-> Next, we're going to play Sarukkan's Chamber, a pre-made adventure for
-> you to get the hang of the rules. It will be short. I'll set a timer
-> for 10 minutes and end Sarukkan's Chamber when it goes off.
->
-> Then we'll take 10 minutes to create a Touchstone List for our game.
->
-> Then we'll do 10 minutes of Character Creation.
->
-> And then, the adventure begins.
->
-> Let's start!
-
-## Your Deckahedron
-
-Give each player a Deckahedron.
-
-(Print-and-play and mobile app versions are available at www.1kFA.com)
-
-> Here's a stack of 20 cards, it's called a Deckahedron.
-> You'll use this to see how successful your character is when moves are
-> triggered. It also represents your character's Stamina points, which
-> we'll discuss later.
->
-> Notice the 4 different colored symbols on the edges. They're named
-> Anvil, Blades, Crown, and Dragon. When you *trigger a move*, I'm going
-> to instruct you to flip the top card of your Deckahedron, and we'll see
-> the result on the flipped-over side. There are 4 possible results:
->
-> * ✔✔✔  : this means you succeed at the thing you tried
-> * ✔✔  : this usually means something good happens, but maybe with a downside
-> * ✔  : this usually means something "ok", or not-so-good happens
-> * ✗ : this usually means that I get to say what happens and make my own move
->
-> When I ask you to flip, I'm going to say something like "flip Anvil"
-> or "flip Blades". That means you find the result on the edge that has
-> that symbol.
->
-> When you flip it over, please put it down in a way that everyone can clearly
-> see the result. Try to orient your cards consistently so that we don't get
-> confused about what your result is.
->
-> Let's try it: everybody put your Deckahedron on the table and flip Blades.
-
-Step the players through "flipping Blades" using the instructions in the
-[Player's Guide](mod_guide_player.md)
-
-Make sure each player understands how to execute a flip before you proceed.
-
-## Your base moves
-
-Give each player a Move Booklet
-
-> Here are the basic moves.  You don't have to read this booklet unless you
-> want to. I'll point out moves when they're triggered and we can read them
-> together or you can just let me apply them.
->
-> It's hard for me to do everything though, so the more you can participate,
-> reading the text of your moves, and suggesting narrative outcomes,
-> the smoother the game will run. Once we've had some practice, playing the
-> game will feel like a collaborative story we're creating together.
->
-> The move you'll be triggering the most will probably be Defy Danger, that's
-> why it's on the first page. The moves in the back of the booklet are
-> "downtime" moves which we won't need until much later.
->
-> Let's go through an example of flipping Defy Danger. The move reads from
-> top to bottom. First we would establish in the fiction how your character
-> is defying danger, are they using their Str, Dex, or Int? Once that's
-> decided, we would look at your character sheet to see what value that
-> attribute is.  Let's say they were diving to the ground to avoid a spear
-> that was thrown at them. That's Dex. Let's say their Dex was rank 3, or
-> "Crown". So that's the side of the card we're going to look at.
-> Flip your top card.  What result do you see on the "Crown" side?
->
-> [Take the result, and if it is ✔s, ask the player to help you interpret
-> a potential outcome using the Defy Danger move. If it is ✗, tell them how
-> it would be your turn to make a GM move]
->
-
-## Sarukkan's Chamber
-
-You are going to be running a short tutorial game for 2-3 players. One will
-control a female protagonist character, and one will control a male
-protagonist.  If there is a third player, they will control a prisoner that
-the other two characters discover in the first scene.
-
-First, you will need names for the characters and setting of Sarukkan's
-Chamber. Ask the players these 3 questions. This is an improvisation exercise.
-Its purpose is to get the creative juices flowing and to signal to the
-players that they have input over the story.
-
-Ask the players for the name of a medieval fantasy city name.
-Simply write down the answer. That will be the name of the setting.
-
-Ask "What's a store where women buy clothing?". This time, twist the answer
-a little to create the female protagonist's name. (eg, "Forever 21" might
-turn into "Forva", "The Gap" into "Gappalina")
-
-Ask "What's a city in Europe?". Again, twist this answer to create the male
-protagonist's name with that. Stretch your creativity muscles.
-(eg, "Paris" might turn into "Croissant", Maybe rearrange "London"
-to "Donalo")
-
-    This mini-game is a GM tool. Often, the players will look to you to
-    come up with names of characters or places on the fly. Instead of
-    sitting still and thinking for 30 seconds, you can throw some simple
-    [lateral questions](#lateral-questions) like these back at them.
-
-Ask each player to write down the names you just came up with on their
-character sheet.
-
-Next, instruct the players to fill out the attribute boxes on their
-character sheet like so:
-
- * Both characters have 1 Intelligence (Anvil)
- * The female protagonist has 3 Dexterity (Crown) and 2 Strength (Blades)
- * The male protagonist has 2 Dexterity (Blades) and 3 Strength (Crown)
-
-### Introduce Sarukkan's Chamber
-
-Begin narrating the set-up.
-
-> [Addressing her]
-> _ (female protagonist), you are an acrobat.
-> Your troupe of performers set off on the road to perform in the big
-> city _ (city name). You were really excited, because your big brother lives
-> there, and you haven't seen him since you were 13, and that was 10 years
-> ago.
-> 
-> But your excitement soon turned to horror and despair. On the road, your
-> troupe was overrun by masked horsemen. They attacked fiercely and without
-> mercy. Your caravan guards fought bravely, but were outnumbered. You and
-> your companion, Gwendolyn, were captured.
->
-> [Ask the player]
-> What was Gwendolyn's role in the troupe?
->
-> In the chaos, you remember one phrase uttered by the marauders,
-> "Deliver them to Sarukkan's."
->
-> You endured days of travel shackled in a box, Gwendolyn tried to
-> comfort you both by singing a song from her past,
->
-> [Name the song, or do an impression of Gwendolyn singing a few bars.
->  try to make the song have something to do with Gwendolyn's role in
->  the troupe]
->
-> Finally, you found yourself imprisoned in a small, dark, musty cellar
-> room. Windowless, the only illumination is whatever lamplight filters
-> through the cracks of the door.
->
-> You could hear sounds from the hallway though, and on the second day,
-> you heard Gwendolyn being removed from her cell. After that, only silence.
->
-> [Dramatic pause]
->
-> [Addressing him]
-> _ (male protagonist) you are a thief-catcher.
-> You're not too bright, but your boss, Gandlin, has taken you under his
-> wing and taught you street wisdom. Merchants employ him to recover stolen
-> valuables or they pay for simple retribution against the pilfering
-> scoundrels. You provide the muscle. Gandlin provides the brains.
-> He sniffs them out, you beat 'em up, and each of you shares in the reward.
->
-> That's how it had been. Gandlin has now gone missing.
->
-> He was investigating a series of thefts from
-> private homes. There was some pattern to it -- artifacts or books taken,
-> but no smashed windows or doors. The mystery of it had Gandlin
-> obsessed, working sometimes until dawn.
->
-> [Ask the player]
-> What was Gandlin's favourite breakfast food?
->
-> One dawn it was Gandlin that was taken.
-> 
-> [Describe the scene of Gandlin's disappearance, using the favourite
-> breakfast food to paint the picture]
-> 
-> Following the trail of clues, you came to the locked gate to the yard
-> behind Sarukkan's estate. Sarukkan was a powerful player in _ 's (city name)
-> noble circles, but not much was known of him.
-> 
-> After jumping the wall, you didn't get much farther before you were
-> surprised from behind and knocked out, waking up in a tiny, dirt-floored
-> room in the cellar.
-> 
-> [Addressing both]
-> But tonight, something changed. It was noisy tonight. Footsteps and
-> conversations could be heard upstairs. It was some kind of party.
-> And there were no guard patrols of the cellars. In parallel, but
-> without bumping into each other, you both used the lapse to escape.
-> 
-> You freed yourself from your cell.
-> 
-> In some dark corner you grabbed a reveler and took their elaborate
-> costume and mask for a disguise. Tonight must be a masquerade ball.
-> 
-> With no easy opportunity to exit, you kept evading attention by going
-> upstairs, until you reached the third floor.
-> 
-> From different doors, you simultaneously enter an empty bedchamber.
-
-At this point, take out a blank sheet of paper and draw this
-incomplete map of Sarukkan's Chamber. Then drop a couple tokens
-representing the players' characters on the paper. If you don't have
-tokens, you can use coins or nuts or glass beads, anything handy.
-
-![Draw maps, leave blanks](images/chamber_map.png){ width=7cm }
-
-This map will let everyone know roughly where their character is
-positioned. You don't always need this visual aid, but Sarukkan's
-Chamber is a tutorial, so it's good to have some practice.
-
-When you draw out a map of an environment like this, be very loose
-and fast. Leave blanks. Rely on the imagination of the players to
-fill in the details unless there's something whose position is important
-to draw.
-
-For example, a player might tell you that they look around the chamber for
-an exit, and you might say "There's a large window at the front of
-the room , but it's framed in iron. The ironwork looks old though, maybe
-it's no longer sturdy?". That would be a good point to draw a few lines
-to show where the window is in the room.
-
-> You turn from the door you carefully and silently closed to see across
-> the room, an apparent party guest in full wardrobe.
-> 
-> [Dramatic pause]
-> 
-> One last thing, with these masks on, you don't know this, but you're
-> brother and sister.
-> 
-> What do you do?
-
-
-Start a timer for 10 minutes.
-
-This last question "What do you do?" is very important.
-
-When you describe a situation, always end with this kind of prompt. Portray
-a situation that demands a response. Always.
-
-
-## But now what should I say?
-
-> Where's the *rest* of the script?
-
-If this is your first time being a GM, you might feel intimidated. That's
-ok. Remember, this is not high art, this is improv. You are *playing* to
-find out what happens.
-
-Preparation is the watchword for first-time GMs.
-Read the [Guidance](#guidance) chapter. Check out some
-[examples](#show-dont-tell) of how other GMs have run their games.
-
-
-### Sarukkan's Chamber Details - take them or leave them
-
- * Luxurious canopy bed in the middle
- * Chamber is full of esoterica - bookcases and desks overflowing with books,
-   sculptures, candlesticks, and votives
- * Chamber is empty of any adornments, the only feature is a bed and
-   a precise circle of white powder in the center of the room
- * A window at the front of the room - an escape route?
- * An alarm triggers when a guard enters the room?
- * A creepy portrait of Sarukkan, whose eyes follow you as you move
- * A trap-door under the bed - where does it lead?
-
-
-### Goals for Sarukkan's Chamber
-
-Ideally, Sarukkan's Chamber should demonstrate what kind of game
-this is.
-
-A Thousand Faces of Adventure creates plot questions for players to answer:
-
- * Will the brother & sister who haven't seen each other in a
-   decade discover each other's identities?
- * Will the brother & sister escape Sarukkan's imprisonment?
- * Will the brother & sister rescue Gandlin or Gwendolyn?
- * (3rd player variant) Will the reluctant guard choose to obey an
-   evil master, or rebel?
-
-A Thousand Faces of Adventure creates tension and action:
-
- * Potential combat against guards or kitchen staff or Sarukkan himself
- * Potential pursuits involving outsmarting or outmaneuvering pursuers
- * Potential to hatch plans and use available resources to set traps or
-   defy traps that been set for them
- * Potential to use stealth and social manipulation with guards and
-   party guests
-
-Your group's playing of Sarukkan's Chamber doesn't have to *all of this*,
-the players will make choices that surprise you. If they surprise you with
-something unlikely or risky, be ready to declare that moves are triggered,
-but also be ready to say "Yes, and..." to their crazy ideas.
-
-It should also help teach the rules.
-
- * Work in an opportunity for each player to do a Deckahedron flip
- * If a player flips an XP card, that's an opportunity
-   to explain how they earn XP
- * If a player flips the Critical Success card, that's an opportunity
-   to explain the Critical Flip move
- * Ideally there will be a combat scene.
-   (see the [Combat guidelines](#creating-a-combat-encounter))
-   Try to get the PCs to attempt *Mix It Up* or *Volley*
- * When a PC loses Stamina, explain that losing 10 Stamina points
-   will mean the character is incapacitated
- * The brother & sister may trigger *Discern* and *I Know This* moves
-   when they try to reveal each others' identities
- * The *Discern* move often comes up when having a look around Sarukkan's
-   Chamber itself.
- * If any player-versus-player combat happens, remember to use the PvP
-   combat rules
-
-It should also be a warm-up for your GM skills.
-
- * Remember: "Yes, and..."
- * Move the spotlight - be fair, let all players impact the narrative
- * Manage the pace. Let the PCs have some dialogue, but when it feels like
-   they're hesitating, push quickly to the approaching dangers.
- * Get some guards into the room for a quick fight.
- * As the PCs gain the upper hand, show signs of another threat (maybe
-   the wizard himself approaches - it's ok to tell the story of what's
-   happening *off-camera*)
- * Play Sarukkan's Chamber *honestly*. Set the stakes the same as you would
-   when you play a campaign
- * Observe your players for signals about what kind of fun they enjoy
-
-After Sarukkan's Chamber, the players should now understand how the
-Deckahedron works with character attributes to produce results that affect
-the narrative. Ask the players if they get it, and explain again if there's
-still any confusion.
-
-
-### After the timer goes off
-
-When the 10 minute timer goes off, you have a choice.
-
-Take a look at your friends, are they having fun? Are they smiling, are they
-looking at you eagerly to see what happens next, are they bantering with
-each other about what actions to take, are they having in-character dialogues?
-
-Sarukkan's Chamber is intended as a 10-15 minute tutorial, but if it seems like
-everyone wants more, you can keep it going.
-
-Ask the table if they want to keep going with this scenario. If not, just
-skip forward to [Begin a Campaign](#begin-a-campaign).
-
-But if they do want to continue, add in the next layer of rules before
-jumping back into the action:
-
- * Any character still wearing their elaborate costume should get a card
-   entitled "Costume". This is an Item card.
- * If the characters have acquired any significant items during their
-   adventure so far, also make Item cards for those.
- * The characters do not get any Pack cards, as they were just prisoners
-
-
-### Sarukkan's Chamber 3rd PC variant - The imprisoned guard
-
-If you've got a 3rd player at the table, add a guard character.
-
-Add another 5 minutes to the timer, so now Sarukkan's Chamber will end
-after 15 minutes, not 10.
-
-Ask "What's a domestic brand of beer?". Use that to create the 3rd
-character's name. The guard can be any gender, has 3 Int, 2 Str, and 1 Dex.
-
-Let them know that they'll get introduced about 5 minutes into the story.
-
-After the first two PCs have had a chance to orient themselves to their
-surroundings, and maybe have a dialogue with each other, introduce the
-3rd PC
-
-> [Addressing guard]
-> _ (guard), you are a guard, but also a prisoner awaiting your doom.
->
-> You were the newest hire in Sarukkan's staff, but you didn't even get to
-> collect a week's wage before thing went sideways. Even on day one, you
-> noticed some sketchy stuff going on around here.
->
-> Your supervisor, Yogran the Rat had assigned you the simple duty of yard
-> patrol, and when you passed by the cellar you could swear you heard the
-> sounds of women crying. Yogran sternly rebuffed the complaint you made,
-> and then he set you up.
->
-> [Ask the player]
-> What employee offense does Sarukkan have zero tolerance for?
->
-> [Describe the way Yogran the Rat set up the player's character using that
-> offense]
->
-> The last thing you remember is being told that your soul will be used
-> as fuel in a dark ritual on the night of the ball.
->
-> You awaken now in Sarukkan's chamber, roused from your sleep by the sound
-> of two voices.  You can speak, but your arms and legs are bound.
->
-> [Ask the player]
-> Where in the room are they storing you?
->
-> What do you do?
+ * Layered, interlocking mechanisms - player choices move game resources
+   and probabilities around - there's depth to explore and skill to build
+
+---
+
+# Campaigns
+
+---
+
+A Thousand Faces of Adventure offers 3 different formats:
+
+ * One-shot Campaign
+ * 9-hour Campaign
+ * 30-hour Campaign
+
+The narrative you construct by playing will have a beginning, middle,
+and end.
+
+If you've played other RPGs that *don't have endings*, ones that go on for
+months or even years, this might seem weird to you.
+Don't worry, try out a 9-hour campaign and see the results.
+You may find your doubts erased.
+
+This game is designed to tell a particular kind of story.
+It's called *The Hero's Journey*.
+
+<div class="note">
+
+The study of "hero myth" stories was popularized by author Joseph Campbell
+in his famous book **The Hero with a Thousand Faces**.
+
+</div>
+
+*The Hero's Journey* is a skeleton upon which many successful and popular
+movies and books are arranged: Star Wars, Lord of the Rings, The Breakfast
+Club, Die Hard, Beowulf, 50 First Dates, the list goes on.
+To help you execute a successful and popular *campaign*, the mechanisms
+of the game will generate *Journey points* and *Shadow points*.
+Generally,
+when playing the game causes an event in the narrative to match the next
+step of *The Hero's Journey*, a *Journey point* is gained, and when a
+player resolves a move with a ✔, (see the section on The Deckahedron in
+the Player's Guide), a *Shadow point* is gained.
+
+More specific rules on gaining and using *Journey points* and *Shadow
+points* will follow in later sections.
+
+The main premise of *The Hero's Journey* is, characters start out in
+a figurative "ordinary world", they go to a "mysterious world", and finally,
+they return.
+
+As the narrative is created, you will have opportunities
+to shape events. You decide how the world and the NPCs react to the actions of
+the PCs, and you have the freedom to describe the "meanwhile" -- all the
+goings-on "off-screen".
+These are the powers you will need to use to pull the narrative into a
+multi-chapter structure, and in each chapter, to earn *Journey points*.
+
+This is the exciting challenge offered to those taking on the mantle of GM.
+Using your skills at improvisation and interpretation to cast the actions of
+PCs into the desired chapter of the story, finding or inventing hidden
+meanings, and tying it all up into repercussions of epic importance is like
+solving a living, breathing puzzle.
+
+The game's incentives tie the GM tightly to *The Hero's Journey*.
+The other players may just be along for the ride, or they may also want to
+contribute to the structure of the narrative. Be on the lookout for signals
+that they're into this kind of fun, and use what they express about themes,
+relationships, emotional tone, conflicts, and backstory to co-create
+the journey.
+
+While you are *incentivized* to produce a narrative with this structure,
+due to the unpredictable nature of what other players will say and the
+randomness of some game procedures, results may vary.
+
+## It's ok to skip it
+
+You don't need to get every available *Journey point*. You should especially
+not try to force it if doing so would sacrifice fun for the players. Remember,
+you're not the only author of this story, and while earning points feels nice,
+you've got other jobs too, like paying attention to the signals the players
+give you about the kind of fun they want to have.
+
+## It's ok to end it
+
+You may find that you and the players have collectively gone as far as you
+can. Maybe you've reached the deepest, darkest part of the adventure, and
+the characters decide to stay and call it their new home. Maybe they find
+a way to destroy something you thought would be permanent, or make permanent
+something you thought would be temporary, and that changes the whole conflict
+structure of the story. Maybe they found a shortcut or outsmarted the Oracle.
+
+Maybe they all died.
+
+Take a break and ponder. Sometimes you can think of a way to reinterpret
+events or move forward with themes while abandoning specifics. Sometimes
+you can take a subplot and move it to the forefront.
+
+But sometimes the choice that provides the most fun for everyone is to
+just admit that it's over.
+
+Getting *Journey points* is great, but the reason everyone is here
+sitting around the table is to *have fun*.
+
+## It's ok to blend it
+
+The boundaries between chapters do not need to be strict, explicitly defined
+lines. There may be a natural blending between two adjacent chapters as you
+and the players set forth the narrative.
+
+For example, It's common for the 9-hour Campaign to blend chapters 5 and 6.
+Maybe the treasure of the dungeon is glimpsed, then the ordeal begins, then
+the ordeal gets really serious, and that's the point to really plumb down to
+the "dark night of the soul", fully reveal the treasure, and then emerge
+to complete the ordeal.
+
+Even when there is a threshold, as in chapters 3 and 7, the different players'
+characters might cross over at different times.
+
+## The lengths vary
+
+The final chapter might go very fast, or it might be a long journey home.
+The first threshold might be crossed so fast that you only notice after the
+fact.
+Taking the prize might involve a twisting road of trials, or it might be
+one explosive boss battle.
+
+Let the story be what it must be, and *play* to find out the details of what
+happens, but also take your opportunities to earn *Journey points* when they
+arise.
+
+# One-Shot Campaign
+
+ * Start in a place of normalcy / comfort
+ * Cross a threshold with a true choice
+ * Take a thing and pay its (mortal?) price
+ * Return to the surface, changed.
+
+In a One-Shot campaign, there are 4 potential *Journey points* to earn.
+
+<a name="one-shot-ch-1" />
+
+## Chapter 1: Start in a place of normalcy / comfort
+
+The first *Journey point* is a "gimmie": If you can think of a way to start
+all of the PCs in their place of normalcy or comfort, gain a *Journey point*.
+The procedure of creating [The Hearth](#the-hearth) in the
+[Character Creation](#character-creation) section should virtually guarantee
+a *Journey point* here.
+
+Give the players a chance to establish what "normal" is for their characters.
+This is an environment that they can manage. They know what to expect here,
+and to survive here requires no fundamental change on their part.
+
+Here, the players can get a feel for taking actions and having some dialogue
+in-character.
+Perhaps they have some interactions with NPCs familiar to them.
+Perhaps they describe their character moving through the environment while
+describing specific details.
+Perhaps the characters get into conflict: social, or physical.
+
+As you are playing this out, you should be looking out for two things:
+
+ 1. Opportunities to establish a *need* that will move the story to Chapter 2
+    * signs of an approaching threat
+    * what about their home annoys, frustrates, or stifles them?
+ 2. A premise. Listen for a statement or action that asserts a fundamental truth
+    * "Nobody bakes a pie like Herbert"
+    * "Shelbyville thinks they're so great, but really, they stink"
+    * "I'm just a Hobbit, I can't steal from a dragon"
+    * "Things will go on like this forever"
+    * "As long as there's a tree to climb, I don't have to worry about wolves"
+    * "If only you could see things from my perspective"
+
+During [Character Creation](#character-creation), each player will choose a
+[Fateful Moment](#choose-fateful-moments) for their character. Pursuit of a
+Fateful Moment often produces the *need*.
+
+You should make a note of any premise, so you can use it later when creating
+puzzles, monsters and villains.
+
+
+<a name="one-shot-ch-2" />
+
+## Chapter 2: Cross a threshold with a true choice
+
+As the game progresses, the conversation at the table will start
+establishing details about the world and about relationships between
+characters. Find areas of tension and try to develop that tension.
+Push characters into discomfort. Raise the stakes. Then look for a
+*threshold*. Look for some line that, once crossed, they can't simply turn
+around and go back.
+
+Importantly, once they cross this line, The Hearth will not be available
+to them. It might just be far away, or something could narratively or
+symbolically separate them from The Hearth. It could be broken, stolen,
+run out of fuel, etc.
+
+The players might enthusiastically seek out a threshold, they might even
+cross over before you've figured out what it should be (if so, all that's
+left for you is to mark yourself a *Journey point*). More likely though,
+you will need to increase the pressures in their "home" to gently nudge
+the characters up against that threshold.
+
+But, if you want that *Journey point*, **don't push them through.**
+
+If the players choose to step their characters through the threshold,
+if all of them cross the threshold and step away from their ordinary world
+into a mysterious world of danger and adventure, gain a *Journey point*.
+
+Otherwise, you'll have to push them through. Create a cave-in, a magical
+force-field, or reveal something that unveils mystery
+in the world they inhabit: eg, a seeming ally is actually a betrayer,
+for the adventure doesn't truly begin until the PCs find themselves inside
+the mysterious world, where The Hearth is unavailable to them.
+
+### Hooks
+
+A common way to get players to choose to go through the threshold is to create
+a "hook". Here are some things to think about to help you invent a hook:
+
+ * Capture, Obstruct, Prevent
+    - What is "loose" and causing trouble?
+    - What is in the wrong hands or needs to be brought back into the fold?
+ * Chase or Race
+    - Who else has already begun seeking out the prize?
+    - How long until a threat arrives here?
+    - How might the hunter become the hunted?
+ * Rescue or Regain
+    - Who or what was taken, and where does it rightfully belong?
+    - What power does the precious thing posses?
+ * Re-order, Rearrange, Fortify
+    - What is unbalanced, and what effect does that have on the world?
+    - Who is not doing their job?
+    - What special protection needs to be put around The Hearth?
+ * Forbidden Act
+    - What is the rule that must not be broken?
+    - Who forbids it?
+    - What power structure does the rule support?
+
+
+<a name="one-shot-ch-3" />
+
+## Chapter 3: Take a thing and pay its (mortal?) price
+
+Here in the mysterious world, players take greater risks, and have an
+opportunity to earn something *epic* for their characters.
+It can be a great treasure, it can be fame and renown, it can be weaponry, a
+magical boon, the elusive respect of an NPC, it can even be an appreciation
+for the power of friendship. (Pixar and Disney have some *incredibly*
+well-done Hero's Journey stories.)
+
+### Death Is Real Here
+
+This is the chapter of the game where characters are most at risk to lose all
+of their Stamina points. In other chapters of the story, the GM may choose to
+narrate this as unconsciousness, imprisonment, or something else that
+the character will naturally recover from.
+
+But not in this chapter.
+
+If the character loses all their Stamina in this chapter of the story, the GM
+should represent this as "death". Death should be handled as a removal of the
+character, and by extension, the player from being able to impact the events
+of the narrative.
+
+See the Combat section in the Player's Guide for the full rules on Stamina
+loss.
+
+Should death happen, Make it epic.
+Give the character a final stand that saves the day, or gives the other party
+members a chance to survive an enormous threat. A moment of tremendous,
+meaningful sacrifice. Look for what the character symbolized, or what niche
+they filled in the party's personality, and amplify that symbol or personality
+aspect to be everyone's salvation.
+
+Also realize you can give them a second chance at life. If you don't want a
+gritty, hardcore vibe in your campaign, you don't have to let the death stand.
+For rules on resurrection, see [Using Journey Points](#using-journey-points).
+
+### The Prize
+
+It's important not to create a prize that just seems cool to you, the GM.
+The prize should follow from the fiction. It should be something that is
+actually wanted or needed by the players' characters. Pay attention to them,
+they are the protagonists in an odyssey. What would be miraculous for them to
+receive?
+
+Maybe you don't have to *create* the prize at all. What have the players
+been talking about, is there already a specific goal? What themes have already
+emerged through the action, dialogue, and relationships? Thinking
+symbolically, what is something that is equivalent to
+[The Hearth](#the-hearth), or might magically cause its rekindling?
+
+The "prize" can be something completely related to the narrative, or it can
+invoke the mechanisms of the game, or both.
+
+In revealing the prize, you may "break the rules" by removing
+a cost or condition of the Tales of a Weapon move or the Study Under a Master
+move. This detour from the rules only applies to this chapter and should be
+narratively justified.
+
+Put that prize in a terribly difficult location.
+
+It could be at the end of a road of trials, or inside the cave where they
+must conquer their greatest fear, or in the clutches of their most powerful
+adversary.
+
+### Allot Shadow Points
+
+After the fictional set-up of the challenge to earn the prize,
+draw a circle around **all** of the *Shadow points*.
+To earn the *Journey point* of this chapter, all of these *Shadow points*
+must be spent before the characters get a chance to Rest.
+
+If you can do this, when they complete the challenge that used up the last of
+the set-aside *Shadow points*, give them the prize of this mysterious world
+and add a new *Journey point* on your GM worksheet.
+
+Note: after the circle is drawn, players making moves may cause new *Shadow
+points* to be added, but the new points should be marked outside of the circle.
+
+
+<a name="one-shot-ch-4" />
+
+## Chapter 4: Return to the surface, changed.
+
+In the final chapter, find a way to return the characters "home". It need not
+be their literal home, nor does it need to be where the adventure started,
+geographically. The important thing is: at this stage in the narrative
+The Hearth is available again.
+
+You are free to "re-imagine" The Hearth here. If it was previously the song
+of the Wood Elves, it can now be the song of the Iron Gnomes. If you keep
+the emotional core the same, you can change superficial details. But give
+the players enough superficial hints to recognize it.
+
+The heroes are "home", but they are changed. They have been on an adventure,
+seen things, done things. They are now masters of a new way of existing,
+unafraid of crossing into the previously "alien" world.
+
+By dialogue or action, each player character should exhibit their change.
+
+This can play out in many ways:
+
+ * by using their newfound power to deal with the bullies that previously
+   tormented them
+ * though they dutifully swore to their holy order to keep this quest secret,
+   when they travel back through the badlands, they share the seeds of the
+   foreverfruit with the impoverished village that showed them hospitality
+ * by not screwing up for once in the eyes of their family, and delivering
+   the elves' ointment to cure their grandfather of Medusa's curse
+ * by re-igniting the war as they were bade, like a good soldier, but then
+   returning to challenge their clan-lord for leadership
+ * by being cast out of yet another city, but this time they're on the road
+   with mirth in their step and a horse pulling sixteen barrels of mead
+
+Gain your final *Journey point* if you can hit this note.
+
+
+# 9-hour Campaign
+
+The 9-hour Campaign is a bit more complicated. Committing these 8 points
+to memory will make it go a little easier:
+
+ 1. You
+ 1. Need
+ 1. Go
+ 1. Search
+ 1. Find
+ 1. Take & Pay
+ 1. Return
+ 1. Change
+
+<div class="note">
+
+This compact formulation of The Hero's Journey is inspired by Dan
+Harmon's "Story Circle".
+
+<div>
+
+<a name="9-hour-ch-1" />
+
+## Chapter 1: You
+
+**AKA: Start in a place of normalcy / comfort**
+
+In the 9-hour campaign, start the game just like you would in the One-shot
+campaign. See [Chapter 1 of the One-Shot Campaign](#one-shot-ch-1)
+
+
+<a name="9-hour-ch-2" />
+
+## Chapter 2: Need
+
+**AKA: Call to adventure**
+
+In this chapter, the characters still feel safe, but discover that there
+is something they need to do soon, or somewhere they need to go.
+This is also a great chapter for the characters to express premises.
+
+This chapter is an opportunity for players to elaborate their characters'
+relationships, interests, and skills.
+Provide a sandbox to play in, let the players establish what their
+characters value here in the sandbox. Try to give them some choices that
+express themes of the Touchstone List. Will they choose harmony over
+freedom? Freedom over peace? Peace over progress?
+
+### The Threat
+
+While this is playing out, reveal that something valuable is threatened.
+This valuable thing is often The Hearth itself, but it could be many things,
+up to and including the known universe. If you are ever struggling to decide,
+just choose The Hearth or ask the table.
+
+The threat might be revealed by an NPC that acts as a "Herald".
+This is someone that appears with a message about something from the
+mysterious world where it is dangerous to venture. Usually this mysterious
+world or one of it's denizens is the force behind the threat.
+
+ * The village medium
+ * A raven arrives from the neighboring kingdom
+ * A ragged wanderer appears out of the wilderness
+
+The threat might be revealed by using the game rules and playing out a
+challenge that the PCs cannot *yet* overcome. If this plays out as combat,
+be honest about the size of this threat - the PCs may fight something they
+cannot subdue. It may result in their defeat and incapacitation.
+
+### The Mission
+
+Establishing the need serves a purpose for both the narrative and for the *game*.
+The characters *need* the things they will get when the players *play* the game.
+
+ * Maybe the characters are defeated in a first encounter
+   * The players **need** more power, in a broad sense
+ * Maybe a spell or skill would exploit the threat's weakness
+   * The players **need** more moves / items
+ * Maybe characters' knowledge is lacking
+   * The players **need** information from the mysterious world
+ * Maybe characters' place of comfort is exposed as insufficient
+   * The players **need** a dangerous place to grow / explore / stretch their legs
+
+This unstoppable threat should come alongside a suggestion of hope. NPCs can
+be very useful to propose this last thread of hope.
+
+ * "The Oracle will know what to do, she always knows."
+ * "Khalrielle perished in the badlands, but maybe her sword survived."
+ * The Herald makes a promise or proposes a trade
+ * A command from a superior: "Come with me, and do your part. We shall prevail."
+
+When it seems clear that the PCs are aligned towards a common goal, ask the
+table to formulate their goal as a 2-6 word phrase. When this is decided, write
+the phrase down on the same sheet as the Touchstone List.
+If you do this, gain a *Journey point* and aim to move the plot to the next
+phase.
+
+This threatening force will progress no matter the characters' choices and will
+pervade the narrative. A common narrative device in movies is "The Refusal of
+the Call" wherein the protagonists deny the Call to Adventure. If the PCs
+refuse their call, continue ramping up the tension and expose the downsides of
+that choice. It will lead naturally to Chapter 3.
+
+
+<a name="9-hour-ch-3" />
+
+## Chapter 3: Go
+
+**AKA: Threshold and Threshold Guardian**
+
+In the 9-hour campaign, run Chapter 3 just like you would in the "Cross a
+Threshold" chapter of the One-shot campaign. The *Journey point* is gained
+when the PCs cross a threshold with a true choice.
+See [Chapter 2 of the One-Shot Campaign](#one-shot-ch-2)
+
+In a 9-hour campaign, the characters might have built up a little more
+XP or other resources than they would have in the One-shot campaign. One
+way to make the threshold-crossing choice more dramatic is to set up
+a resource-depleting challenge that blocks the threshold. This challenge
+is called a "Threshold Guardian" and is often expressed in the narrative
+as a literal guardian - some kind of monster.
+
+Another way to dramatize the threshold crossing is to make the choice about
+whether or not to enter the mysterious world *alone*. Maybe the portal is
+closing, maybe their NPC allies are buying them time. Maybe these PC
+halflings are the only ones who will fit into the goblin armor.
+
+<a name="9-hour-ch-4" />
+
+## Chapter 4: Search
+
+**AKA: Road of Trials**
+
+**AKA: Fun & Games**
+
+The characters have now entered a situation that is not ordinary, not
+comfortable. There is mystery here, unknowns, new people, new territory.
+Their old coping mechanisms and skills will not have the same effectiveness
+as before. Consequences will change and heighten. New skills will be
+learned, new friendships established. New enemies will emerge.
+
+The **Search** should deliver "the promise of the premise". Go back to
+your Touchstone List and ask yourself some questions. What is the "juice" here?
+What spectacle, what adventure might the players have been fantasizing about
+when they chose the titles you see on this list? Don't be shy about copying.
+
+### Allot Shadow Points
+
+To begin the **Search** chapter of the story, circle **half** of your
+*Shadow points*.
+
+This new mysterious is dangerous. The circled *Shadow points* represent
+this. Show the players that they might need to be smarter now. Problems are
+not solved here as easily as in the place of comfort.
+
+### New Problems, New Solutions
+
+At least once during the **Search**, give each player a chance to use the
+Study Under a Master or Shop / Procure moves and give each player a chance to
+use the skill or item they chose.
+
+### The Power and Magic of the Mysterious World
+
+Make an exhibition of how this world has power unlike their place of comfort.
+There are forces here that aren't understood. Those forces can be scary, yes,
+but they can also be miraculous.
+
+Use one of your *Journey points* to make this exhibition.
+
+### Finishing the Search
+
+You achieve your GM goal in the **Search** phase if
+
+ * you gave each player a chance to "level up" their character and use their
+   new skills or items
+ * and you used at least one *Journey point*
+ * and you used all the circled *Shadow points* you circled at the beginning
+
+If you do this, gain a *Journey point* and aim to move the plot to the next
+phase.
+
+
+<a name="9-hour-ch-5" />
+
+## Chapter 5: Find
+
+**AKA: Dark night of the soul**
+
+**AKA: Find the Hero within**
+
+When the narrative arrives at a point of relative quiet or peace, maybe
+during a Seek Help or Rest move, have an honest conversation with your
+players.
+
+This is a time for total vulnerability, weightlessness, and revelation.
+It is a time for the entire identity of the protagonists to "hang in the
+balance.
+Using dreamlike and mystical imagery in your exposition can be a great way
+to dress the stage.
+
+Taking a moment to change the background music can be especially effective
+in Chapter 5.
+
+Tell your players how you interpret the plot so far. Revisit where they've
+been, reinforce where they've arrived and say what it all means to you.
+Not as the sole author of a story, but as an interpreter of your shared
+authorship. Tell them how you see their characters, what they value, what
+they might represent metaphorically.
+
+Go around to each player and ask them
+
+ * What direction forward does your character see as possible from here, or
+   does your character want to just stay right where they are?
+ * Will your character sacrifice their life for something valuable in the
+   plot? If so, what, and why?
+ * Have the events of this journey caused your character to give up a
+   "premise" -- a *fundamental* belief or relationship they held at the
+   beginning of the game?
+
+Make a note of all the answers.
+
+Next, ask any players still using the "Lucky" Stamina system if they're ready
+to switch over to the "Heroic" Stamina system. This is an opportunity for a
+player to gain more control in exchange for higher difficulty. If they say yes,
+make a note of it.
+
+If each character answered "stay", "sacrifice", or "abandon" to any of the
+questions above, or if any player switched from "Lucky" to "Heroic", gain
+a *Journey point*.
+
+
+<a name="9-hour-ch-6" />
+
+## Chapter 6: Take & Pay
+
+**AKA: The Ordeal**
+
+Just before this chapter, if you can give the players an opportunity to gain
+new skills or equipment for their characters, you should. They're going to
+need it.
+
+The characters have learned something in this mysterious place that is
+the key to both worlds. Maybe they learned something about themselves, maybe
+they received a great boon or symbol. Maybe they met a goddess that whispered
+a secret of the universe. Maybe they met their father. It could be something
+very literal, like the skill they just learned or a spear enchanted to pass
+through dragon's hide.
+
+This is the thing that will answer the **Need**.
+
+### Allot Shadow Points
+
+When you're ready, set up a challenge in the narrative, then draw a circle
+around **all** of the unused *Shadow points* on your GM Worksheet.
+To earn the *Journey point* of this chapter, use all the circled points
+before the characters get a chance to Rest.
+
+### Death Is Real Here
+
+Just as in the One-Shot campaign's Chapter 3, in this Chapter, the consequence
+for full Stamina loss is death.
+
+
+<a name="9-hour-ch-7" />
+
+## Chapter 7: Return
+
+This is a time to consider grief and acceptance.
+
+Ask the players what their characters will miss most about the world they're
+leaving behind. NPCs left behind? A fellow PC that died? It can be anything.
+
+Then ask the players how their characters will be received when they return.
+Was a **Need** established in Chapter 2, and if so, will the characters be
+able to answer it? Will the people of the ordinary world accept the characters
+back? Will they accept whatever treasure might have been found in Chapter 6?
+Will the dragon-piercing spear actually work against the dragon?
+
+What changes have happened in the familiar world, with our heroes being gone
+so long?
+
+Did a player's character die in an earlier chapter? Will their friends and
+family accept the survivors?
+
+Maybe the answers aren't clear, and you need to set up scenes and get everyone
+to flesh them out.
+
+Bring the story to a threshold. A doorway that will seal shut once crossed.
+A monster that once slain, will change everything forever. A volcano that must
+be extinguished or exploded.
+
+Build one final challenge for your players, a "Threshold Guardian".
+This can be a mob of villagers whose minds must be changed, it can be their
+cleverest adversary, or it can be that invulnerable dragon.
+
+Gain a *Journey point* if you confront the PCs with a monster, challenge,
+or obstacle that embodies:
+
+ * grief: anger, bargaining, depression, denial
+ * rejection of how the characters have changed
+ * rejection of emotional growth
+ * rejection that this story must end
+
+
+<a name="9-hour-ch-8" />
+
+## Chapter 8: Change
+
+**AKA: Freedom from the fear of death**
+
+When the characters return back to the ordinary world, they will have to
+defeat the Threshold Guardian, or if that chapter was skipped, they will have
+to come to terms with where they've been and who they are now.
+Each character's story resolves differently. Where does their new
+power lie? Items? Skills? Relationships? Knowledge? Something else?
+
+### The Chapter 8 Move: Reveal The Hearth
+
+The first time any PC:
+
+ * employs skills or treasures the they attained during their adventure
+   to defeat the Threshold Guardian
+ * attempts to banish something alien that came through the threshold by
+   using a gift they attained in the mysterious world
+ * inspires an NPC from the ordinary world to be something more, to cast
+   away who they've been historically and to change.
+ * wishes for something left behind on the other side of the threshold
+ * presumes they are doomed, but chooses to defy death and struggle on
+
+Use a *Journey point* to Reveal The Hearth. The Hearth was the
+specific people, food, song, environmental feature, ritual or festival,
+or group activity that was identified at the beginning of the game.
+
+Describe how The Hearth which has been inaccessible, snuffed out, or hidden
+since the characters crossed the first threshold is now rekindled, reborn,
+re-imagined or its inheritor is revealed. All the PCs now have a chance to
+fully heal their wounds.
+
+For every wound healed, gain another *Journey point*.
+
+
+# 30-hour Campaign
+
+A 30-hour campaign is a trilogy of 9-hour campaigns, called "Books", with
+slight rules tweaks in the Book 2 and Book 3.
+
+Book 1 will play just the same as the 9-hour campaign. The PCs
+will venture from their original home into a mysterious world, and return.
+
+## Book 2
+
+At the beginning of Book 2, make a new GM Worksheet. Copy over any
+leftover *Journey points* and *Shadow points* from Book 1 onto
+this sheet.
+
+During Chapter 7 of Book 2, the PCs do not return to their original home.
+They return to a place that has some elements of their original home,
+but it is not where they came from.
+
+These elements may include:
+
+ * Characters (friends and family)
+ * Safety and comfort (even if temporary)
+ * The Hearth
+
+Only gain a *Journey point* during Chapter 7 if the threshold they cross
+brings them to a place like this.
+
+## Book 3
+
+At the beginning of Book 3, make a new GM Worksheet. Copy over any
+leftover *Shadow points* from Book 2 onto this sheet. This Book starts
+with **zero** *Journey points*.
+
+In Book 3, *Shadow points* grow at double the normal rate:
+
+ * ✅︎ gains you 2 *Shadow points*
+ * on *FAST* moves, ✗ gains you 4 *Shadow points*
+
+Chapter 7 of Book 3 can return the PCs to their original home or wherever
+makes narrative sense.
+
+In this Book, show downsides of the narrative character changes made earlier.
+Will the characters give up their earlier accomplishments or boons to
+attempt for even greater ones?
+
+Try creating some monsters with immunities specific to the PCs' strengths.
+How will the PCs react if the prizes earned in their earlier adventures are
+rendered useless?
+
+
+# The real juice
+
+When you gather with friends you care about, sit around a table, and tell
+stories, you are sharing in a great power.
+
+There is a second journey that happens during play, and that is the journey
+that the players are on. Not the *characters*. The *players*.
+
+Every thought, idea, action expressed in the narrative came from a player, one
+of your friends. Even the most ephemeral or small contribution is special
+because it was unique to that person in that context.
+
+To make a campaign really great, pay attention to
+*who* your friends are and guess at *why* they are expressing their character
+the way they do. Then use those guesses in the story.
+
+This power, this "juice", this "second journey", is difficult to fully
+express in words. The narrative you create together is a means to explore
+*the human experience*. To exist *in the moment*. Create a model of
+reality, drop an avatar for yourself into it, distance your "real" self from
+it, and **play** at being different. Be free to express anger, affection,
+pain, the whole field of emotion, even that territory that is kept
+walled-off to cope with everyday life and behave harmoniously in society.
+
+Just like the fictional characters who cross over to a mysterious world,
+face the unknown, and return to the ordinary world, we players can choose to
+cross over and **play**, explore our unconsciousness, and find ourselves
+changed by what we confronted, unchained, poked, or set free down there.
+
 
 
 # Guidance
@@ -1041,6 +1378,510 @@ Remember that the players don't have to bite on every hook. Don't fight it
 when things to go sideways. You can always skip it or try again.
 
 
+---
+
+# First-time Players
+
+To make your job of teaching the rules easier, this guide has
+**scripts**. The scripts are written to be read by you to the players
+at the table.
+
+> Scripts are formatted like this.
+
+If there is a player at the table who has never played A Thousand Faces of
+Adventure before, read the Start Script and play Sarukkan's Chamber.
+
+## Start Script
+
+> Hi everyone! We're going to play A Thousand Faces of Adventure.
+> This is going to be really fun, I'm glad you could join me for this!
+> I'm reading
+> directly from a script that was designed to get us started fast, by
+> going over just enough of the rules for our first session, so please
+> pay attention now so we can get to the fun of the game quickly!
+> 
+> A Thousand Faces of Adventure is a *narrative* game.
+> 
+> It's a storytelling game where we all collaborate and tell the story
+> together.
+> 
+> I'm going to be the GM (it's short for Game Master), so I'm going
+> to be responsible for the events in the world and the side characters
+> (they're called NPCs or Non-Player Characters).
+> 
+> Each one of you is going to play a role, kind of like an actor does.
+> You're going to control one character. You get to tell us everything
+> they think and everything that they say and everything that they do.
+> 
+> Imagine we're making an awesome adventure movie with swords and magic.
+> You're the actors just making stuff up as you go, and I'm a combination
+> of director and cinematographer, trying to fill the story with excitement
+> and drama and also deciding how the scenes go together and where the
+> camera cuts to next.
+> 
+> But let me pause for a minute and get specific about what I mean by
+> "you decide everything your character *does*".
+>
+> You can't just say "My character Tyrion runs up to the bad guy and
+> punches him in the head and his head goes flying off".
+> You *can* say "My character runs up to the bad guy and punches him in
+> the head", then, because there's uncertainty about the outcome, and the
+> degree to which Tyrion succeeds would matter in the story we're creating,
+> it's my job as the GM to say you've *triggered a move*.
+> The game rules will then answer the question "does it happen?" and
+> tell us if the bad guy's head actually goes flying off.
+>
+> When a *move is triggered*, it's time to use the cards and dice to see
+> what happens next. Triggering moves is a lot of fun. It's fun to succeed
+> and it's fun to fail, because even in failure, new exciting stuff starts
+> happening. When you trigger moves, you impact the narrative, consequences
+> happen, and we're all going to get surprises when cards flip and dice roll.
+>
+> Besides face-punching, some other questions that might be answered by
+> triggering moves are:
+>
+>  * Will the old librarian agree to hide me from my pursuers?
+>  * Do I see the giant spider web in my path?
+>  * Is there another way out of this burning tavern?
+>  * Will this magical scepter work just one more time?
+>
+> The game isn't all triggering moves though.
+
+Distribute a character sheet to each player.
+
+> Most of this game is talking. That's why "Say Stuff" is written so boldly
+> on the character sheets. I'm going to be asking you questions, you'll
+> probably have lots of questions for me, and we're going to put everything
+> together to make an epic story. It's gonna have adventure, battles, chases,
+> discoveries, and magic.
+>
+> It's a fantasy story, so think dangerous, and take risks.
+>
+> Be true to your character's personality. Remember it's sort of like acting.
+>
+> Your character will start out as a scrappy adventurer, and rise in power
+> to become a hero. Or villain. Or maybe they'll just die in the attempt.
+> And maybe they'll be resurrected after that.
+> 
+> Each session will be about 3 hours.  We might spend a long time bouncing
+> ideas off one another and dealing with each consequence in an
+> improvisational way, or we might engage in a long battle with lots of dice
+> rolling and card flipping.
+> 
+> There's no predetermined story, we're all in this together, and we're
+> going to play to find out the details of what happens.
+> 
+> This first session will need about 40 minutes of preparation, though.
+> Ten minutes has already gone by with this speech (it's almost over).
+>
+> Next, we're going to play Sarukkan's Chamber, a pre-made adventure for
+> you to get the hang of the rules. It will be short. I'll set a timer
+> for 10 minutes and end Sarukkan's Chamber when it goes off.
+>
+> Then we'll take 10 minutes to create a Touchstone List for our game.
+>
+> Then we'll do 10 minutes of Character Creation.
+>
+> And then, the adventure begins.
+>
+> Let's start!
+
+## Your Deckahedron
+
+Give each player a Deckahedron.
+
+(Print-and-play and mobile app versions are available at www.1kFA.com)
+
+> Here's a stack of 20 cards, it's called a Deckahedron.
+> You'll use this to see how successful your character is when moves are
+> triggered. It also represents your character's Stamina points, which
+> we'll discuss later.
+>
+> Notice the 4 different colored symbols on the edges. They're named
+> Anvil, Blades, Crown, and Dragon. When you *trigger a move*, I'm going
+> to instruct you to flip the top card of your Deckahedron, and we'll see
+> the result on the flipped-over side. There are 4 possible results:
+>
+> * ✔✔✔  : this means you succeed at the thing you tried
+> * ✔✔  : this usually means something good happens, but maybe with a downside
+> * ✔  : this usually means something "ok", or not-so-good happens
+> * ✗ : this usually means that I get to say what happens and make my own move
+>
+> When I ask you to flip, I'm going to say something like "flip Anvil"
+> or "flip Blades". That means you find the result on the edge that has
+> that symbol.
+>
+> When you flip it over, please put it down in a way that everyone can clearly
+> see the result. Try to orient your cards consistently so that we don't get
+> confused about what your result is.
+>
+> Let's try it: everybody put your Deckahedron on the table and flip Blades.
+
+Step the players through "flipping Blades" using the instructions in the
+[Player's Guide](mod_guide_player.md)
+
+Make sure each player understands how to execute a flip before you proceed.
+
+## Your base moves
+
+Give each player a Move Booklet
+
+> Here are the basic moves.  You don't have to read this booklet unless you
+> want to. I'll point out moves when they're triggered and we can read them
+> together or you can just let me apply them.
+>
+> It's hard for me to do everything though, so the more you can participate,
+> reading the text of your moves, and suggesting narrative outcomes,
+> the smoother the game will run. Once we've had some practice, playing the
+> game will feel like a collaborative story we're creating together.
+>
+> The move you'll be triggering the most will probably be Defy Danger, that's
+> why it's on the first page. The moves in the back of the booklet are
+> "downtime" moves which we won't need until much later.
+>
+> Let's go through an example of flipping Defy Danger. The move reads from
+> top to bottom. First we would establish in the fiction how your character
+> is defying danger, are they using their Str, Dex, or Int? Once that's
+> decided, we would look at your character sheet to see what value that
+> attribute is.  Let's say they were diving to the ground to avoid a spear
+> that was thrown at them. That's Dex. Let's say their Dex was rank 3, or
+> "Crown". So that's the side of the card we're going to look at.
+> Flip your top card.  What result do you see on the "Crown" side?
+>
+> [Take the result, and if it is ✔s, ask the player to help you interpret
+> a potential outcome using the Defy Danger move. If it is ✗, tell them how
+> it would be your turn to make a GM move]
+>
+
+## Sarukkan's Chamber
+
+You are going to be running a short tutorial game for 2-3 players. One will
+control a female protagonist character, and one will control a male
+protagonist.  If there is a third player, they will control a prisoner that
+the other two characters discover in the first scene.
+
+First, you will need names for the characters and setting of Sarukkan's
+Chamber. Ask the players these 3 questions. This is an improvisation exercise.
+Its purpose is to get the creative juices flowing and to signal to the
+players that they have input over the story.
+
+Ask the players for the name of a medieval fantasy city name.
+Simply write down the answer. That will be the name of the setting.
+
+Ask "What's a store where women buy clothing?". This time, twist the answer
+a little to create the female protagonist's name. (eg, "Forever 21" might
+turn into "Forva", "The Gap" into "Gappalina")
+
+Ask "What's a city in Europe?". Again, twist this answer to create the male
+protagonist's name with that. Stretch your creativity muscles.
+(eg, "Paris" might turn into "Croissant", Maybe rearrange "London"
+to "Donalo")
+
+    This mini-game is a GM tool. Often, the players will look to you to
+    come up with names of characters or places on the fly. Instead of
+    sitting still and thinking for 30 seconds, you can throw some simple
+    [lateral questions](#lateral-questions) like these back at them.
+
+Ask each player to write down the names you just came up with on their
+character sheet.
+
+Next, instruct the players to fill out the attribute boxes on their
+character sheet like so:
+
+ * Both characters have 1 Intelligence (Anvil)
+ * The female protagonist has 3 Dexterity (Crown) and 2 Strength (Blades)
+ * The male protagonist has 2 Dexterity (Blades) and 3 Strength (Crown)
+
+### Introduce Sarukkan's Chamber
+
+Begin narrating the set-up.
+
+> [Addressing her]
+> _ (female protagonist), you are an acrobat.
+> Your troupe of performers set off on the road to perform in the big
+> city _ (city name). You were really excited, because your big brother lives
+> there, and you haven't seen him since you were 13, and that was 10 years
+> ago.
+> 
+> But your excitement soon turned to horror and despair. On the road, your
+> troupe was overrun by masked horsemen. They attacked fiercely and without
+> mercy. Your caravan guards fought bravely, but were outnumbered. You and
+> your companion, Gwendolyn, were captured.
+>
+> [Ask the player]
+> What was Gwendolyn's role in the troupe?
+>
+> In the chaos, you remember one phrase uttered by the marauders,
+> "Deliver them to Sarukkan's."
+>
+> You endured days of travel shackled in a box, Gwendolyn tried to
+> comfort you both by singing a song from her past,
+>
+> [Name the song, or do an impression of Gwendolyn singing a few bars.
+>  try to make the song have something to do with Gwendolyn's role in
+>  the troupe]
+>
+> Finally, you found yourself imprisoned in a small, dark, musty cellar
+> room. Windowless, the only illumination is whatever lamplight filters
+> through the cracks of the door.
+>
+> You could hear sounds from the hallway though, and on the second day,
+> you heard Gwendolyn being removed from her cell. After that, only silence.
+>
+> [Dramatic pause]
+>
+> [Addressing him]
+> _ (male protagonist) you are a thief-catcher.
+> You're not too bright, but your boss, Gandlin, has taken you under his
+> wing and taught you street wisdom. Merchants employ him to recover stolen
+> valuables or they pay for simple retribution against the pilfering
+> scoundrels. You provide the muscle. Gandlin provides the brains.
+> He sniffs them out, you beat 'em up, and each of you shares in the reward.
+>
+> That's how it had been. Gandlin has now gone missing.
+>
+> He was investigating a series of thefts from
+> private homes. There was some pattern to it -- artifacts or books taken,
+> but no smashed windows or doors. The mystery of it had Gandlin
+> obsessed, working sometimes until dawn.
+>
+> [Ask the player]
+> What was Gandlin's favourite breakfast food?
+>
+> One dawn it was Gandlin that was taken.
+> 
+> [Describe the scene of Gandlin's disappearance, using the favourite
+> breakfast food to paint the picture]
+> 
+> Following the trail of clues, you came to the locked gate to the yard
+> behind Sarukkan's estate. Sarukkan was a powerful player in _ 's (city name)
+> noble circles, but not much was known of him.
+> 
+> After jumping the wall, you didn't get much farther before you were
+> surprised from behind and knocked out, waking up in a tiny, dirt-floored
+> room in the cellar.
+> 
+> [Addressing both]
+> But tonight, something changed. It was noisy tonight. Footsteps and
+> conversations could be heard upstairs. It was some kind of party.
+> And there were no guard patrols of the cellars. In parallel, but
+> without bumping into each other, you both used the lapse to escape.
+> 
+> You freed yourself from your cell.
+> 
+> In some dark corner you grabbed a reveler and took their elaborate
+> costume and mask for a disguise. Tonight must be a masquerade ball.
+> 
+> With no easy opportunity to exit, you kept evading attention by going
+> upstairs, until you reached the third floor.
+> 
+> From different doors, you simultaneously enter an empty bedchamber.
+
+At this point, take out a blank sheet of paper and draw this
+incomplete map of Sarukkan's Chamber. Then drop a couple tokens
+representing the players' characters on the paper. If you don't have
+tokens, you can use coins or nuts or glass beads, anything handy.
+
+![Draw maps, leave blanks](images/chamber_map.png){ width=7cm }
+
+This map will let everyone know roughly where their character is
+positioned. You don't always need this visual aid, but Sarukkan's
+Chamber is a tutorial, so it's good to have some practice.
+
+When you draw out a map of an environment like this, be very loose
+and fast. Leave blanks. Rely on the imagination of the players to
+fill in the details unless there's something whose position is important
+to draw.
+
+For example, a player might tell you that they look around the chamber for
+an exit, and you might say "There's a large window at the front of
+the room , but it's framed in iron. The ironwork looks old though, maybe
+it's no longer sturdy?". That would be a good point to draw a few lines
+to show where the window is in the room.
+
+> You turn from the door you carefully and silently closed to see across
+> the room, an apparent party guest in full wardrobe.
+> 
+> [Dramatic pause]
+> 
+> One last thing, with these masks on, you don't know this, but you're
+> brother and sister.
+> 
+> What do you do?
+
+
+Start a timer for 10 minutes.
+
+This last question "What do you do?" is very important.
+
+When you describe a situation, always end with this kind of prompt. Portray
+a situation that demands a response. Always.
+
+
+## But now what should I say?
+
+> Where's the *rest* of the script?
+
+If this is your first time being a GM, you might feel intimidated. That's
+ok. Remember, this is not high art, this is improv. You are *playing* to
+find out what happens.
+
+Preparation is the watchword for first-time GMs.
+Read the [Guidance](#guidance) section. Check out some
+[examples](#examples) of how other GMs have run their games.
+
+
+### Sarukkan's Chamber Details - take them or leave them
+
+ * Luxurious canopy bed in the middle
+ * Chamber is full of esoterica - bookcases and desks overflowing with books,
+   sculptures, candlesticks, and votives
+ * Chamber is empty of any adornments, the only feature is a bed and
+   a precise circle of white powder in the center of the room
+ * A window at the front of the room - an escape route?
+ * An alarm triggers when a guard enters the room?
+ * A creepy portrait of Sarukkan, whose eyes follow you as you move
+ * A trap-door under the bed - where does it lead?
+
+
+### Goals for Sarukkan's Chamber
+
+Ideally, Sarukkan's Chamber should demonstrate what kind of game
+this is.
+
+A Thousand Faces of Adventure creates plot questions for players to answer:
+
+ * Will the brother & sister who haven't seen each other in a
+   decade discover each other's identities?
+ * Will the brother & sister escape Sarukkan's imprisonment?
+ * Will the brother & sister rescue Gandlin or Gwendolyn?
+ * (3rd player variant) Will the reluctant guard choose to obey an
+   evil master, or rebel?
+
+A Thousand Faces of Adventure creates tension and action:
+
+ * Potential combat against guards or kitchen staff or Sarukkan himself
+ * Potential pursuits involving outsmarting or outmaneuvering pursuers
+ * Potential to hatch plans and use available resources to set traps or
+   defy traps that been set for them
+ * Potential to use stealth and social manipulation with guards and
+   party guests
+
+Your group's playing of Sarukkan's Chamber doesn't have to *all of this*,
+the players will make choices that surprise you. If they surprise you with
+something unlikely or risky, be ready to declare that moves are triggered,
+but also be ready to say "Yes, and..." to their crazy ideas.
+
+It should also help teach the rules.
+
+ * Work in an opportunity for each player to do a Deckahedron flip
+ * If a player flips an XP card, that's an opportunity
+   to explain how they earn XP
+ * If a player flips the Critical Success card, that's an opportunity
+   to explain the Critical Flip move
+ * Ideally there will be a combat scene.
+   (see the [Combat guidelines](#creating-a-combat-encounter))
+   Try to get the PCs to attempt *Mix It Up* or *Volley*
+ * When a PC loses Stamina, explain that losing 10 Stamina points
+   will mean the character is incapacitated
+ * The brother & sister may trigger *Discern* and *I Know This* moves
+   when they try to reveal each others' identities
+ * The *Discern* move often comes up when having a look around Sarukkan's
+   Chamber itself.
+ * If any player-versus-player combat happens, remember to use the PvP
+   combat rules
+
+It should also be a warm-up for your GM skills.
+
+ * Remember: "Yes, and..."
+ * Move the spotlight - be fair, let all players impact the narrative
+ * Manage the pace. Let the PCs have some dialogue, but when it feels like
+   they're hesitating, push quickly to the approaching dangers.
+ * Get some guards into the room for a quick fight.
+ * As the PCs gain the upper hand, show signs of another threat (maybe
+   the wizard himself approaches - it's ok to tell the story of what's
+   happening *off-camera*)
+ * Play Sarukkan's Chamber *honestly*. Set the stakes the same as you would
+   when you play a campaign
+ * Observe your players for signals about what kind of fun they enjoy
+
+After Sarukkan's Chamber, the players should now understand how the
+Deckahedron works with character attributes to produce results that affect
+the narrative. Ask the players if they get it, and explain again if there's
+still any confusion.
+
+
+### After the timer goes off
+
+When the 10 minute timer goes off, you have a choice.
+
+Take a look at your friends, are they having fun? Are they smiling, are they
+looking at you eagerly to see what happens next, are they bantering with
+each other about what actions to take, are they having in-character dialogues?
+
+Sarukkan's Chamber is intended as a 10-15 minute tutorial, but if it seems like
+everyone wants more, you can keep it going.
+
+Ask the table if they want to keep going with this scenario. If not, just
+skip forward to [Begin a Campaign](#begin-a-campaign).
+
+But if they do want to continue, add in the next layer of rules before
+jumping back into the action:
+
+ * Any character still wearing their elaborate costume should get a card
+   entitled "Costume". This is an Item card.
+ * If the characters have acquired any significant items during their
+   adventure so far, also make Item cards for those.
+ * The characters do not get any Pack cards, as they were just prisoners
+
+
+### Sarukkan's Chamber 3rd PC variant - The imprisoned guard
+
+If you've got a 3rd player at the table, add a guard character.
+
+Add another 5 minutes to the timer, so now Sarukkan's Chamber will end
+after 15 minutes, not 10.
+
+Ask "What's a domestic brand of beer?". Use that to create the 3rd
+character's name. The guard can be any gender, has 3 Int, 2 Str, and 1 Dex.
+
+Let them know that they'll get introduced about 5 minutes into the story.
+
+After the first two PCs have had a chance to orient themselves to their
+surroundings, and maybe have a dialogue with each other, introduce the
+3rd PC
+
+> [Addressing guard]
+> _ (guard), you are a guard, but also a prisoner awaiting your doom.
+>
+> You were the newest hire in Sarukkan's staff, but you didn't even get to
+> collect a week's wage before thing went sideways. Even on day one, you
+> noticed some sketchy stuff going on around here.
+>
+> Your supervisor, Yogran the Rat had assigned you the simple duty of yard
+> patrol, and when you passed by the cellar you could swear you heard the
+> sounds of women crying. Yogran sternly rebuffed the complaint you made,
+> and then he set you up.
+>
+> [Ask the player]
+> What employee offense does Sarukkan have zero tolerance for?
+>
+> [Describe the way Yogran the Rat set up the player's character using that
+> offense]
+>
+> The last thing you remember is being told that your soul will be used
+> as fuel in a dark ritual on the night of the ball.
+>
+> You awaken now in Sarukkan's chamber, roused from your sleep by the sound
+> of two voices.  You can speak, but your arms and legs are bound.
+>
+> [Ask the player]
+> Where in the room are they storing you?
+>
+> What do you do?
+
+
+---
 
 # Begin a Campaign
 
@@ -2596,727 +3437,6 @@ ways to interpret them. Also, people will change during the course of the
 game -- it's an *ongoing* conversation. Remember, you can always ask players
 questions. Your table is be unique, and you're all working together to
 create the kinds of fun that are most rewarding.
-
----
-
-# Campaigns
-
----
-
-In A Thousand Faces of Adventure, there are 3 different kinds of Campaigns:
-
- * One-shot (usually 3 hours)
- * 9-hour
- * 30-hour
-
-The stories you will tell by playing A Thousand Faces of Adventure are told
-in 3 parts: beginning, middle, and end.
-
-If you've played other RPGs that *don't have endings*, ones that go on for
-months or even years, this might seem weird to you.
-Don't worry, try out a 9-hour campaign and see the results.
-You may find your doubts erased.
-
-This game is designed to tell a particular kind of story.
-It's called *The Hero's Journey*.
-
-*The Hero's Journey* is a skeleton upon which many successful and popular
-movies and books are arranged: Star Wars, Lord of the Rings, The Breakfast
-Club, Die Hard, Beowulf, Forgetting Sarah Marshall, the list goes on.
-To help you execute a successful and popular *campaign*, the GM is given
-*Journey points* and *Shadow points* and specific rules for using them.
-
-The main premise of *The Hero's Journey* is, characters start out in
-a figurative "ordinary world", they go to a "mysterious world", and finally,
-they return.
-
-As you and the other players create the narrative, you will have opportunities
-to shape events. You decide how the world and the NPCs react to the actions of
-the PCs, and you have the freedom to describe the "meanwhile" -- all the
-goings-on "off-screen".
-Use these powers to pull the narrative into a multi-chapter structure,
-and in each chapter, try to earn *Journey points*.
-
-The players may just be along for the ride, or they may also want to delve
-into *The Hero's Journey*. Be on the lookout for how they signal that they're
-into this kind of fun, and use what they express about themes, relationships,
-emotional tone, conflicts, and backstory to co-create the journey.
-
-## It's ok to skip it
-
-You don't need to get every available *Journey point*. You should especially
-not try to force it if doing so would sacrifice fun for the players. Remember,
-you're not the only author of this story, and while earning points feels nice,
-you've got other jobs too, like paying attention to the signals the players
-give you about the kind of fun they want to have.
-
-## It's ok to end it
-
-You may find that you and the players have collectively gone as far as you
-can. Maybe you've reached the deepest, darkest part of the adventure, and
-the characters decide to stay and call it their new home. Maybe they find
-a way to destroy something you thought would be permanent, or make permanent
-something you thought would be temporary, and that changes the whole conflict
-structure of the story. Maybe they found a shortcut or outsmarted the Oracle.
-
-Maybe they all died.
-
-Take a break and ponder. Sometimes you can think of a way to reinterpret
-events or move forward with themes while abandoning specifics. Sometimes
-you can take a subplot and move it to the forefront.
-
-But sometimes the choice that provides the most fun for everyone is to
-just admit that it's over.
-
-Getting *Journey points* is great, but the reason everyone is here
-sitting around the table is to *have fun*.
-
-## It's ok to blend it
-
-The boundaries between chapters do not need to be strict, explicitly defined
-lines. There may be a natural blending between two adjacent chapters as you
-and the players set forth the narrative.
-
-For example, It's common for the 9-hour Campaign to blend chapters 5 and 6.
-Maybe the treasure of the dungeon is glimpsed, then the ordeal begins, then
-the ordeal gets really serious, and that's the point to really plumb down to
-the "dark night of the soul", fully reveal the treasure, and then emerge
-to complete the ordeal.
-
-Even when there is a threshold, as in chapters 3 and 7, the different players'
-characters might cross over at different times.
-
-## The lengths vary
-
-The final chapter might go very fast, or it might be a long journey home.
-The first threshold might be crossed so fast that you only notice after the
-fact.
-Taking the prize might involve a twisting road of trials, or it might be
-one explosive boss battle.
-
-Let the story be what it must be, and *play* to find out the details of what
-happens, but also take your opportunities to earn *Journey points* when they
-arise.
-
-# One-Shot Campaign
-
- * Start in a place of normalcy / comfort
- * Cross a threshold with a true choice
- * Take a thing and pay its (mortal?) price
- * Return to the surface, changed.
-
-In a One-Shot campaign, there are 4 potential *Journey points* to earn.
-
-<a name="one-shot-ch-1" />
-
-## Chapter 1: Start in a place of normalcy / comfort
-
-The first *Journey point* is a "gimmie": If you can think of a way to start all
-of the PCs in their place of normalcy or comfort, gain a *Journey point*. You
-*did* remember to do Step 10 in the Character Creation chapter, right?
-
-Give the players a chance to establish what "normal" is for their characters.
-This is an environment that they can manage. They know what to expect here,
-and to survive here requires no fundamental change on their part.
-
-Here, the players can get a feel for taking actions and having some dialogue
-in-character.
-Perhaps they have some interactions with NPCs familiar to them.
-Perhaps they describe their character moving through the environment and
-pointing out specific details.
-Perhaps the characters get into conflict: social, or physical.
-
-As you are playing this out, you should be looking out for two things:
-
- 1. Opportunities to establish a *need* that will move the story to Chapter 2
-    * signs of an approaching threat
-    * what about their home annoys, frustrates, or stifles them?
- 2. A premise. Listen for a statement or action that asserts a fundamental truth
-    * "Nobody bakes a pie like Herbert"
-    * "Shelbyville thinks they're so great, but really, they stink"
-    * "I'm just a Hobbit, I can't steal from a dragon"
-    * "Things will go on like this forever"
-    * "As long as there's a tree to climb, I don't have to worry about wolves"
-    * "If only you could see things from my perspective"
-
-You should make a note of any premise, so you can use it later when creating
-puzzles, monsters and villains.
-
-
-<a name="one-shot-ch-2" />
-
-## Chapter 2: Cross a threshold with a true choice
-
-As the game progresses, the conversation at the table will start
-establishing details about the world and about relationships between
-characters. Find areas of tension and try to develop that tension.
-Push characters into discomfort. Raise the stakes. Then look for a
-*threshold*. Look for some line that, once crossed, they can't simply turn
-around and go back.
-They might enthusiastically seek it out, they might even cross over before
-you've figured out what it should be (if so, all that's left for you is
-to mark yourself a *Journey point*). But you might also need to increase the
-pressures in their "home" to gently nudge the characters up against
-that threshold.
-
-But, if you want that *Journey point*, **don't push them through.**
-
-See if the players choose to step their characters through the threshold.
-If all of them cross the threshold and step away from their ordinary world
-into a mysterious world of danger and adventure, gain a *Journey point*.
-
-### Hooks
-
-A common way to get players to choose to go through the threshold is to create
-a "hook". Here are some things to think about to help you invent a hook:
-
- * Capture, Obstruct, Prevent
-    - What is "loose" and causing trouble?
-    - What is in the wrong hands or needs to be brought back into the fold?
- * Chase or Race
-    - Who else has already begun seeking out the prize?
-    - How long until a threat arrives here?
-    - How might the hunter become the hunted?
- * Rescue or Regain
-    - Who or what was taken, and where does it rightfully belong?
-    - What power does the precious thing posses?
- * Re-order, Rearrange, Fortify
-    - What is unbalanced, and what effect does that have on the world?
-    - Who is not doing their job?
-    - What special protection needs to be put around The Hearth?
- * Forbidden Act
-    - What is the rule that must not be broken?
-    - Who forbids it?
-    - What power structure does the rule support?
-
-
-<a name="one-shot-ch-3" />
-
-## Chapter 3: Take a thing and pay its (mortal?) price
-
-Give the players an opportunity to earn something *epic* for their characters.
-It can be a great treasure, it can be fame and renown, it can be weaponry, a
-magical boon, the elusive respect of an NPC, it can even be self confidence.
-It can be an appreciation for the power of friendship. (Pixar and Disney have
-some *incredibly* well-done Hero's Journey stories.)
-
-It's important not to create a prize that just seems cool to you, the GM.
-The prize should follow from the fiction. It should be something that is
-actually wanted or needed by the players' characters. Pay attention to them,
-they are the protagonists in an odyssey. What would be miraculous for them to
-receive?
-
-Maybe you don't have to *create* the prize at all. What have the players
-been talking about, is there already a specific goal? What themes have already
-emerged through the action, dialogue, and relationships?
-
-Put that prize in a terribly difficult location.
-
-It could be at the end of a road of trials, or inside the cave where they
-must conquer their greatest fear, or in the clutches of their most powerful
-adversary.
-
-### Allot Shadow Points
-
-Whatever the fictional set-up, when you're ready, set up a challenge in
-the narrative, then draw a circle around **all** of the *Shadow points*
-and use them all before the characters get a chance to Rest.
-
-If you can do this, when they complete the challenge that used up the last of
-the set-aside *Shadow points*, give them the prize of this mysterious world
-and gain a *Journey point* for yourself.
-
-### Death Is Real Here
-
-This is the chapter of the game where characters are most at risk to lose all
-of their Stamina points. In other chapters of the story, the GM may choose to
-narrate this as unconsciousness, imprisonment, or something else that
-the character will naturally recover from.
-
-But not in this chapter.
-
-If the character loses all their Stamina in this chapter of the story, the GM
-should represent this as "death". Sell it as a permanent removal of the
-character, and by extension, the player from being able to impact the events
-of the story.
-
-Don't make this a downer for the player though. Make the death epic.
-Give the character a final stand that saves the day, or gives the other party
-members a chance to survive an enormous threat. A moment of tremendous,
-meaningful sacrifice. Look for what the character symbolized, or what niche
-they filled in the party's personality, and amplify that symbol or personality
-aspect to be everyone's salvation.
-
-Also realize you can give them a second chance at life. If you don't want a
-gritty, hardcore vibe in your campaign, you don't have to let the death stand.
-For rules on resurrection, see [Using Journey Points](#using-journey-points).
-
-### The Prize
-
-The "prize" can be something completely related to the narrative, or it can
-invoke the mechanisms of the game, or both.
-
-In giving the characters the prize, you may "break the rules" by removing
-a cost or condition. 
-
-So, for example, you may declare that the characters do not have to be
-"in a town" to execute the Study Under a Master move. Or the Tales of a
-Weapon move may be skipped to award the characters with a powerful weapon.
-
-This relaxation of the rules only applies to Chapter 3, and should be
-narratively justified.
-
-<a name="one-shot-ch-4" />
-
-## Chapter 4: Return to the surface, changed.
-
-In the final chapter, find a way to return the characters "home". It need not
-be their literal home, nor does it need to be where the adventure started,
-geographically. The important thing is: at this stage in the narrative
-The Hearth is available again.
-
-You are free to "re-imagine" The Hearth here. If it was previously the song
-of the Wood Elves, it can now be the song of the Iron Gnomes. If you keep
-the emotional core the same, you can change superficial details. But give
-the players enough superficial hints to recognize it.
-
-The heroes are "home", but they are changed. They have been on an adventure,
-seen things, done things. They are now masters of a new way of existing,
-unafraid of crossing into the previously "alien" world.
-
-By dialogue or action, each player character should exhibit their change.
-
-This can play out in many ways:
-
- * by using their newfound power to deal with the bullies that previously
-   tormented them
- * though they dutifully swore to their holy order to keep this quest secret,
-   when they travel back through the badlands, they share the seeds of the
-   foreverfruit with the impoverished village that showed them hospitality
- * by not screwing up for once in the eyes of their family, and delivering
-   the elves' ointment to cure their grandfather of Medusa's curse
- * by re-igniting the war as they were bade, like a good soldier, but then
-   returning to challenge their clan-lord for leadership
- * by being cast out of yet another city, but this time they're on the road
-   with mirth in their step and a horse pulling sixteen barrels of mead
-
-Gain your final *Journey point* if you can hit this note.
-
-
-# 9-hour Campaign
-
-The 9-hour Campaign is a bit more complicated. Committing these 8 points
-to memory will make it go a little easier:
-
- 1. You
- 1. Need
- 1. Go
- 1. Search
- 1. Find
- 1. Take & Pay
- 1. Return
- 1. Change
-
-(this compact formulation is inspired by Dan Harmon's "Story Circle")
-
-<a name="9-hour-ch-1" />
-
-## Chapter 1: You
-
-**AKA: Start in a place of normalcy / comfort**
-
-In the 9-hour campaign, start the game just like you would in the One-shot
-campaign. See [Chapter 1 of the One-Shot Campaign](#one-shot-ch-1)
-
-
-<a name="9-hour-ch-2" />
-
-## Chapter 2: Need
-
-**AKA: Call to adventure**
-
-In this chapter, the characters still feel safe, but discover that there
-is something they need to do soon, or somewhere they need to go.
-This is also a great chapter for the characters to express premises.
-
-This chapter is an opportunity for players to elaborate their characters'
-relationships, interests, and skills.
-Provide a sandbox to play in, let the players establish what their
-characters value here in the sandbox. Try to give them some choices that
-express themes of the Touchstone List. Will they choose harmony over
-freedom? Freedom over peace? Peace over progress?
-
-### The Threat
-
-While this is playing out, reveal that something valuable is threatened.
-This valuable thing is often The Hearth itself, but it could be many things,
-up to and including the known universe. If you are ever struggling to decide,
-just choose The Hearth or ask the table.
-
-The threat might be revealed by an NPC that acts as a "Herald".
-This is someone that appears with a message about something from the
-mysterious world where it is dangerous to venture. Usually this mysterious
-world or one of it's denizens is the force behind the threat.
-
- * The village medium
- * A raven arrives from the neighboring kingdom
- * A ragged wanderer appears out of the wilderness
-
-The threat might be revealed by using the game rules and playing out a
-challenge that the PCs cannot *yet* overcome. If this plays out as combat,
-be honest about the size of this threat - the PCs may fight something they
-cannot subdue. It may result in their defeat and incapacitation.
-
-### The Mission
-
-Establishing the need serves a purpose for both the narrative and for the *game*.
-The characters *need* the things they will get when the players *play* the game.
-
- * Maybe the characters are defeated in a first encounter
-   * The players **need** more power, in a broad sense
- * Maybe a spell or skill would exploit the threat's weakness
-   * The players **need** more moves / items
- * Maybe characters' knowledge is lacking
-   * The players **need** information from the mysterious world
- * Maybe characters' place of comfort is exposed as insufficient
-   * The players **need** a dangerous place to grow / explore / stretch their legs
-
-This unstoppable threat should come alongside a suggestion of hope. NPCs can
-be very useful to propose this last thread of hope.
-
- * "The Oracle will know what to do, she always knows."
- * "Khalrielle perished in the badlands, but maybe her sword survived."
- * The Herald makes a promise or proposes a trade
- * A command from a superior: "Come with me, and do your part. We shall prevail."
-
-When it seems clear that the PCs are aligned towards a common goal, ask the
-table to formulate their goal as a 2-6 word phrase. When this is decided, write
-the phrase down on the same sheet as the Touchstone List.
-If you do this, gain a *Journey point* and aim to move the plot to the next
-phase.
-
-This threatening force will progress no matter the characters' choices and will
-pervade the narrative. A common narrative device in movies is "The Refusal of
-the Call" wherein the protagonists deny the Call to Adventure. If the PCs
-refuse their call, continue ramping up the tension and expose the downsides of
-that choice. It will lead naturally to Chapter 3.
-
-
-<a name="9-hour-ch-3" />
-
-## Chapter 3: Go
-
-**AKA: Threshold and Threshold Guardian**
-
-In the 9-hour campaign, run Chapter 3 just like you would in the "Cross a
-Threshold" chapter of the One-shot campaign. The *Journey point* is gained
-when the PCs cross a threshold with a true choice.
-See [Chapter 2 of the One-Shot Campaign](#one-shot-ch-2)
-
-In a 9-hour campaign, the characters might have built up a little more
-XP or other resources than they would have in the One-shot campaign. One
-way to make the threshold-crossing choice more dramatic is to set up
-a resource-depleting challenge that blocks the threshold. This challenge
-is called a "Threshold Guardian" and is often expressed in the narrative
-as a literal guardian - some kind of monster.
-
-Another way to dramatize the threshold crossing is to make the choice about
-whether or not to enter the mysterious world *alone*. Maybe the portal is
-closing, maybe their NPC allies are buying them time. Maybe these PC
-halflings are the only ones who will fit into the goblin armor.
-
-<a name="9-hour-ch-4" />
-
-## Chapter 4: Search
-
-**AKA: Road of Trials**
-
-**AKA: Fun & Games**
-
-The characters have now entered a situation that is not ordinary, not
-comfortable. There is mystery here, unknowns, new people, new territory.
-Their old coping mechanisms and skills will not have the same effectiveness
-as before. Consequences will change and heighten. New skills will be
-learned, new friendships established. New enemies will emerge.
-
-The **Search** should deliver "the promise of the premise". Go back to
-your Touchstone List and ask yourself some questions. What is the "juice" here?
-What spectacle, what adventure might the players have been fantasizing about
-when they chose the titles you see on this list? Don't be shy about copying.
-
-### Allot Shadow Points
-
-To begin the **Search** chapter of the story, circle **half** of your
-*Shadow points*.
-
-This new mysterious is dangerous. The circled *Shadow points* represent
-this. Show the players that they might need to be smarter now. Problems are
-not solved here as easily as in the place of comfort.
-
-### New Problems, New Solutions
-
-At least once during the **Search**, give each player a chance to use the
-Study Under a Master or Shop / Procure moves and give each player a chance to
-use the skill or item they chose.
-
-### The Power and Magic of the Mysterious World
-
-Make an exhibition of how this world has power unlike their place of comfort.
-There are forces here that aren't understood. Those forces can be scary, yes,
-but they can also be miraculous.
-
-Use one of your *Journey points* to make this exhibition.
-
-### Finishing the Search
-
-You achieve your GM goal in the **Search** phase if
-
- * you gave each player a chance to "level up" their character and use their
-   new skills or items
- * and you used at least one *Journey point*
- * and you used all the circled *Shadow points* you circled at the beginning
-
-If you do this, gain a *Journey point* and aim to move the plot to the next
-phase.
-
-
-<a name="9-hour-ch-5" />
-
-## Chapter 5: Find
-
-**AKA: Dark night of the soul**
-
-**AKA: Find the Hero within**
-
-When the narrative arrives at a point of relative quiet or peace, maybe
-during a Seek Help or Rest move, have an honest conversation with your
-players.
-
-This is a time for total vulnerability, weightlessness, and revelation.
-It is a time for the entire identity of the protagonists to "hang in the
-balance.
-Using dreamlike and mystical imagery in your exposition can be a great way
-to dress the stage.
-
-Taking a moment to change the background music can be especially effective
-in Chapter 5.
-
-Tell your players how you interpret the plot so far. Revisit where they've
-been, reinforce where they've arrived and say what it all means to you.
-Not as the sole author of a story, but as an interpreter of your shared
-authorship. Tell them how you see their characters, what they value, what
-they might represent metaphorically.
-
-Go around to each player and ask them
-
- * What direction forward does your character see as possible from here, or
-   does your character want to just stay right where they are?
- * Will your character sacrifice their life for something valuable in the
-   plot? If so, what, and why?
- * Have the events of this journey caused your character to give up a
-   "premise" -- a *fundamental* belief or relationship they held at the
-   beginning of the game?
-
-Make a note of all the answers.
-
-Next, ask any players still using the "Lucky" Stamina system if they're ready
-to switch over to the "Heroic" Stamina system. This is an opportunity for a
-player to gain more control in exchange for higher difficulty. If they say yes,
-make a note of it.
-
-If each character answered "stay", "sacrifice", or "abandon" to any of the
-questions above, or if any player switched from "Lucky" to "Heroic", gain
-a *Journey point*.
-
-
-<a name="9-hour-ch-6" />
-
-## Chapter 6: Take & Pay
-
-**AKA: The Ordeal**
-
-Just before this chapter, if you can give the players an opportunity to gain
-new skills or equipment for their characters, you should. They're going to
-need it.
-
-The characters have learned something in this mysterious place that is
-the key to both worlds. Maybe they learned something about themselves, maybe
-they received a great boon or symbol. Maybe they met a goddess that whispered
-a secret of the universe. Maybe they met their father. It could be something
-very literal, like the skill they just learned or a spear enchanted to pass
-through dragon's hide.
-
-This is the thing that will answer the **Need**.
-
-### Allot Shadow Points
-
-When you're ready, set up a challenge in the narrative, then draw a circle
-around **all** of the unused *Shadow points* on your GM Worksheet.
-To earn the *Journey point* of this chapter, use all the circled points
-before the characters get a chance to Rest.
-
-### Death Is Real Here
-
-Just as in the One-Shot campaign's Chapter 3, in this Chapter, the consequence
-for full Stamina loss is death.
-
-
-<a name="9-hour-ch-7" />
-
-## Chapter 7: Return
-
-This is a time to consider grief and acceptance.
-
-Ask the players what their characters will miss most about the world they're
-leaving behind. NPCs left behind? A fellow PC that died? It can be anything.
-
-Then ask the players how their characters will be received when they return.
-Was a **Need** established in Chapter 2, and if so, will the characters be
-able to answer it? Will the people of the ordinary world accept the characters
-back? Will they accept whatever treasure might have been found in Chapter 6?
-Will the dragon-piercing spear actually work against the dragon?
-
-What changes have happened in the familiar world, with our heroes being gone
-so long?
-
-Did a player's character die in an earlier chapter? Will their friends and
-family accept the survivors?
-
-Maybe the answers aren't clear, and you need to set up scenes and get everyone
-to flesh them out.
-
-Bring the story to a threshold. A doorway that will seal shut once crossed.
-A monster that once slain, will change everything forever. A volcano that must
-be extinguished or exploded.
-
-Build one final challenge for your players, a "Threshold Guardian".
-This can be a mob of villagers whose minds must be changed, it can be their
-cleverest adversary, or it can be that invulnerable dragon.
-
-Gain a *Journey point* if you confront the PCs with a monster, challenge,
-or obstacle that embodies:
-
- * grief: anger, bargaining, depression, denial
- * rejection of how the characters have changed
- * rejection of emotional growth
- * rejection that this story must end
-
-
-<a name="9-hour-ch-8" />
-
-## Chapter 8: Change
-
-**AKA: Freedom from the fear of death**
-
-When the characters return back to the ordinary world, they will have to
-defeat the Threshold Guardian, or if that chapter was skipped, they will have
-to come to terms with where they've been and who they are now.
-Each character's story resolves differently. Where does their new
-power lie? Items? Skills? Relationships? Knowledge? Something else?
-
-### The Chapter 8 Move: Reveal The Hearth
-
-The first time any PC:
-
- * employs skills or treasures the they attained during their adventure
-   to defeat the Threshold Guardian
- * attempts to banish something alien that came through the threshold by
-   using a gift they attained in the mysterious world
- * inspires an NPC from the ordinary world to be something more, to cast
-   away who they've been historically and to change.
- * wishes for something left behind on the other side of the threshold
- * presumes they are doomed, but chooses to defy death and struggle on
-
-Use a *Journey point* to Reveal The Hearth. The Hearth was the
-specific people, food, song, environmental feature, ritual or festival,
-or group activity that was identified at the beginning of the game.
-
-Describe how The Hearth which has been inaccessible, snuffed out, or hidden
-since the characters crossed the first threshold is now rekindled, reborn,
-re-imagined or its inheritor is revealed. All the PCs now have a chance to
-fully heal their wounds.
-
-For every wound healed, gain another *Journey point*.
-
-
-# 30-hour Campaign
-
-A 30-hour campaign is a trilogy of 9-hour campaigns, called "Books", with
-slight rules tweaks in the Book 2 and Book 3.
-
-Book 1 will play just the same as the 9-hour campaign. The PCs
-will venture from their original home into a mysterious world, and return.
-
-## Book 2
-
-At the beginning of Book 2, make a new GM Worksheet. Copy over any
-leftover *Journey points* and *Shadow points* from Book 1 onto
-this sheet.
-
-During Chapter 7 of Book 2, the PCs do not return to their original home.
-They return to a place that has some elements of their original home,
-but it is not where they came from.
-
-These elements may include:
-
- * Characters (friends and family)
- * Safety and comfort (even if temporary)
- * The Hearth
-
-Only gain a *Journey point* during Chapter 7 if the threshold they cross
-brings them to a place like this.
-
-## Book 3
-
-At the beginning of Book 3, make a new GM Worksheet. Copy over any
-leftover *Shadow points* from Book 2 onto this sheet. This Book starts
-with **zero** *Journey points*.
-
-In Book 3, *Shadow points* grow at double the normal rate:
-
- * ✅︎ gains you 2 *Shadow points*
- * on *FAST* moves, ✗ gains you 4 *Shadow points*
-
-Chapter 7 of Book 3 can return the PCs to their original home or wherever
-makes narrative sense.
-
-In this Book, show downsides of the narrative character changes made earlier.
-Will the characters give up their earlier accomplishments or boons to
-attempt for even greater ones?
-
-Try creating some monsters with immunities specific to the PCs' strengths.
-How will the PCs react if the prizes earned in their earlier adventures are
-rendered useless?
-
-
-# The real juice
-
-When you gather with friends you care about, sit around a table, and tell
-stories, you are sharing in a great power.
-
-There is a second journey that happens during play, and that is the journey
-that the players are on. Not the *characters*. The *players*.
-
-Every thought, idea, action expressed in the narrative came from a player, one
-of your friends. Even the most ephemeral or small contribution is special
-because it was unique to that person in that context.
-
-To make a campaign really great, pay attention to
-*who* your friends are and guess at *why* they are expressing their character
-the way they do. Then use those guesses in the story.
-
-This power, this "juice", this "second journey", is difficult to fully
-express in words. The narrative you create together is a means to explore
-*the human experience*. To exist *in the moment*. Create a model of
-reality, drop an avatar for yourself into it, distance your "real" self from
-it, and **play** at being different. Be free to express anger, affection,
-pain, the whole field of emotion, even that territory that is kept
-walled-off to cope with everyday life and behave harmoniously in society.
-
-Just like the fictional characters who cross over to a mysterious world,
-face the unknown, and return to the ordinary world, we players can choose to
-cross over and **play**, explore our unconsciousness, and find ourselves
-changed by what we confronted, unchained, poked, or set free down there.
 
 ---
 

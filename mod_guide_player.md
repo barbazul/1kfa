@@ -1834,7 +1834,8 @@ ranged (or "at range")
 their handheld weapons could not connect
 
 session
-: The contiguous period of time that you're at the table, playing the game
+: The contiguous period of time that you're at the table, playing the game.
+Roughly 3 hours
 
 the supply
 : The area on the table where all the cards and tokens are kept
