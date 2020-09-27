@@ -45,6 +45,14 @@ Players will signal the *kinds* of fun they want to have. It is
 your responsibility to notice these signals and insert that kind of
 fun into the game.
 
+<div class="note" style="font-size:smaller">
+
+Lastly, *and leastly*, after trying to get unanimous assent from all
+players, the GM may *rarely* need to claim final say in a disagreement
+so that the game can move forward.
+
+</div>
+
 Sometimes the you will meet the above responsibilities with your own
 creativity and improvisational skills. For what remains, this book will
 help you, particularly the [Guidance](#guidance) section.

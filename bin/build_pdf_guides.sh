@@ -32,6 +32,8 @@ sed --in-place -e "s/DATE/$DATE/" $SRC_GM
 sed --in-place -e "s/VERSION/$VERSION/" $SRC_PLAYER
 sed --in-place -e "s/VERSION/$VERSION/" $SRC_GM
 
+sed --in-place -E -e "s/\*FAST\*/![FAST](images\/fast.png)/" $SRC_GM
+sed --in-place -E -e "s/\*FAST\*/![FAST](images\/fast.png)/" $SRC_PLAYER
 sed --in-place -E -e "s/✗/![X symbol](images\/result_0.png)/" $SRC_GM
 sed --in-place -E -e "s/✗/![X symbol](images\/result_0.png)/" $SRC_PLAYER
 sed --in-place -E -e "s/✔✔✔/![triple check](images\/result_3.png)/" $SRC_GM

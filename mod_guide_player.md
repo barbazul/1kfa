@@ -48,6 +48,9 @@ the moment everyone's together at the table. Character creation will be an
 interactive activity that requires your friends. Open the GM Guide and look
 under the **Begin a Campaign** section for more details.
 
+This Player's Guide is a manual of all the procedures a non-GM player might
+need during play.
+
 </div>
 
 This game is a in the category of games called *conversation*. It may seem
@@ -184,6 +187,8 @@ See [Character advancement](#character-advancement) for more details.
 
 
 # The Deckahedron
+
+![Your Deckahedron](images/component_deckahedron.png)
 
 The main activity in the game is "saying stuff", mostly stuff about your
 character. Often, you'll say something that *triggers a move*, and that
@@ -339,11 +344,10 @@ a ✗. Instead, the GM just gains 2 *Shadow points*.
 
 ## Cards tagged *FAST*
 
-`TODO: illustration of FAST move`
 
-Some move cards have the *FAST* symbol. This indicates they can
-be used in conjunction with another move during your character's moment in
-the spotlight.
+Some move cards have the *FAST* symbol. This indicates
+they can be used in conjunction with another move during your character's
+moment in the spotlight.
 
 As the conversation moves around the table, players will
 have informal "turns" where they talk about what actions their character
@@ -354,13 +358,15 @@ character's actions until they trigger, then resolve a move.
 *FAST* moves are like "bonus" moves that augment, or quickly follow the
 initially triggered move.
 
-Characters will trigger **at most one** *FAST* move during their moment
-in the spotlight.
+Characters will trigger **at most one** *FAST*
+move during their moment in the spotlight.
 Otherwise the pace of the game can slow down, and other players may feel
 like they aren't getting a fair share.
 
-Examples of cards tagged *FAST* include Good Cardio, Where It Hurts, and
-Unknown Benefactor.
+![Cards tagged FAST](images/cards_marked_fast.png){ width=5inch }
+
+Examples of cards tagged *FAST* include Unknown Benefactor,
+Where It Hurts, and Shield.
 
 A moment in the spotlight might see your swordsman character triggering
 the move Mix It Up, causing damage to a foe, and then also triggering
@@ -500,7 +506,7 @@ Supporting players may not Do a Flashback on Teamwork Flips.
 
 A GM only calls for a flip when the situation is uncertain or risky for
 the character. If the outcome is certain, the GM may just narrate what
-happens. Or they may ask you some clarifying questions.
+happens. Or they may ask clarifying questions.
 
 This game is a conversation between people, so there is variability
 in how it plays out. Different GMs will draw their line of certainty at
@@ -536,20 +542,21 @@ this example, the player literally names a move ("I Mix It Up...").
 That's a strong signal to the GM, and the GM is likely to follow strong
 signals.
 
-If you enjoy playing in a style where things flow like a conversation or
-a story, from question to answer, from description to dialogue and back
+If you enjoy playing in a style where things flow like a narrated story,
+from question to answer, from description to dialogue and naturally back
 around again, rather than pushing a limited set of buttons laid out in
 front of you, try playing without *naming* the moves. Just describe what your
 character does in a natural way.
 
 "Kresk wants that acorn! I slam my fist down on the squirrel!"
 
-### Fictional position *matters*
+### Moves Depend On the Fiction
 
 Because uncertainty is a key requirement before a flip is called for,
 the fiction that you and your friends establish *matters*.
 
-If a character threatens a towering Mountain Giant with a punch in the shin,
+If a character threatens a towering Mountain Giant with a punch (that would
+only reach the Giant's lower shin),
 the GM will not call for a Parley flip. A wound to the arm or hand might be
 described in such a way that would clearly make using a bow for Volley or
 Called Shot impossible. Or successful application of an Amulet of Amiability
@@ -620,7 +627,8 @@ and summed up to 7. You can either take 7 Exhaustion tokens (thus losing 7
 Stamina points), or choose to take one Wound token instead.
 
 Let's further say your character had lost 3 Stamina points earlier in the
-battle. With only 7 Stamina points left, it's a wise time to take a Wound.
+battle. With only 7 Stamina points left, it's a wise time to take a Wound
+(see below).
 
 
 ## Distribute
@@ -676,13 +684,13 @@ all intelligent creatures seek to cure their condition as a high priority.
 When you are instructed to take a Wound:
 
  * **If you already have 2 wounds**:
-   - the character is incapacitated
+    - the character is incapacitated
  * **Otherwise**:
-   1. The GM describes how the character was wounded
-   2. Place a *Wound token* on your *Exhaustion pile*
-   3. Randomly draw a *wound card* from the supply and place it in your
-      *discard pile*. It will now start cycling between your Deckahedron
-      and your *discard pile*.
+    1. The GM describes how the character was wounded
+    2. Place a *Wound token* on your *Exhaustion pile*
+    3. Randomly draw a *wound card* from the supply and place it in your
+       *discard pile*. It will now start cycling between your Deckahedron
+       and your *discard pile*.
 
 ![Wound token](images/component_wound.png){ width=2.5inch }
 
@@ -694,7 +702,7 @@ Having a *wound card* in your Deckahedron causes some nasty effects.
 
 Whenever you **flip** and reveal a wound card, follow these rules:
 
- * Say or act out the guttural noise emitted by your character
+ * (Optional) Say or act out the guttural noise emitted by your character
  * You must immediately stop flipping (eg, if you were
    instructed you to "flip 3", you stop short once you hit
    the wound card - resolve the move with only the card(s) you flipped.
@@ -736,8 +744,8 @@ with mechanisms of the game.
 Daily-use amounts of money and food are not tracked. It is assumed
 your character will always be able to scrounge a meal somehow.
 Unless it is relevant to the drama of the fictional situation or
-inspired by the Touchstone List, small monetary transactions
-may be abridged or assumed.
+inspired by the Touchstone List (see the GM Guide), small monetary
+transactions may be abridged or assumed.
 
 It is also not necessary to exactly measure movement speed or the sizes
 of all the gear carried or to track the body part to which the gear
@@ -751,7 +759,7 @@ There are some moves that are affected by how much *stuff*
 a character carries. These moves have a "Encumbrance Penalty" section,
 and describe how carried equipment affects their outcomes.
 
-At any time that it makes sense in the fiction, a character can drop items
+At any time that makes sense in the fiction, a character can drop items
 and equipment.
 
 ## Pack - Precious and regular
@@ -761,7 +769,7 @@ and supplies that are worth tracking. These items don't need to be specified
 until they actually get used. Instead they are tracked with anonymous Pack
 cards.
 
-`TODO: illustration of Pack and Precious Pack cards`
+![Pack cards](images/component_card_pack.png)
 
 White-side green cards represent "regular" Pack and black-side green cards
 represent "precious" Pack.
@@ -820,7 +828,7 @@ to create the necessary tool, in a MacGuyver-esque fashion.
 
 ## Item Damage
 
-`TODO item damage diagram`
+![Item damage](images/component_card_damage.png)
 
 Damage to items is represented as black-side red cards.
 
@@ -899,6 +907,8 @@ for the purposes of the Rest and Seek Help moves.
 
 #### Charges and Capacity
 
+![Capacity gauge](images/component_card_capacity.png)
+
 By default, magic items have capacity for 3 charges.
 An item is considered "depleted" when all its charges are used.
 The term used for a card's maximum number of charges is "capacity"
@@ -910,8 +920,6 @@ on top of it, it is *depleted* and cannot be used.
 
 Charge capacity can be gained and lost. Every time it changes, players
 should mark the new capacity on the Magic Item card
-
-`TODO: illustration of charge capacity gauge`
 
 
 ## Use a Magic Item
@@ -1021,12 +1029,13 @@ storytelling, and improv means rolling with the punches sometimes.
 One of the 20 cards in your Deckahedron is the "Critical Success card". It
 has a ✔✔✔ symbol on every edge and a circular green symbol in the middle.
 
-If you *resolve a flip* with the Critical Success card, you can do two things:
+If you *resolve a flip* with the Critical Success card, you can do one of
+two things:
 
  * Say how your character's practice has finally paid off, or how they had
    an insight or epiphany about the move they just accomplished. Spend
    XP 1-for-1 to go up levels in the move that was just resolved.
- * Take a Blessing card from the supply and put it in their discard pile.
+ * Take a Blessing card from the supply and put it in your discard pile.
 
 
 ## Taking a Breather
@@ -1056,20 +1065,26 @@ cards they want, but may not flip them face-up if they are face-down.
 When combat or a pursuit ends, and it is appropriate for the narrative
 (e.g. when there's a scene transition and the characters reasonably have
 a few minutes to catch their breath), the players may **Take a Breather**
-using Str as an *FAST* move (ie, no negative narrative consequences
-if the result is ✗ or ✅︎).
+using Str as a *FAST* move (ie, no GM move triggers if the result is ✗ or ✅︎).
 
 
 ## Good Cardio
 
+![Good Cardio card](images/move_good_cardio.png){ width=2.5inch }
+
 This card makes a character an especially resilient fighter and athlete.
 
 In a combat encounter, a player will usually trigger an aggressive move like
-Mix It Up or Volley.  In addition, players often trigger at most one
-*FAST* move. If they haven't chosen a different *FAST* move, they
-can always trigger Good Cardio, and regain some of their lost Stamina points.
+Mix It Up or Volley. During their turn in the spotlight, the player can also
+trigger one more move, as long as it has the *FAST* tag.
+Good Cardio is one such card, and allows the character to regain some of
+their lost Stamina points, and stay in the action longer.
 
-This is a highly recommended strategy for any character who has lost Stamina.
+Good Cardio has an additional effect that passively prevents a character
+from losing Stamina in the first place. Instead of losing a point of Stamina,
+an Exhaustion token can be placed in the first "slot" of the card. If the
+character goes up *move levels* (see below), a new slot opens up for each
+level the move is increased. Only one token can be placed in a slot.
 
 
 ---
@@ -1077,6 +1092,8 @@ This is a highly recommended strategy for any character who has lost Stamina.
 # SESSION 2 RULES
 
 ---
+
+![Illustration](images/art_kstramat_bw.png)
 
 # The Session Opener
 
@@ -1123,7 +1140,7 @@ player to outright say what they want to go shopping for.
 The GM should be honest with the narrative, stay true to their goals and
 try to provide the kind of fun the player has signaled they want to have.
 
-The GM shall not present a player a card the character is unable to
+The GM shouldn't present a player a card the character is unable to
 use.
 
 ### Mundane Items: Armor, weapons, etc
@@ -1170,7 +1187,7 @@ their Armour card. This represents the character getting lucky, and their
 armour absorbing the attack instead of their body. Better armour has
 more chances to protect its wearer.
 
-`TODO illustration of Harm / Wound slots`
+![Slots](images/component_card_slots.png)
 
 The armour available to characters during character creation is the weakest
 kind. This kind of armour has 1 slot that can absorb a Harm or a Wound.
@@ -1248,6 +1265,13 @@ calculating an encumbrance penalty.
 Is the item particularly heavy or large? The GM should weigh that
 cost against the weapon's other features.
 
+## Obsessive Contemplation
+
+![Obsessive Contemplation card](images/move_obsessive_contemplation.png){ width=2.5inch }
+
+When using a Precious Item that is just represented by a Pack card,
+swap the Pack card with a new blank Magic Item card and write a description
+and charge capacity on the new card.
 
 # Character preservation and recovery
 
@@ -1258,9 +1282,9 @@ cost against the weapon's other features.
 When players find themselves on the losing side of a battle, or want to
 avoid a daunting threat, they may choose to run away. If their characters
 are positioned in a way that their escape is possible, according to the
-established fiction, the GM will allow them to escape, but there is a cost.
-The players temporarily lose narrative control and the GM gets to say
-where the players' characters end up.
+established fiction, use this move.
+The players temporarily lose narrative control and the GM will say
+where the characters end up.
 
 There may also be a Stamina cost (or Stamina gain) depending on how weighed
 down the characters were by their equipment.
@@ -1334,7 +1358,7 @@ contemporary city with doctors and hospitals or a tranquil oasis infused
 with healing magic.
 
 That the healing powers are *external* is important. Seek Help is a move
-where players explore how their characters have limits and cannot do
+where players acknowledge their characters' limits and cannot do
 everything on their own.
 
 When you spend a day healing:
@@ -1345,8 +1369,9 @@ When you spend a day healing:
  * Step 4: Count the *Wound* tokens on your *Exhaustion pile*
  * Step 5: Keep that many cards (player chooses which ones) in your
    *Exhaustion pile*, put the rest into your *discard pile*
- * Step 6: Return one *Wound* token and one *wound card* to the supply
+ * Step 6: Return all *wound cards* to the supply (but not *Wound* tokens)
  * Step 7: Say who you are closer to forgiving
+ * Step 8: If you are at The Hearth, return all *Wound* tokens to the supply
 
 As with *Resting*, time spent *Seeking Help* cannot also be used in
 activities that take effort.
@@ -1364,7 +1389,7 @@ Remove all Harm and Wound tokens from your armour cards.
 
 ![SUaM card](images/move_study_under_a_master.png){ width=2.5inch }
 
-This is the move by which your character becomes a powerful force in
+This move steps your character towards becoming a powerful force in
 the world.
 
 When your character is in a town (a village, city, etc. -- any safe
@@ -1385,7 +1410,7 @@ Some Move cards have icons on them that indicate "levels". These levels
 represent how good your character is at that skill. For example, the move
 Pick Pockets has 5 icons.
 
-![Pick Pockets card](images/pick_pockets_card.png){ width=2.5inch }
+![Move levels](images/component_card_move_levels.png){ width=2.5inch }
 
 These are the "move levels" for Pick Pockets.
 From left to right, these icons are called:
@@ -1401,15 +1426,14 @@ the card and your character would be "studied" in the skill.
 
 ## Increased Move Levels
 
-Later, you can go up a level in Pick Pockets. Either by using the Study
+Later, you can go up a level in Pick Pockets. (Either by using the Study
 Under a Master move, or when you resolve a Pick Pockets flip and happen
 to get a *Critical Success card*
 See [Critical Success](#critical-success)
+)
 
-![Green card](images/green_card_black.png){ width=2.5inch }
-
-Take a green card, and put it on top of the move card. Put the green
-card black-side-up.
+With a pencil, circle or underline the expert, or "1 green" symbol on the
+Pick Pockets card.
 
 `TODO: diagram`
 
@@ -1421,17 +1445,16 @@ process again later, which would let you add 2 advantage cards when you flip.
 
 ## Decreased Move Levels
 
-But what about the 2 "red" levels?
+But what about the "red" levels?
 
 Any PC can attempt any move that is performed by flipping Str, Dex, or
 Int -- even if the player doesn't have that move card!
 
 For any such moves, all characters start at the lowest level shown on the
-card.  So every character is "wild" or "novice" at every skill that is
-tested by flipping Int, Str, or Dex.
+card.  This will be either the "wild" or "novice" level.
 
-Every character, at any time, can attempt to hit two opponents in combat
-(via Goreography). Every character can attempt to cast a spell (via
+For Example, every character, at any time, can attempt to hit two opponents
+in combat (via Goreography). Every character can attempt to cast a spell (via
 Fundamental Magic). But, their odds are very low.
 
 You can attempt moves even if you don't meet the requirements shown.
@@ -1446,10 +1469,8 @@ disadvantage.
 If you perform a "wild" level move, and you resolve that flip with a
 *Critical Success card*, you can spend 1 XP to graduate to "novice" level.
 
-![Red card](images/red_card_black.png){ width=2.5inch }
-
-If you choose to do so, take the move card and a red card. Place the red card
-on top of the move card, black-side-up.
+If you choose to do so, take the move card and underline or circle the
+"1 red" symbol on it.
 
 
 ----
@@ -1660,7 +1681,7 @@ This game is a tool for telling stories about a group of characters that
 work together to overcome some danger that threatens them all. The details
 of their alliance are discovered through play, and those details can include
 tension and disagreement. This section provides rules for the tensions to
-be exhibited in the narrative, but also tries to guide the resolution of
+be exhibited in the narrative, but also guides the resolution of
 those tensions to a state where the characters are afterward unified
 against their common, non-player, foes.
 
@@ -1696,7 +1717,7 @@ The GM can still collaborate with the players to describe narrative outcomes
 of the altercation, and may even use the situation to bring dangers to bear,
 but may not reduce player resources as a result of the specific action.
 
-Inter-party conflict can provide some of the most interesting and dramatic
+Intra-party conflict can provide some of the most interesting and dramatic
 moments of a campaign. Those moments arise from a group of friends at the
 table collaborating together.
 
