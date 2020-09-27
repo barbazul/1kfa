@@ -624,11 +624,10 @@ taking a single Wound.
 
 Let's say your character was attacked with a sword and the dice were rolled
 and summed up to 7. You can either take 7 Exhaustion tokens (thus losing 7
-Stamina points), or choose to take one Wound token instead.
+Stamina points), or choose to take one *Wound token* (see below) instead.
 
 Let's further say your character had lost 3 Stamina points earlier in the
-battle. With only 7 Stamina points left, it's a wise time to take a Wound
-(see below).
+battle. With only 7 Stamina points left, it's a wise time to take a Wound.
 
 
 ## Distribute
