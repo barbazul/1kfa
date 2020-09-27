@@ -144,7 +144,7 @@ A Thousand Faces of Adventure is a game about your character growing
 from humble beginnings as a **scrappy adventurer** into someone who will
 have an epic impact on their world.
 
-`TODO: illustration of character sheet`
+![Your Character Sheet](images/component_character_sheet.png){ width=2.5inch }
 
 During [character creation](mod_guide_gm.md#character-creation), you
 will get to determine all aspects of your character's history, social
@@ -198,10 +198,10 @@ backs of the cards:
 
 Name      | suit                                    | odds                              | color  | rank
 ----------|-----------------------------------------|-----------------------------------|--------|-------
-Anvil     | ![anvil suit](images/suit_anvil.png){ width=0.5inch }     | indicates the weakest odds        | red    | rank 1
-Blade     | ![blade suit](images/suit_blades.png){ width=0.5inch }         | indicates below average odds      | blue| rank 2
-Crown     | ![crown suit](images/suit_crown.png){ width=0.5inch } | indicates above average odds      | yellow | rank 3
-Dragon    | ![dragon suit](images/suit_dragon.png){ width=0.5inch }         | indicates the best odds           | green | rank 4
+Anvil     | ![anvil suit](images/suit_anvil.png){ width=0.5inch }     | the weakest odds        | red    | rank 1
+Blade     | ![blade suit](images/suit_blades.png){ width=0.5inch }         | below average odds      | blue| rank 2
+Crown     | ![crown suit](images/suit_crown.png){ width=0.5inch } | above average odds      | yellow | rank 3
+Dragon    | ![dragon suit](images/suit_dragon.png){ width=0.5inch }         | the best odds           | green | rank 4
 
 Shuffle your Deckahedron and place it face-down in front of you.
 

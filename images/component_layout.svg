@@ -130,10 +130,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.55078622"
-     inkscape:cx="235.93176"
+     inkscape:cx="-89.058215"
      inkscape:cy="526.59064"
      inkscape:document-units="px"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
@@ -195,11 +195,12 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="character sheet"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        id="g59345"
-       transform="matrix(0.95318211,0,0,0.95373844,935.17869,-991.7066)">
+       transform="matrix(0.95318211,0,0,0.95373844,935.17869,-991.7066)"
+       inkscape:export-xdpi="96.58754"
+       inkscape:export-ydpi="96.58754">
       <rect
          y="1527.3851"
          x="-959.66553"
@@ -3200,7 +3201,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="character sheet fog"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:0.19607843;stroke:none;stroke-width:1.77165353;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.54330709, 3.54330709;stroke-dashoffset:0;stroke-opacity:1"
@@ -6190,7 +6191,7 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="flip"
-     style="display:inline">
+     style="display:none">
     <path
        inkscape:connector-curvature="0"
        id="path11278"
