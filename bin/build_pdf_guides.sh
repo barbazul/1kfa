@@ -27,28 +27,11 @@ cp $KFAREPO/mod_guide_gm.md $SRC_GM
 DATE=$(date -I)
 source $KFAREPO/resolution_cards/version.py # populate VERSION variable
 
-sed --in-place -e "s/DATE/$DATE/" $SRC_PLAYER
-sed --in-place -e "s/DATE/$DATE/" $SRC_GM
 sed --in-place -e "s/VERSION/$VERSION/" $SRC_PLAYER
 sed --in-place -e "s/VERSION/$VERSION/" $SRC_GM
 
-sed --in-place -E -e "s/\*FAST\*/![FAST](images\/fast.png)/" $SRC_GM
-sed --in-place -E -e "s/\*FAST\*/![FAST](images\/fast.png)/" $SRC_PLAYER
-sed --in-place -E -e "s/✗/![X symbol](images\/result_0.png)/" $SRC_GM
-sed --in-place -E -e "s/✗/![X symbol](images\/result_0.png)/" $SRC_PLAYER
-sed --in-place -E -e "s/✔✔✔/![triple check](images\/result_3.png)/" $SRC_GM
-sed --in-place -E -e "s/✔✔✔/![triple check](images\/result_3.png)/" $SRC_PLAYER
-sed --in-place -E -e "s/✔✔/![double check](images\/result_2.png)/" $SRC_GM
-sed --in-place -E -e "s/✔✔/![double check](images\/result_2.png)/" $SRC_PLAYER
-sed --in-place -E -e "s/✔/![single check](images\/result_1.png)/" $SRC_GM
-sed --in-place -E -e "s/✔/![single check](images\/result_1.png)/" $SRC_PLAYER
-sed --in-place -E -e "s/\xef\xb8\x8e//" $SRC_GM
-sed --in-place -E -e "s/\xef\xb8\x8e//" $SRC_PLAYER
-sed --in-place -E -e "s/✅/![single check](images\/result_1.png)/" $SRC_GM
-sed --in-place -E -e "s/✅/![single check](images\/result_1.png)/" $SRC_PLAYER
-
-sed --in-place -E -e "s/mod_guide_gm.md/1kfa_guide_gm.html/" $SRC_PLAYER
-sed --in-place -E -e "s/mod_guide_player.md/1kfa_guide_player.html/" $SRC_GM
+python2 $KFAREPO/bin/preprocess_guides.py $SRC_PLAYER
+python2 $KFAREPO/bin/preprocess_guides.py $SRC_GM
 
  #-s                puts the utf-8 header in
  #--self-contained  puts data: URLs in

@@ -6,6 +6,27 @@
   margin-right: -5em;
   float: right;
 }
+.note:after {
+  clear: both;
+}
+.floatimage {
+  float: right;
+}
+.floatimage:after {
+  clear: both;
+}
+img {
+  transition: transform .4s;
+}
+img:hover {
+  transform: scale(2.0);
+}
+h1 {
+  clear: both;
+}
+h2 {
+  clear: both;
+}
 </style>
 # A Thousand Faces of Adventure: Player's Guide
 
@@ -188,7 +209,7 @@ See [Character advancement](#character-advancement) for more details.
 
 # The Deckahedron
 
-![Your Deckahedron](images/component_deckahedron.png)
+![Your Deckahedron](images/component_deckahedron.png){ width=2.5inch }
 
 The main activity in the game is "saying stuff", mostly stuff about your
 character. Often, you'll say something that *triggers a move*, and that
@@ -229,13 +250,13 @@ every move, so have that move card or page in your booklet ready.
 
 </div>
 
-![Your Deckahedron and Character Sheet](images/component_layout.png){ width=2.5inch }
+ ![Your Deckahedron and Character Sheet](images/component_layout.png){ width=2.5inch }
 
 Take the top card of your Deckahedron and flip it face up.
 Next, find the suit (Anvil, Blades, Crown, or Dragon) of the chosen attribute
 on your character sheet.
 
-![Flipping a card](images/component_flip.png){ width=2.5inch }
+ ![Flipping a card](images/component_flip.png){ width=2.5inch }
 
 On the face side of the Deckahedron card, find that suit symbol.
 The result of the move is the ✗ or ✔ symbols next to that suit.
@@ -243,7 +264,7 @@ When you flip, keep in mind that the GM may need to read the result. Being
 consistent with how you orient the card will help simplify the GM's
 bookkeeping and keep up the pace of the game.
 
-![Resolving a move](images/component_read.png){ width=2.5inch }
+ ![Resolving a move](images/component_read.png){ width=2.5inch }
 
 Finally, read the instructions on your move card.
 It tells you and the GM how to interpret the ✗s and ✔s.
@@ -298,7 +319,7 @@ When a player's character performs a move, the player executes a flip,
 and the GM leads the table interpreting the narrative result, based on the
 text of the move card.
 
-![flip results](images/flip_results.png){ width=2.5inch }
+ ![flip results](images/flip_results.png){ width=2.5inch }
 
 Usually ✔✔✔ means an unfettered success,
 and ✔✔ means success, but with complication.
@@ -656,7 +677,7 @@ When you are instructed to lose or expend a Stamina point:
  2. Put that card face-down on your *Exhaustion pile*
  3. Place an Exhaustion token on your *Exhaustion pile*
 
-![Component layout](images/component_layout.png){ width=2.5inch }
+ ![Component layout](images/component_layout.png){ width=2.5inch }
 
 ![Exhaustion token](images/component_exhaustion.png){ width=2.5inch }
 
@@ -677,6 +698,8 @@ the character is dead, unconscious, or just unable to stand or move.
 
 ### Taking Wounds
 
+![Wound token](images/component_wound.png){ width=2.5inch }
+
 Wounds are a long-term source of trouble for your charcter. When wounded,
 all intelligent creatures seek to cure their condition as a high priority.
 
@@ -691,7 +714,6 @@ When you are instructed to take a Wound:
        *discard pile*. It will now start cycling between your Deckahedron
        and your *discard pile*.
 
-![Wound token](images/component_wound.png){ width=2.5inch }
 
 #### A Wound Card
 
@@ -763,12 +785,13 @@ and equipment.
 
 ## Pack - Precious and regular
 
+![Pack cards](images/component_card_pack.png){ width=2.5inch }
+
 Throughout the game, your character will gain, lose, and trade equipment
 and supplies that are worth tracking. These items don't need to be specified
 until they actually get used. Instead they are tracked with anonymous Pack
 cards.
 
-![Pack cards](images/component_card_pack.png)
 
 White-side green cards represent "regular" Pack and black-side green cards
 represent "precious" Pack.
@@ -827,7 +850,7 @@ to create the necessary tool, in a MacGuyver-esque fashion.
 
 ## Item Damage
 
-![Item damage](images/component_card_damage.png)
+![Item damage](images/component_card_damage.png){ width=2.5inch }
 
 Damage to items is represented as black-side red cards.
 
@@ -906,19 +929,28 @@ for the purposes of the Rest and Seek Help moves.
 
 #### Charges and Capacity
 
-![Capacity gauge](images/component_card_capacity.png)
+![Magic item with 3 charges](images/component_card_magic_item.png){ width=2.5inch }
 
 By default, magic items have capacity for 3 charges.
 An item is considered "depleted" when all its charges are used.
 The term used for a card's maximum number of charges is "capacity"
 or "charge capacity".
 
+The number of charges a magic item *currently* has is tracked by
+keeping green cards underneath it.
+
 When a magic item loses a charge, remove a green card from the item
 card and place it in the supply. When there are no more green cards
 on top of it, it is *depleted* and cannot be used.
 
+ ![Capacity gauge](images/component_card_capacity.png)
+
 Charge capacity can be gained and lost. Every time it changes, players
 should mark the new capacity on the Magic Item card
+
+If the charge capacity decreases below 1, all the bonds that held
+the item together dissipate, including the bonds of matter. Return the
+card to the supply.
 
 
 ## Use a Magic Item
@@ -945,7 +977,7 @@ choice.
 
 ## Entreat the Blood-Bound
 
-![Entreat the Blood-Bound](images/move_entreat_the_blood_bound.png){ width=2.5inch }
+ ![Entreat the Blood-Bound](images/move_entreat_the_blood_bound.png){ width=2.5inch }
 
 If it has not yet been established, when a player first uses this move, it's
 a great time for the GM to ask them a question: "Who or what is the
@@ -1434,7 +1466,7 @@ See [Critical Success](#critical-success)
 With a pencil, circle or underline the expert, or "1 green" symbol on the
 Pick Pockets card.
 
-`TODO: diagram`
+![Marking a move levels](images/component_card_move_level_mark.png){ width=2.5inch }
 
 With Pick Pockets leveled up, any time you perform that move in the future,
 you will add an advantage card when you flip.
