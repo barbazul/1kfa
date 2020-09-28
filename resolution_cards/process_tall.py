@@ -339,6 +339,8 @@ def make_deck(cards):
 
 
 def make_documentation_images(cards):
+    return
+    """
     tmp_template_filename = DIR + '/move_card_template.svg'
     for i, card in enumerate(cards):
         slug = filenamify(card['title'])
@@ -358,6 +360,7 @@ def make_documentation_images(cards):
 
             export_png(tmp_template_filename, doc_img_filename, 381, 381)
 
+    """
 
 def make_deck_from_svg_dir(dirpath, fpart=None):
     for fname in os.listdir(dirpath):

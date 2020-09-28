@@ -6,6 +6,27 @@
   margin-right: -5em;
   float: right;
 }
+.note:after {
+  clear: both;
+}
+.floatimage {
+  float: right;
+}
+.floatimage:after {
+  clear: both;
+}
+img {
+  transition: transform .4s;
+}
+img:hover {
+  transform: scale(2.0);
+}
+h1 {
+  clear: both;
+}
+h2 {
+  clear: both;
+}
 </style>
 # A Thousand Faces of Adventure: Game Master's Guide
 
@@ -518,7 +539,7 @@ to memory will make it go a little easier:
 This compact formulation of The Hero's Journey is inspired by Dan
 Harmon's "Story Circle".
 
-<div>
+</div>
 
 <a name="9-hour-ch-1" />
 
