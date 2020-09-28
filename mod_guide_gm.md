@@ -1286,14 +1286,14 @@ going to happen unless they do something about it.
 
 When you deal damage, choose one source of damage that's fictionally
 threatening a character and apply it. In combat with a lizard man?
-It stabs you. Triggered a trap? Rocks fall on you.
+It stabs you. Fell off the old bridge? Land on a rock.
 
-The amount of damage is decided by the source. In some cases, this
-move might involve trading damage both ways, with the character also
-dealing damage.
+Failed moves like Mix It Up and Defy Danger can base their damage on
+a die roll. When a player takes damage, tell them what to roll. You
+never need to touch the dice.
 
-Most damage is based on a die roll. When a player takes damage, tell
-them what to roll. You never need to touch the dice.
+At other times, the amount of damage might be determined by Shadow Points.
+See [Using Shadow Points](#using-shadow-points).
 
 ### Use up their resources
 
