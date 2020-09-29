@@ -840,13 +840,15 @@ equipment is something that can be returned to the backpack after
 use, write its name down on a blank card and exchange that card for the
 "anonymous" Pack card(s) that were the cost of "Good Thing I Brought...".
 
-If the equipment is something that gets consumed immediately when used,
-the 1 or 2 Pack cards just get discarded.
-
-If 2 red cards are spent, and the character ends up with one card returning
-to their backpack, use the fiction to justify that. Maybe they didn't have
+If 2 Pack cards are spent, and the character ends up with one card returning
+to their backpack, future Encumberance Penalty calculations will change.
+Use the fiction to justify that. Maybe they didn't have
 *exactly* what they needed, so one piece of equipment had to be consumed
 to create the necessary tool, in a MacGuyver-esque fashion.
+
+If the equipment is something that gets consumed immediately when used,
+the 1 or 2 Pack cards just get returned back to the supply.
+
 
 ## Item Damage
 
@@ -939,9 +941,9 @@ or "charge capacity".
 The number of charges a magic item *currently* has is tracked by
 keeping green cards underneath it.
 
-When a magic item loses a charge, remove a green card from the item
-card and place it in the supply. When there are no more green cards
-on top of it, it is *depleted* and cannot be used.
+When a magic item loses a charge, take one of the green cards
+and place it back in the supply. When there are no more green cards
+underneath it, it is *depleted* and cannot be used.
 
  ![Capacity gauge](images/component_card_capacity.png)
 
@@ -1282,6 +1284,12 @@ Blocking attack power with a shield is a *FAST* move,
 and players may not make more than one *FAST* move per turn in the spotlight.
 
 ## More Power
+
+Some cards show a "power gauge" that indicates whether the *attack power*
+(in the case of a weapon) or *effect* (in the case of a magic item) will
+use a d4, d6, or d10.
+
+![Power gauge](images/component_card_power_gauge.png){ width=2.5inch }
 
 After character creation, an armed PC will be rolling 1d4 for their attack
 power. This can be increased later on in the game via the moves Tales of a
@@ -1779,6 +1787,8 @@ the enveloped cards if you can arrange your current move cards to form the
 number of rings shown on the envelope.
 <!-- /Summary -->
 
+`TODO: this bit should go in the GM Guide`
+
 Place the following cards inside the envelope marked with one green ring:
 
  * Mystic Breathwork
@@ -1801,14 +1811,16 @@ Master* until the character has already built up some skill.
 Take a look through the move cards and see that there are partial rings
 printed on them - either in the corners or on the sides.
 
-When you can arrange your own move cards together in such a way that a
-ring is completed, you "have" a ring. If your cards can arrange to
-show 2 rings, then you "have" 2 rings.
+When you receive a new move card, arrange your own move cards in such a
+way that the most rings are completed. If your cards can arrange to show
+1 ring, you may remove a card from the single green ring envelope and put
+it in the supply.  If you can arrange them to show 2 rings, you may remove
+a card from either envelope and put it in the supply.
 
 ![ring arrangements](images/ring_arrangements.png){ width=2.5inch }
 
-If your card arrangement had the cards *Pick Pockets* and *Not On My Turf*
-next to each other, you could complete a ring.
+For example, if your card arrangement had the cards *Pick Pockets* and
+*Not On My Turf* next to each other, you could complete a ring.
 If you didn't have the *Not On My Turf* card, but instead had the *Fury*
 card, you could arrange it next to *Pick Pockets* to complete a ring.
 
