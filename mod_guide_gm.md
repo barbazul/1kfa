@@ -3535,6 +3535,8 @@ See LICENSE.txt
 
 Special thanks to Avery Alder.
 
+Additional Consultation Adam Koebel.
+
 
 ---
 
