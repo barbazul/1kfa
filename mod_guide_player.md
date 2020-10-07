@@ -75,8 +75,7 @@ need during play.
 </div>
 
 This game is a in the category of games called *conversation*. It may seem
-weird to think of *conversation* as a "game", but it's very convenient
-to see things this way.
+weird to think of *conversation* as a "game", but it's also convenient.
 Accepting that this game is a conversation lets you rely on your existing
 knowledge and expertise at conversation "games".
 You've already learned about things like taking turns, interruption
