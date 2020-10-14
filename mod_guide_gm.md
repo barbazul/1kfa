@@ -547,6 +547,10 @@ Harmon's "Story Circle".
 
 **AKA: Start in a place of normalcy / comfort**
 
+<div class="note josephcampbell">
+Your sacred space is where you can find yourself over and over again.
+</div>
+
 In the 9-hour campaign, start the game just like you would in the One-shot
 campaign. See [Chapter 1 of the One-Shot Campaign](#one-shot-ch-1)
 
@@ -556,6 +560,11 @@ campaign. See [Chapter 1 of the One-Shot Campaign](#one-shot-ch-1)
 ## Chapter 2: Need
 
 **AKA: Call to adventure**
+
+<div class="note josephcampbell">
+You must give up the life you planned in order to have the life
+that is waiting for you.
+</div>
 
 In this chapter, the characters still feel safe, but discover that there
 is something they need to do soon, or somewhere they need to go.
@@ -630,6 +639,11 @@ that choice. It will lead naturally to Chapter 3.
 
 **AKA: Threshold and Threshold Guardian**
 
+<div class="note josephcampbell">
+We must be willing to let go of the life we planned so as to
+have the life that is waiting for us.
+</div>
+
 In the 9-hour campaign, run Chapter 3 just like you would in the "Cross a
 Threshold" chapter of the One-shot campaign. The *Journey point* is gained
 when the PCs cross a threshold with a true choice.
@@ -654,6 +668,10 @@ halflings are the only ones who will fit into the goblin armor.
 **AKA: Road of Trials**
 
 **AKA: Fun & Games**
+
+<div class="note josephcampbell">
+The fates lead him who will; him who won't they drag.
+</div>
 
 The characters have now entered a situation that is not ordinary, not
 comfortable. There is mystery here, unknowns, new people, new territory.
@@ -729,6 +747,13 @@ Not as the sole author of a story, but as an interpreter of your shared
 authorship. Tell them how you see their characters, what they value, what
 they might represent metaphorically.
 
+<div class="note josephcampbell">
+ And where we had thought to find an abomination, we shall find a god;
+ where we had thought to slay another, we shall slay ourselves;
+ where we had thought to travel outward, we shall come to the center of our own existence;
+ where we had thought to be alone, we shall be with all the world.
+</div>
+
 Go around to each player and ask them
 
  * What direction forward does your character see as possible from here, or
@@ -756,6 +781,11 @@ a *Journey point*.
 ## Chapter 6: Take & Pay
 
 **AKA: The Ordeal**
+
+<div class="note josephcampbell">
+Where you stumble and fall, there you will find gold.
+</div>
+
 
 Just before this chapter, if you can give the players an opportunity to gain
 new skills or equipment for their characters, you should. They're going to
@@ -786,6 +816,11 @@ for full Stamina loss is death.
 <a name="9-hour-ch-7" />
 
 ## Chapter 7: Return
+
+<div class="note josephcampbell">
+You must give up the life you planned in order to have the life that
+is waiting for you.
+</div>
 
 This is a time to consider grief and acceptance.
 
@@ -829,6 +864,11 @@ or obstacle that embodies:
 ## Chapter 8: Change
 
 **AKA: Freedom from the fear of death**
+
+<div class="note josephcampbell">
+We're not on our journey to save the world but to save ourselves.
+But in doing that you save the world. The influence of a vital person vitalizes.
+</div>
 
 When the characters return back to the ordinary world, they will have to
 defeat the Threshold Guardian, or if that chapter was skipped, they will have
