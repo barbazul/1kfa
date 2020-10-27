@@ -684,10 +684,10 @@ When you are instructed to lose or expend a Stamina point:
 from the top of your Deckahedron onto your Exhaustion pile, then you
 put 3 Exhaustion tokens on top of it as well.)
 
-If your Deckahedron does not contain enough cards, the player **must**
-reshuffle their *discard pile* into the Deckahedron and continue.
+If your Deckahedron does not contain enough cards, you **must**
+reshuffle your *discard pile* into the Deckahedron and continue.
 
-Note: Players *may* choose to reshuffle their *discard pile* back into the
+Note: you *may* choose to reshuffle their *discard pile* back into the
 Deckahedron *before* moving cards onto their *Exhaustion pile*.
 
 Once the *Exhaustion pile* grows to 10 cards, the character is
@@ -705,9 +705,9 @@ all intelligent creatures seek to cure their condition as a high priority.
 When you are instructed to take a Wound:
 
  * **If you already have 2 wounds**:
-    - the character is incapacitated
+    - your character is incapacitated
  * **Otherwise**:
-    1. The GM describes how the character was wounded
+    1. The GM describes how your character was wounded
     2. Place a *Wound token* on your *Exhaustion pile*
     3. Randomly draw a *wound card* from the supply and place it in your
        *discard pile*. It will now start cycling between your Deckahedron
@@ -860,12 +860,11 @@ The "1-2-bust" mechanism is used to represent damage.
 The first two times an item is damaged, place a red card on the Item card,
 black-side-up.
 
-The third time an item is damaged, it is destroyed. Return it and the red
-cards to the supply.
+*If an item already has 2 red cards on it*, and it is damaged again,
+it is destroyed. Return it and the red cards to the supply.
 
 All mundane (non-magical) items can be damaged. Usually this happens
-as the result of a GM move, but it can also be caused by player moves,
-eg. Armour Mastery.
+as the result of a GM move.
 
 To repair items, see the move [Sharpen and Stitch](#sharpen-and-stitch)
 

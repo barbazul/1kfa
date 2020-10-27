@@ -3012,7 +3012,7 @@ let the players build up resources like XP and loot.
 Downtime activities are less risky. In these activities, the costs and
 benefits are known upfront, like shopping, healing, and studying.
 When injuries and treasures have built up, the players will seek a
-town (any place whose inhabitants offer services and trade)
+**town** (any place whose inhabitants offer services and trade)
 to salve their hurts, exchange their loot for exciting new
 gear, and learn new skills.
 With that done, the players should be hungry to put their new skills
@@ -3035,7 +3035,7 @@ downtime are:
  * Seek Help (only if it makes narrative sense)
  * Tales of a Weapon
 
-In a town, these moves are also available:
+In a town, three additional moves are available:
 
  * Study Under a Master
  * Shop / Procure
@@ -3055,6 +3055,7 @@ effectively mutually exclusive with the latter 3 moves.
 
 If the GM wants to give the players' characters a second day in town before
 any action takes place, a *Journey point* must be spent.
+(See [Using Journey Points](#using-journey-points))
 
 Otherwise, on the second day, the GM should present some situation that
 demands immediate attention. Put something at risk if necessary. Remember,
@@ -3063,11 +3064,11 @@ this is a world of danger, nothing is safe or sacred.
 The players may still ignore the situation and keep performing downtime moves
 on the second day -- in that case, narrative consequences should be honestly
 described. What opportunity has been forever lost? What did the evil forces
-accomplish because the heroes ignored them?
+accomplish because the heroes lingered?
 
 ### Adventure
 
-The adventure activities are where the players' characters take risks and get
+The adventure activities are where the PCs take risks and get
 into conflicts. To get out of their literal comfort zone, they must have
 motivations.
 
@@ -3085,14 +3086,14 @@ situations to benefit the players' characters.
 
 ## A Second Day of Peace
 
-In order to give the players' characters a second day of peace and quiet
+In order to give the PCs a second day of peace and quiet
 in a town, so that multiple time-consuming downtime actions can be
 made in a row without any bad consequences happening in the narrative,
 a *Journey point* must be spent.
 
 ## An Unexpected Arrival
 
-When the players find themselves in a situation that looks dire:
+When the heroes find themselves in a situation that looks dire:
 
  * There's no hope and no way out
  * They're surrounded and outnumbered
