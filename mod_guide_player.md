@@ -660,11 +660,11 @@ and either:
     your Exhaustion pile, then placing the tokens on top (and, in the
     case of a Wound, putting a Wound card in your Discard pile)
 
-In this step, cards to absorb Exhaustion and Wounds include your
-character's armour and shield, or move cards like Good Cardio,
+To absorb Exhaustion and Wounds, you can use *item cards* like your
+character's armour and shield, or *move cards* like Good Cardio,
 Mystic Breathwork, Like A Second Skin, and Sangfroid.
 
-Characters have 10 Stamina points. To win at combat, a character's
+PCs start with 10 Stamina points. To win at combat, a character's
 foes must be subdued or pacified before 10 cards are lost from the
 Deckahedron.
 
