@@ -15,7 +15,10 @@
    version="1.1"
    id="svg1216"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="fast.svg">
+   sodipodi:docname="fast.svg"
+   inkscape:export-filename="/home/sjbrown/work/1kfa/images/fast.png"
+   inkscape:export-xdpi="69.881699"
+   inkscape:export-ydpi="69.881699">
   <defs
      id="defs1210" />
   <sodipodi:namedview
@@ -25,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="94.374923"
-     inkscape:cy="15.977684"
+     inkscape:zoom="1.4"
+     inkscape:cx="165.90228"
+     inkscape:cy="124.98116"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -86,16 +89,18 @@
         <path
            inkscape:connector-curvature="0"
            class="st0"
-           d="m 241.77,52.63 54.5,2.38 -54.5,2.38 c -1.31,0.06 -2.42,-0.96 -2.48,-2.27 -0.06,-1.31 0.96,-2.42 2.27,-2.48 0.07,-0.02 0.15,-0.02 0.21,-0.01 z"
-           id="path14" />
+           d="m 241.77,52.63 14.5,2.38 -14.5,2.38 c -1.31,0.06 -2.42,-0.96 -2.48,-2.27 -0.06,-1.31 0.96,-2.42 2.27,-2.48 0.07,-0.02 0.15,-0.02 0.21,-0.01 z"
+           id="path14"
+           sodipodi:nodetypes="cccscc" />
       </g>
       <g
          id="g20">
         <path
            inkscape:connector-curvature="0"
            class="st0"
-           d="M 170.86,57.38 116.35,55 l 54.5,-2.38 c 1.31,-0.06 2.42,0.96 2.48,2.27 0.06,1.31 -0.96,2.42 -2.27,2.48 -0.06,0.01 -0.14,0.01 -0.2,0.01 z"
-           id="path18" />
+           d="M 170.86,57.38 156.35,55 l 14.5,-2.38 c 1.31,-0.06 2.42,0.96 2.48,2.27 0.06,1.31 -0.96,2.42 -2.27,2.48 -0.06,0.01 -0.14,0.01 -0.2,0.01 z"
+           id="path18"
+           sodipodi:nodetypes="cccscc" />
       </g>
     </g>
   </g>
