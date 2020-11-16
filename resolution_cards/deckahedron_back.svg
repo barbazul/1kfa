@@ -43,7 +43,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.7642303"
-     inkscape:cx="87.993898"
+     inkscape:cx="23.238078"
      inkscape:cy="122.57056"
      inkscape:document-units="px"
      inkscape:current-layer="layer6"
@@ -19074,7 +19074,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="merged_after_cut"
-     style="display:none">
+     style="display:inline">
     <path
        inkscape:connector-curvature="0"
        id="path33450"
@@ -19090,7 +19090,7 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="merged_after_cut_simple"
-     style="display:inline">
+     style="display:none">
     <path
        inkscape:connector-curvature="0"
        id="path74950"
@@ -19276,7 +19276,8 @@
      inkscape:groupmode="layer"
      id="layer18"
      inkscape:label="fake shadow"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:none">
     <path
        style="display:inline;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#999999"
        d="m 17.455082,10.051755 c -4.1348,0 -7.49805,3.363253 -7.49805,7.498044 V 198.55567 c 0,4.1337 3.36435,7.49609 7.49805,7.49609 H 198.46095 c 4.13371,0 7.49609,-3.36239 7.49609,-7.49609 V 17.547848 c 0,-4.133709 -3.36238,-7.496093 -7.49609,-7.496093 z"
