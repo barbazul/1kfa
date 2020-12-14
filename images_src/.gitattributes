@@ -1,2 +1,7 @@
 jeremyadams.jpg filter=lfs diff=lfs merge=lfs -text
 jeremyadams.psd filter=lfs diff=lfs merge=lfs -text
+cover_brandon_1200x1600.jpg filter=lfs diff=lfs merge=lfs -text
+cover_jeremy_1200x1600.jpg filter=lfs diff=lfs merge=lfs -text
+cover_kim_1200x1600.jpg filter=lfs diff=lfs merge=lfs -text
+cover_ana_1200x1600.jpg filter=lfs diff=lfs merge=lfs -text
+kstramat_bw.png filter=lfs diff=lfs merge=lfs -text
