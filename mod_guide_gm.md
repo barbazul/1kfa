@@ -2582,21 +2582,14 @@ If the foe is a fear-inducing monster, keep in mind the rules of the
 First, write down the names of each foe.
 Beside each name, write the foe's attack power (d4, d6, d10).
 Beside that, draw ticks or spaces for their Stamina points.
-Beside those, draw up to three armour squares.
 
 ![GM Worksheet](images/gm_worksheet_filled.png){ width=7cm }
 
-**Armour squares** are a mechanism for foes that work similar to the armour
-or wound mechanisms for PCs.
-Whenever a foe is facing any amount of *attack power*, the GM can
-just cross out an armour square to absorb the full amount.
-
-When attack power goes above d4 or armour squares are added, spend *Shadow
-points* according to this table.
+For monsters or foes with high attack power or stamina, spend *Shadow points*
+according to this table.
 
 | Shadow points       | Foe augmentation
 |---------------------|------------------
-| 1 per               | armour square (maximum 3)
 | 2                   | attack power d6
 | 4                   | attack power d10
 | 1                   | monster has 11-15 stamina
@@ -2666,7 +2659,7 @@ presided over by a lieutenant and his subordinates (there are as many
 subordinates as there are PCs).
 They are the swords-first, questions-later types and attack immediately at
 close range. The 3 soldiers have 6 stamina points and do 1d4 attack power.
-The lieutenant has 8 stamina points and has one armour square.
+The lieutenant has 8 stamina points and attack power of 1d6.
 
 The lieutenant will never surrender, but if the rest of their allies are cut
 down, a single soldier left standing may lose his nerve and give up.
@@ -3220,8 +3213,8 @@ and either:
 ## Augmenting Combat Encounters
 
 As specified in the [Combat](#creating-a-combat-encounter) chapter,
-*Shadow points* can be spent to increase attack power dice, add armour
-squares, and outfit fear-inducing monsters.
+*Shadow points* can be spent to increase attack power, stamina, and
+outfit fear-inducing monsters.
 
 # Creating Challenges for Players
 
