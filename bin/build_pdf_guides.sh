@@ -55,6 +55,7 @@ pandoc \
  --toc \
  -t html \
  --css=$PUBLISH/markdown.css \
+ --metadata pagetitle="1kFA GM Guide" \
  $SRC_GM -o $BUILDDIR/1kfa_guide_gm.html
 
 cd $BUILDDIR
@@ -65,25 +66,25 @@ cd $BUILDDIR
 
 cat $PUBLISH/frontmatter_player.yml $SRC_PLAYER > $BUILDDIR/player_pdf_src.md
 pandoc \
-  $BUILDDIR/player_pdf_src.md --latex-engine=xelatex \
+  $BUILDDIR/player_pdf_src.md --pdf-engine=xelatex \
   --from=markdown+line_blocks \
   -o $BUILDDIR/1kfa_guide_player.pdf
 
 cat $PUBLISH/frontmatter_player_phone.yml $SRC_PLAYER > $BUILDDIR/player_phone_pdf_src.md
 pandoc \
-  $BUILDDIR/player_phone_pdf_src.md --latex-engine=xelatex \
+  $BUILDDIR/player_phone_pdf_src.md --pdf-engine=xelatex \
   --from=markdown+line_blocks \
   -o $BUILDDIR/1kfa_guide_player_phone.pdf
 
 cat $PUBLISH/frontmatter_gm.yml $SRC_GM > $BUILDDIR/gm_pdf_src.md
 pandoc \
-  $BUILDDIR/gm_pdf_src.md --latex-engine=xelatex \
+  $BUILDDIR/gm_pdf_src.md --pdf-engine=xelatex \
   --from=markdown+line_blocks \
   -o $BUILDDIR/1kfa_guide_gm.pdf
 
 cat $PUBLISH/frontmatter_gm_phone.yml $SRC_GM > $BUILDDIR/gm_phone_pdf_src.md
 pandoc \
-  $BUILDDIR/gm_phone_pdf_src.md --latex-engine=xelatex \
+  $BUILDDIR/gm_phone_pdf_src.md --pdf-engine=xelatex \
   --from=markdown+line_blocks \
   -o $BUILDDIR/1kfa_guide_gm_phone.pdf
 
